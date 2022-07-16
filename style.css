@@ -1,0 +1,12 @@
+body {
+  margin: 2em;
+}
+
+.icon {
+    /* background: url('https://cdn.glitch.global/272c2a6c-d86c-47d1-b3ec-a0c14b80818c/home.svg?1657990045566'); */
+    background: url('/assets/home.svg');
+    height: 20px;
+    width: 20px;
+    display: block; 
+    /* Other styles here */
+}
