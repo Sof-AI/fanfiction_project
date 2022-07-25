@@ -8,36 +8,66 @@
     <title>Home</title>
     <link rel="icon" href="https://glitch.com/favicon.ico" />
     <meta name="home" content="Homepage for FFNv9 navigation." />
-    <link rel="stylesheet" href="/style.css" /> 
     <link rel="stylesheet"
           href= "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script src="/script.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css" /> 
+    <script src="script.js" defer></script>
   </head>
   
   <nav>
-    <!-- nav bar -->
-    <button class="iconBtn"><i class="fa fa-home"></i></button>
-    <button style="background-color: transparent; border: none">
-      <span class="icon"></span>
-    </button>
-    <button class="lineBtn">Categories</button>
-    <button class="lineBtn">Displays</button>
-    <button class="lineBtn">Stats</button>
-    <button class="lineBtn">Fic Recs</button>
+    <!-- home button -->    
+    <button type="button" class="btn btn-outline-danger"><i class="fa fa-home"></i></button>
+    <!-- <button class="iconBtn"><i class="fa fa-home"></i></button> -->
+    <!-- <button onclick="tester()" style="background-color: blue; border: none">
+      <i class="icon"></i>
+    </button> -->
+
+    <!-- 4 buttons -->
+    <button type="button" class="btn btn-outline-danger">Categories</button>
+    <button type="button" class="btn btn-outline-danger">Displays</button>
+    <button type="button" class="btn btn-outline-danger">Stats</button>
+    <button type="button" class="btn btn-outline-danger">Fic Recs</button>
   </nav>
 
+
   <body>
-    <h1 class="bigTitle">The FFN List</h1>
-    <h3 class="underTitle">v9.0 07/20/22</h3>
-    <button class="solidBtn">Sort Fics</button>
-    <button class="solidBtn">Find Fics to Read</button>
-    <button class="solidBtn">Search Databases</button>
-    <form>
+    <div class="background-image">
+          <!-- title -->
+      <h1 class="bigTitle">The FFN List</h1>
+      <h3 class="underTitle">v9.0 07/20/22</h3>
+
+      <!-- 3 buttons -->
+      <button class="solidBtn">Sort Fics</button>
+      <button class="solidBtn">Find Fics to Read</button>
+      <button class="solidBtn">Search Databases</button>
+
       <!-- quick add form -->
-    </form>
-    
+      <form>
+        <!-- textboxes -->
+        <label for="quickAddFicUrl"></label>
+        <input type="url" id="url" name="url" placeholder="fic link">
+        <label for="quickAddReason"></label>
+        <input type="text" id="reason" name="reason" placeholder="reason">
+
+        <!-- dtb buttons -->
+        <input type="radio" id="ffn" name="quickAddDtb" value="ffn">
+        <label for="ffn">FFN</label><br>
+        <input type="radio" id="toRead" name="quickAddDtb" value="toRead">
+        <label for="toRead">To Read</label><br>
+        <input type="radio" id="author" name="quickAddDtb" value="author">
+        <label for="author">Author</label>
+        <input type="radio" id="other" name="quickAddDtb" value="other">
+        <label for="other">Other</label>
+
+        <!-- submit button -->
+        <input type="submit" value="Quick Add">
+      </form>
+    </div>
+
+    <!-- footer -->
     <footer class="footer">
-      <!-- footer -->
+      
     </footer>
   </body>
 </html>

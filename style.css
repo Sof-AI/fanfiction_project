@@ -1,12 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Uchen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Fredoka+One&family=Uchen&display=swap');
+
+
 body {
-  margin: 2em;
+  margin: 0;
+  /* background: #a87373; */
+}
+
+.background-image {
+  background-image: url("/assets/cherry.jpg");
+  background-color: #cccccc;
+  height: 800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
 .icon {
     /* background: url('https://cdn.glitch.global/272c2a6c-d86c-47d1-b3ec-a0c14b80818c/home.svg?1657990045566'); */
-    background: url('/assets/home.svg');
+    background: url('assets/home.svg');
     height: 20px;
     width: 20px;
     display: block; 
     /* Other styles here */
+}
+
+nav {
+  background: #d4b3b3;
+  padding: 0.5rem;
+}
+
+.bigTitle {
+  font-family: 'Fredoka One';
+  font-size: 10rem;
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.underTitle {
+  font-family: 'Aldrich';
+  font-size: 2rem;
+  text-align: center;
+  transform: translate(0rem, -1.5rem);
 }
