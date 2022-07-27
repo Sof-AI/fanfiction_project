@@ -31,7 +31,6 @@ body {
 
 .nav-left {
   margin-left: 1rem;
-  background-color: black;
 }
 
 .nav-right {
@@ -40,7 +39,6 @@ body {
   flex-wrap: wrap;
   gap: 5%;
   width: 95%;
-  background-color: black;
 }
 
 .btn-line {
