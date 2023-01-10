@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Pebble in a River - Chapter 1 - kj_feybarn - Star Wars - All Media Types [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="I4MBaNxdbvIF8-Hk5gBgg-1iQoFX4_yBJf3GMsqA-UV481vY1uiQaTzXe1zW0cUIpGRtR6mQraOiqKxf_0ePyw"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="5tI-m76eKeAAw4DTyqsFDssj0rKplEGeocbTSMu_BuW9omQrtCvXeznnGmv6eqCFgiX9dFfnELwmk7kl_nhwaw"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: buffy gen teen AND &quot;no archive warnings apply&quot;</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/10304777?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/10304777/chapters/23293780#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/10304777/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/10304777/chapters/22791698" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="22791698">1. The Past is Gone</option>
+<option value="23293780">2. Finding Freedom</option>
+<option value="23453922">3. Meeting Fett</option>
+<option value="24012204">4. Time Passes</option>
+<option value="24536067">5. First Seeds</option>
+<option value="27771237">6. Phantoms and Specters</option>
+<option value="30256809">7. Some Things Change... Some Things... Don't.</option>
+<option value="30989664">8. Quinlan and The Council</option>
+<option value="31158660">9. Lives Colliding</option>
+<option value="33521595">10. Something to Celebrate</option>
+<option value="35068274">11. Undesirable Planets 1, 2, 3</option>
+<option value="47524312">12. Coruscant</option>
+<option value="61631950">13. Complicated Plots and Compromising Panic</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/10304777/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=22791698">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/10304777/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/10304777/Pebble%20in%20a%20River.azw3?updated_at=1643265715">AZW3</a></li>
+          <li><a href="/downloads/10304777/Pebble%20in%20a%20River.epub?updated_at=1643265715">EPUB</a></li>
+          <li><a href="/downloads/10304777/Pebble%20in%20a%20River.mobi?updated_at=1643265715">MOBI</a></li>
+          <li><a href="/downloads/10304777/Pebble%20in%20a%20River.pdf?updated_at=1643265715">PDF</a></li>
+          <li><a href="/downloads/10304777/Pebble%20in%20a%20River.html?updated_at=1643265715">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/General%20Audiences/works">General Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Star%20Wars%20-%20All%20Media%20Types/works">Star Wars - All Media Types</a></li><li><a class="tag" href="/tags/Star%20Wars%20Prequel%20Trilogy/works">Star Wars Prequel Trilogy</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationship:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Jango%20Fett*s*Obi-Wan%20Kenobi/works">Jango Fett/Obi-Wan Kenobi</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Obi-Wan%20Kenobi/works">Obi-Wan Kenobi</a></li><li><a class="tag" href="/tags/Shmi%20Skywalker/works">Shmi Skywalker</a></li><li><a class="tag" href="/tags/Anakin%20Skywalker/works">Anakin Skywalker</a></li><li><a class="tag" href="/tags/Jango%20Fett/works">Jango Fett</a></li><li><a class="tag" href="/tags/Qui-Gon%20Jinn/works">Qui-Gon Jinn</a></li><li><a class="tag" href="/tags/Padm%C3%A9%20Amidala/works">Padmé Amidala</a></li><li><a class="tag" href="/tags/R2-D2%20(Star%20Wars)/works">R2-D2 (Star Wars)</a></li><li><a class="tag" href="/tags/Savage%20Opress/works">Savage Opress</a></li><li><a class="tag" href="/tags/Feral%20(Star%20Wars)/works">Feral (Star Wars)</a></li><li><a class="tag" href="/tags/Quinlan%20Vos/works">Quinlan Vos</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Time%20Travel%20Fix-It/works">Time Travel Fix-It</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+      <dt class="series">
+        Series:
+      </dt>
+      <dd class="series">
+        <span class="series"><span class="position">Part 1 of the <a href="/series/712110">Current of Fate</a> series</span><span class="divider"> </span><a class="next" href="/works/10720992">Next Work &#8594;</a></span>
+      </dd>
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/GetBackTo">To Read</a>, <a href="/collections/Great_Time_Travel_Fics">Great Time Travel Fics</a>, <a href="/collections/FavoriteRereads">Favorite Rereads</a>, <a href="/collections/Fics_That_I_Just_Cant_Let_Go">Fics I Want to Linger On</a>, <a href="/collections/Jedi_Friendly_Works">Jedi-Friendly</a>, <a href="/collections/anything_but_qui_gon">Anything But Qui-Gon</a>, <a href="/collections/the_peasants_guide">the peasant's guide to fine reading</a>, <a href="/collections/AnAssortmentOfDamnGoodFics">An Assortment of Damn Good Fics</a>, <a href="/collections/SelfInsertsOCsReincarnationandTimeTravel">SelfInserts OCs Reincarnation and Time Travel</a>, <a href="/collections/Jedi_Journals">✧ Jedi Journals ✧</a>, <a href="/collections/gffafaves">favourite fics from a galaxy far far away</a>, <a href="/collections/My_heart_is_full">My heart is full</a>, <a href="/collections/fantastic_fics">fantastic_fics</a>, <a href="/collections/In_the_mood_for_romance">In the mood for romance</a>, <a href="/collections/AllTheObiWans">All about Obi-Wan</a>, <a href="/collections/The_Generals_Quarters">The General's Quarters</a>, <a href="/collections/Roses_heart_did_a_squee">Rose’s heart did a squee</a>, <a href="/collections/Mnemosynes_tears_followalong">Mnemosyne's Tears' rereads and follow-alongs</a>, <a href="/collections/All_about_Ben">All about Ben</a>, <a href="/collections/Time_Travel_Osik">Time Travel Osik</a>, <a href="/collections/Feral_Fics">Fics That Make Me Go Feral</a>, <a href="/collections/The_Heliocentric_Discord_Server_Recs">The Heliocentric Discord Server Recs</a>, <a href="/collections/BelsStarWarsFanficRecs">I Am Only Into Star Wars For These Fics</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2017-03-15</dd><dt class="status">Updated:</dt><dd class="status">2020-07-21</dd><dt class="words">Words:</dt><dd class="words">121223</dd><dt class="chapters">Chapters:</dt><dd class="chapters">13/?</dd><dt class="comments">Comments:</dt><dd class="comments">1579</dd><dt class="kudos">Kudos:</dt><dd class="kudos">6045</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/10304777/bookmarks">1750</a></dd><dt class="hits">Hits:</dt><dd class="hits">109374</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Pebble in a River
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/kj_feybarn/pseuds/kj_feybarn">kj_feybarn</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>He woke up.<br/>And everything changed, but of course, that's what life does. It changes.<br/>There are so many options, so many things that seem right. And yet each of those things also feels wrong. Failure isn't an option, not again. But there is no outline for success, and he's hardly the only one in the game. He's tired, and exhausted, and so very lonely.<br/>But force help him, he's going to save as many people as he can.<br/>Really, Force, he needs the help.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>Time-Travel. I'm doing it. I'm going to try and do a time-travel story without completely botching up everything. I can't believe I'm doing it. But I'm going to try... Really really hard, not to fail this.<br/>So wish me luck! And hopefully this story works!</p>
+    </blockquote>
+
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/10304777/chapters/22791698">Chapter 1</a>: The Past is Gone
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+      <div id="notes" class="notes module">
+        <h3 class="heading">Notes:</h3>
+          <p>
+          (See the end of the chapter for  <a href="/works/10304777/chapters/22791698#chapter_1_endnotes">notes</a>.)
+          </p>
+      </div>
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p>Waking up, Obi-Wan reflected, hadn’t started to feel any less strange than it had that first day. He honestly couldn’t say which part was the strangest part. Waking up after having been dead for several years. Or the fact he was waking up as a nineteen-year-old padawan.</p><p>It had been a very long two weeks since he’d woken up, panicked at the feeling of being encased in a body. He’d stared at his face in the mirror in horror long enough for Qui-Gon to ask whether Obi-Wan was trying to impress someone. Obi-Wan had stared at his master in shock, unable to stop himself from crying, the shock and surprise at seeing his old master alive and in the flesh. Qui-Gon had looked confused and somewhat uncomfortable, obviously unsure how to respond to what had probably seemed like a completely unexplainable emotional breakdown.</p><p>It was, he thought, as he silently sipped at his morning tea while watching his Master Qui-Gon, utterly perplexing. Despite the strangeness of the situation the past two weeks had been almost normal. Or at least, as normal as anything could be given the situation, which meant it was all mind-bogglingly strange.</p><p>While Obi-Wan hadn’t been a padawan in several decades, Obi-Wan found it was easy enough to slip his way through the day without causing too much of a problem. Obi-Wan had learned young how to be, or at least appear to be, what people wanted and needed him to be. If perhaps he meditated a good deal more than he had before, if he changed the lightsaber form he used while sparring for no discernible reason, if he had managed to become both quieter and more sarcastic recently, or was less accustomed to following another’s lead. Well, then while much of that might be counted as strange, it wasn’t necessarily unheard of, particularly not for a padawan trying to be seen as eligible to face their trials.</p><p>Some things were less easily explainable. His emotional breakdown that first day, the crushing, nearly desperate hugs he’d given Bant, Garen, Reeft, Quinlan, and Luminara, trying to see them as they were now, and not to remember them dead, or dying, or desperate. The way he flinched away from unexpected contact, so very unused to physical touch after twenty years of exile and several years with no body to speak of. The way his shields had strengthened to a level that he knew could rival that of masters of the order, shields he wasn't willing to weaken, even if that would make him seem more normal. The way he sometimes found himself frozen, staring at bodies no one else could see strewn over the ground. Years of separation from that loss hadn't prepared him for being here again. And then there was the way the bond with his master was suddenly so much weaker on Obi-Wan's side, there wasn't really a way for it not to be, Obi-Wan hadn't had a bond with Qui-Gon in decades, had felt the bond shatter in his mind when Qui-Gon died. In some ways Obi-Wan was surprised the bond was still there at all. Whether Qui-Gon realized how weakened the bond was, Obi-Wan wasn't sure. Qui-Gon had yet to say anything about it, but then Qui-Gon hadn't really said much of anything, although Obi-Wan could feel the man's eyes on him, confused, and if Obi-Wan was honest, just the slightest bit suspicious.</p><p>Obi-Wan didn't completely blame him, he knew that he had changed, and to Qui-Gon it must seem sudden and unexplainable. It didn't mean that the suspicion didn't hurt.</p><p>But it wasn't something he was overly concerned with, or at least, it was something he wasn't allowing himself to be overly concerned with. There were bigger issues to worry about beyond Master Qui-Gon's suspicions, he was more concerned with other, more important, details. Like the fact that he was alive. And the fact that in less than two decades the entire galaxy would descend into a galactic wide war that would result in the destruction of the Jedi, the subjugation of dozens of planets, and the creation of a Galactic Empire ruled by a Sith Lord. How was he supposed to stop the galaxy from tumbling into the madness and chaos he had been forced to live through?</p><p>There was a large part of Obi-Wan that wanted to say 'kriff this' and go find Palpatine, Sidious, whatever name he preferred to go by, and kill him. It wasn't very Jedi-like, but Obi-Wan had never been a good enough Jedi anyways. There was, however, the small matter of not knowing whether Palpatine's own master was still alive. To kill the man that had brought the galaxy to it's knees in submission, but leave his unknown master hiding in the wings seemed like folly of the highest sort. Better, perhaps, to wait until Obi-Wan was fairly certain the other Sith was dead before making a move. But that meant time, and Obi-Wan knew first hand how effective the Sith could be when given time. It was possible that Palpatine's master was already dead, given the rule of two and how proficient Maul had been on Naboo, logic said it was even probable. But there was a niggling in his mind that told him not to be too sure.</p><p>There was so much that Obi-Wan wasn't sure of, his own judgment high on that list. There was a part of him that desperately wanted to walk into the council chambers and tell the Jedi Council everything. It came from that part of him that still saw the temple as his home and the Jedi as his family. It took the weight of the future off his shoulders and put it on the collective wisdom of great men and women, men and women that he trusted. He knew they weren't perfect. He knew that those that had survived the purges, and even the galaxy at large, had wondered how the council hadn't foreseen what had happened, why they hadn't done more to protect the Jedi and the Republic. He knew that people blamed the Jedi, and he understood why. But while Obi-Wan personally held himself responsible for the mistakes he'd made, the way he'd failed Anakin, his friends, his people, his men. He found he couldn't blame the council. Maybe he should blame them, but when he looked back at that time he remembered men and women who had found themselves lost, who had struggled with themselves, with each other, with the Force, with the code, with the Republic and its demands, with their role in a war that swept through the entire galaxy. They had done their best, and no, it hadn't been enough, but they had tried, and tried, and tried, and failed, but Force, had they tried.</p><p>He knew it was unwise to believe that one person had all the answers, and to keep his return to the living and his knowledge of the future to himself seemed like the highest level of folly and pride. But he couldn't ignore the quiet whispering of the Force every time he thought about going to the council, a whisper that urged him to reconsider that path, that perhaps it wasn't the best path. It felt as though the Force was whispering silence.</p><p>Sometimes he wished the Force would manifest it so that he could strangle it, because if the Force had brought him here then the Force could do more than whisper quiet not-quite-there warnings. But then he remembered Mortis and the nightmares he still had due to everything that had happened, it was an experience he had no desire to repeat, the Force could keep all aspects of itself un-manifested.</p><p>Qui-Gon was watching him again; concerned, curious, somewhat suspicious. Obi-Wan had likely done something that he hadn't done two weeks ago, something just the slightest bit off. There was little he could do to really fix that, it wasn't like he remembered what mannerisms and tics he'd had when he was still a padawan. Obi-Wan could fix it, though, could clear up all of the confusion, could explain why everything had changed, why Obi-Wan was different, why he'd changed. He could explain that he was no longer the padawan he'd been, the padawan that Qui-Gon knew, that he was instead an old, cynical, formerly dead man who had done too much, and seen too much to be cowed by his Master's disapproving silences. He could ask for help. Because surely, if there was anyone Obi-Wan could turn to, it would be his Master.</p><p>He had seriously considered it. He loved his master. Trusted the man with his own life with no hesitation. But... but... He wasn't sure that he trusted his Master to listen. Master Qui-Gon had never really listened to him, so intent on his own interpretation, his own view point. Master Qui-Gon was strong in the Force, but he tended to feel as through the Force spoke to him truer than it spoke to others, that he alone followed it's will. Any opinion that didn't align with Qui-Gon's own was marginalized and ignored. Contrasting views were good, they were healthy. But it only worked if both were willing to listen, and he didn't know that he trusted Qui-Gon to do that, despite Obi-Wan's change in age, experience, and ability. After all Qui-Gon often chose to completely disregard others who had experience that Qui-Gon lacked; and while Obi-Wan would never suggest that Yoda or Mace were always right, he did see the wisdom in taking their words into consideration. While his time on Tatooine and the visits Qui-Gon had paid him as a Force ghost had eased some of his frustration, he was honest enough to admit that while he would forever love his Master, there was a part of him that could never look at his master the way he once had, that could no longer trust in him the way he once had.</p><p>He was being harsh. But Obi-Wan had already acknowledged that he had grown cynical and tired in his old age. Although, perhaps that was misleading, he had grown cynical long before he'd gotten old. Especially considering that given normal circumstances he should have been easily able to reach over 100, rather than having become so infirm by 60.</p><p>So no, for now he had firmly discarded the idea of telling anyone what had happened.</p><p>There was a part of him, a larger part than he was necessarily comfortable with, that wanted to drink a bottle of Correllian brandy, and then take his lightsaber and shove it through his own heart. He couldn't do this. Force, he had barely managed to keep his sanity the first time around, and even that was debatable, and now the Force had sent him back, wanted him to go through everything again? He had failed. Over, and over, and over again. He had broken everything he'd ever touched. It would be better for him to cease to exist than for him to fail again and make everything worse. Because he would, he'd make everything worse. The precedent had been set, he failed those that he loved. But he couldn't do nothing. </p><p>Better then, to remove himself from the equation. If the Force really wanted this fixed, if the Force really wanted the galaxy to be saved, then it would send someone back to fix it who was actually capable of doing so. Not him. </p><p>Never him.</p><p>Obi-Wan broke everything he touched.</p><p>He shut his thoughts off, rising from his seat at the table with a smile for his master, taking his now empty cup and washing it. He gave his Master a small bow before leaving for class, this morning was an advanced culture class, followed by an advanced diplomacy class followed by an advanced saber class. </p><p>He shouldn't have been surprised that they were starting a section about Mandalorian culture, because Obi-Wan wasn't already stuck in his thoughts of the past enough. Mandalore made him think of the clones and the culture they'd made for themselves out of the heritage they'd been given, made him think of Satine and her desire to change an entire culture into something that she believed in, Mandalore made him think of things loved and things lost.</p><p>Master Nikalo was busy detailing the current situation on Mandalore and Obi-Wan wanted to stand and walk out, he saw Quinlan giving him a concerned looks. Obi-Wan hadn't talked to many people about Satine and what she had meant to him, but Quinlan had always understood that part of Obi-Wan better than most people.</p><p>The class ended with Master Nikalo flashing his fangs in a grin as he noted that it was unlikely that the Jedi would be involved on<br/>
+<br/>
+Mandalore in the near future, and here everyone looked at Obi-Wan because everyone knew about his year-long mission, even if almost none of them knew the details.</p><p>Quinlan caught up to him as he left the classroom, feeling tired and worn, he flinched slightly in surprise at the arm thrown over his shoulder but didn't shrug it off. "Want to skive off from Diplomacy?"</p><p>Obi-Wan rolled his eyes, "No, Quinlan."</p><p>"Come on, I'm leaving for a mission with Master Tholme this afternoon." </p><p>It was tempting, and really, Obi-Wan was more mature than this, but he felt heavy and tired and Quinlan was a breath of fresh air. But he also knew that he was on thin ice with Master Qui-Gon and Obi-Wan didn't have the energy to argue with him if Qui-Gon heard he'd skipped. "I can't."</p><p>Quinlan sighed long-sufferingly, but accepted it easily enough, and Obi-Wan remembered why he and Quinlan were friends despite their very different personalities. "Well, no point skipping by myself." </p><p>Obi-Wan snorted, because while his memory might not be perfect he was pretty sure that Quinlan had been known to skip by himself plenty. Quinlan just sent him a saucy grin and a wink and for a second Obi-Wan felt almost okay, because a Galaxy with people like Quinlan in it, was a Galaxy that was alive and worth fighting for.</p><p>He trailed after Quinlan into their diplomacy class, and here he found his thoughts once again shifting, it wasn’t that he thought that diplomacy wasn’t important. He still maintained that diplomacy was among the most important of all Jedi skills.</p><p>It wasn’t even that he remembered every little thing that he’d been taught, but he had learned it before, had used the skills they’d taught, and there was just more pressing issues on his mind than the proper bow to use when dealing with Fallen nobility.</p><p>His mind slid to his options again, telling, not telling, staying, leaving, running, killing, dying. It didn’t help, he’d gone through the list constantly since the moment he realized that this was real.</p><p>In the end it came down to two real options. </p><p>He could stay as he was, try and make a difference here in the temple, try to help the Jedi change and prepare for what might happen. Prepare for the day when he could do what was needed to take down the Sith. But he was a single padawan in a large order, and when it came down to it, he was fairly powerless and almost useless. What could he actually change?</p><p>Or he could leave. He wasn’t quite sure what he would do if he took that option. It was a large galaxy, and not necessarily a friendly one. Obi-Wan wasn’t Dooku, he had no family name to fall back on, no seat of power waiting for him. If he left the order he would be a penniless, homeless vagabond, with absolutely no power or influence to speak of.</p><p>But he could free Anakin from slavery, help him and his mother find a home in the Republic, where they’d be free and where the Jedi would be able to find them. He could find places and people who had caused destruction and try to move them on to a better path. He could try and bring peace where the Jedi could not, try to stem some of the anger and suspicion that had grown in regards to the order. He’d be the equivalent of a pebble in a river, so small as to be almost insignificant. What good could he really do?</p><p>He felt as though he couldn’t breathe, and he had to clench his fists under the table even as he tried to bring his attention back to the diplomacy lesson. No one seemed to have noticed the turmoil that had gone on behind his shields, Garen and Quinlan were busy arguing with Master Hardin about the benefit of participating in festivals of a more lascivious nature in order to encourage relationships between Jedi Diplomats and the cultures they were working with.</p><p>Obi-Wan was reminded that neither Garen nor Quinlan often worked as diplomats, Quinlan would become an excellent shadow, and Garen an excellent pilot, and they were both already good fighters who would go on to become phenomenal fighters, but neither of them would ever enjoy the art of negotiating.</p><p>He took a deep breath. Focusing. He spoke up to contribute, agreeing with neither side because it was far more enjoyable and distracting to be devil’s advocate for both sides.</p><p>And Obi-Wan needed the distraction.</p><p>It was a relief to leave class and head towards the advanced saber class. Nothing seemed to clear his mind the way running through a kata with a saber in his hand did. Not even the extra scrutiny Master Drallig had been giving him could ruin the peace it brought him.</p><p>He’d avoided any serious sparring with anyone so far, and was grateful to continue that trend, instead he and Quinlan mostly sparred playfully. Not for the first time he wondered how much his age mates had noticed, while he hadn’t noticed them treating him differently, he also recognized that he very likely wouldn’t be able to tell.</p><p>The class ended, and Obi-Wan made himself scarce as the rest of them headed to the commissary for lunch. He wasn’t in the right mindset for chatting, and instead he wandered through the temple.</p><p>Why? He wondered, not for the first time. Why would the Force send him back? The Sith had been destroyed, the Empire broken, but balance had been found, Luke had succeeded where they had failed. What was a few decades to the Force? And if it was truly necessary to send someone back, why him? He could name dozens of individuals better suited to make things better, and not even just Jedi. He wasn’t the best suited, wasn’t the most powerful, wasn’t the most influential. Surely the Force had better servants than him.</p><p>Why? Why had the Force done this to him? He couldn’t do this.</p><p>Nothing felt right. Nothing seemed right. And the Force was so silent, only the quietest of hints, the smallest of warnings. But never in all of Obi-Wan’s meditations did it help him find a path, as though the Force honestly trusted him to do the right thing, to make the right choices, when it felt as though there was no right thing. Or perhaps they were all wrong things? Was there a difference? Between nothing being right and between everything being wrong?</p><p>Yes, he decided, there was. If everything was wrong, then that was it, no hope, no chance, no way to actually fix things. But if instead, it was more a case of nothing being right, than perhaps that was because all were viable options.</p><p>That was disgustingly optimistic of him.</p><p>He hesitated as he noticed where his path through the temple had led him. He closed his eyes as the vision of Knights and Masters piled in front of the doors hit him. It wasn’t here, they weren’t dead. They hadn’t yet died trying to protect the babies and younglings hidden within the creche.</p><p>They hadn’t failed. Not yet.</p><p>He slid into the room, wandering through the cribs, the room was full of a type of peace that not even the Room of a Thousand Fountains could match. The babies filled the room with their beautiful force presences, all already distinct and individual but each beautiful and untainted. He could hear the giggling and laughter from the next room over where the toddlers were playing. He knew that the room beyond that had younglings preparing to become initiates, still full of life and joy, unhampered by worry and stress and fear.</p><p>His steps led him to an human girl, she was babbling quietly to herself, words indistinguishable baby chatter. He slid her from her crib, rocking her back and forth gently. She gave him a bright, gummy smile, and Obi-Wan felt his heart ache. She couldn’t be older than seven months, and her force presence was bright and radiant. He wondered where she’d be, fifteen years from now when the Clone Wars would be starting. Would she have been a padawan? Would she have left to join one of the Corps? And when the war ended, their ranks decimated, would she have been killed in the purges? Turned on by her own men, shot down before she even realized what was happening? Would she have been in the temple that fateful night, when the men the Jedi had seen as friends, as allies had marched on the temple led by none other than Anakin Skywalker, the Hero with No Fear, the man that the padawans had looked up to, had admired. The man that would go on to become the greatest Jedi Killer in the Galaxy. Had she tried to fight to protect her home, only to be cut down by overwhelming numbers? Or had she been one of those sent to run, who had escaped the temple and into the streets only to be hunted down and killed in an alley?</p><p>Did it even matter how she’d died?</p><p>“Padawan Kenobi?” Obi-Wan blinked, looking up to see one of the creche workers giving him a concerned look. “Are you quite alright?”</p><p>There were tears streaming down his face, and his heart was aching. “Yes, yes. I’m quite alright.” He looked down at the girl in his arms, tried to determine whether knowing her name would give him insight into what had happened to her in his past. But then decided that he didn’t want to know.</p><p>That probably made him a coward.</p><p>But he couldn’t bring himself to care if this made him a coward. Why try and figure out how she had died specifically? Any child that had gone through the Jedi Order, whether they had been sent away, been made a padawan, or for some reason left of their own accord had been either killed or hunted and forced to hide for the rest of their, normally, short lives.</p><p>He nodded to the creche worker, giving the baby girl a light kiss on her forehead, leaning into the crib to lay her back down. “I can’t promise to save you.” He whispered, pulling the blankets up to cover her. “But I promise you, I will live the rest of my life trying to.” He closed his eyes, letting himself bask for a moment in the warmth of her Force presence, letting it swirl around his own presence, soothing the aching parts of his soul.</p><p>He didn’t know if he could succeed, didn’t feel as though he could.</p><p>But he had never let that stop him before.</p><p>He left the creche, making his way to the Room of a Thousand Fountains. It was peaceful here and Obi-Wan amused himself by trying to determine which plants came from which planet. He followed one of the paths that led to a lesser used area of the gardens. It was louder here, right beside one of the waterfalls. It had taken him until he was 28 to be able to meditate here after what had happened with Xanatos and Bruck.</p><p>It hadn’t been the first time he’d seen someone die, but Bruck Chun’s death had been a painfully defining moment in Obi-Wan’s life.</p><p>He slipped to his knees in a meditative pose. He strengthened his shields, and then slowly sank into meditation. He could feel the temple pulsing around him, thousands of vibrant Force presences, alive and real, he pulled his senses in the Force closer, digging into the trees and plants and water around him. He pulled it even closer, sinking into himself and the waterfall right beside him. He let himself move within the Force, felt himself fall into it, just a particle in the waterfall.</p><p>Why? He asked.</p><p>What am I supposed to do? He pleaded.</p><p>Help me. He begged.</p><p>Please.</p><p>When he finally opened his eyes the afternoon and evening had slipped away and dawn was on it’s way. He walked slowly to the rooms he shared with Qui-Gon, his body felt heavy and tired, but his mind was heavier. The Force had been there, but answers were still desperately out of reach.</p><p>His sleep was disturbed, the same way it had been since the first time he’d woken up, nightmares and memories haunting him.</p><p>He heard Qui-Gon begin his morning meditation and used it as an excuse to pull himself out of bed and prepare for the day.</p><p>Joining Qui-Gon for the morning breakfast, or rather, the morning tea was a quiet affair. Qui-Gon was watching him again, eyes concerned.</p><p>“You were out late last night.” Qui-Gon said quietly.</p><p>Obi-Wan nodded, “I was meditating, I lost track of time.”</p><p>Qui-Gon hummed, “You seem tired, have you not been sleeping?”</p><p>No. Obi-Wan hadn’t, and even though their bond was weaker than it had been that was something Qui-Gon should already know. Obi-Wan hoped it was just Qui-Gon’s way of fishing for information and not true ignorance. “I’m afraid I haven’t really slept well the last few weeks.”</p><p>Qui-Gon nodded again and they fell silent. It was a reminder that Qui-Gon had always found it easier to work with the emotions of strangers, growing up Obi-Wan had always felt relegated to the background, less worthy of Qui-Gon’s attention and care. Eventually, Obi-Wan had realized that it was just the way Qui-Gon was, and that it wasn’t a sign that Qui-Gon didn’t care for him, or that Obi-Wan wasn’t worth caring for.</p><p>“I’m leaving the Order.”</p><p>Qui-Gon choked on the tea he was drinking, spitting it out, his face a picture of shock. “Excuse me?”</p><p>Obi-Wan looked down at the tea he was holding, it was a sweeter tea than he tended to actually enjoy, a tiny sign of how much he’d changed, a symbol showing that he wasn’t the person he’d once been. “I’m leaving the Jedi Order.”</p><p>The room fell silent and Obi-Wan watched as Qui-Gon’s face went through an astonishing number of emotions. Shock, confusion, hurt, loss, anger, betrayal. He felt a deep pang of regret, how could he make this decision, how could he hurt Qui-Gon this way? His master, the man he had adored as a Padawan and sought to emulate even after his death?</p><p>He hadn’t intended to be cruel.</p><p>“You have been the greatest Master I could have hoped for. Your teachings and your trainings have been fundamental in making me the person that I am today. The temple is my home, and the Jedi my family.” He hesitated, “The idea of leaving the Jedi Order makes my mind scream in incomprehension. The life of a Jedi has been almost all I’ve ever known. Yet, I also know that my path now lies outside the Order.” He didn’t know if it meant a life outside of being a Jedi. He had been a Jedi outside the order once, but that had been out of necessity of their being no order. And in many ways it hadn’t been much of a life.</p><p>Qui-Gon was still staring at him, his eyes shocked even as a dark mask began to fall over his face. “I see.” He said, his voice was ice cold, his words sounded sharp enough to cut. “And what have you decided that you’re going to do? Perhaps you’ll go and subjugate a few planets? Maybe try and burn the temple to the ground?”</p><p>Obi-Wan flinched, he knew Qui-Gon was shocked and hurt, he recognized that the man was lashing out. He remembered, of course, the things that Xanatos had done. He remembered Bandomeer and Telos and the danger that the man had brought to the temple. But those weren’t the first things he remembered. Instead he remembered Anakin, Vader, burning the temple to the ground, mowing down younglings as though they were droids. He remembered feeling Alderaan being obliterated, the pain of millions of lives being wiped away in a single moment.</p><p>“I am not Xanatos.” And he wasn’t Vader, either. “I promised you six years ago, Qui-Gon, when you refused to train me, that I would not turn. I intend to keep that promise. I will not turn. I will not fall.” He met Qui-Gon’s eyes, trying to force his sincerity through, “I cannot promise that I will always do right, I cannot promise that you will always be proud. Because the galaxy is a dark place, and I doubt I will always know what is right, but Qui-Gon Jinn, I swear to you. I will not turn.”</p><p>Qui-Gon met his eyes and Obi-Wan could see the broken trust and hurt and knew that the man would not believe him. It hurt, for six years he had been at the side of this man, had done his best to make him proud, had tried his hardest to do what was right. But still, when it came to Obi-Wan, Qui-Gon found it so easy to doubt.</p><p>He understood, of course, that his sudden desire to leave the order didn’t help, that it was a hard blow for Qui-Gon to take. But the decades hadn’t changed the fact that Qui-Gon had been his master, and that Obi-Wan would always want his good opinion.</p><p>“I’m sorry, Master Qui-Gon.” He took his teacup to the sink, his steps measured and sure, and then moved to his room to pack his few belongings.</p><p>He had made his decision. He was leaving.</p><p>The Force hummed around him, and Obi-Wan thought it felt pleased, though he couldn’t be sure that wasn’t just his desperate interpretation.</p><p>Kriff, he had no idea what he was doing.</p>
+  </div>
+  <!--/main-->
+
+    <div class="chapter preface group">
+      <div class="end notes module" id="chapter_1_endnotes" role="complementary">
+        <h3 class="heading">Notes:</h3>
+        <blockquote class="userstuff">
+          <p>This chapter has been changed and edited since it's original upload.</p>
+        </blockquote>
+      </div>
+    </div>
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/10304777/chapters/23293780#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="ZimWu1_ZiCRC116NgG0V3zGbSvrg9wFYlEEzS6Orj0A9WcwLVWx2v3vzxDWwvLBUeJ1lPB6EUHoTFFkmlmz5zg"/>
+          <input value="10304777" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=22791698">Comments (32)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/okami96">okami96</a>, <a href="/users/Painted_Purple">Painted_Purple</a>, <a href="/users/Queens_Gardener">Queens_Gardener</a>, <a href="/users/AThousandMasks">AThousandMasks</a>, <a href="/users/livingoakheart">livingoakheart</a>, <a href="/users/JennyMadison">JennyMadison</a>, <a href="/users/RedHoodie42">RedHoodie42</a>, <a href="/users/Rancor">Rancor</a>, <a href="/users/Machine_Gun_T">Machine_Gun_T</a>, <a href="/users/chasethecat">chasethecat</a>, <a href="/users/Astro_Nao">Astro_Nao</a>, <a href="/users/Rasei">Rasei</a>, <a href="/users/Arwen_1234567890">Arwen_1234567890</a>, <a href="/users/Yvonne_evenstar">Yvonne_evenstar</a>, <a href="/users/NoInertia">NoInertia</a>, <a href="/users/YetForNothing">YetForNothing</a>, <a href="/users/RemyEclair">RemyEclair</a>, <a href="/users/AfricaAlaska90">AfricaAlaska90</a>, <a href="/users/the17thmuse">the17thmuse</a>, <a href="/users/4697635">4697635</a>, <a href="/users/schweigende">schweigende</a>, <a href="/users/DreamingOfAzure">DreamingOfAzure</a>, <a href="/users/Akvileja">Akvileja</a>, <a href="/users/VivaRevolution">VivaRevolution</a>, <a href="/users/noodlesarenoodles">noodlesarenoodles</a>, <a href="/users/Googlecat2019">Googlecat2019</a>, <a href="/users/moon_13">moon_13</a>, <a href="/users/Athena8472">Athena8472</a>, <a href="/users/EllieWK">EllieWK</a>, <a href="/users/Repository">Repository</a>, <a href="/users/omendreamer">omendreamer</a>, <a href="/users/arosefire">arosefire</a>, <a href="/users/pandoress">pandoress</a>, <a href="/users/Standingbitoread">Standingbitoread</a>, <a href="/users/BoredBeingRegular">BoredBeingRegular</a>, <a href="/users/Fitzcamel">Fitzcamel</a>, <a href="/users/ecrouse">ecrouse</a>, <a href="/users/Jay_Lily">Jay_Lily</a>, <a href="/users/Duchess_of_Alsace_and_Lorraine">Duchess_of_Alsace_and_Lorraine</a>, <a href="/users/GayAceSpaceCadet">GayAceSpaceCadet</a>, <a href="/users/kinpandun">kinpandun</a>, <a href="/users/MoonlightRising">MoonlightRising</a>, <a href="/users/DragonEshia">DragonEshia</a>, <a href="/users/Blamethedarkelves">Blamethedarkelves</a>, <a href="/users/TayliaLdgDw">TayliaLdgDw</a>, <a href="/users/Lady_Mystra">Lady_Mystra</a>, <a href="/users/ChicaDeFuego99">ChicaDeFuego99</a>, <a href="/users/skinningkittens">skinningkittens</a>, <a href="/users/chosauce">chosauce</a>, <a href="/users/Lily_Haydee_Lohdisse">Lily_Haydee_Lohdisse</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/10304777/kudos?before=3853733284">3739 more users</a>
+             as well as 
+          2256 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_22791698">
+  <form class="new_comment" id="comment_for_22791698" action="/chapters/22791698/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="RV9dOeeOYneBGBb3sAyv6Gnyfe1dACU4Tb1eFT9mBoYeLweJ7Tuc7Lg8jE-A3QpjIPRSK6NzdBrK6DR4CqFwCA"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_22791698">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_22791698" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_22791698=new LiveValidation('comment_name_for_22791698',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_22791698.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_22791698">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_22791698" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_22791698=new LiveValidation('comment_email_for_22791698',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_22791698.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_22791698" class="landmark">Comment</label>
+        <textarea id="comment_content_for_22791698" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_22791698" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_22791698_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_22791698">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_22791698=new LiveValidation('comment_content_for_22791698',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_22791698.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_22791698.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_22791698" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/10304777/hit_count.json")})</script>
+
+
+  </body>
+</html>

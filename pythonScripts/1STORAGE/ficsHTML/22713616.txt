@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"232243a405","applicationID":"129290979","transactionName":"cVtXEUpbWFxdQhkUXEBfSkpLXFtH","queueTime":0,"applicationTime":126,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"232243a405",applicationID:"129290979"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(9),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=M.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+M.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+M.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,y="addEventListener",h="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1215.min.js"},T=w&&b&&b[y]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:T,userAgent:s,disabled:E};if(!E){t(1),t(7),g[y]?(g[y]("DOMContentLoaded",o,l(!1)),m[y]("load",r,l(!1))):(g[h]("onreadystatechange",i),m[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        for us, child, the stars refuse to shine - MotherKarizma - Spider-Man (Tom Holland Movies) [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="WIb27gYsgBDltzKnP5N9ORdQh0ziRL2wigM0u95g4EWOZxiCMtnTEp3rjq0_LcF3i1Uu4xhPKvcC-3pKDR7XSQ"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="nIwNo9uV-gz1nfLFsdO_aEIH7dYMpoiD7-kZ1wbAa3tKbePP72CpDo3BTs-xbQMm3gJEefatH8RnEVcm1b5cdw"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: lex m/m (mature OR explicit)</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="works-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<ul class="landmark skip">
+  <li><a name="top">&nbsp;</a></li>
+  <li><a href="#work">Skip header</a></li>
+</ul>
+
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+<!-- BEGIN revealed -->
+<!-- BEGIN work -->
+<!--work description, metadata, notes and messages-->
+    <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?work_id=22713616">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/22713616/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/22713616/for%20us%20child%20the%20stars.azw3?updated_at=1645124213">AZW3</a></li>
+          <li><a href="/downloads/22713616/for%20us%20child%20the%20stars.epub?updated_at=1645124213">EPUB</a></li>
+          <li><a href="/downloads/22713616/for%20us%20child%20the%20stars.mobi?updated_at=1645124213">MOBI</a></li>
+          <li><a href="/downloads/22713616/for%20us%20child%20the%20stars.pdf?updated_at=1645124213">PDF</a></li>
+          <li><a href="/downloads/22713616/for%20us%20child%20the%20stars.html?updated_at=1645124213">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Teen%20And%20Up%20Audiences/works">Teen And Up Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Gen/works">Gen</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Spider-Man%20(Tom%20Holland%20Movies)/works">Spider-Man (Tom Holland Movies)</a></li><li><a class="tag" href="/tags/The%20Avengers%20(Marvel%20Movies)/works">The Avengers (Marvel Movies)</a></li><li><a class="tag" href="/tags/Marvel%20Cinematic%20Universe/works">Marvel Cinematic Universe</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Peter%20Parker%20*a*%20Tony%20Stark/works">Peter Parker &amp; Tony Stark</a></li><li><a class="tag" href="/tags/Peter%20Parker%20*a*%20Avengers/works">Peter Parker &amp; Avengers</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Tony%20Stark/works">Tony Stark</a></li><li><a class="tag" href="/tags/Peter%20Parker/works">Peter Parker</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Avengers%20Family/works">Avengers Family</a></li><li><a class="tag" href="/tags/Not%20Captain%20America:%20Civil%20War%20(Movie)%20Compliant/works">Not Captain America: Civil War (Movie) Compliant</a></li><li><a class="tag" href="/tags/Implied*s*Referenced%20Rape*s*Non-con/works">Implied/Referenced Rape/Non-con</a></li><li><a class="tag" href="/tags/Substance%20Abuse/works">Substance Abuse</a></li><li><a class="tag" href="/tags/Drug%20Addiction/works">Drug Addiction</a></li><li><a class="tag" href="/tags/Tony%20Stark%20Acting%20as%20Peter%20Parker&#39;s%20Parental%20Figure/works">Tony Stark Acting as Peter Parker&#39;s Parental Figure</a></li><li><a class="tag" href="/tags/Hurt%20Peter%20Parker/works">Hurt Peter Parker</a></li><li><a class="tag" href="/tags/Peter%20Parker%20Has%20Issues/works">Peter Parker Has Issues</a></li><li><a class="tag" href="/tags/Peter%20Parker%20Needs%20a%20Hug/works">Peter Parker Needs a Hug</a></li><li><a class="tag" href="/tags/Everyone%20Loves%20Peter%20Parker/works">Everyone Loves Peter Parker</a></li><li><a class="tag" href="/tags/Hurt*s*Comfort/works">Hurt/Comfort</a></li><li><a class="tag" href="/tags/Angst/works">Angst</a></li><li><a class="tag" href="/tags/Angst%20with%20a%20Happy%20Ending/works">Angst with a Happy Ending</a></li><li><a class="tag" href="/tags/Orphan%20Peter%20Parker/works">Orphan Peter Parker</a></li><li><a class="tag" href="/tags/Prostitution/works">Prostitution</a></li><li><a class="tag" href="/tags/basically%20peter%20is%20Not%20Having%20A%20Very%20Good%20Life%20and%20the%20avengers%20emotionally%20adopt%20him/works">basically peter is Not Having A Very Good Life and the avengers emotionally adopt him</a></li><li><a class="tag" href="/tags/completed%20series/works">completed series</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+      <dt class="series">
+        Series:
+      </dt>
+      <dd class="series">
+        <span class="series"><span class="position">Part 1 of the <a href="/series/1633516">here comes the sun</a> series</span><span class="divider"> </span><a class="next" href="/works/22746238">Next Work &#8594;</a></span>
+      </dd>
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/TBPPW">The Best Peter Parker Whump Fics</a>, <a href="/collections/TBOTBMCU">The Best of the Best MCU Fics</a>, <a href="/collections/Ellie_marvel_fics_Read">ellie marvel fics - read</a>, <a href="/collections/AstralLibrary2">Astral_Phoenix108's Library</a>, <a href="/collections/Irondad_Creators_Awards_2021_Nominations">Irondad Creators Awards 2021 - Nominations</a>, <a href="/collections/mcuhyperfixation">mcu hyperfixation fics</a>, <a href="/collections/best_of_peter_parker">god tier peter parker fics</a>, <a href="/collections/Adopted_PP">Adopted/Homeless/Orphaned Peter Parker</a>, <a href="/collections/IrondadCreatorsAwards2022Nominations">Irondad Creators Awards 2022 - Nominations</a>, <a href="/collections/neptunesfavourites">neptune’s favourites</a>, <a href="/collections/TheG8Reads1">The Great Reads</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2020-02-14</dd><dt class="words">Words:</dt><dd class="words">4070</dd><dt class="chapters">Chapters:</dt><dd class="chapters">1/1</dd><dt class="comments">Comments:</dt><dd class="comments">56</dd><dt class="kudos">Kudos:</dt><dd class="kudos">2170</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/22713616/bookmarks">174</a></dd><dt class="hits">Hits:</dt><dd class="hits">25986</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      for us, child, the stars refuse to shine
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/MotherKarizma/pseuds/MotherKarizma">MotherKarizma</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>“Stay down,” Stark demanded and pressed an iron hand against his shoulder, as if Peter was even entertaining the notion of standing. “That was a nasty spill, kid. FRIDAY says you’ve got a concussion and a couple broken ribs. We need to get you back to the Tower, have Medical check you out–“</p>
+<p>“No!” Peter’s eyes flew open. Tony looked down at him, frowning with equal parts guilt, concern, and confusion. “I mean, uh – that’s just – not necessary. I have super healing. Radioactive spider bite, remember? Give me five minutes.”</p>
+<p>More like five hours – but no way in hell was he going to tell Stark that.</p>
+<p>A medical examination at Avengers Tower might mean taking blood and DNA samples. </p>
+<p>Blood and DNA samples would reveal, clear as day, Spider-Man’s crippling addiction to heroin.</p>
+<p>-----</p>
+<p>When the Avengers stumble upon Peter Parker, he is not a fifteen year old, bubbly, nerdy high school student. He is eighteen, homeless, and a drug addict.</p>
+<p>Peter refuses to let them discover the squalor he lives in when the mask is off, refuses to ruin their perfect little makeshift family with all his dirt, refuses to get too close.</p>
+<p>Unfortunately, he doesn't really have a choice.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p><a href="https://www.youtube.com/watch?v=3zj8bITPNY0" rel="nofollow">rise against - methadone</a><br/>\\love like a needle full of methadone<br/>prudent but not real, left you wanting more<br/>lipstick track marks bleeding red<br/>like montagues and capulets<br/>for us, child, the stars refuse to shine//</p>
+    </blockquote>
+
+    <p class="jump">(See the end of the work for <a href="#work_endnotes">more notes</a>.)</p>
+</div>
+
+
+  </div>
+
+
+<!--/descriptions-->
+
+<!--chapter content-->
+    <div id="chapters" role="article">
+        <h3 class="landmark heading" id="work">Work Text:</h3>
+          <div class="userstuff"><p>With the wind whistling in his ears, his feet twelve stories off the ground, and the lifeblood of his city pulsing in the streets below, Peter Parker was happy.</p>
+<p>There wasn’t much that made him happy, but <em>this</em> – helping, rescuing, looking out of the little guy – this did. He retrieved and returned an elderly woman’s stolen purse. He helped a crying child find her parents. He snatched that indecisive cat off the street as a taxi sped by, and Mister Delmar grinned and waved at him in thanks. Peter waved back, and beneath the mask, he smiled, too. This was helpful. This was making a difference in his tiny slice of the world. This was <em>fun.</em></p>
+<p>Until, of course, it wasn’t.</p>
+<p>Patrol was pleasant for the first hour or two. Then came the lilt, the rhythmic drag of his arms through the air, the steep decline in both his mood and his altitude. The weighted drop of once-wide eyelids. The quieting of a bird’s song; the piano’s decrescendo. The fall.</p>
+<p>It didn’t matter how high he swung – the comedown always found him.</p>
+<p>Peter came to a stumbled stop on the sidewalk, wincing at the impact on his ankles, the still-attached web yanking at his wrists. Down the darkened alleyway to his left, his ratty backpack was webbed to the side of a dumpster. He took his finger off the webshooter, letting his line fall to the ground, and staggered down the alley. Chest tight, face red, and covered in a thin sheen of sweat, he tried to remember how to breathe.</p>
+<p>This was his penance.</p>
+<p> </p><hr/>
+<p align="center"> </p>
+<p>By the time he stumbled into Tabar’s hideout – or, as Peter liked to call it, Tabar’s lair – he’d changed into the baggy jeans and stained T-shirt from his backpack. His civilian clothes hadn’t been washed in weeks and were, according to one of his clients, ‘more wrinkled than an elephant’s ass,’ but they worked.</p>
+<p>They weren’t Spider-Man. They separated his two personas, the untainted altruism of one kept sheltered from the selfish debris of another. For that reason alone, Peter couldn’t find it in himself to complain.</p>
+<p>And, besides: he had nothing to complain about. He did these things to himself. This was the reaping of what he’d sown. This was, for better or worse, the life he had chosen to live.</p>
+<p>“Back again so soon?” Tabar shot a cracked-tooth grin over his shoulder. “Guess I’m the only dealer you trust ‘round here, eh?”</p>
+<p>Peter stepped into the building, which he thought might have once been a boutique of some sort. Now, it was only a dirty concrete floor and graffiti-adorned brick walls, imprisoning people who were free to leave but did not know it. Light filtered in through the only unboarded window. The scent of musk and mold was familiar, nearly comforting. He stepped over an unconscious man’s foot on his way in.</p>
+<p>Peter said, “Of course you are.” He thought, <em>I have twenty.</em></p>
+<p>Tabar chuckled and waved him over. Peter went. The spoon and lighter in his back pocket suddenly weighed a thousand pounds. His hands shook – whether from the beginnings of withdrawal or with excitement, he couldn’t tell. Both, maybe. He stood and waited, externally patient but internally screaming, as Tabar weighed out his hit, eyes tracking the man’s every slightest movement to ensure he would get what he paid for.</p>
+<p>There wasn’t much that made Peter happy, but this – watching the powder melt over the open flame, the slide of the needle into his starving, begging veins – <em>this</em> –</p>
+<p>This did.</p>
+<p> </p><hr/>
+<p> </p>
+<p>Tabar kicked his leg. “The money, kid.”</p>
+<p>Peter sighed. His eyes, glassy and unfocused, slid over the floor he sat on until they landed on his backpack. He grappled for it, missing a few times before he managed to hook his thumb over one of the straps and drag it closer. He unzipped the bag and began to dig.</p>
+<p>And dig. And dig.</p>
+<p>Peter thought of this backpack, webbed to a dumpster each day and left unattended – and how incredibly, unbelievably <em>stupid</em> he was. Beneath the warm euphoria thrumming through the interstates of his body, a dull sense of panic set in.</p>
+<p>“I’m…” Peter blinked, slow and languid. His tongue, sluggish, too heavy to move, struggled to form the words. “My money. It…’s gone. Some – someone…”</p>
+<p>Peter fully expected this confession to be met with another, harsher kick, perhaps to his ribs or head this time. Instead, Tabar crouched down to his level – and smiled.</p>
+<p>No. ‘Smile’ was not the right word. ‘Smile’ was too innocent for Tabar’s expression. It was a lip-curled leer, the man’s chipped, yellow teeth mere inches from Peter’s face.</p>
+<p>“Well, kid,” Tabar said quietly. “How do you get your money in the first place?”</p>
+<p>Even as high up in the atmosphere as he was, Peter could not have possibly missed the rhetoric nature of the question. He swallowed hard.</p>
+<p>“Y…you kn’w how,” he whispered, struggling to maintain eye contact, because if he did – if he didn’t turn away, didn’t say no – then maybe he could convince himself that this was fine. That this was his choice; that he was consenting. That everything was okay. “You know.”</p>
+<p>“Well, then.” Tabar chuckled, eyes alight with glee as he unbuttoned his filthy pants. “Guess you’d better get to work.”</p>
+<p>Peter did.</p>
+<p> </p><hr/>
+<p> </p>
+<p>In the end, Peter did, according to Tabar, get exactly what he’d paid for.</p>
+<p> </p><hr/>
+<p> </p>
+<p>Three days later – or was it five, or eleven? He never knew anymore, they were all so jagged and blurred – Peter woke, lying on a rooftop, to the sounds of metal clashing and people screaming down below.</p>
+<p>He was in his civilian clothes, backpack clutched tight to his chest. His bones ached and his stomach churned (because it had been too long and he needed more more <em>more</em>) but he staggered to his feet and gave a cursory look around, ensuring a lack of security cameras or prying eyes, before pulling out that familiar, homemade suit.</p>
+<p>There was no question in Peter’s mind, no hesitation. Yes, he <em>needed</em> to look for a ready and willing client, get his money, and get high – but in that moment, Queens needed Spider-Man more.</p>
+<p>Adrenaline pumped through his veins, his breath harsh and heart pounding, as he webbed his bag to the concrete rooftop and began to swing.</p>
+<p>He wasn’t sure what he’d expected. A car pile-up at worst, or maybe a hostage situation in progress. Something normal. Something he could step into for a moment, put a cap on, and then let the police take over. Simple. Easy.</p>
+<p>What Peter <em>wasn’t</em> expecting to find was the Avengers themselves, battling what appeared to be life-sized AT-AT replicas.</p>
+<p>But…well. There they were.</p>
+<p>Peter heaved a sigh and mumbled to himself, “Can’t my life be normal for one day?”</p>
+<p>What was he supposed to do? Try and offer a helping hand to the honest-to-God Avengers themselves? Would they appreciate it, accept it, or would Captain America knock him out with his shield? Maybe Iron Man would blast him into next week. Black Widow had a nasty roundhouse kick.</p>
+<p>Would they even know who he was?</p>
+<p>Peter looked down at his suit – a glorified onesie, stitched together shoddily with his own limited sewing skills – and grimaced. No, he decided. He was the peewee hockey to their NHL, the Peppa Pig to their Stranger Things, the juice box to their vodka. There was no chance the Avengers had ever even heard the name of Spider-Man.</p>
+<p>“Hey, Stark! You’re not gonna believe who just joined the party! It’s that spider guy you’re always watching on YouTube!”</p>
+<p>Perched on the ledge of an indiscriminate office building, Peter looked up. He was glad his mask hid his wide-eyed look of shock, because from across the street, on a ledge only a couple stories higher, Hawkeye grinned down at him.</p>
+<p>“I’m–“ Peter fumbled, mouth dirt-dry. “I-I’m not here to…”</p>
+<p>Hawkeye looked away and pressed two fingers to his ear. “Yes, dumbass, I’m sure! What do you want me to do, get his damn autograph?”</p>
+<p>There was a long stretch of silence. Peter was just about to make a break for it, to get out before he got himself into trouble, when Hawkeye looked him dead in the eye and said, “Ye ol’ Man of Iron could use some help evacuating civilians so we can drop these clunky bastards. You got time?”</p>
+<p>He’d never even met Iron Man – or any Avenger, for that matter. His veins itched for the warm embrace of a needle. Peter swallowed hard. “Well, a-actually, uh…”</p>
+<p>“Yeah, yeah. You’ve got a day job. Blah, blah, blah. This is a city-wide crisis, man, your boss won’t even notice.”</p>
+<p>He should have refused. He <em>meant</em> to refuse. But here was a real live Avenger, looking at him and speaking to him and asking for his help –</p>
+<p>“Sure,” fell out of Peter’s mouth before he could catch it, slipping right off the tip of his tongue. His heart skipped a beat. He cleared his throat. “I can, uh, help, yeah. Where, um – where do I need to go?”</p>
+<p>“Location, Stark,” Hawkeye said to the ground, and then to Peter, “Queens Boulevard in Forest Hills. Know how to get there?”</p>
+<p>He knew every inch of this city like the back of his hand. “Yeah. Yeah, I’m on my way.”</p>
+<p>“Good.” Hawkeye loaded his bow with an arrow that looked suspiciously electronic. “Hurry along now, Insect-Person. We’re ‘sposed to get shawarma after, and I never got any fucking breakfast. What the hell are you waiting for, a good luck kiss? Go!”</p>
+<p>Peter did.</p>
+<p> </p><hr/>
+<p> </p>
+<p>Iron Man looked over at him, raised an armored hand in greeting – and then sighed.</p>
+<p>“Please tell me those are your pajamas.”</p>
+<p>Peter’s face flushed. He glanced down at his suit. “Uh…yes?”</p>
+<p>“Mm. Yeah, scratch that, I’ve got a new one: please tell me you’re not actually twelve, because – no offense, kid – you sound like you’re twelve.”</p>
+<p>Despite the ‘no offense’ label Stark tacked onto his offensive statement, Peter was, miraculously, offended.</p>
+<p>“I’m not a kid! I’m eighteen and a half!”</p>
+<p>If that metal faceplate could emulate emotions, Peter would have thought the man was leveling him with a deadpan look. “You’re still adding the qualifier ‘and a half’ when you tell people your age. You’re a kid.”</p>
+<p>“Not in the eyes of the state.”</p>
+<p>If anything deeper, any harbored resentment toward the foster system, any anger leaked into his tone, the older man made no mention of it.</p>
+<p>“And we need the help.” Stark threw his head back with an overly dramatic groan. “<em>Ugh.</em> Fine. Just try not to get yourself killed, alright? Your mommy and daddy would sue me – and win.”</p>
+<p>“I have a feeling they wouldn’t.”</p>
+<p>Stark, hovering a few feet above the rooftop Peter had landed on, pointed toward the mostly deserted section of Queens Boulevard – an odd sight, considering the rush-hour traffic he was accustomed to seeing just after sunrise.</p>
+<p>“What we need to do, Spider-Kid,” he said, and Peter bore it with gritted teeth, “is go down there and make sure every civilian is out. And I mean <em>every</em> civilian. Check every building, every parked car, every alleyway, every crack house. The others are herding our little friends this way so we can take them down, and human life as collateral is not an option. You understand that? <em>Not</em> an option.”</p>
+<p>Peter nodded fervently. The forcefulness in Stark’s voice drove out any annoyance – he was once again thoroughly starstruck at being in the presence of an Avenger. “Yes, Mister Stark – Mister Iron Man, sir–“</p>
+<p>“Jesus, kid, don’t give yourself an aneurysm. Tony’s fine. Now, hop to it. Or…swing to it, I guess.”</p>
+<p>Peter did.</p>
+<p> </p><hr/>
+<p> </p>
+<p>Falcon flew overhead. “Hope you’re ready for company!”</p>
+<p>Peter winced. The earpiece Stark had given him was way too damn loud, and it didn’t help that he could hear their mechanical foes marching toward them from over a mile away.</p>
+<p>He landed back on the rooftop he’d first met Stark on once they were positive the area had been cleared. “Uh, Mister – T-Tony? Is there a way to, like, turn the volume down on this thing?” At Tony’s questioning head slant, he quickly clarified, “The earpiece, I mean. Radioactive spider bite, I have enhanced senses, it’s…it’s a whole thing.”</p>
+<p>“Ah. FRIDAY, turn down the kid’s earpiece by fifty percent.”</p>
+<p>“Sure thing, Boss,” the AI said at a much more respectable volume, and Peter sighed in relief.</p>
+<p>“Thanks, Mis – Tony.”</p>
+<p>“Miss Tony?” Stark asked lightly, jokingly. “I mean, I’m not picky about pronouns or anything, but the ‘Miss’ might be a little overkill–“</p>
+<p>“Focus, guys,” Captain America said tensely over the comm. “You’ve got incoming.”</p>
+<p>Sure enough, the sounds of the walky-thingies were growing nearer. Peter waited in a crouch, the hairs on the back of his neck standing straight and muscles tense, ready for the fight. Over the rolling hills of the absurdly wide boulevard, their opponents came into view.</p>
+<p>“Take them down hard and fast,” Stark reminded him, no remnant of humor left in his voice. “Try to avoid taking out any infrastructure if you can, but if it’s unavoidable, don’t sweat it. Repairs are on my dollar, not yours.”</p>
+<p>Peter nodded. His throat was dry; he didn’t trust himself to speak without betraying the nervousness deep in his bones that he was trying not to feel. Sure, he’d been in more fights than he could count, even had a few close scrapes with death – but this was, for lack of a better term, next-level. Avengers-level, specifically.</p>
+<p>What if he wasn’t ready?</p>
+<p>He ground his teeth together, pressed his heels firmer into the concrete. It didn’t matter. He was the one who’d stepped willingly into this, and he was in far too deep to duck out now.</p>
+<p>The first bot approached.</p>
+<p>“Now, kid,” Stark shouted, and he didn’t have to think about it any longer. Instinct took over.</p>
+<p>Peter leapt.</p>
+<p> </p><hr/>
+<p> </p>
+<p>The first six out of seven came down – much to Peter’s surprise and delight – with ease. Their plan, though simple, was effective: he webbed up their legs, and Tony blasted the hell out of them. The bots crashed with deafening noise to the street, but it was such a satisfying feeling of success that Peter found he didn’t much mind the sound.</p>
+<p>“Damn.” Falcon – Sam, as he’d heard another Avenger call him – whistled over the comm. “Where have you been hiding this dude, Stark?”</p>
+<p>Peter’s face grew hot at the praise. Tony replied easily, “Picked him up off the streets this morning. Neat, huh? He’s like a puppy. A very dangerous spider-puppy that can climb walls, for some reason.”</p>
+<p>“Are we gonna keep him?” Black Widow asked dryly. “If he’s not house-broken, I veto.”</p>
+<p>Thor’s booming laughter was way louder than it had any right to be. Peter could have sworn the sky shook.</p>
+<p>“I, too, admire the skills of this Man of Spiders! What is a ‘puppy’?”</p>
+<p>Before anyone could volunteer to explain to Thor the concept of a dog, Peter gasped. Halfway through swinging around the legs of the seventh and final bot, every hair on his body stood on end, that familiar feeling of <em>danger danger danger!</em> singing across all his nerve endings. He turned his head and –</p>
+<p>“Mister Stark! Move!”</p>
+<p>As it turned out, this last bot wouldn’t need the help of Iron Man’s blasters to lose its balance. It was doing that all on its own.</p>
+<p>And Tony hovered directly in its path, mere feet from a metallic torso that had to weigh at least two tons. Guard down, joking with his teammates. Not paying their final foe the slightest bit of attention.</p>
+<p>Peter didn’t bother with forethought; there was no time for it. He dove. The momentum he’d been building by swinging in circles around the bot was enough to knock them both out of the air. He crashed into the Iron Man suit hard enough to send a sharp, explosive pain throbbing through his chest, and before he could recover or even take a breath, the street rushed up to meet them.</p>
+<p>This time, the grind of the bot’s metal against the concrete was nothing compared to the ringing in Peter’s ears.</p>
+<p>“–kid? Come on, kid, say something…” Stark’s voice rambled nearby, fading in and out of focus. “…shouldn’t have let you fight in glorified PJs, your head’s completely unprotected – what a terrible design, honestly, don’t know what you were thinking – <em>shit</em>–“</p>
+<p>Peter groaned. Coughed. Rolled onto his back, eyes squeezed shut, an arm wrapped protectively around his midsection.</p>
+<p>“I’m good,” he gasped. “I’m good, really, I’m fine.”</p>
+<p>“Stay down,” Stark demanded and pressed an iron hand against his shoulder, as if Peter was even entertaining the notion of standing. “That was a nasty spill, kid. FRIDAY says you’ve got a concussion and a couple broken ribs. We need to get you back to the Tower, have Medical check you out–“</p>
+<p>“No!” Peter’s eyes flew open. Tony looked down at him, frowning with equal parts guilt, concern, and confusion. “I mean, uh – that’s just – not necessary. I have super healing. Radioactive spider bite, remember? Give me five minutes.”</p>
+<p>More like five hours – but no way in hell was he going to tell Stark that.</p>
+<p>The truth would mean a medical examination at Avengers Tower. A medical examination at Avengers Tower would mean the finest treatment modern technology had to offer. The finest treatment modern technology had to offer might, potentially, mean taking blood and DNA samples to find out what made him tick.</p>
+<p>Blood and DNA samples would reveal, clear as day, Spider-Man’s crippling addiction to heroin.</p>
+<p>What kind of local hero would he be then? Spider-Man, role model to the children of Queens: <em>do drugs and sell your body to strangers, kids.</em></p>
+<p>No. Stark couldn’t find out. Nobody could. Peter would, in all sincerity, rather die.</p>
+<p>“Alright,” Tony said, hesitant, as he rose to his feet, already eyeing Peter with suspicion. “I’m gonna go check on the others. You just…just lay there, okay? Relax. Breathe. If you’re not up and at ‘em in five, you’re coming back with us to get checked out. Comprende?”</p>
+<p>Peter nodded. “Yes, sir.”</p>
+<p>“It’s Tony.”</p>
+<p>“Uh-huh.”</p>
+<p>Tony walked away, shaking his head and grumbling something about <em>damn overly polite kids, making me feel old.</em> Peter pretended to comply until he was out of sight.</p>
+<p>With no shortage of sheer agony, he forced himself up, left his borrowed earpiece on the ground where he’d been lying, and fled.</p>
+<p> </p><hr/>
+<p> </p>
+<p>And there it was again.</p>
+<p>The quieting. The decrescendo. The fall.</p>
+<p>By the time Peter found his backpack (money still there this time, <em>thank God</em>) his entire body was afire with pain, and only half of it was due to his new injuries. It had been far too long. His very bones ached with <em>need.</em></p>
+<p>He needed it. He needed it. He needed it.</p>
+<p>He coughed. Fell to his knees on the concrete roof. Choked back tears. Scrambled for the burner phone in his bag and searched through his contacts.</p>
+<p>“Hey, sweet thing,” she said in that sickeningly cheery voice when she picked up, and Peter winced.</p>
+<p>Everything about her made him want to vomit – her words, her predatory smile, her touch – but she was one of his best-paying clients, he reminded himself. She paid well. He needed the money. She paid well.</p>
+<p>“Hey yourself,” he said as seductively as he could manage in his state, every breath sending a sharp, shooting pain through his broken ribs. “Listen – I need some cash. You in the mood to play?”</p>
+<p>She giggled. “With you, baby boy? Mama’s always ready.”</p>
+<p>Peter swallowed back bile.</p>
+<p>She paid well. She paid well. She paid well.</p>
+<p>“Great,” he said. “Be there in ten?”</p>
+<p>“I’ll be waiting.”</p>
+<p>She hung up without saying goodbye – not that Peter particularly wanted to hear her speak any more than necessary.</p>
+<p>Sick and shaky, he stumbled to his feet and went to–</p>
+<p>Well. To his day job.</p>
+<p> </p><hr/>
+<p> </p>
+<p>By the next morning, Spider-Man’s key presence in an Avengers battle was the headline plastered across every major newspaper in New York.</p>
+<p>He skimmed one. It included a ‘brief commentary’ from Tony Stark himself, which read:</p>
+<p>
+  <em>Well, he’s damn talented, I’ll give him that. Just wish he wasn’t out fighting crime in his pajamas.</em>
+</p>
+<p>Peter huffed out a humorless laugh, blinked back tears, and tossed the wadded-up newspaper into the nearest recycling bin.</p>
+<p> </p><hr/>
+<p> </p>
+<p>On patrol that afternoon, Iron Man approached him as he took a breather on the roof of Delmar’s shop.</p>
+<p>“Oh, hi, PJs,” Stark said casually, repulsors keeping him hovering at eye-level. Down below, there were exclamations, <em>oohs</em> and <em>ahs,</em> the flashes of phone cameras. “Fancy meeting you here. Just stopping in for a sandwich. Hey, while I’ve got you, I was wondering–“</p>
+<p>Judging by the way he was winding himself up as if prepared to give a long speech, Peter was certain Tony had plenty more to say – he just didn’t stick around to hear it.</p>
+<p>Anxiety rippled through his chest, oddly reminiscent of the pain he’d felt in his now-healed ribs. Without giving Tony a chance to speak – before he could even let himself consider hearing him out, because that would surely open doors to rooms he did not want to see the inside of – Peter fled, just like he always did.</p>
+<p>Stark didn’t follow.</p>
+<p> </p><hr/>
+<p> </p>
+<p>Three days passed, then five, then eleven. The hype died down. Peter was once again nothing more than a friendly neighborhood Spider-Man, secretly a heroin-addicted escort (which was <em>just</em> the way he liked things, he continued to tell himself, this was <em>fine</em>).</p>
+<p>Still, Stark looked for him.</p>
+<p>Not in a creepy, stalking his every move kind of way. More like aimlessly flying around Queens, a place Iron Man had never been known to frequent, in hopes of stumbling upon him (and sometimes he did). Peter ran for the hills every time without granting him a chance or a reason. Tony still didn’t follow. He never did. He at least had some sense of moral boundaries.</p>
+<p>Sometimes he didn’t find him. Sometimes Peter saw him flying, searching, and he hid, ducking in the shadows for a while until the coast was clear.</p>
+<p>Tony had no idea what he was trying to get himself into. Peter was not eager for him to find out.</p>
+<p> </p><hr/>
+<p> </p>
+<p>“Come here, baby,” the burly man, his customer, said with a lustful growl in his voice, and Peter tried not to vomit the half-sandwich he’d scoured from the dumpster for breakfast.</p>
+<p>He paid well. He paid well. He paid well.</p>
+<p>And, besides: later in the night, when he’d spent this money, when the spoon and lighter were in his hands, when the needle fed life back into his aching body, he would feel better.</p>
+<p>He would feel better soon.</p>
+<p>“Come here, baby.”</p>
+<p>Peter did.</p>
+<p> </p><hr/>
+<p> </p>
+<p>On a stormy evening just past sunset, while dusk was in the sky and tears were in his eyes, the levee broke.</p>
+<p>Peter didn’t see it coming. He was in his civilian clothes, no mask to hide beneath and soaked through to the bone, shivering in the dark of a trashed alleyway to get out of the torrential downpour. He had just slid the needle back out from the crook of his elbow when he heard the repulsors behind him.</p>
+<p>Peter didn’t turn around to see who it was, because he didn’t have to. Instead, he began to cry. “Go away. Please. Go.”</p>
+<p>There was silence for a moment, and he began to wonder if Tony really had gone away. Then it came, soft and sad:</p>
+<p>“No can do, PJs.”</p>
+<p>A hand rested on his shaking shoulder, and though the fingers were clunky and made of metal, Peter thought it was probably the kindest, most sincere way anybody had touched him in three and a half years.</p>
+<p>The syringe fell to the ground and the tears expanded, taking up an ocean in their vastness as they melded with the rain.</p>
+<p>“I hate this,” Peter cried. “I hate my life. I hate myself. <em>I hate this.”</em></p>
+<p>The hand on his shoulder tightened. “Then come back to the Tower with me. Please, kid. I’m just trying to help you. Can I please help you?”</p>
+<p>Ten years gone, a memory of Ben laughing found him. <em>You don’t have to climb on the counter, Pete, I’ll help you reach it. Can I please help you?</em></p>
+<p>“Let me help you.”</p>
+<p>Peter did.</p></div>
+        <!-- end cache -->
+    </div>
+<!--/chapter-->
+
+    <!--afterword-->
+    <div class="afterword preface group" role="complementary">
+        <!--work endnotes-->
+<div id="work_endnotes" class="end notes module">
+  <h3 class="heading">Notes:</h3>
+  <blockquote class="userstuff"><p>good news! if you haven't already noticed, this work is the first in a new series! if you'd like to follow future installments of this story, please subscribe to the 'here comes the sun' series to get notifications, since this specific fic will not be updated.</p>
+<p>for more information on this series, including a playlist for it, <a href="https://motherkarizma.tumblr.com/post/190822200716/hey-guys-im-so-excited-to-announce-a-new" rel="nofollow">go to this post on tumblr!</a></p>
+<p>i'm so excited to share the rest of this series with you! please leave a comment and let me know what you thought!</p></blockquote>
+</div>
+<!--/work endnotes-->
+        <!--series links, backwards and forwards-->
+<div id="series" class="series module">
+  <h3 class="heading">Series this work belongs to:</h3>
+  <ul>
+      <li><span class="series"><span class="position">Part 1 of the <a href="/series/1633516">here comes the sun</a> series</span><span class="divider"> </span><a class="next" href="/works/22746238">Next Work &#8594;</a></span></li>
+  </ul>
+</div>
+<!--/series links-->
+    </div>
+    <!--/afterword-->
+
+  </div>
+  <!-- END work skin -->
+<!-- END work -->
+
+<!-- BEGIN comment section -->
+<!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="R-Fz9fSBk0N5yzWCH3-5Rw5TDfWsXSL5aTIoi4kuXoSRAJ2ZwHTAQQGXiYgfwQUJklakWlZWtb7hymZ6WlBpiA"/>
+          <input value="22713616" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?work_id=22713616">Comments (56)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/sewgirl">sewgirl</a>, <a href="/users/Nocere">Nocere</a>, <a href="/users/erisure">erisure</a>, <a href="/users/SkipperMcSlade">SkipperMcSlade</a>, <a href="/users/littleshirobhe">littleshirobhe</a>, <a href="/users/Kadi">Kadi</a>, <a href="/users/Jhaylin">Jhaylin</a>, <a href="/users/lethewren">lethewren</a>, <a href="/users/Idfsg">Idfsg</a>, <a href="/users/t_h_3_0">t_h_3_0</a>, <a href="/users/yorget">yorget</a>, <a href="/users/SilverDraconyx">SilverDraconyx</a>, <a href="/users/Andtheniwhisperedchuu">Andtheniwhisperedchuu</a>, <a href="/users/Camijau">Camijau</a>, <a href="/users/Aleep">Aleep</a>, <a href="/users/FandomTrash0w0">FandomTrash0w0</a>, <a href="/users/ShadowMercury">ShadowMercury</a>, <a href="/users/poordeadme">poordeadme</a>, <a href="/users/IHateHumans">IHateHumans</a>, <a href="/users/psychopathliz">psychopathliz</a>, <a href="/users/Ila21">Ila21</a>, <a href="/users/InsaneWolf">InsaneWolf</a>, <a href="/users/wuxiancatt">wuxiancatt</a>, <a href="/users/lylt360">lylt360</a>, <a href="/users/addictedtobooks08">addictedtobooks08</a>, <a href="/users/luciannab33">luciannab33</a>, <a href="/users/Kyouka211">Kyouka211</a>, <a href="/users/vtr_mari">vtr_mari</a>, <a href="/users/fanficistherapy12">fanficistherapy12</a>, <a href="/users/heyou0123">heyou0123</a>, <a href="/users/Bloody_worms">Bloody_worms</a>, <a href="/users/Moon_Lupine">Moon_Lupine</a>, <a href="/users/StrawberryCakeLover">StrawberryCakeLover</a>, <a href="/users/literally_no_one_knows_me">literally_no_one_knows_me</a>, <a href="/users/Naraven">Naraven</a>, <a href="/users/kaivstheworld">kaivstheworld</a>, <a href="/users/Miraculous_Noire">Miraculous_Noire</a>, <a href="/users/ParkerBee">ParkerBee</a>, <a href="/users/DrusillaMuffels">DrusillaMuffels</a>, <a href="/users/the_starseeker">the_starseeker</a>, <a href="/users/YUUI_666">YUUI_666</a>, <a href="/users/JamietheLion">JamietheLion</a>, <a href="/users/vivisx">vivisx</a>, <a href="/users/99QueenRory99">99QueenRory99</a>, <a href="/users/ayoitsnico">ayoitsnico</a>, <a href="/users/Fangirl_CentralA">Fangirl_CentralA</a>, <a href="/users/scwirrel">scwirrel</a>, <a href="/users/CarlBow2">CarlBow2</a>, <a href="/users/Miso_sleepy">Miso_sleepy</a>, <a href="/users/Lovil">Lovil</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/22713616/kudos?before=3826798231">1424 more users</a>
+             as well as 
+          696 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_22713616">
+  <form class="new_comment" id="comment_for_22713616" action="/works/22713616/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="SiDQUGxtHknGFJ26AASWQCPXaJDfTHwgWMW5n_anbSucwT48WJhNS75IIbAAuioOv9LBPyVH62fQPfduJdlaJw"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_22713616">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_22713616" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_22713616=new LiveValidation('comment_name_for_22713616',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_22713616.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_22713616">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_22713616" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_22713616=new LiveValidation('comment_email_for_22713616',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_22713616.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_22713616" class="landmark">Comment</label>
+        <textarea id="comment_content_for_22713616" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_22713616" name="controller_name" value="works"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_22713616_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_22713616">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_22713616=new LiveValidation('comment_content_for_22713616',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_22713616.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_22713616.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_22713616" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+<!-- END comment section -->
+<!-- END revealed -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/22713616/hit_count.json")})</script>
+
+
+  </body>
+</html>

@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"232243a405","applicationID":"129290979","transactionName":"cVtXEUpbWFxdQhkAW1NETQBKRxtDUF9B","queueTime":0,"applicationTime":111,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"232243a405",applicationID:"129290979"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(9),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=M.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+M.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+M.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,y="addEventListener",h="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1215.min.js"},T=w&&b&&b[y]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:T,userAgent:s,disabled:E};if(!E){t(1),t(7),g[y]?(g[y]("DOMContentLoaded",o,l(!1)),m[y]("load",r,l(!1))):(g[h]("onreadystatechange",i),m[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Tell Me No Tales - Chapter 1 - seastruck - Star Wars - All Media Types [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="8gtLAdPcbbbR11t86vUOX7p_Fxx_vvdLoTGCsQcVkDzgGUq4nxZctf7YLl08qfMP4JKVa2drak6RAK9znbOfig"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="RkKViFMifPXrB1bVSTiL4PiV2hYC5MV4tfoM-LCf0FJUUJQxH-hN9sQII_SfZHawonhYYRoxWH2FyyE6Kjnf5A"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: lex m/m (mature OR explicit)</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/12424332?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/12424332/chapters/28377056#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/12424332/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/12424332/chapters/28275018" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="28275018">1. Chapter 1</option>
+<option value="28377056">2. Chapter 2</option>
+<option value="28484368">3. Chapter 3</option>
+<option value="28621712">4. Chapter 4</option>
+<option value="28652380">5. Interlude - Celese</option>
+<option value="28833462">6. Chapter 5</option>
+<option value="28965639">7. Chapter 6</option>
+<option value="29069190">8. Chapter 7</option>
+<option value="29278509">9. Chapter 8</option>
+<option value="29679195">10. Chapter 9</option>
+<option value="30284262">11. Interlude - Aayla</option>
+<option value="30822093">12. Chapter 10</option>
+<option value="31808517">13. Chapter 11</option>
+<option value="32909112">14. Chapter 12</option>
+<option value="34310379">15. Chapter 13</option>
+<option value="37089183">16. Chapter 14</option>
+<option value="38188391">17. Interlude - Padme</option>
+<option value="40416275">18. Chapter 15</option>
+<option value="43222715">19. Chapter 16</option>
+<option value="52717696">20. Chapter 17</option>
+<option value="55300513">21. Chapter 18</option>
+<option value="56075317">22. Chapter 19</option>
+<option value="57249931">23. Interlude - Ahsoka</option>
+<option value="57749635">24. Chapter 20</option>
+<option value="59395765">25. Chapter 21</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/12424332/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=28275018">Comments </a>
+  </li>
+
+
+    <li class="style">
+        <a href="/works/12424332/chapters/28275018?style=disable">Hide Creator&#39;s Style</a>
+    </li>
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/12424332/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/12424332/Tell%20Me%20No%20Tales.azw3?updated_at=1634316308">AZW3</a></li>
+          <li><a href="/downloads/12424332/Tell%20Me%20No%20Tales.epub?updated_at=1634316308">EPUB</a></li>
+          <li><a href="/downloads/12424332/Tell%20Me%20No%20Tales.mobi?updated_at=1634316308">MOBI</a></li>
+          <li><a href="/downloads/12424332/Tell%20Me%20No%20Tales.pdf?updated_at=1634316308">PDF</a></li>
+          <li><a href="/downloads/12424332/Tell%20Me%20No%20Tales.html?updated_at=1634316308">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Teen%20And%20Up%20Audiences/works">Teen And Up Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Multi/works">Multi</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Star%20Wars%20-%20All%20Media%20Types/works">Star Wars - All Media Types</a></li><li><a class="tag" href="/tags/Star%20Wars%20Prequel%20Trilogy/works">Star Wars Prequel Trilogy</a></li><li><a class="tag" href="/tags/Star%20Wars:%20The%20Clone%20Wars%20(2008)%20-%20All%20Media%20Types/works">Star Wars: The Clone Wars (2008) - All Media Types</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/CC-2224%20%7C%20Cody*s*Obi-Wan%20Kenobi/works">CC-2224 | Cody/Obi-Wan Kenobi</a></li><li><a class="tag" href="/tags/CC-5052%20%7C%20Bly*s*Aayla%20Secura/works">CC-5052 | Bly/Aayla Secura</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/CC-2224%20%7C%20Cody/works">CC-2224 | Cody</a></li><li><a class="tag" href="/tags/Obi-Wan%20Kenobi/works">Obi-Wan Kenobi</a></li><li><a class="tag" href="/tags/Anakin%20Skywalker%20%7C%20Darth%20Vader/works">Anakin Skywalker | Darth Vader</a></li><li><a class="tag" href="/tags/Boil%20(Star%20Wars)/works">Boil (Star Wars)</a></li><li><a class="tag" href="/tags/Original%20Clone%20Character(s)/works">Original Clone Character(s)</a></li><li><a class="tag" href="/tags/Original%20Male%20Character(s)/works">Original Male Character(s)</a></li><li><a class="tag" href="/tags/Original%20Female%20Character(s)/works">Original Female Character(s)</a></li><li><a class="tag" href="/tags/Crys%20(Star%20Wars)/works">Crys (Star Wars)</a></li><li><a class="tag" href="/tags/Aayla%20Secura/works">Aayla Secura</a></li><li><a class="tag" href="/tags/CC-5052%20%7C%20Bly/works">CC-5052 | Bly</a></li><li><a class="tag" href="/tags/Ahsoka%20Tano/works">Ahsoka Tano</a></li><li><a class="tag" href="/tags/Padm%C3%A9%20Amidala/works">Padmé Amidala</a></li><li><a class="tag" href="/tags/CT-7567%20%7C%20Rex/works">CT-7567 | Rex</a></li><li><a class="tag" href="/tags/Luke%20Skywalker/works">Luke Skywalker</a></li><li><a class="tag" href="/tags/Leia%20Organa/works">Leia Organa</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Post-Order%2066/works">Post-Order 66</a></li><li><a class="tag" href="/tags/Fix-It%20of%20Sorts/works">Fix-It of Sorts</a></li><li><a class="tag" href="/tags/Alternate%20Universe%20-%20Canon%20Divergence/works">Alternate Universe - Canon Divergence</a></li><li><a class="tag" href="/tags/Watch%20as%20the%20author%20completely%20disregards%20most%20of%20the%20EU/works">Watch as the author completely disregards most of the EU</a></li><li><a class="tag" href="/tags/Angst/works">Angst</a></li><li><a class="tag" href="/tags/but%20also%20hope%20and%20good%20things/works">but also hope and good things</a></li><li><a class="tag" href="/tags/Slow%20Burn/works">Slow Burn</a></li><li><a class="tag" href="/tags/Pining/works">Pining</a></li><li><a class="tag" href="/tags/the%20Blyla%20begins%20in%20chapter%204/works">the Blyla begins in chapter 4</a></li><li><a class="tag" href="/tags/unfortunately%20it&#39;s%20a%20secondary%20pairing%20which%20i&#39;m%20sorry%20about/works">unfortunately it&#39;s a secondary pairing which i&#39;m sorry about</a></li><li><a class="tag" href="/tags/blyla%20deserves%20more%20fic/works">blyla deserves more fic</a></li><li><a class="tag" href="/tags/Did%20I%20mention%20it&#39;s%20a%20slow%20burn*q*/works">Did I mention it&#39;s a slow burn?</a></li><li><a class="tag" href="/tags/Minor%20Character%20Death/works">Minor Character Death</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2017-10-20</dd><dt class="status">Updated:</dt><dd class="status">2020-06-07</dd><dt class="words">Words:</dt><dd class="words">126535</dd><dt class="chapters">Chapters:</dt><dd class="chapters">25/30</dd><dt class="comments">Comments:</dt><dd class="comments">1214</dd><dt class="kudos">Kudos:</dt><dd class="kudos">3472</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/12424332/bookmarks">1120</a></dd><dt class="hits">Hits:</dt><dd class="hits">70279</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+    <style type="text/css">#workskin .indent{padding:0 5em 0 5em}#workskin .book{margin:0 auto;text-indent:3em}#workskin .dropcap{font-family:Georgia,serif;font-size:3em}#workskin .flashback{font-style:italic}#workskin .caps{font-variant:small-caps}#workskin .spoiler{background:#333;color:#333}#workskin .border{border:1px solid}#workskin .font-serif{font-family:Cambria,Constantia,Palatino,Georgia,serif}#workskin .font-sansserif{font-family:'Lucida Grande',Verdana,Helvetica,Arial,sans-serif}#workskin .font-monospace{font-family:consolas,courier,monospace}#workskin .font-big{font-size:120%}#workskin .font-small{font-size:80%}#workskin .align-right{text-align:right}#workskin .align-center{text-align:center}#workskin .align-justify{text-align:justify}#workskin hr.third{width:33%;margin:auto}#workskin hr.full{width:auto;margin:auto}#workskin .font-red{color:red}#workskin .font-orange{color:#ffa500}#workskin .font-yellow{color:#ff0}#workskin .font-green{color:green}#workskin .font-blue{color:#00f}#workskin .font-purple{color:purple}#workskin .font-white{color:#fff}#workskin .font-black{color:#000}#workskin .font-pink{color:#ffc0cb}#workskin .font-teal{color:#008282}#workskin .font-redbrown{color:#a15000}#workskin .font-cherryred{color:#e00707}#workskin .font-brickred{color:#a10000}#workskin .font-dimorange{color:#f2a400}#workskin .font-murkyyellow{color:#a1a100}#workskin .font-jade{color:#4ac925}#workskin .font-dimgreen{color:#008141}#workskin .font-leafgreen{color:#1f9400}#workskin .font-darkolive{color:#416600}#workskin .font-dimblue{color:#005682}#workskin .font-midblue{color:#0715cd}#workskin .font-mediumskyblue{color:#00d5f2}#workskin .font-darknavy{color:#000056}#workskin .font-lightpurple{color:#f141ef}#workskin .font-midviolet{color:#b536da}#workskin .font-verydarkpurple{color:#2b0057}#workskin .font-darkplum{color:#6a006a}#workskin .font-darkmaroon{color:#77003c}#workskin .font-reallydarkgray{color:#626262}</style>  
+
+  <!-- end cache for work skin -->
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Tell Me No Tales
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/seastruck/pseuds/seastruck">seastruck</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>Cody survived the war. And he'll survive the Empire, even if it kills him.</p>
+<p> </p>
+<p>Or: Years after Order-66 destroyed everything he'd fought for, Cody finds himself as an inside agent for the rebellion after his chip malfunctioned. Along with a small group of of clones, he navigates dealing with a merciless Admiral, saving people he thought were long dead, dealing with his ghosts and - maybe - his ghosts coming back for him.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>So, this is the first thing I've ever posted on AO3 and the first thing I've written for this fandom (and the first thing I've written for any fandom in a long time), but it was an idea that kept smacking me around until I wrote it. This chapter is mostly back story to set up the plot, character and other such things, so it's a little wordy at times, so forgive me and try to go with it. All mistakes are mine. Enjoy. I hope.</p>
+    </blockquote>
+
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/12424332/chapters/28275018">Chapter 1</a>
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p>“You’re dismissed, Commander.”</p><p>Cody saluted, ignored the casual distaste in his Admiral’s voice and left the command deck with brisk footsteps. In turn, he ignored his own disgust at the disorganized waves of stormtroopers that fell away from his retreating form with a skittish haste and marched through the Imperial cruiser’s hallways with a barely contained fury that had become more and more normal as the days and weeks passed. He pushed the pad to the lower deck armory with enough force that the durasteel gave slightly under his fingers and he felt a sort of detached, vicious vindication at damaging the ship in even some small way. </p><p>The moment he processed that he was alone in the room, he ripped his helmet off and took in large lungful’s of recycled air in an effort to ease the clenching in his chest. He fought the vague nausea that never seemed to completely leave and the swirl of dark emotion fighting for control of his body and struggled to stay upright. Several minutes passed before he was able to release the death grip he had on a shelf of demolition grenades and his breath evened out. Shakily, he ran a hand down his face and rubbed wearily at his eyes; tiny sparks of pain only serving to ground his body even more. </p><p><em>You can’t shoot him, not yet</em>, he told himself, <em>you have work to do. One day, but not today. Not yet</em>. It was the same mantra that he’d been repeating to himself for the better part of four months. And a variation of the one he’d been beating into his brain since he woke up from a blow to the head on one of those miserable backwater desert planets that dotted the galaxy and realized that his life had gone to karking hell. Since the question about the General had died a swift and painful death at the emergence of his memories of Utapau’s cliffs and the faint whisper of good soldiers follow orders had resulted in a series of involuntary dry heaves. The head injury had been a miracle really; not only for destroying the programming in his mind, but for the built-in excuse it gave him for the erratic behavior he couldn’t quite control in days following his revelation. </p><p>Not that scaring the shit out of Empire shiny’s wasn’t fun, but it was hard to appreciate the humor when he kept hearing a Coruscanti accent wondering if terrifying the new recruits was completely necessary, really, Cody?</p><p>(<em>“Cody, really, they’ve barely seen the space beyond Kamino, I hardly think that telling them that I’m a magnet for twisted Separatist’s affections and that I have the self-preservation of a Corellian lemming is supposed to make them feel any better about the situation.”</em></p><p>
+  <em>“I’m simply conveying pertinent information about the current tide of the war, sir. And familiarizing them with their General.”</em>
+</p><p>
+  <em>“Any more dramatic and they’ll think that I’m like one of those awful characters in the holo-opera’s that Waxer pretends he doesn’t watch.”</em>
+</p><p><em>“I have no idea what you’re talking about, sir.”</em>)</p><p>Still, it had taken two weeks just to process everything that had been taken from him. Another five or six weeks before eating his blaster didn’t sound like the best thing he could possibly do. After the worst of that passed (mostly, sometimes at night he stared at the bunk above his and ran circles in his mind about how many he could take with him when he finally lost all perspective), he got angry. An all-encompassing rage, the kind he’d only felt bursts of after a particularly bad battle or the first time he’d seen General Kenobi after he returned from his “death”, that burned through everything and only left scorch marks in its waste. </p><p>And that was how he joined the Rebellion. </p><p>The thing about being a clone in the Imperial Army was that he was seen as both expendable and invisible. As a clone officer, this was taken to a kind of extreme that meant he was privy to lot of information that he was never expected to comment on or do anything with except go and do whatever his reg-born superiors wanted him to (good soldiers follow orders, good soldiers follow orders…) and use his acknowledged expertise to fulfill. It was like he was a droid, almost, standing on the peripheral of their conversations and strategy meetings with troop movements and numbers and logistical information flying around his head and he’d thought – once – that the rebellion would probably kill to have access to this kind of intel. Of course, the problem, was how exactly did one find the rebellion (labeled a myth in propaganda, but a source of constant vigilance and contention in the ranks) and pass along what he knew?</p><p>As it happened his chance came to him in the form of a female rebellion operative named Celese, who was captured while they were on a campaign in the Mid-Rim and was brought aboard to be questioned by one of the Imperial Inquisitors. Using his officer’s preoccupation and his fellow stormtroopers incompetence against them, he was able to create a distraction and steal the confused human away from the chaotic bridge where the computer systems were going haywire after his little internal jamming signal fritzed them temporarily, and down to the hanger where he all but shoved her on one of the new tie-fighters and forced the pre-prepared data pad into her bruised hands. </p><p>(<em>Her blue eyes were wary as she looked at him, gingerly taking the data pad, body still poised to fight. “What’s this?”</em></p><p>
+  <em>“Information. They’re planning to invade Haveen and they suspect that Governor Ekrol is sympathetic to the rebellion. It won’t be a kind invasion.”</em>
+</p><p>
+  <em>She quirked a dark eyebrow at that. “Is there such a thing as a ‘kind’ invasion?”</em>
+</p><p>
+  <em>He looked at her through his helmet, the HUD – which had been mildly affected by the jamming transmitter – was beginning to reboot the systems that had gone offline, meaning they didn’t have much time. “There’s invasions, Sergeant, and then there’s slaughter.”</em>
+</p><p>
+  <em>Her eyes had widened slightly at his use of the rank he had heard the Admiral use for her, then fell into a furious understanding at his warning. She nodded and turned briefly to the fighter, before rounding on him again. She latched onto his wrist and the expression on her face was darkly suspicious. </em>
+</p><p>
+  <em>“Why should I trust this? Any of this? Why are you helping me?”</em>
+</p><p>
+  <em>“Because the Empire has taken everything from me,” he said and let the pain and anger he felt on a near constant basis come through the voice modulator, “and this is the only way I know how to take something back.” </em>
+</p><p>
+  <em>She released him, but kept searching his impassive stormtrooper armor as if it would give her some kind of insight. “Who are you?”</em>
+</p><p>
+  <em>He twitched. “That’s irrelevant,” he said and turned to blast the homing beacon on the fighter so that once the computers came back online they wouldn’t be able to track her location. “You should leave.”</em>
+</p><p>
+  <em>“Wait,” she said, keeping him from walking away, “at least tell me how I can contact you. If this information is right…we could use you.”</em>
+</p><p>
+  <em>He’d hoped she would say that. He reached up and handed her a small frequency communicator that the Empire had given out to all its officers and which he had modified extensively in the past few weeks. She took it and gave him a questioning look. </em>
+</p><p>
+  <em>“I can pass on information to you using that. If you need to contact me, it’ll transmit the signal and then we can arrange a call from there. If I don’t answer within two standard Coruscant days, assume I won’t be answering.” </em>
+</p><p>
+  <em>She closed her fingers over the device and quickly deposited it in one of the pockets of her flak jacket. Still, she hesitated. “What do I call you?” She asked. </em>
+</p><p>
+  <em>He smiled inside his helmet. “Rako. You can call me Rako.” Why not? Everyone who knew the significance of that name was dead anyway.</em>
+</p><p>
+  <em>She nodded again, and gifted him with an off-kilter (but, he thought, genuine) smile and climbed into the fighter. Once the pilot’s pod had shut, she sent him a small salute and disappeared out of the hanger where he could just make out her lights zipping into hyperspace. A handful of minutes later the systems completed their reboot and a second round of chaos ignited when the Admiral discovered his prize capture was missing.</em>
+</p><p><em>When the Empire touched down on Haveen a month later, it was to a near abandoned planet; officials – including Governor Ekrol and his family – had vanished and the crops and refineries that the Empire had so coveted were either destroyed or still burning. Admiral Laquad was summoned to meet the Emperor himself. He never returned.</em>)</p><p>From there, after what he suspected was a series of vetting missions from Celese and her immediate superiors, he was eventually cleared and given his designation as an official double agent for the rebellion. The reg-borns of the Imperial Army had yet to cotton on that their dutiful clone Commander was the one passing along any information and continued to discuss details of various ventures around him like he was deaf and dumb. It was all he could do some days to keep from screaming (he didn’t even try to stop from rolling his eyes) and at times, he wondered how the hell the Empire succeeded at anything. </p><p>And then someone like Admiral Poole came along and he remembered very quickly. </p><p>Poole reminded Cody of Tarkin in the worst way possible. He was frighteningly efficient, expected results from all of his subordinates and couldn’t care less for the lives of his stormtroopers and many of his officers. He crushed dissention and was, to the extent that many of the Empire’s officers were, a zealot in his devotion to the Emperor and Imperial values. Working under him was like having chunks of his flesh flayed from his body and his self-control was tested minute by minute; hence the small refuge he carved for himself in the lower deck armory. At times, it was all he could do to keep from blasting a hole straight through the kriffing bastard’s heart. </p><p>Not that the fucker had one.</p><p>To his right, the door of the armory opened and soft footsteps padded over to his side. He glanced over as the stormtrooper removed his own helmet and stared into matching amber eyes. Boil lifted an eyebrow at his slumped form. </p><p>“Sir. You look like banthashit.”</p><p>Cody snorted. “Thank you, vod.”</p><p>Boil shrugged, but there was an assessing look on his face. “Poole?”</p><p>“Who else?”</p><p>Boil’s eyes narrowed and his grip on his helmet tightened. “I’m going to enjoy blowing up his ship. And him. When do we get to do that, again, sir?”</p><p>Cody straightened his body completely and sighed. “We don’t know what he’s planning or when it may be happening. Or where for that matter.”</p><p>“So. Not yet.” </p><p>“Not yet.”</p><p>Boil eyed him speculatively. “Does it get easier to tell yourself that?”</p><p>“No.” </p><p>Boil returned his aggravated sigh and then stuffed his helmet back on his head. “Well, then we’ve got work to do, sir. Can’t do that hiding in the kriffing lower deck armory.” </p><p>Cody smothered a wry smile at his second’s displeased tone and took a long breath before putting his own helmet back on and following the other man back into the frustrating fray of Imperial life. No one gave them a second glance as they wound their way through the hallways to the commissary and he kept his eyes trained on Boil’s back as they walked and allowed the sometimes-overwhelming feeling of relief of not being alone wash over him. </p><p>He so rarely saw any of the remaining vod’e and even more rarely were ones he knew; (brothers he’d fought with in the 212th or 501st or his batchmates and those similar in age and experience) that at times immediately following the programming’s short-circuit (<em>chips</em>, he could still remember the haunted look on Rex’s face when he tried to explain Fives meltdown, the incredulity he’d felt when rumors of a clone killing a Jedi had first reached the 212th, now it just made him incandescently angry at himself for not taking any of it seriously) he’d felt like the only clone left in the entirety of the galaxy. The last ones to come out of Kamino, the ones who had never known the Jedi or fought in the GAR or even finished their training, they were different than the brothers he’d known. More like droids, less independence; it was like they’d been simplified somehow; like their genetics had been wiped to a clean slate and fully incorporated with Imperial standards and obedience. It had made being around them nearly impossible post-chip; just one more reminder of how different things were, how the Empire operated and what it valued. </p><p>And the vod’e like him that were left were mostly still caught in the throes of the programming. He saw the distrust they had of the reg-born troopers and the uneasiness they shared at the obvious dismissal of their superiors, but not a one of them mentioned the Jedi, the purge or gave any indication of desertion or resistance. Sometimes, they were even harder to be around than the oblivious shiny’s. </p><p>Well. Most of the time, if he was being honest. </p><p>Then, out of the blue, while he was in the commissary a stormtrooper sat down opposite him, pulled his helmet off and about gave Cody a heart-attack. </p><p>Cody was used to eating mostly alone. He was a clone and an officer which made him a double strike in the social-strata’s of stormtrooper commandry, but occasionally another brother would sit with him for comfort’s sake more than anything. Never had anyone simply strolled up to his table, all but dropped his tray down and slipped into his seat with a kind of disregard that came with familiarity. He’d been curious, then Boil had revealed his face and Cody had felt such a rush of mixed emotions he still couldn’t pinpoint what all of them had been. </p><p>(<em>“Sir.”</em></p><p>
+  <em>“-------”</em>
+</p><p>
+  <em>“Aren’t feeding us any better in this Empire are they? Isn’t everything supposed to be better now? And how’d you manage to get fresh fruit? Is it because you’re an officer?”</em>
+</p><p>
+  <em>“-------”</em>
+</p><p>
+  <em>“Not feeling very talkative today, Commander? That’s fine. I can work with that.”</em>
+</p><p>
+  <em>“-------”</em>
+</p><p>
+  <em>A dubious look. “You’re not damaged, are you? Because that is going to make this much more awkward. Do you know who I am?”</em>
+</p><p>
+  <em>“Boil. What in the karking ---”</em>
+</p><p>
+  <em>“Oh. You do remember. It’s good to see you again, sir, glad you’ve made it through, etc, etc. Are you going to eat that? Because I haven’t had fresh fruit in a lightyear.” </em>
+</p><p>
+  <em>A tray being pushed to the other side of the table. Happy munching.  And a kind of weightless sense of happiness that it was almost enough to make him cry.)</em>
+</p><p>
+Through a strange kind of dance of half-truths and verbal calisthenics, Cody learned that Boil’s own chip had been out-and-out removed when a non-Imperial medi-droid had performed surgery and had mistaken the piece of circuitry for a scrap of shrapnel. Like Cody, the other man had taken a long time to come to terms with what he’d been made to do and then went searching for any remnants of the 212th he could find and managed to get himself transferred to Cody’s outfit when he had found out that his old Commander was still alive.
+</p><p>
+(<em>“What would you have done if I’d still been chipped?”</em>
+</p><p>
+ <em>Boil thumbed his chin at that. “I guess I would’ve had to find some way to dislodge the damned thing.”</em>
+</p><p>
+<em>Silence. “At least tell me you would’ve been subtle about it. Head wounds are not common, vod.”</em>
+</p><p>
+<em>“The very soul of discretion, sir. Probably just would’ve used a good, old-fashioned blaster-whipping.”</em>)
+</p><p>
+From there, Cody had told him about his new status as a spy for the rebellion and Boil had recruited himself into the cause. Between the two of them, they had thwarted no less than a half dozen rebellion ambushes and a dozen other small incursions and saved more people than they ever saw. It kept the nightmares at bay, at least. Most of the time. 
+</p><p>
+(<em>“What does the rebellion call you, Commander?”</em>
+</p><p>
+<em>“Rako.”</em>
+</p><p>
+<em>Boil blinked, then a small, brittle smile crossed his face. “Did the General know about this streak of passive-aggressive vindictiveness, sir?”</em>
+</p><p>
+<em>Cody felt the air in his lungs dissipate at the first casual mention of the General since he’d been put back into his right mind. It felt kind of like how he imagined dying might. “He did.”</em>
+</p><p>
+<em>“That explains so much.” The words stopped there, but Boil’s hand reached out and gripped Cody’s neck briefly in a familial gesture of comfort and understanding.</em>)
+</p><p>
+While Cody focused most of his attention on the gathering of intel and vetting its sources rigorously, Boil kept up his side project of tracking down and locating what remained of the 212th and through what Cody considered a succession of minor miracles, was able to have four of their brothers transferred over to their legion. None had had their chips deactivated and thankfully, Boil didn’t need to resort to beating any of them in the head, just kept throwing short range EMP frequencies at them until they found one that short-circuited the sith-damned things.  
+</p><p>
+For a brief time, all six of them were out of functional commission as he and Boil tried to talk down Crys, Walker, Sero and Rush from the inevitable breakdown that happened in the aftermath (Rush, especially, had a hard time; he’d been the alternate artillery trooper on the cannon that had…well, he and Cody had a lot of sleepless nights for a while), but they’d managed to make it through without anyone noticing how out of it four of their stormtroopers were. A fact that Cody put down to the officers being busy with the welcoming of their new Admiral and their fellow stormtroopers being too frightened of him and Boil to get close enough to see that something was off. 
+</p><p>
+When they’d ended their self-imposed isolation, it was to be greeted by the new Admiral of Fleet, Admiral Telis Poole. The one saving grace of Poole that Cody could see was that he hadn’t been a major player in the Clone Wars and so while he knew intellectually the training and abilities of he and his brothers, he also – like much of the command officers – took those same abilities for granted. It made keeping their operation secret only fractionally more difficult than before, if only because his competence brought with it a more capable group of subordinates and an increased presence of Inquisitors. 
+</p><p>
+Ahead of him, Boil ducked into the mess hall and after picking up the day’s barely palatial rations, they gravitated towards the table where their brothers were already camped out and speaking Mand’o in hushed voices. Like every other day in the Imperial Army, they were given a wide berth; which in turn allowed them to speak more freely than they otherwise would have been able too. It was stunning the kind of advantages there were to being outcasts.
+</p><p>
+“Sir,” Crys said, his blond curls falling over his forehead in soft waves and detracting from his dark expression, “Tell me you’re eating more than that.”
+</p><p>
+Cody glanced down at the mostly barren tray in front of him. Just the idea of the bland food course made him nauseated. “I don’t see how it’s any concern of yours, trooper.”
+</p><p>
+Crys made to harp on him about his lack of nutrients (in the absence of any real medic, he had taken it on himself to badger all of them about their personal health) when Boil dropped one of those strange blue oranges from Felucia on his tray. He shot the other man a look and Boil just shrugged. 
+</p><p>
+“You probably need it.”
+</p><p>
+“Was he hiding in the armory again?” Walker asked, his forehead tattoos wrinkling with his concerned expression. Boil rolled his eyes and nodded, which caused all four of the others to throw him disappointed looks.
+</p><p>
+“You should come down to the training decks when you’re angry, sir,” Sero said, his voice was soft, but the animalistic smile on his face made him instantly more menacing, “Work out the aggression instead of hyperventilating in a room full of bombs.” 
+</p><p>
+Sero’s initial response to most situations was to bash it upside the head and hope for the best. His favorite method of unwinding was to fight as many reg-born troopers as were stupid enough to take him up on it. Beside him, Walker scoffed and pointed his fork at the stubbled trooper. 
+</p><p>
+“You’re going to run out of shiny’s soon and then where will you be? Start challenging the Inquisitors?”
+</p><p>
+Sero rolled his shoulders. “Why not? The Commander beat a General in hand to hand once; pretty sure these bastards aren’t that tough.” 
+</p><p>
+Rush widened his eyes comically and swung them over to Cody. “You beat a General in hand to hand?”
+</p><p>
+“It was just a spar,” Cody muttered as he peeled his slightly off-putting orange, but his protestation went unnoticed by Boil who grinned at their youngest brother. 
+</p><p>
+“General Skywalker,” he said and Rush’s eyes got even wider, “I made Jesse polish my boots every time the 212th and 501st had joint mission after that. I think Rex didn’t know whether to be proud of his vod or embarrassed for his General.” 
+</p><p>
+Cody brushed aside the awe that Rush turned on him and ate the segments of his citrus while pushing Boil’s hand away when he reached over to take a piece back. 
+</p><p>
+ (<em>He remembered that fight like it’d been captured in high def holo, pinning General Skywalker to the mats and the subsequent pout. Commander Tano’s teasing, the delighted whoops of the watching vod’e and General Kenobi, blue eyes dancing and mouth pulling up at the corners in a mischievous smirk; kriff, how Cody had</em> <strong>wanted</strong>). 
+</p><p>
+“So,” Crys said once the table had gone quiet, “should we ask why you needed a visit to your favorite armory?”
+</p><p>
+Instantly, the occupants of the table were on alert as they looked at him. He ate the last of his slices and contemplated the empty tray before sighing. 
+</p><p>
+“The Admiral informed me that a landing party on Corkus was unnecessary as the situation was resolved.”
+</p><p>
+Boil stopped chewing his protein ration and frowned. “Resolved?”
+</p><p>
+“A special forces team ‘took care of it’.”
+</p><p>
+Walker looked a little sick at that, but unsurprised. “And the contact?”
+</p><p>
+Cody clenched his fists together underneath the table. “I was told that they found a rebellion spy hiding among the villagers. The spy was interrogated and found to have no useful information.”
+</p><p>
+Crys looked grim. “They’re dead?”
+</p><p>
+“I believe the Admiral’s words were ‘their betrayal of the Empire was thusly repaid in kind’. Apparently, we’re moving on.”
+</p><p>
+Boil’s face had a terrifying blankness to it and was probably an approximation of the look Cody himself had worn when he’d been updated by the Admiral. Crys cursed softly under his breath, Walker and Sero shared a look and Rush just pushed his tray away. 
+</p><p>
+It was rare that the rebellion wanted to meet any of them in person, but Celese’s last call had been urgent; some kind of information that they didn’t want to risk over the comms. Whatever it was had died with the spy, but it was a dull consolation and they were still as in the dark about what was happening as the rest of the Imperial Army. Worse, he would have to contact Celese and inform her, and she hadn’t looked good in their holo communique. The golden hue of her skin had been drained away and she had a barely healed bruise just visible near her collarbone and a more recent stitched cut above her right eye. He liked Celese; she reminded him a little of Tano at the end, frustrated, but fierce and determined all the same; he hated delivering bad news to her.
+</p><p>
+“And we have no idea what they wanted to tell us?”
+</p><p>
+Cody shook his head and rubbed along the edge of his jawbone. “None. But it was important. They wouldn’t have risked sending someone to us otherwise.”
+</p><p>
+“Now what, sir?”
+</p><p>
+“We keep digging,” he said, “something is being set in motion. There has to be some clue of it here; and in the meantime, I’ll contact Celese and see what I can find out.”
+</p><p>
+“If there’s something to find, we’ll find it, Commander,” Walker said with an assurance that Cody appreciated, even if it felt a bit thin to him. 
+</p><p>
+“No time like the present,” Sero said and stood with his tray and tugged on Walker’s armor, “come on vod, a soldier’s job is never done.”
+</p><p>
+Cody waved them off and Crys forced his no doubt nutrient packed drink at Cody with a stern look and a wordless admonishment to actually drink it before he followed them out of the commissary.
+</p><p>
+“Sir,” Rush said, a saddened ghost of an expression passing over his clean-shaven face, “should I…I mean do you think I should recite a remembrance for them? The contact, I mean.” 
+</p><p>
+Cody felt a punch of pride at the question. Rush had been little more than a shiny himself when the purge happened. As such, he didn’t have the cynicism that pervaded the ranks after the fucked up mess that was Umbara, he hadn’t been there for the seemingly innumerable instances that General Kenobi all but killed himself in battle, and certainly hadn’t been there when the whole of the 212th sat in stupefied horror when they’d been informed of their General’s murder (to be fair, Cody didn’t remember much of what happened after that either; he’d spent most of the days following it either too drunk to think straight or too immersed in work to feel much of anything; it hadn’t been his finest hour) the worst of the battles had been over when he had joined the legion, but he’d survived the memories of Utapau and managed to keep from wallowing in the swells of pure rage that he, Boil and Sero sometimes fell into. A part of Cody wanted to protect him from the more inglorious truths of the Empire and its machinations. 
+</p><p>
+“I think it’s a good idea, Rush,” he answered, “Do you want company?”
+</p><p>
+Rush shook his head. “Probably look too suspicious if a bunch of us were reciting a remembrance when no one’s actually died. As far as they know.”
+</p><p>
+Cody had to give him that. “Okay. As you wish.”
+</p><p>
+“Thank you, sir,” the younger man said, saluted Cody and Boil in turn before joining their other brothers in leaving. 
+</p><p>
+Boil nudged Cody’s shoulder when they were alone and sent him an inquiring look. Cody returned the glance wearily. 
+</p><p>
+“Did the Admiral tell you where we’re going?”
+</p><p>
+“Just said to be ready to make landfall at 1200 hours a day and half from now.”
+</p><p>
+Boil thought for a moment then shrugged. “Yeah. I got nothing. Some poor bastard probably did something to an Imperial official and we’ll have to do some kind of show of force to reign him in.” 
+</p><p>
+Privately, Cody had a feeling that it was probably something a lot worse than the garden variety greedy Governor or official who thought he could outsmart the Empire. Those kinds of things were a dime a dozen out here, Poole wouldn’t be put in charge of that kind of routine mission. He was a doer, the missions his legions fulfilled had a distinct air of bloodiness to them. The fanatical gleam that Cody had learned to fear and despise in equal measure had flickered behind Poole’s grey eyes when he’d spoken to him earlier. That in itself was enough to have the invisible hackles raising all along his back and alarm bells going off in his mind. 
+</p><p>
+“Maybe.”
+</p><p>
+Boil eyed him. “But you don’t think so.”
+</p><p>
+“No.”
+</p><p>
+“Great,” Boil sighed, then gathered up his mess and stood himself. Before he left the table though he rapped lightly on Cody’s shoulder, “Try to sleep, Commander. If it’s as dire as your face is saying it is, every hour will be worth it.”
+</p><p>
+“You too.”
+</p><p>
+Boil mustered up a somewhat forbidding smile, as if he realized how much easier it was to say than to do and then proceeded out the door, helmet settling back on his head as he went. Cody glanced around the room; mostly empty and what few people were there weren’t paying him any attention. Finally, he slipped his own helmet over his head and took comfort in the familiar HUD display before pushing himself to his feet with little grace.
+</p><p>
+He had some calls to make.
+</p>
+  </div>
+  <!--/main-->
+
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/12424332/chapters/28377056#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="qaPtCiOiTJToh3MD5lRbLdjaStIDGK1dSo-PY-2QlUy7seyzb2h9l8eIBiIwCKZ9gjfIpRvNMFh6vqKhdzaa-g"/>
+          <input value="12424332" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=28275018">Comments (25)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/Fusaichi">Fusaichi</a>, <a href="/users/Spatz">Spatz</a>, <a href="/users/WhiskeyMango">WhiskeyMango</a>, <a href="/users/kruspp">kruspp</a>, <a href="/users/centenarian_bandersnatch">centenarian_bandersnatch</a>, <a href="/users/hlnlslw">hlnlslw</a>, <a href="/users/Jobro_Speedwagon">Jobro_Speedwagon</a>, <a href="/users/enby_friend">enby_friend</a>, <a href="/users/Hmmphry">Hmmphry</a>, <a href="/users/SnowAfterFire">SnowAfterFire</a>, <a href="/users/Avengerbunny">Avengerbunny</a>, <a href="/users/Cassie_9827">Cassie_9827</a>, <a href="/users/micky_likes_stuff_01">micky_likes_stuff_01</a>, <a href="/users/jalve11">jalve11</a>, <a href="/users/RosemaryStar">RosemaryStar</a>, <a href="/users/sweetc">sweetc</a>, <a href="/users/agreywood">agreywood</a>, <a href="/users/Astro_Nao">Astro_Nao</a>, <a href="/users/zanaynaydes">zanaynaydes</a>, <a href="/users/DevilBuni">DevilBuni</a>, <a href="/users/JDantes15">JDantes15</a>, <a href="/users/notdexterousatall">notdexterousatall</a>, <a href="/users/Nerinashope">Nerinashope</a>, <a href="/users/laurakaye">laurakaye</a>, <a href="/users/Rasei">Rasei</a>, <a href="/users/shadowsaur">shadowsaur</a>, <a href="/users/JustAnInvisibleReader">JustAnInvisibleReader</a>, <a href="/users/Tismex">Tismex</a>, <a href="/users/SiriusBlacksGirl">SiriusBlacksGirl</a>, <a href="/users/smallestfox">smallestfox</a>, <a href="/users/SpaceCactus">SpaceCactus</a>, <a href="/users/Tirild">Tirild</a>, <a href="/users/ktcbug10">ktcbug10</a>, <a href="/users/lovingeros">lovingeros</a>, <a href="/users/wherever_my_way">wherever_my_way</a>, <a href="/users/kelmendi">kelmendi</a>, <a href="/users/Binouchetruc">Binouchetruc</a>, <a href="/users/Asle8">Asle8</a>, <a href="/users/ally2603">ally2603</a>, <a href="/users/enaidmora">enaidmora</a>, <a href="/users/ivy123">ivy123</a>, <a href="/users/PaisleyPenguin">PaisleyPenguin</a>, <a href="/users/LostRoci">LostRoci</a>, <a href="/users/Gmore">Gmore</a>, <a href="/users/kwqn">kwqn</a>, <a href="/users/twilightabyss">twilightabyss</a>, <a href="/users/tomahto">tomahto</a>, <a href="/users/MakingLemonade">MakingLemonade</a>, <a href="/users/FallenFNAngel">FallenFNAngel</a>, <a href="/users/rosaliepods">rosaliepods</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/12424332/kudos?before=3596037379">1783 more users</a>
+             as well as 
+          1639 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_28275018">
+  <form class="new_comment" id="comment_for_28275018" action="/chapters/28275018/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="v1hIwApfDLXjIX1WyVUyVaLKB2mkM-BqBsRfTzV-8S2tSkl5RpU9tswuCHcfCc8F-CeFHrzmfW829XKNr9j-mw"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_28275018">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_28275018" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_28275018=new LiveValidation('comment_name_for_28275018',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_28275018.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_28275018">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_28275018" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_28275018=new LiveValidation('comment_email_for_28275018',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_28275018.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_28275018" class="landmark">Comment</label>
+        <textarea id="comment_content_for_28275018" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_28275018" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_28275018_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_28275018">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_28275018=new LiveValidation('comment_content_for_28275018',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_28275018.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_28275018.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_28275018" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/12424332/hit_count.json")})</script>
+
+
+  </body>
+</html>

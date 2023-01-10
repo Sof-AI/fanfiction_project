@@ -1,0 +1,1096 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Different Loves Look Not the Same - Chapter 1 - I_Gave_You_Fair_Warning - Star Wars - All Media Types [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="BSaQestLXBdzFj6m8KMWxLssDaMnMrzkhWC5qfsaL75-EBCe7IW8Eqd6y8I5mqOYNwp6FW_ZoT_DgLnqm3uutA"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="yclok33B_1VAZBiQMg205e6ad6OR-xpJ3QbgUoppJNiy_-h3Wg8fUJQI7fT7NAG5YrwAFdkQB5Kb5uAR6gil0g"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: lex m/m (mature OR explicit)</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/11072238?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/11072238/chapters/38875982#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/11072238/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/11072238/chapters/24693039" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="24693039">1. Chapter 1</option>
+<option value="38875982">2. Chapter 2</option>
+<option value="54007393">3. Chapter 3</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/11072238/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=24693039">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/11072238/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/11072238/Different%20Loves%20Look%20Not.azw3?updated_at=1581081477">AZW3</a></li>
+          <li><a href="/downloads/11072238/Different%20Loves%20Look%20Not.epub?updated_at=1581081477">EPUB</a></li>
+          <li><a href="/downloads/11072238/Different%20Loves%20Look%20Not.mobi?updated_at=1581081477">MOBI</a></li>
+          <li><a href="/downloads/11072238/Different%20Loves%20Look%20Not.pdf?updated_at=1581081477">PDF</a></li>
+          <li><a href="/downloads/11072238/Different%20Loves%20Look%20Not.html?updated_at=1581081477">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Mature/works">Mature</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Rape*s*Non-Con/works">Rape/Non-Con</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Gen/works">Gen</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Star%20Wars%20-%20All%20Media%20Types/works">Star Wars - All Media Types</a></li><li><a class="tag" href="/tags/Star%20Wars%20Prequel%20Trilogy/works">Star Wars Prequel Trilogy</a></li><li><a class="tag" href="/tags/Star%20Wars:%20The%20Clone%20Wars%20(2008)%20-%20All%20Media%20Types/works">Star Wars: The Clone Wars (2008) - All Media Types</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Obi-Wan%20Kenobi%20*a*%20Ahsoka%20Tano/works">Obi-Wan Kenobi &amp; Ahsoka Tano</a></li><li><a class="tag" href="/tags/Qui-Gon%20Jinn%20*a*%20Obi-Wan%20Kenobi/works">Qui-Gon Jinn &amp; Obi-Wan Kenobi</a></li><li><a class="tag" href="/tags/Obi-Wan%20Kenobi*s*Satine%20Kryze/works">Obi-Wan Kenobi/Satine Kryze</a></li><li><a class="tag" href="/tags/CT-7567%20%7C%20Rex%20*a*%20Ahsoka%20Tano/works">CT-7567 | Rex &amp; Ahsoka Tano</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Obi-Wan%20Kenobi/works">Obi-Wan Kenobi</a></li><li><a class="tag" href="/tags/Ahsoka%20Tano/works">Ahsoka Tano</a></li><li><a class="tag" href="/tags/CT-7567%20%7C%20Rex/works">CT-7567 | Rex</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Vague%20Conversation%20of%20Past%20Rape/works">Vague Conversation of Past Rape</a></li><li><a class="tag" href="/tags/Vague%20Conversation%20of%20Past%20Torture/works">Vague Conversation of Past Torture</a></li><li><a class="tag" href="/tags/Vague%20Conversation%20of%20Past%20Gelding/works">Vague Conversation of Past Gelding</a></li><li><a class="tag" href="/tags/Heavy%20Angst/works">Heavy Angst</a></li><li><a class="tag" href="/tags/Aftermath%20of%20Torture/works">Aftermath of Torture</a></li><li><a class="tag" href="/tags/Unresolved%20Ending/works">Unresolved Ending</a></li><li><a class="tag" href="/tags/Offscreen%20Torture/works">Offscreen Torture</a></li><li><a class="tag" href="/tags/discussion%20of%20scars/works">discussion of scars</a></li><li><a class="tag" href="/tags/Discussion%20of%20maimed%20Hands/works">Discussion of maimed Hands</a></li><li><a class="tag" href="/tags/Obi-Wan%20Loses%20an%20Eye%20Offscreen/works">Obi-Wan Loses an Eye Offscreen</a></li><li><a class="tag" href="/tags/Talking%20and%20Emotions/works">Talking and Emotions</a></li><li><a class="tag" href="/tags/Sad/works">Sad</a></li><li><a class="tag" href="/tags/cliffhanger%20ending/works">cliffhanger ending</a></li><li><a class="tag" href="/tags/Hurt%20Obi-Wan%20Kenobi/works">Hurt Obi-Wan Kenobi</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2017-06-02</dd><dt class="status">Completed:</dt><dd class="status">2020-02-07</dd><dt class="words">Words:</dt><dd class="words">6198</dd><dt class="chapters">Chapters:</dt><dd class="chapters">3/3</dd><dt class="comments">Comments:</dt><dd class="comments">127</dd><dt class="kudos">Kudos:</dt><dd class="kudos">1296</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/11072238/bookmarks">213</a></dd><dt class="hits">Hits:</dt><dd class="hits">14523</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Different Loves Look Not the Same
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/I_Gave_You_Fair_Warning/pseuds/I_Gave_You_Fair_Warning">I_Gave_You_Fair_Warning</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>Ahsoka is too cavalier about their capture. It's time Obi-Wan has the talk Anakin refuses to have with her:</p>
+<p>The good guys don't always win.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>To some, the story might feel like it ends in a cliffhanger. There are currently no sparkles gathered around it for a continuation, so unless that changes, this is it.</p>
+<p>Obi-Wan is very discrete in his words, since the point isn't the details, it's the overall impression. Still, torture, emasculation, and rape are discussed. It's mild for me, but keep in mind it's still me writing this. Mild is subjective.</p>
+    </blockquote>
+
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/11072238/chapters/24693039">Chapter 1</a>
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p> </p>
+<p>“Ahsoka.”</p>
+<p>There was something in Obi-Wan's voice that had the younger Jedi's blood flash freezing.</p>
+<p>“When they take you in to interrogate you, don't provoke them.”</p>
+<p>
+  <span>
+    <span> Ahsoka frowned. “We provoke </span>
+  </span>
+  <em>
+    <span>everyone</span>
+  </em>
+  <span>
+    <span>, Master. You're the one who taught me how.”</span>
+  </span>
+</p>
+<p>“Not here, Ahsoka.” He looked so grave, his eyes so sorrowful—</p>
+<p>“I don't get it. It's just Death Watch guys. I've been captured by them before and got myself out just fine.”</p>
+<p>
+  <span>
+    <span> “They're not Death Watch, Ahsoka. Pre Vizsla all but mind-wiped his followers into generic commandos. They may be Mandalorians in armor, but they are not </span>
+  </span>
+  <em>
+    <span>Mandos.</span>
+  </em>
+  <span>
+    <span>”</span>
+  </span>
+</p>
+<p>Ahsoka's frown deepened. “So... I talk back and they beat me up extra. I'm not understanding.”<br/> “Ahsoka... do you remember the scar running down my chest and over my stomach?”<br/> “Yeah. Anakin said it was a sword wound you nearly didn't get away from. Before he became yours.”<br/> “Is that what he assumed?” Obi-Wan took a deep breath, something flickering behind his eyes. If Ahsoka didn't know better, she might describe it as panic. “It was a knife. You— you have no idea what it feels like to have someone's hand in there, just... feeling around.”</p>
+<p>“They...” Ahsoka's voice died.</p>
+<p>Obi-Wan swallowed. “They also— they gelded me, Ahsoka. After— after they played.”</p>
+<p>Ahsoka's eyes widened, then her gaze flicked away as fear finally began to build in her heart.</p>
+<p>
+  <span>
+    <span> “</span>
+  </span>
+  <em>
+    <span>Do not </span>
+  </em>
+  <span>
+    <span>provoke them. I don't care how clever your joke is, how helpless silence makes you feel, </span>
+  </span>
+  <em>
+    <span>do not </span>
+  </em>
+  <span>
+    <span>provoke.”</span>
+  </span>
+</p>
+<p>
+  <span>
+    <span> Ahsoka risked a glance in his direction, found him watching her with worried, </span>
+  </span>
+  <em>
+    <span>so </span>
+  </em>
+  <span>
+    <span>worried eyes. “How much does Anakin know?”</span>
+  </span>
+</p>
+<p><span><span> “None of it.”<br/> “It might help him.”<br/> Obi-Wan narrowed his eyes. “How. So he can worry even </span></span><em><span>more </span></em><span><span>when I'm caught? So he can baby me because I'm not </span></span><em><span>fully </span></em><span><span>a man?”</span></span><br/> “Because he thinks you can't understand the horrors of his past.”</p>
+<p>“He's never said anything.”<br/> Ahsoka nodded. “Yeah.”</p>
+<p>Obi-Wan's expression turned to one kicked in the gut, and he closed his eyes. “He claims I don't trust him enough, yet he doesn't trust me.” He dragged in a shaking breath. “Alright, Ahsoka. We're going to search this cell for weaknesses.”</p>
+<p>“And talk while we work?”</p>
+<p>
+  <span></span>
+    <span> “Exactly.”<br/> The investigation was far too rote for Ahsoka's comfort. </span>
+  
+  <em>
+    <span>We sure get caught a lot. </span>
+  </em>
+  <span><span>“I won't provoke, Master. Don't worry about me.”</span><br/> “Thank you.”</span>
+</p>
+<p>“What about you?”<br/> “There's two options. Either they will torture you to get information out of me, or the other way around. If there's anyone who was here when I was last caught, they won't torture you to get to me.”</p>
+<p>Ahsoka frowned. “Why not?”</p>
+<p>“Because they will have seen me not break when they tortured my master and Satine, and they only have so much time before Anakin gets here.”</p>
+<p>
+  <span>
+    <span> “Wait, if what they did to </span>
+  </span>
+  <em>
+    <span>you... </span>
+  </em>
+  <span>
+    <span>what did they do to </span>
+  </span>
+  <em>
+    <span>them—</span>
+  </em>
+  <span>
+    <span>?”</span>
+  </span>
+</p>
+<p>Obi-Wan froze. When he spoke, his voice was a whisper. “Unspeakable things.”</p>
+<p>“And you let them, you didn't give them what they wanted?” Ahsoka asked, disbelieving.</p>
+<p>He turned to look at her, something pained yet calm in his eyes. “Mandalore was at stake. All three of us, when we made the decision to enter that fight, signed up to endure whatever was necessary to win it. There was too much at stake, too many lives, to give up that information.”</p>
+<p>“I don't...” Ahsoka tried to comprehend what he was saying.</p>
+<p>“I was deemed to be the weakest link. I wasn't Mando, and I had the least experience. They hurt Qui-Gon first, then Satine. When I gave them nothing, they started in on me to try to break one of the others.”</p>
+<p>
+  <span>
+    <span> Ahsoka tried to imagine the Satine she knew watching Master Kenobi suffer such terrible violation and </span>
+  </span>
+  <em>
+    <span>not </span>
+  </em>
+  <span>
+    <span>give the attackers everything they wanted. She couldn't </span>
+  </span>
+  <em>
+    <span>understand—</span>
+  </em>
+</p>
+<p>
+  <span>
+    <span>“The odds are high that once they recognize my scars, they're going to decide you are the weak link. You need to decide ahead of time what you're going to do.”</span>
+  </span>
+</p>
+<p>“Hopefully Anakin gets here before tha—”</p>
+<p>“No,” Obi-Wan interrupted. “You need to know what you're willing to do before, or you will be lost in the middle.”</p>
+<p>
+  <span>
+    <span> “What if they hurt me?” Ahsoka whispered. “What if— they want to cut </span>
+  </span>
+  <em>
+    <span>me </span>
+  </em>
+  <span>
+    <span>open and rape </span>
+  </span>
+  <em>
+    <span>me. </span>
+  </em>
+  <span>
+    <span>You've lived it, what would you do if they were going to do the same to </span>
+  </span>
+  <em>
+    <span>me?</span>
+  </em>
+  <span>
+    <span>”</span>
+  </span>
+</p>
+<p>Obi-Wan looked her in the eye. “I will not give up the intel.”</p>
+<p>The fear was even stronger now, burning in her veins.</p>
+<p>“That's not the choice Anakin would make,” she pointed out, trying to keep her voice from shaking.</p>
+<p>“I know.”</p>
+<p>
+  <span>
+    <span> “I can't let them— how could </span>
+  </span>
+  <em>
+    <span>you </span>
+  </em>
+  <span>
+    <span>let them—”</span>
+  </span>
+</p>
+<p>
+  <span>
+    <span> “You swore to the orphanage you would keep them safe. Did you mean that?” His voice had grown stern. “Perhaps you should have said you would keep their secret safe unless it became uncomfortable or possibly fatal?”<br/> “</span>
+  </span>
+  <em>
+    <span>No one </span>
+  </em>
+  <span>
+    <span>would expect you to hold up—”</span>
+  </span>
+</p>
+<p>
+  <span>
+    <span> “Has Anakin </span>
+  </span>
+  <em>
+    <span>not </span>
+  </em>
+  <span>
+    <span>explained what you might face out here?”<br/> “Rape and dismemberment? </span>
+  </span>
+  <em>
+    <span>No</span>
+  </em>
+  <span>
+    <span>!”</span>
+  </span>
+</p>
+<p>
+  <span></span>
+    <span> Obi-Wan looked stricken. “So you didn't know what you promised.”<br/> “How </span>
+  
+  <em>
+    <span>could I</span>
+  </em>
+  <span><span>?”</span><br/> “If you're going to take a young adult into a war, they need to know what might happen.” Obi-Wan sighed. “I am sorry, Ahsoka. He has wronged you.”</span>
+</p>
+<p>
+  <span>
+    <span> “No, he promised he would always </span>
+  </span>
+  <em>
+    <span>save me—</span>
+  </em>
+  <span>
+    <span>”</span>
+  </span>
+</p>
+<p>“Sometimes a master can't.” Obi-Wan's eyes went sad. “Do you think mine loved me any less?”</p>
+<p>
+  <span>
+    <span> Ahsoka snapped her mouth shut. </span>
+  </span>
+  <em>
+    <span>He didn't fight hard enough.</span>
+  </em>
+</p>
+<p>
+  <span>
+    <span> “He had no business bringing you here without you knowing the stakes, and what it might cost you. He fed you glittering pictures of adventure and glory, but that is not what war is, Ahsoka. Many warriors </span>
+  </span>
+  <em>
+    <span>don't come home, </span>
+  </em>
+  <span>
+    <span>or if they do, they are irreparably changed.”</span>
+  </span>
+</p>
+<p>
+  <span>
+    <span> Ahsoka stared at him, breathing heavily, torn between wanting to cry and needing to throw something at Obi-Wan's head for saying such </span>
+  </span>
+  <em>
+    <span>hateful </span>
+  </em>
+  <span>
+    <span>things about Anakin, but—<br/> “We always get out,” she whispered. “It's </span>
+  </span>
+  <em>
+    <span>us.</span>
+  </em>
+  <span>
+    <span>”</span>
+  </span>
+</p>
+<p>“No one is invincible, Ahsoka.”</p>
+<p>“You're going to let them hurt me.”<br/> “I'm going to fight for you.”</p>
+<p>
+  <span>
+    <span> “You're going to let them—” her breathing hitched into a low whine. “I've never even had </span>
+  </span>
+  <em>
+    <span>sex before, </span>
+  </em>
+  <span>
+    <span>Master, I— you'd let </span>
+  </span>
+  <em>
+    <span>this </span>
+  </em>
+  <span>
+    <span>be my </span>
+  </span>
+  <em>
+    <span>first experience—</span>
+  </em>
+  <span>
+    <span>?”</span>
+  </span>
+</p>
+<p>
+  <span>
+    <span> Tears filled his eyes. “It's not right for you to expect saving from me. It's your right to know what I will do before it happens.”<br/> “I hate you,” Ahsoka choked. “I </span>
+  </span>
+  <em>
+    <span>hate </span>
+  </em>
+  <span>
+    <span>you, I thought you </span>
+  </span>
+  <em>
+    <span>loved </span>
+  </em>
+  <span>
+    <span>us, I—”</span>
+  </span>
+</p>
+<p>Obi-Wan turned back to his search of the room.</p>
+<p>
+  <span>
+    <span> “What is </span>
+  </span>
+  <em>
+    <span>wrong with you</span>
+  </em>
+  <span>
+    <span>?” Ahsoka shrieked. “What was wrong with your </span>
+  </span>
+  <em>
+    <span>master </span>
+  </em>
+  <span>
+    <span>and your </span>
+  </span>
+  <em>
+    <span>lover </span>
+  </em>
+  <span>
+    <span>that they would not </span>
+  </span>
+  <em>
+    <span>save you from that?</span>
+  </em>
+  <span>
+    <span>”</span>
+  </span>
+</p>
+<p>
+  <span>
+    <span> “And </span>
+  </span>
+  <em>
+    <span>condemn </span>
+  </em>
+  <span>
+    <span>countless others to it?” he demanded, spinning around. “Ones who </span>
+  </span>
+  <em>
+    <span>hadn't </span>
+  </em>
+  <span>
+    <span>volunteered for this fight? Ones with </span>
+  </span>
+  <em>
+    <span>less </span>
+  </em>
+  <span>
+    <span>ability to defend themselves than we had? You think I would throw the defenseless to the wolves because three people who </span>
+  </span>
+  <em>
+    <span>knew this might happen </span>
+  </em>
+  <span>
+    <span>had to face a terrible death bravely?”</span>
+  </span>
+</p>
+<p>
+  <span>
+    <span> Ahsoka bit her lip, the tears coursing freely down her cheeks. “Anakin would find a way to accomplish </span>
+  </span>
+  <em>
+    <span>both.</span>
+  </em>
+  <span>
+    <span>”</span>
+  </span>
+</p>
+<p>
+  <span>
+    <span> “I am not Anakin,” Obi-Wan whispered. “He has the power to back up his ego. Do you know what happened whenever I tried it, Ahsoka? People died. People suffered. </span>
+  </span>
+  <em>
+    <span>Children </span>
+  </em>
+  <span>
+    <span>suffered. Anakin promises to save you when he </span>
+  </span>
+  <em>
+    <span>knows </span>
+  </em>
+  <span>
+    <span>he might not be able to. That is cruel.”</span>
+  </span>
+</p>
+<p>
+  <span>
+    <span> “You told </span>
+  </span>
+  <em>
+    <span>him </span>
+  </em>
+  <span>
+    <span>that, though—”</span>
+  </span>
+</p>
+<p>
+  <span>
+    <span> “No, I never did. I never told him we would escape unscathed. I never said we might not have to pay a heavy price. I was level with him. And I did </span>
+  </span>
+  <em>
+    <span>not </span>
+  </em>
+  <span>
+    <span>take him to face Mandos as a child.”</span>
+  </span>
+</p>
+<p>
+  <span>
+    <span> “But you brought </span>
+  </span>
+  <em>
+    <span>me </span>
+  </em>
+  <span>
+    <span>here!”</span>
+  </span>
+</p>
+<p>“Are you a child?”</p>
+<p>
+  <span>
+    <span> Ahsoka grit her teeth. She kept wanting them to forget the two years she had left before majority. </span>
+  </span>
+  <em>
+    <span>Can't have it both ways.</span>
+  </em>
+</p>
+<p>Obi-Wan pressed his back to the wall and slid to the floor, his head hanging in defeat.</p>
+<p>Ahsoka paused, reaching out to the Force to try to understand—</p>
+<p>
+  <span>
+    <span> Discovered overwhelming </span>
+  </span>
+  <em>
+    <span>fear, </span>
+  </em>
+  <span>
+    <span>grief, </span>
+  </span>
+  <em>
+    <span>anger.</span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>What do I know of him?</span>
+  </em>
+</p>
+<p>
+  <em> I know I've seen him shield me from harm at every turn. I've seen him take blaster bolts, explosions, and impacts for me. I've caught him watching me with pride, and... love. The same for Anakin.</em>
+</p>
+<p>
+  <em> I know he doesn't risk others' lives or wellbeing lightly. Civilian, Jedi, or Clone.</em>
+</p>
+<p>
+  <em>
+    <span>I know he struggles when he doesn't manage to bring everybody home safe.</span>
+  </em>
+</p>
+<p>She moved to sit beside him.</p>
+<p>He looked up, surprised and wary.</p>
+<p>She leaned against his shoulder.</p>
+<p>Hesitant, he wrapped an arm around her, hand lightly soothing her shoulder.</p>
+<p>“I'm sorry, Padawan. You've been dragged into something you did not consent to.”</p>
+<p>“I know now.”</p>
+<p>The arm around her tightened, and cold lips pressed to her montral. “I'm sorry you learned this way,” he breathed.</p>
+<p>“So if he gets here late, what's going to happen? I won't yell this time.”<br/> “It depends.” Obi-Wan sighed. “I still think it's highly likely they will decide you are the weaker, less experienced link. They will think their chances are higher if they torture me to make you talk. They may even threaten to kill me.”</p>
+<p>Ahsoka's pulse sped up again.</p>
+<p>
+  <span>
+    <span> “They may even actually kill me, Ahsoka.”<br/> “Master, we go home </span>
+  </span>
+  <em>
+    <span>together. </span>
+  </em>
+  <span>
+    <span>Always. Promise me.”</span>
+  </span>
+</p>
+<p>Ahsoka felt the fingers on her shoulder squeeze, felt him sending her comfort in the Force.</p>
+<p>“I only make promises when I know I can keep them. I don't make them lightly. I don't make them to make people feel better.”</p>
+<p>
+  <span>
+    <span> Ahsoka felt utterly stripped of power. </span>
+  </span>
+  <em>
+    <span>Is this what it feels like to be a clone who's seen years of war? That grim look in Rex's eye when Anakin says </span>
+  </em>
+  <span>
+    <span>of course we survived</span>
+  </span>
+  <em>
+    <span>? Because... so many don't.</span>
+  </em>
+</p>
+<p>
+  <em>
+    <span> So many </span>
+  </em>
+  <span>
+    <span>Jedi </span>
+  </span>
+  <em>
+    <span>don't. I mean, Anakin tries not to look at the numbers, he says they made mistakes, but...</span>
+  </em>
+</p>
+<p>
+  <em> Everybody makes mistakes.</em>
+</p>
+<p>
+  <em> He assumes they died because they weren't as good as us. Obi-Wan doesn't seem to think that's true. Obi-Wan has seen the great die.</em>
+</p>
+<p>“Ahsoka,” Obi-Wan whispered. “I'm going to give you a promise.”<br/> She stilled, realizing the weight of what he'd just said.</p>
+<p>“No matter what happens, during the interrogation or after, no matter what choice you make, I will love you. I want you to stand firm. I've endured this once, I can again. I knew what I was getting into when I signed up. The orphans didn't, Ahsoka. I'm willing to take this for them. But if you break, I will love you. If you refuse and they kill me, I will love you. If Anakin arrives in time and we all walk out of this unharmed, I will love you. If they hurt you, I will love you. If I have to stand there and watch them harm you in order to protect those children, I will love you through it all, and never stop loving you afterward. That, I promise you.”</p>
+<p>Ahsoka wrapped her arms around him, burrowing deeper into his side, silent tears dampening his tunic. “Master.”</p>
+<p>He held her until there was noise in the hall.</p>
+<p>Then he led her to the door and they took up silent positions on either side.</p>
+<p>
+  <span>
+    <span> They would fight. They would fight hard, desperate, dirty, </span>
+  </span>
+  <em>
+    <span>vicious—</span>
+  </em>
+</p>
+<p>
+  <span>
+    <span>And maybe they could rescue themselves.</span>
+  </span>
+</p>
+<p> </p>
+<p> </p>
+<p> </p>
+  </div>
+  <!--/main-->
+
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/11072238/chapters/38875982#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="EBZf7nOY9ng9JxU2IWxtuhIQrkKAlHgv0SPUYs0T0JhrIN8KVFYWfelL4FLoVdjmnjbZ9Mh_ZfSXw9QhrXJRkg"/>
+          <input value="11072238" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=24693039">Comments (42)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/justlukahere">justlukahere</a>, <a href="/users/veryace">veryace</a>, <a href="/users/ambiguous_nights">ambiguous_nights</a>, <a href="/users/abyssiniapleasant">abyssiniapleasant</a>, <a href="/users/Haikouichthys">Haikouichthys</a>, <a href="/users/bethandjack16">bethandjack16</a>, <a href="/users/Moonlovingvampire">Moonlovingvampire</a>, <a href="/users/InklingDancer">InklingDancer</a>, <a href="/users/deastris">deastris</a>, <a href="/users/thewitchinthewoods">thewitchinthewoods</a>, <a href="/users/JustAnotherLameUsername">JustAnotherLameUsername</a>, <a href="/users/guaguaputinaalstroemeria">guaguaputinaalstroemeria</a>, <a href="/users/Astro_Nao">Astro_Nao</a>, <a href="/users/catface7777">catface7777</a>, <a href="/users/GingerBiscuitsandBooks">GingerBiscuitsandBooks</a>, <a href="/users/HappilyScreechingInfluencer">HappilyScreechingInfluencer</a>, <a href="/users/ATLenya">ATLenya</a>, <a href="/users/bahki">bahki</a>, <a href="/users/guiltypleaschesters">guiltypleaschesters</a>, <a href="/users/BarryPotter2003">BarryPotter2003</a>, <a href="/users/JustAnInvisibleReader">JustAnInvisibleReader</a>, <a href="/users/geniusbomb">geniusbomb</a>, <a href="/users/fox23">fox23</a>, <a href="/users/weareteenagegamers">weareteenagegamers</a>, <a href="/users/Amyreadsandstresses">Amyreadsandstresses</a>, <a href="/users/Quadratur">Quadratur</a>, <a href="/users/andyandrei">andyandrei</a>, <a href="/users/Snacks_4life">Snacks_4life</a>, <a href="/users/AkumaKurayami">AkumaKurayami</a>, <a href="/users/DireHydroid">DireHydroid</a>, <a href="/users/RedRauber">RedRauber</a>, <a href="/users/AnnaSkylarKenobi_23">AnnaSkylarKenobi_23</a>, <a href="/users/Sunnystar">Sunnystar</a>, <a href="/users/J_u_l_e_s">J_u_l_e_s</a>, <a href="/users/Shes_from_the_Twilight_Zone">Shes_from_the_Twilight_Zone</a>, <a href="/users/Night_Fury">Night_Fury</a>, <a href="/users/asusefulasair">asusefulasair</a>, <a href="/users/RankstrailOfDagliar">RankstrailOfDagliar</a>, <a href="/users/Brownhairandeyes">Brownhairandeyes</a>, <a href="/users/EllieWK">EllieWK</a>, <a href="/users/red_and_dead_inside">red_and_dead_inside</a>, <a href="/users/katlotte">katlotte</a>, <a href="/users/rootintootincowboyshootin">rootintootincowboyshootin</a>, <a href="/users/BubblySkootch">BubblySkootch</a>, <a href="/users/SorciereMystique">SorciereMystique</a>, <a href="/users/Talmoon">Talmoon</a>, <a href="/users/ASinglePlotIdea">ASinglePlotIdea</a>, <a href="/users/HelloQueen">HelloQueen</a>, <a href="/users/tersyne">tersyne</a>, <a href="/users/TriElaness7">TriElaness7</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/11072238/kudos?before=3401648854">702 more users</a>
+             as well as 
+          544 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_24693039">
+  <form class="new_comment" id="comment_for_24693039" action="/chapters/24693039/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="dKPkwOTjqsHXu367Qq0FdImwnN14AdEalz5_1LwGPIcPlWQkwy1KxAPXi9-LlLAoBZbrazDqzMHR3n-X3Ge9jQ"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_24693039">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_24693039" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_24693039=new LiveValidation('comment_name_for_24693039',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_24693039.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_24693039">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_24693039" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_24693039=new LiveValidation('comment_email_for_24693039',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_24693039.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_24693039" class="landmark">Comment</label>
+        <textarea id="comment_content_for_24693039" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_24693039" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_24693039_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_24693039">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_24693039=new LiveValidation('comment_content_for_24693039',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_24693039.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_24693039.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_24693039" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/11072238/hit_count.json")})</script>
+
+
+  </body>
+</html>

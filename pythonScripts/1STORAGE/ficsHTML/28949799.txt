@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+      <meta name="robots" content="noindex"/>
+      <meta name="googlebot" content="noindex"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Sailing the Stars - Chapter 1 - esama - Multifandom [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="Q2uZ2blsSGcyGd61w9MVpQeKOcD0beFVpU0XLpQOV0g6hE0RS6rli6sG3aBaWWevDwpjR2o_VK8TAW4fe8YU1w"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="TdoCwFesc7S2EYxV5ZBJsjLIWDptTEGZkv1nszYKwOE0NdYIpWreWC8Oj0B8Gju4OkgCvfMe9GMksR6C2cKDfg"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: lex m/m (mature OR explicit)</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/28949799?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/28949799/chapters/71069442#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/28949799/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/28949799/chapters/71035644" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="71035644">1. Chapter 1</option>
+<option value="71069442">2. Chapter 2</option>
+<option value="71125827">3. Chapter 3</option>
+<option value="71187636">4. Chapter 4</option>
+<option value="71237607">5. Chapter 5</option>
+<option value="71291424">6. Chapter 6</option>
+<option value="71348934">7. Chapter 7</option>
+<option value="71442918">8. Chapter 8</option>
+<option value="71517924">9. Chapter 9</option>
+<option value="71579367">10. Chapter 10</option>
+<option value="71634264">11. Chapter 11</option>
+<option value="71682360">12. Chapter 12</option>
+<option value="71737200">13. Chapter 13</option>
+<option value="71793234">14. Chapter 14</option>
+<option value="71852958">15. Chapter 15</option>
+<option value="71925222">16. Chapter 16</option>
+<option value="71979162">17. Chapter 17</option>
+<option value="72083907">18. Chapter 18</option>
+<option value="72170793">19. Chapter 19</option>
+<option value="72284262">20. Chapter 20</option>
+<option value="72441231">21. Chapter 21</option>
+<option value="72582789">22. Chapter 22</option>
+<option value="72768033">23. Chapter 23</option>
+<option value="72859827">24. Chapter 24</option>
+<option value="72967086">25. Chapter 25</option>
+<option value="73137660">26. Chapter 26</option>
+<option value="73193892">27. Chapter 27</option>
+<option value="73318965">28. Chapter 28</option>
+<option value="73369878">29. Chapter 29</option>
+<option value="73480158">30. Chapter 30</option>
+<option value="73577355">31. Chapter 31</option>
+<option value="73860708">32. Chapter 32</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/28949799/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=71035644">Comments </a>
+  </li>
+
+
+
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/28949799/Sailing%20the%20Stars.azw3?updated_at=1644685084">AZW3</a></li>
+          <li><a href="/downloads/28949799/Sailing%20the%20Stars.epub?updated_at=1644685084">EPUB</a></li>
+          <li><a href="/downloads/28949799/Sailing%20the%20Stars.mobi?updated_at=1644685084">MOBI</a></li>
+          <li><a href="/downloads/28949799/Sailing%20the%20Stars.pdf?updated_at=1644685084">PDF</a></li>
+          <li><a href="/downloads/28949799/Sailing%20the%20Stars.html?updated_at=1644685084">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Teen%20And%20Up%20Audiences/works">Teen And Up Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Gen/works">Gen</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Assassin&#39;s%20Creed%20-%20All%20Media%20Types/works">Assassin&#39;s Creed - All Media Types</a></li><li><a class="tag" href="/tags/Star%20Wars%20-%20All%20Media%20Types/works">Star Wars - All Media Types</a></li><li><a class="tag" href="/tags/Star%20Wars:%20Jedi:%20Fallen%20Order%20(Video%20Game)/works">Star Wars: Jedi: Fallen Order (Video Game)</a></li><li><a class="tag" href="/tags/Star%20Wars:%20The%20Clone%20Wars%20(2008)%20-%20All%20Media%20Types/works">Star Wars: The Clone Wars (2008) - All Media Types</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Desmond%20Miles/works">Desmond Miles</a></li><li><a class="tag" href="/tags/Eno%20Cordova/works">Eno Cordova</a></li><li><a class="tag" href="/tags/BD-1%20(Star%20Wars)/works">BD-1 (Star Wars)</a></li><li><a class="tag" href="/tags/Original%20Clone%20Trooper%20Character(s)/works">Original Clone Trooper Character(s)</a></li><li><a class="tag" href="/tags/Original%20Droid%20Characters%20(Star%20Wars)/works">Original Droid Characters (Star Wars)</a></li><li><a class="tag" href="/tags/Barriss%20Offee/works">Barriss Offee</a></li><li><a class="tag" href="/tags/Luminara%20Unduli/works">Luminara Unduli</a></li><li><a class="tag" href="/tags/Shaak%20Ti/works">Shaak Ti</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Alternate%20Universe/works">Alternate Universe</a></li><li><a class="tag" href="/tags/Time%20Travel/works">Time Travel</a></li><li><a class="tag" href="/tags/Epistolary/works">Epistolary</a></li><li><a class="tag" href="/tags/Don&#39;t%20copy%20to%20another%20site/works">Don&#39;t copy to another site</a></li><li><a class="tag" href="/tags/Droid%20Feels%20(Star%20Wars)/works">Droid Feels (Star Wars)</a></li><li><a class="tag" href="/tags/Clone%20Feels%20(Star%20Wars)/works">Clone Feels (Star Wars)</a></li><li><a class="tag" href="/tags/Brotherhood/works">Brotherhood</a></li><li><a class="tag" href="/tags/Rebuilding/works">Rebuilding</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2021-01-24</dd><dt class="status">Completed:</dt><dd class="status">2021-03-12</dd><dt class="words">Words:</dt><dd class="words">114386</dd><dt class="chapters">Chapters:</dt><dd class="chapters">32/32</dd><dt class="comments">Comments:</dt><dd class="comments">3490</dd><dt class="kudos">Kudos:</dt><dd class="kudos">5356</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/28949799/bookmarks">1546</a></dd><dt class="hits">Hits:</dt><dd class="hits">150040</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Sailing the Stars
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/esama/pseuds/esama">esama</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>Desmond accidentally strands himself in distant future, where the Solar System has been long ago abandoned, and humans have spread themselves across the stars.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>Betaed by the wonderful Nimadge, thank you very much</p>
+    </blockquote>
+
+    <p class="jump">(See the end of the work for <a href="/chapters/73860708#work_endnotes">more notes</a>.)</p>
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/28949799/chapters/71035644">Chapter 1</a>
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p>It makes perfect sense at the time.</p><p>Desmond's job is to stop the Solar Flare from scorching the Earth. And that's okay, that's <em>fine,</em> he has the means to do it, Minerva's awe-inspiring, terrifying Deus ex Machina is right there, prepped and ready to go, so he can do that, no biggy. He'll just flip the switch and that's that done.</p><p>But human species is, what, some hundred thousand years old? Give or take a few human experiments – literal <em>human experiment,</em> the entire human race is a human experiment. A species that's been around for a hundred thousand years might be expected to be around for another hundred thousand years, right? Humans have the means to survive that long, they definitely wouldn't be going extinct by any natural means. So, Desmond feels pretty secure in the assumption that the species will be around for a while.</p><p>The Super Solar Flare is slated to happen again – and again, and <em>again.</em> Once in every seventy five thousand years or so, the Sun would go through a mega cycle, or whatever the technical term was, and throw up a Super Solar Flare. The moment this one ends, the clock would reset and start ticking down to the next one. And unless humans caused their own extinction in the meanwhile, and Desmond is optimistic enough to doubt they would… well.</p><p>Sure, seventy five thousand years is a pretty long time – long enough to develop faster than light space travel and colonise some new star systems, probably. It only took them about five hundred years to go from "what if a man could fly" to walking around on the moon. So maybe humans in the year 77012 would have their own solutions to a star going haywire… but <em>what if they don't?</em> Because who knows, humanity might just as well knock themselves back into the stone age in the meanwhile. People can do some crazy things, and they have the means to seriously screw themselves over, too, and that's probably only going to get worse over time.</p><p>It never hurts to make sure, right?</p><p>Desmond is here to stop the Super Solar Flare from burning the planet and killing most life on it, that's his job, that's what he was made to do. It makes sense to him, at the time, that he might just as well take care of the future flare ups while he's at it.</p><p>It doesn't really register to him as in any way strange that it's something he <em>can </em>do.</p>
+<hr/><p> </p><p>By the time the Third Super Solar Flare is slated to hit, it'll end up hitting a very different looking Solar System. Most of the Earth is covered by enormous buildings by then, most of the greenery is gone, there are floating cities all over the oceans, and somehow Desmond knows that the only reason the planet can support that many people is because they did something new with the food production and farmlands aren't necessary for it anymore. The human population is balancing on the edge of choking on their own exhaust – because that's the thing about greenery, it's kinda useful for oxygen, and without it...</p><p>That's not his problem, though – and judging by all the literally hundreds of human colonies out there, it's not really that big of a problem for the people, either. Nor is the Super Solar Flare, really.</p><p>Humanity has safeguards already set up in space – a network of satellites near the Sun, monitoring and watching out for it, which move to produce enormous electromagnetic shields. Powered by the very Solar Flare they're there to stop, they form barriers in the flare's way, protecting the habited zones of the Solar System, directing the outpour aside. Earth, Mars, Venus, various stations and dwarf planets in the asteroid belt and the more populated moons out there, they're all behind carefully positioned shields thousands and thousands of miles away.</p><p>It's kinda neat, to watch the flare wash over the Solar System and leave those islands to safety untouched. But it also means Desmond's intervention isn't really necessary here.</p><p>So he moves on.</p>
+<hr/><p> </p><p>The Fourth recorded Super Solar Flare dawns on yet another very changed Solar System. It's been over a hundred and fifty thousand years since Desmond's time, so the changes make sense, it's a really long ass time for human species, anything can happen in that kind of time… but <em>damn.</em></p><p>Most of the colonies are gone now, and there are moons that just <em>aren't there</em> anymore, there are settlements that have been lost to history – over half of the bodies in the Asteroid and the Kuiper Belt have been mined out of existence. It's wild. There are new things too, of course. Space stations by the thousands, the colonies in bigger stellar bodies are huge, Venus has been terraformed entirely. Humanity numbers in… in numbers way too high for Desmond to tell offhand, but he thinks it's closer to trillions than billions. They've populated a lot of the nearest stars.</p><p>And the Earth has been left pretty much uninhabitable, which is a bit of a bummer, if not entirely unexpected.</p><p>There are enormous craters on the surface of the planet, mementos of even greater explosions, and there's an enormous storm raging over the northern hemisphere, which looks like it's been there for a while – probably longer than decades. The atmosphere is thick with un-breathable gases, and the cities from before have been reduced to less than rubble. The whole world is a wreck. Humanity is in the process of re-terraforming it again, though, which is nice… but it looks like it will take a while, probably centuries.</p><p>The technology is <em>wild,</em> not just that they can just <em>do that</em>, but other stuff too. Humanity, circa 152012 CE, is pretty damn impressive. They have fleets of ships and space stations with thousands of occupants, and makings of a galactic empire.</p><p>When the Solar Flare hits, the entire Solar System celebrates it – and  a million collectors all over drink it up to power the star system's powerful mining machinery. There's a planet in the Oort cloud they're planning to completely dismantle for materials.</p><p>Though it's tempting to hang around to examine the developments made by the interstellar human species… Desmond moves on.</p>
+<hr/><p> </p><p>The Fifth time the Super Solar Flare starts up, the Solar System is completely empty of humanity. There are scars all over it, from a war that had raged for what looks like centuries and which had eventually driven humanity out to the stars, leaving their home system a ghost town. There's wreckage all over it, destroyed ships by the hundreds of thousands all over the system, and their scraps rain down on most every planet in a fiery rain. It's… a little disheartening, really.</p><p>But empty of humanity doesn't mean empty of life. Venus, Earth, Mars and various moons all over the Solar System all harbour not just habitable environments, but all the life humanity spread on them. Mars has endless grasslands full of animals descended from old livestock, Venus is completely covered by a brand new and beautifully strange rainforest, and Earth has been once more taken over by trees and nature, with new lakes made of old craters and new creatures grown from mutations of old ones.</p><p>Desmond can see what happened – how the war drained the Solar System of all its usable materials, and poisoned so much of its fertile grounds, its atmospheres, turned all the habitable zones inhospitable. The destruction of all habitable zones had been systematic, he thinks – burned Earth tactics had been used, rather literally, until there was no ground left. And humans left, pronouncing the star system a total loss and turning their eyes to newer, better places… and in so doing, left nature to run its course.</p><p>From ditches and craters and cracked foundations new life began to sprout – began to take over the abandoned places. It had taken the plants and animals some thirty thousand years and rather rapid evolution, but they'd taken over all the ruins left behind eventually. Now the bruised planets almost seem untouched – aside from the craters and the rain of fiery debris from the shrapnel-bombed orbits, anyway.</p><p>No one had come back, because… why would they? The Solar System was a bust, it took the habitable planets tens of thousands of years to recover. It had also been bled dry of usable materials long time ago, there's almost no metal left, not even the most distant bodies in the Oort cloud. The place is, in galactic terms, worthless. And there's the fact that just about every planet's near orbit is so full of debris that they'd tear any spacecraft apart if they got too close.</p><p>It's a rotten damn shame.</p><p>Either way, this time there is no system in place to stop the Super Solar Flare. There's no one around to suffer from it either, mind you – humanity still exists among the stars, they've all but conquered the galaxy, but they've abandoned Sol. But there's life. Plants, animals, new interesting species – and the Super Solar Flare would, without doubt, knock back the progress nature had made by another ten, twenty thousand years.</p><p>So Desmond reaches out to stop it.</p><p>By this point it's been some two hundred and twenty five thousand years since he first laid his hand on the pedestal – so he's <em>just a little</em> too late to realise his mistake.</p>
+<hr/><p> </p><p>"Damn, but the Precursors built their shit to last, huh?"</p><p>That's the first thing Desmond says, after coming to – and then in hindsight realises how damn ironic it is, since the Precursors definitely <em>hadn't</em> built their stuff to last. Only things they made that survived into the present were their tools of slavery, and what that says about their priorities is questionable so best.</p><p>The Grand Temple is still there, though, and more or less how he left it. Earth has gone through god knows how many orbital bombardments and wars and disasters, but the Grand Temple hasn't changed. There's even some of their old stuff here, though not much. Remains of the plastic and metal bits of a chair, some of the scaffolding, the platforms they'd put in the cave to roll in equipment, Shaun's metal bookcases… They're all pretty much rusted through and the platforms crumble under Desmond's feet as he begins making his way out, but it's still kinda nice. Weirdly nostalgic. Almost like coming home from… wherever he was.</p><p>He's completely fucked, though.</p><p>The Grand Temple is out of juice now, he'd used the last of it to stop the Fifth Super Solar Flare. Juno is long gone, and so is pretty much everything else he knows too – rusted up bits of metal notwithstanding. All Desmond's has is the clothes on his back and what's in his little backpack…. and he hadn't exactly kitted it out to survive in a stranded-in-wilderness type of situation. And that's the situation he's pretty much in, right now.</p><p>There's a wild, <em>old</em> forest outside, with no signs of roads having ever been there. The trees are hardy conifers, the underbrush is spiky and unwelcoming, and it looks almost completely untouched. There's some animal tracks, he can hear birds, that's something at least. It's early summer, or at least that's what it looks like. Seasons might've gotten screwed up along the way, though. He wouldn't be surprised if they had. Earth had gone through <em>some shit</em> in his absence.</p><p>And Desmond has a feeling he's going to follow suit. He is in some shit, right now. There are no people on the planet, none at all, and there haven't been in thousands of years. There'd be no settlements to find, no cities, nothing, just wild nature crawling over ancient ruins. And those ruins had been bombed to ruins long before they'd become ancient. So…</p><p>Yeah.</p><p>There's wind rustling the tops of the conifers, and there are birds singing, loud and almost familiar. Somewhere far, far away, he can hear a river. It's very peaceful. The air smells like the woods, fresh and crisp and a little bit damp. Definitely a step up from the dusty old caves of the Grand Temple.</p><p>With every breath Desmond can feel how utterly, completely alone he is in here.</p><p>"Fuck," is the second thing he says, heartfelt in the eerie, noisy silence of a lively forest that has never seen people.</p>
+<hr/><p> </p><p>Desmond has two options. Three, if he wants to be morbid about it.</p><p>Option one, stay in the Grand Temple. It's safe, dry, there's plenty of space, and he can probably make it habitable without too much trouble. There's enough wild game in the forest to support him probably indefinitely, so as long as he hunts them with moderation, and there would probably be wild forageables too. Maybe, if he got some seeds, he could even try a little bit of farming. With the nearby river, water wouldn't be an issue, either. There are definitely worse places to live in.</p><p>Option two, leave and look for human ruins. There's probably some not too far away – the planet had been pretty widely populated for a time, and probably had been again after the terraforming had taken. He has an impression of cities, of ruins – and going by human preferences where building settlements go, he'd probably find some if he just headed for the coast, and he's not that far from there. A few days on foot, probably.</p><p>Or Desmond can lay down and do nothing and wait to die. Considering that there's no one around, the chances of anyone ever coming around are slim to none, and now that he's pretty effectively doomed himself here, what's even the point of going anywhere or doing anything? He's going to end up living a completely lonely life, probably a miserable one, whatever he did, and in the end he'd die alone without anyone out there being the wiser. He could just spare himself the depressing, painful years in between and die right here and now.</p><p>Yeah.</p><p>While contemplating his limited amount of choices and trying to figure out what to do, Desmond channels Connor and hunts. Not much else he can do, at this point, and whatever he decides in the end, he does need to eat to live, and starvation seems like a terrible way to die, so…</p><p>The first animals he finds are probably descended from domestic pigs. They're not exactly like wild boars, not exactly like pigs, but some sort of slightly bigger, slightly sturdier mix of both with thick, briskly fur and more mass than Desmond can manage easily in one go. He ends up gutting the one he kills and leaving the entrails for the wildlife to eat, and then drags the boar back in an awkward sledge made of slender tree trunks. Even then, it takes him all day to get it back to the Grand Temple.</p><p>By the time he's halfway through smoking the meat, has stored up most of it and eaten enough to fill up his belly… Desmond has made his decision. Mostly it's the lack of seasoning that does it.</p><p>He packs up the driest stuff and heads toward the coast the next morning.</p>
+<hr/><p> </p><p>The first ruins of human civilisation Desmond finds are frankly post-apocalyptic in the nicest way.</p><p>There's a forest growing right through, the buildings barely visible between them, and damn, what kind of buildings they are. It looks like somewhere along the way people figured out how to build things to fucking <em>last</em>, because they're all sort of… hefty, with thick concrete walls and with dome ceilings, also made of concrete. There are no skyscrapers with thousand panes of mirror-like windows – the only buildings he finds are almost simple in the design, except for all the pillars and statues and stuff. Buildings that would survive an apocalypse, just because of how simple and sturdy they'd been built.</p><p>Though it might be that the buildings that would survive some twenty, thirty thousand years of encroaching nature would be the heftier ones, and the skyscrapers are long gone. Survivor bias, or whatever it's called. It's still kinda neat, in a sort of alien way. Desmond is pretty sure he's nearby where Boston used to be, and the buildings look like… well, like ancient ruins, really.</p><p>He spends days digging around them – and actually finding stuff. All the perishable stuff is long gone, anything made of fabric and wood and anything else that decomposes – but a lot of stuff is made from concrete, only it's a lot harder than any concrete he remembers from back in 2012. Maybe they'd figured out the trick of Roman Concrete, or something even better, after he'd gone skipping through time. Either way, there are furniture and decorations made from stuff, there's even bits of streets here and there, a little more cracked than the buildings but still around.</p><p>Desmond can kinda glimpse it, from time to time – the mindset of the people that built the things, after the re-terraforming of Earth had been finished. They'd wanted to turn Earth into a sort of… temple, because it was where humanity began. They'd had this mindset of durability, of longevity, of building things that would last a thousand generations. The older humanity had grown, the more they had wanted to make things that<em> endured</em>. The buildings sort of echo that mindset – one of them Desmond finds feels like it might be over fifty thousand years old. Hundreds and hundreds of families had lived in it.</p><p>Humanity had grown ancient, in his absence – nowadays the species is older than the Precursors ever got. It's mindblowing to think about it, to <em>feel it</em>, even if none of them are around. They're out there, far away, reaching heights the Precursors couldn't even dream of.</p><p>
+  <em>Take that, you megalomaniacal enslaving sons of bitches.</em>
+</p>
+<hr/><p> </p><p>Desmond makes it to the coast and follows along it until he finds a place where he thinks he can make himself some salt. By that point he'd found a few relics to carry with him – like an enormous brass pan that he thinks might've been a gong once, but which works excellently for cooking. With his travelling he's had the chance to find some edible plants, and on the coast he can do a bit of fishing, and his diet has improved by bunches with the addition of a whole lot of stir-fried wild vegetables and nuts and fish in it.</p><p>It's the salt he's after, though. So he sets up camp on the shoreline, near some tidepools where the Sun had evaporated enough of the water over the years to leave some salt growing on the rocks. Over the course of several days, he purifies and collects enough salt to last him several years, and then tries to decide what to do next. Keep travelling, scouting out the history of humanity before they abandoned the planet?</p><p>Not that there's much else he can do, at this point. Stop and set up a house and start farming maybe, but… he could do that later, when he got tired of the travelling. <em>If</em> he got tired of the travelling. It's not easy, but at least it's something to do, and… it does keep him distracted, the stuff people left behind, the signs they left on the planet.</p><p>Like the ocean before him. The Atlantic Ocean. Around the Fourth Super Solar Flare, some seventy, eighty thousand years ago, people had cleaned it up over many centuries – turning around a lot of environmental destruction, returning a lot of lost species, balancing out the ecosystem. The re-terraforming project on Earth had been <em>huge,</em> and it had been successful. It's kinda ironic, that after all that effort, all that time that had gone to returning the Earth back to a habitable state after its environment got devastated… humanity had abandoned the whole Solar System when it had gotten similarly devastated. They had the technology to reverse it – they'd done it once before… but they just packed up their shit and left.</p><p>Guess the cost got too high, when there were three planets and a handful of moons to fix. In the end, nature had more or less done what humans could've – it just took nature a lot longer. It's sad and ironic and a bit of a pity and very human, all things considered.</p><p>"Haul away your anchor," Desmond hums quietly while packing away the salt he's made, wrapping up the salted fish he'd cooked and slinging the brass pan-gong over his shoulder. "Haul away your anchor… it's our sailing time…"</p><p>There's a lot more to see.</p>
+  </div>
+  <!--/main-->
+
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/28949799/chapters/71069442#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="omM9Dgtih9MW5rc-dMUMDv0wl-i6vEoE8L2SXb8X5GPbjOnG-aQqP4_5tCvtT34E9bDNbyTu__5G8etsUN-n_A"/>
+          <input value="28949799" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=71035644">Comments (69)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/ImpertinentFiend">ImpertinentFiend</a>, <a href="/users/Karmania">Karmania</a>, <a href="/users/GimMickUrNan69">GimMickUrNan69</a>, <a href="/users/frostweb">frostweb</a>, <a href="/users/WarriorofAces">WarriorofAces</a>, <a href="/users/Blue_Umbrella">Blue_Umbrella</a>, <a href="/users/YukinaZero">YukinaZero</a>, <a href="/users/Legem_Terrae">Legem_Terrae</a>, <a href="/users/on_clockwork_wings">on_clockwork_wings</a>, <a href="/users/arcaneScribbler">arcaneScribbler</a>, <a href="/users/stephkae">stephkae</a>, <a href="/users/burnthenachos">burnthenachos</a>, <a href="/users/catypillar">catypillar</a>, <a href="/users/AstroDeco">AstroDeco</a>, <a href="/users/Spookymellon">Spookymellon</a>, <a href="/users/Kuroki8">Kuroki8</a>, <a href="/users/Loki_Uchiha">Loki_Uchiha</a>, <a href="/users/reid_riot">reid_riot</a>, <a href="/users/nobodyreallyimportant">nobodyreallyimportant</a>, <a href="/users/SparkyScout">SparkyScout</a>, <a href="/users/thejumpingbean14">thejumpingbean14</a>, <a href="/users/KudosPuppy">KudosPuppy</a>, <a href="/users/Lilith_Infernal">Lilith_Infernal</a>, <a href="/users/A_Selkie_Abroad">A_Selkie_Abroad</a>, <a href="/users/zer0_main">zer0_main</a>, <a href="/users/Sheepydog">Sheepydog</a>, <a href="/users/Shark_I_Am">Shark_I_Am</a>, <a href="/users/jmw">jmw</a>, <a href="/users/Bobmania10">Bobmania10</a>, <a href="/users/Ukkicamarud">Ukkicamarud</a>, <a href="/users/Goldengirl01">Goldengirl01</a>, <a href="/users/QuenchiestCactusJuice99">QuenchiestCactusJuice99</a>, <a href="/users/OneTimeWeAllBelievedInSantaNowHereWeAre">OneTimeWeAllBelievedInSantaNowHereWeAre</a>, <a href="/users/TacticalFan">TacticalFan</a>, <a href="/users/Jace056">Jace056</a>, <a href="/users/Uth">Uth</a>, <a href="/users/WalkingBird">WalkingBird</a>, <a href="/users/AutolycusinExile">AutolycusinExile</a>, <a href="/users/DubbLeohh">DubbLeohh</a>, <a href="/users/Zzolo123">Zzolo123</a>, <a href="/users/jacqui_may">jacqui_may</a>, <a href="/users/ElbowedWinter02">ElbowedWinter02</a>, <a href="/users/IncorrigibleReader">IncorrigibleReader</a>, <a href="/users/RedGoldPoppies">RedGoldPoppies</a>, <a href="/users/Ice_Queen12">Ice_Queen12</a>, <a href="/users/idontknow939">idontknow939</a>, <a href="/users/skullycappers">skullycappers</a>, <a href="/users/RedSpiderRose">RedSpiderRose</a>, <a href="/users/Zpiderpig">Zpiderpig</a>, <a href="/users/EimiArlinee">EimiArlinee</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/28949799/kudos?before=3845745445">3286 more users</a>
+             as well as 
+          2020 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_71035644">
+  <form class="new_comment" id="comment_for_71035644" action="/chapters/71035644/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="T4C1URtwvhUTe0D52w9cDPgVVbLfiJHhyA9k5dZEqcQ2b2GZ6bYT-YpkQ-xChS4G8JUPNUHaJBt-Qx3UOYzqWw"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_71035644">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_71035644" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_71035644=new LiveValidation('comment_name_for_71035644',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_71035644.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_71035644">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_71035644" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_71035644=new LiveValidation('comment_email_for_71035644',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_71035644.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_71035644" class="landmark">Comment</label>
+        <textarea id="comment_content_for_71035644" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_71035644" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_71035644_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_71035644">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_71035644=new LiveValidation('comment_content_for_71035644',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_71035644.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_71035644.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_71035644" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/28949799/hit_count.json")})</script>
+
+
+  </body>
+</html>

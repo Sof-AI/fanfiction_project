@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Mo XuanYu’s Bewildering Re-Start - MarbleGlove - 陈情令 | The Untamed (TV) [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="NT621rsEsGgZGeXwh_kwtO7V2dDa9uWRq8Bz69aY7alSK5svzPPXzLeZHmskFQTqyQMPW1YnZ96AvEzhWJwKyQ"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="sOSbS5i9TrUJapQIpeKKmeSfGUmCKfzQrJ6aKQ6anmnX8bay70opEafqb5MGDr7Hw0nPwg74fp-H4qUjgJ55CQ"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: austen words:10000-50000 sort:title</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="works-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<ul class="landmark skip">
+  <li><a name="top">&nbsp;</a></li>
+  <li><a href="#work">Skip header</a></li>
+</ul>
+
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+<!-- BEGIN revealed -->
+<!-- BEGIN work -->
+<!--work description, metadata, notes and messages-->
+    <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?work_id=23017654">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/23017654/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/23017654/Mo%20XuanYus%20Bewildering.azw3?updated_at=1645108694">AZW3</a></li>
+          <li><a href="/downloads/23017654/Mo%20XuanYus%20Bewildering.epub?updated_at=1645108694">EPUB</a></li>
+          <li><a href="/downloads/23017654/Mo%20XuanYus%20Bewildering.mobi?updated_at=1645108694">MOBI</a></li>
+          <li><a href="/downloads/23017654/Mo%20XuanYus%20Bewildering.pdf?updated_at=1645108694">PDF</a></li>
+          <li><a href="/downloads/23017654/Mo%20XuanYus%20Bewildering.html?updated_at=1645108694">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Teen%20And%20Up%20Audiences/works">Teen And Up Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Categories:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Gen/works">Gen</a></li><li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/%E9%99%88%E6%83%85%E4%BB%A4%20%7C%20The%20Untamed%20(TV)/works">陈情令 | The Untamed (TV)</a></li><li><a class="tag" href="/tags/%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88%20-%20%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%20%7C%20M%C3%B3d%C3%A0o%20Z%C7%94sh%C4%AB%20-%20M%C3%B2xi%C4%81ng%20T%C3%B3ngxi%C3%B9/works">魔道祖师 - 墨香铜臭 | Módào Zǔshī - Mòxiāng Tóngxiù</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M%C3%B2%20Xu%C3%A1ny%C7%94%20*a*%20W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n/works">Mò Xuányǔ &amp; Wèi Yīng | Wèi Wúxiàn</a></li><li><a class="tag" href="/tags/W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n%20*a*%20W%C4%93n%20Q%C3%ADng/works">Wèi Yīng | Wèi Wúxiàn &amp; Wēn Qíng</a></li><li><a class="tag" href="/tags/L%C3%A1n%20Zh%C3%A0n%20%7C%20L%C3%A1n%20W%C3%A0ngj%C4%AB*s*W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n/works">Lán Zhàn | Lán Wàngjī/Wèi Yīng | Wèi Wúxiàn</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M%C3%B2%20Xu%C3%A1ny%C7%94/works">Mò Xuányǔ</a></li><li><a class="tag" href="/tags/W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n/works">Wèi Yīng | Wèi Wúxiàn</a></li><li><a class="tag" href="/tags/W%C4%93n%20Q%C3%ADng/works">Wēn Qíng</a></li><li><a class="tag" href="/tags/L%C3%A1n%20Hu%C3%A0n%20%7C%20L%C3%A1n%20X%C4%ABch%C3%A9n/works">Lán Huàn | Lán Xīchén</a></li><li><a class="tag" href="/tags/L%C3%A1n%20Q%C7%90r%C3%A9n/works">Lán Qǐrén</a></li><li><a class="tag" href="/tags/L%C3%A1n%20Zh%C3%A0n%20%7C%20L%C3%A1n%20W%C3%A0ngj%C4%AB/works">Lán Zhàn | Lán Wàngjī</a></li><li><a class="tag" href="/tags/Ji%C4%81ng%20Ch%C3%A9ng%20%7C%20Ji%C4%81ng%20W%C7%8Eny%C3%ADn/works">Jiāng Chéng | Jiāng Wǎnyín</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Time%20Travel/works">Time Travel</a></li><li><a class="tag" href="/tags/Suicide%20Attempt/works">Suicide Attempt</a></li><li><a class="tag" href="/tags/Unreliable%20Narrator/works">Unreliable Narrator</a></li><li><a class="tag" href="/tags/because%20individuals%20have%20imperfect%20knowledge%20of%20the%20world/works">because individuals have imperfect knowledge of the world</a></li><li><a class="tag" href="/tags/Time%20Travel%20Fix-It/works">Time Travel Fix-It</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/TimeTravel_WorldTravel">Time Travel and World Travel</a>, <a href="/collections/MDZS_Kudos">MDZS Kudos</a>, <a href="/collections/MDZS222">Mo Dao Zu Shi</a>, <a href="/collections/A_Pleasure_To_Read">A Pleasure To Read</a>, <a href="/collections/aerois">saviors of aerois</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2020-03-04</dd><dt class="words">Words:</dt><dd class="words">9748</dd><dt class="chapters">Chapters:</dt><dd class="chapters">1/1</dd><dt class="comments">Comments:</dt><dd class="comments">160</dd><dt class="kudos">Kudos:</dt><dd class="kudos">2058</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/23017654/bookmarks">455</a></dd><dt class="hits">Hits:</dt><dd class="hits">13169</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Mo XuanYu’s Bewildering Re-Start
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/MarbleGlove/pseuds/MarbleGlove">MarbleGlove</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>If anyone could manage time travel, it would be the Yiling Patriarch, but Mo XuanYu had spent years studying the notes. That ritual should not have performed time travel. It was a body exchange ritual and even if he had somehow messed it up, it should have just resulted in his death and not in time travel!</p><p>AKA: the time travel fix-it in which Mo XuanYu is both confused and self-centered.</p>
+            </blockquote>
+        </div>
+
+
+  </div>
+
+
+<!--/descriptions-->
+
+<!--chapter content-->
+    <div id="chapters" role="article">
+        <h3 class="landmark heading" id="work">Work Text:</h3>
+          <div class="userstuff"><p>He knew what he was doing. It wasn’t just suicide, it wasn’t just getting out of this life where everyone hated him and lied about him, it was also getting revenge.</p><p>Jin GuangYao was his half-brother and said he’d help Mo XuanYu and gave Mo XuanYu special access to the papers that the Yiling Patriarch had left behind. Mo XuanYu was providing a special service for the Jin Sect in exploring the dangerous working of demonic cultivation.</p><p>He hadn’t realized he was just a throw-away person: a person who could be risked without any risk to others.</p><p>And when he had survived, when he had been careful and exact and didn’t die in a horrible accident like any of the other people who had studied these notes, he had been thrown away.</p><p>He wondered if being a cut-sleeve had saved his life. He had been accused of sexual impropriety, accused by his own half brother to make it all the worse. He’d been laughed at and sneered at and thrown out of the Jin Sect. But if he hadn’t been a known cut-sleeve would the same false accusation have been made but about a maiden instead? That would have gotten him killed.</p><p>Jin GuangYao could have demanded his execution if he said his wife had been attacked.</p><p>So instead he’s left to execute himself because he had nowhere to go and couldn’t bear to live in a place where there was no place for him. But he’d make them regret it. Make them all regret the lies and the abuse and the years of studying the notes of the most vicious villain that anyone had ever seen.</p><p>The Yiling Patriarch knew more about death than anyone else ever had and Mo XuanYu was the one to survive studying his notes. He knew how to bring the Yiling Patriarch back and bring the whole Cultivation world to its knees.</p><p>He wrote out the talismans and set the array and used so much of his own blood that he was woozy with the loss but he persevered and he felt it work. He felt his spiritual energy reach out, reach out to the other place, the place of shadows and spirits, and catch on something. He felt it catch and sink in and he was now half of something. There was another person on the other side, and the balance was set and the energy moving. He could finally sink into nothingness because something else was in control.</p><p>It was like the turning of a compass needle. He turned out and the other turned in.</p><p>It was balanced.</p><p>It was inevitable.</p><p>There was an endless moment of perfect mindlessness, all time and no time.</p><p>And then he was feeling again, feeling like a slingshot, like a nauseous dizzy slingshot. He gulped at the air and gagged.</p><p>And he burned. A golden core burst into being in a body too small for it, and he screamed at the pain even as he gasped for air he couldn’t get.</p><p>He choked on the breath and screamed at the pain and thrashed at the hands holding him.</p><p>There were voices but they couldn’t get through the sound of blood pounding in his ears and he needed to spit up the old blood and he tried but he couldn’t even control the spasms and then there was opium in his mouth and he choked on that too but he covered his mouth to keep it in because he hurt so much.</p><p>It hurt so much.</p><p>Even in the darkness it hurt.</p><p>And then he woke up in a medical center, that was decorated with the Wen Sect’s red flames and sun. That was confusing enough but possibly still better than the discovery that he had the body of a small child. He was almost an adult. He remembered being almost an adult. He also remembered being dead and gone. He should be a dead adult, not a living child. </p><p>How was he a child? How could he be a child?</p><p>Trying to figure out why the doctors here were Wen Sect doctors was easier.</p><p>And then his mother came into the room. His mother who had been dead for years.</p><p>“Mother?”</p><p>“A-Hua! You’re awake! Oh thank the spirits! You’ve come back to me!”</p><p>And then he was being aggressively cuddled and as much as he loved his mother, he wasn’t loving the situation.</p><p>“And with a golden core too! Your father will surely be so happy!” </p><p>“No!” Mo XuanYu fought his way out of his hug. “No, I’m never going back to the Jin Sect!”</p><p>“What?” His mother seemed honestly confused by his vehemense, “But this is your great chance!”</p><p>His great chance, he thought, was being able to avoid going to them. She had died in the disgrace that he had brought back with him after being kicked out of the Jin Sect. </p><p>“His father?” a Wen doctor asked.</p><p>“Jin GuangShan! My A-Hua is the son of a great man!”</p><p>“Ah,” the doctor said. Clearly she had heard the rumors about what a ‘great’ man Jin GuangShan was. But then she frowned. “His father is Jin GuangShan but when he developed an unknown condition you went with a rogue cultivator to a Wen Sect medical center?” </p><p>“Ah,” his mother looked down somewhat shamefaced. “The men from the Jin Sect who came to take him for training said they weren’t healers and couldn’t take a child who might die so soon.” She whispered, but then perked up, “But now they must surely take him! Already with a golden core! That’s really impressive, isn’t it?”</p><p>“Hmm.” the doctor said. </p><p>“Well, that’s too bad for them,” someone else said, a smiling young man, with cheerful insincerity. “The Jin Sect lost their chance to have him. Because now he’s mine.” </p><p>“What?” His mother’s confusion echoed his own, but the young man spoke directly to Mo XuanYu when he responded.</p><p>“Do you know who I am?” The young man asked. And just, how was Mo XuanYu supposed to know this guy? He wasn’t from a Mo village and all of the people XuanYu knew were apparently in the future, because that’s what he was getting out of this insanity. His mother was alive, the Wen Sect still existed, and he was a child. He was in the past. Somehow.</p><p>If he knew this guy, he’d be in his thirties and Mo XuanYu didn’t know that many guys in their thirties. And even fewer cultivators because the war had killed most of that generation.</p><p>“You’ll probably die in the war.” Mo XuanYu said, because he was a child and he should have been dead and what did he even care about making a good impression on a teenager who would be dead within the next ten years.</p><p>Instead of being either offended or scared, the guy laughed.</p><p>“Well, you’re not wrong!” And he laughed again, his eyes squinting in humor.</p><p>Mo XuanYu found himself staring at the guy. If he’d been in any place to actually be attracted to anyone, if he hadn’t somehow become a time traveling toddler after a failed suicide ritual, he would probably have been attracted the guy. He had the looks and the personality shining out of those looks that probably attracted anyone who found men attractive.</p><p>Which did not currently include Mo XuanYu, he would like to make clear, because he had died and there was no way that ritual of the Yiling Patriarch’s was supposed to perform time travel.</p><p>If anyone could manage time travel, it would be the Yiling Patriarch, but Mo XuanYu had spent years studying the notes. That ritual should not have performed time travel. It was a body exchange ritual and even if he had somehow messed it up, it should have just resulted in his death and not in time travel.</p><p>“So let’s go with an even simpler question: do you know who you are, Mo XuanYu?” The man interrupted Mo XuanYu’s thoughts. </p><p>It took a moment for the question to hit. It actually wasn’t until his mother said, “who’s Mo XuanYu?” that he realized.</p><p>He was a toddler. He was still Mo Hua. He wouldn’t get the courtesy name XuanYu for years yet.</p><p>“Who <em> are </em> you?” He asked.</p><p>“I’m Wei Ying, courtesy name WuXian.”</p><p>It took Mo XuanYu way too long to put that together. That was the Yiling Patriarch’s name. But the Yiling Patriarch was a demon of monstrous power and the stories argued about what he looked like: whether monstrously hideous or monstrously beautiful, but they all agreed on monstrous. All of them. But here was a regularly good-looking adolescent boy. “The Yiling Patriarch?”</p><p>“Yes. You gave yourself to me.”</p><p>“But then, how are we here, why are we here, what <em> happened </em>?”</p><p>“You got your revenge and you gave me thirteen wonderful years. I got married, I got to see my son grow to adulthood. It was wonderful. And then it all came crashing down. I never finished that ritual, you know. The one you used. “</p><p>“Yes, you did, I was able to perform it exactly.”</p><p>“Let me restate then: I never finished fixing the problems with that ritual.”</p><p>“Oh.”</p><p>“For a while, I thought <em> you </em>had.”</p><p>“I didn’t realize there were problems?”</p><p>“Well, from the perspective of grabbing the most evil person you’d ever heard of, which, by the way: rude, it wasn’t bad. But from the perspective of giving me a long full life in that body, wasn’t great.”</p><p>“I’m sorry?”</p><p>“Don’t bother. You probably still think I’m evil incarnate.”</p><p>“Well, aren’t you?”</p><p>The Yiling Patriarch snorted. “No.” And then paused, “Maybe.”</p><p>Mo XuanYu was frankly dubious. Sure, this was the younger version, maybe, but Mo XuanYu had read the man’s notes on death and corpses and now they were in the past where no one even knew about the threat… “Did you come back in time to take over the world?”</p><p>“No.”  </p><p>The Wen doctor interjected at that point. “Now that you are both confirmed to survive your respective golden core issues, why don’t you tell me how it came about that a Jiang disciple considered one of the top young masters came to me with a golden core dangerously close to going cold, bringing with him a child with no cultivation training but a fully developed and powerful adult golden core?”</p><p>“I’d like to know that too,” Mo XuanYu added.</p><p>The doctor gave him a sharp look and then added, “I’m also curious to know why you have adult vocabulary and diction, when your mother was not bragging about your being so advanced for your age.”</p><p>“What even is my age? I’m supposed to be nineteen!” Mo XuanYu said, because he was way too confused with his own situation to come up with some sort of believable lie to answer someone else’s confusion.</p><p>“You’re supposed to be dead,” the Yiling Patriarch said. “So don’t complain about being four instead.”</p><p>The doctor scowled. “Start making sense.”</p><p>“Nothing makes sense!” Mo XuanYu said.</p><p>“Then shut up and let someone else talk. Young Master Wei, since you do appear to know what happened. And since I have done you the service of treating you and your companion rather than kicking you out. Please tell me what caused those conditions.”</p><p>The Yiling Patriarch gave a wry grin, “You’re not going to like the explanation.”</p><p>“I already don’t like the conditions.”</p><p>“Then let me tell you a story.”</p><p>The doctor audibly sighed but settled back in her seat to listen.</p><p>“Once upon a time, a young master at war lost his golden core. Without a golden core, he turned to demonic cultivation. The demonic cultivation made him powerful but also made him a target and he was killed. A relatively straight forward story.”</p><p>“Hmm.”</p><p>The doctor was looking impatient for the story to go somewhere but Mo XuanYu was wondering if he was going to hyperventilate. No one said anything about the Yiling Patriarch not having a golden core. No one! There had been no hints or rumors or anything. Not even, Mo XuanYu realized, when one of the Yiling Patriarch’s first known targets was Wen ZhuLiu, known as Core Melting Hand. How had no one suspected?</p><p>But the Yiling Patriarch continued. “Years after the young master’s death, another young master interested in demonic cultivation found a ritual that would allow a living person to sacrifice their body and soul in order to bring a spirit back to life. This second young master sacrificed himself. And thus the first young master was brought back to life, with a golden core. Or at least, with the chance to develop one.”</p><p>The doctor was frowning, her eyes intent on the Yiling Patriarch.</p><p>“However, the ritual was flawed. The price of the ritual was for the soul of the sacrifice to be ripped to pieces, never to be reincarnated. But the two young masters were bound together, a gifted body and a mirrored soul. Both were fated to never reincarnate.”</p><p>“There was no fixing the ritual at that point. But there was another solution. Not to fix the ritual but avoid it entirely. Time travel.”</p><p>“Time Travel. That’s your answer?”</p><p>“That’s my answer. Use my connection to the ritual itself the moment of connection to slingshot myself back. I came back, but I and Mo XuanYu were one person in the future and here in the current present, we are two. And it was Mo XuanYu’s golden core that I developed for many years and used to power the array that sent me back. And my own lack of a golden core that almost extinguished my younger self’s core.”</p><p>“You do realize that is a ridiculous story.”</p><p>“Oh, I do. But that doesn’t make it not true. And I will tell you something more: your idea for a golden core transfer process works. There is only one problem, not even a problem really, just a missing aspect, in the theory.”</p><p>“And what’s that?”</p><p>“Anesthetics affect the golden core. The recipient can be asleep while receiving it, but the donor has to be awake and unanesthetized for the entirety of the extraction.”</p><p>The doctor shook her head. “I wouldn’t have done that.” </p><p>“Desperate times. And we went through some very desperate times, you and I. And the rest of the world too.” </p><p>“Hmm,” the doctor said, before abruptly getting up. “You should both get some sleep. I have other things to deal with.” </p><p>And then she was out the door. </p><p>Leaving Mo XuanYu with his mother and the Yiling Patriarch. </p><p>“What did you do to my baby boy!” </p><p>“Ha! You should be asking what he did to me!” </p><p>“He’s a baby!”</p><p>“A baby you were already going to send to Koi Tower.” </p><p>“To be with his father!” </p><p>“Ha!”</p><p>Mo XuanYu interrupted to say, “I’m not going to Koi Tower! I am going to sleep! Good night to both of you!” And then pulled some blankets over his head and refused to acknowledge either of them and pretended to go to sleep despite feeling completely unable to sleep with the sheer energy of the golden core that burned inside him. It wasn’t as painful anymore, but it was there and so very full of energy. </p><p>It was why he was still awake when the doctor returned late at night, carrying a single candle. </p><p>The Yiling Patriarch sat up at her entrance, his eyes glittering in the candlelight. </p><p>“You came to me, specifically. To Wen Qing of the Qishan Wen Sect. Why? You claim to have memories of the future. What made you come to me now?”</p><p>“Maiden Wen Qing, I know you are an honorable person. I know that you owe your Sect Leader unquestioning loyalty and absolute obedience.”</p><p>The doctor had spoken quietly, to not disturb anyone so late at night and the Yiling Patriarch replied in the same manner. Mo XuanYu kept even his own breathing silent in order to focus on their words. </p><p>“However, I know you are also a brilliant doctor. And as a doctor, I know you understand the complexity inherent in treating people, the way poison and medicine differ only in use, surgery and slaughter in skill and intent. So I ask you, Doctor Wen Qing: when you look at Wen RuoHan, what do you see?”</p><p>There was a moment of silence and then a harshly whispered, “I see a great man who has nearly achieved immortality!”</p><p>“No, that’s what a cultivator might see.” A pause. “A poor cultivator who can’t sense resentful energy. Not a doctor. What does a doctor see?”</p><p>“I can’t answer that question!”</p><p>“Shall I tell you then?”</p><p>“What? You tell me about healing?” The whisper was closer to a snarl.</p><p>“Cancer. You see cancer.”</p><p>“You can’t say that!”</p><p>“The sun does not show it’s supremacy by attacking the water or earth anymore than the heart shows its supremacy by attacking the breath or bones.”</p><p>“You cannot say things like that!”</p><p>“Wen Qing. I’ve seen the genocide of the entire Wen Sect. I participated in it and by the time I realized what was happening and tried to save the few last remnants, it was too late. The only survivors were a young child adopted into another clan, completely ignorant of his original family, and your brother, as a much feared Fierce Corpse.”</p><p>“... Fierce corpses aren’t survivors…” </p><p>“I managed to save his consciousness, but not his life. He was aware to mourn the loss of his entire family, to miss his elder sister, and to shy away in embarrassment at his state even as all the Great Sects called for his utter destruction.” </p><p>“Wen Ning…” </p><p>“Wen Ning and Lan Sizhui eventually found each other and lit incense at the abandoned graves of your ancestors. It was a type of peace.” </p><p>“And you expect me to believe this vile story of yours?” </p><p>Mo XuanYu was fairly sure they had both forgotten his existence and he was happy for that. The Yiling Patriarch truly was brave and foolhardy to sit before that woman, even meeting her eyes. </p><p>“I have learned enough of healing from you, Wen Qing, to know what happens when cancer is allowed to continue unchecked.” </p><p>“You cannot…!”</p><p>“Then tell me what I can do. What you can do. What can be done, by anyone. Because something will be done, one way or another.” </p><p>There was a long silence after that, but when Mo XuanYu finally peaked out from under his blankets, they were both still awake and staring at each other. The movement of the blankets caught their attention though and they both looked at him. </p><p>The doctor snorted. “I should leave you to sleep.”</p><p>“We can talk more later.” </p><p>The doctor didn’t reply to that, just leaving the room and closing the door firmly behind her. </p><p>The next few days Mo XuanYu spent sleeping and arguing with his mother, with intermittent points of watching as his mother argued with the Yiling Patriarch, who mostly seemed distracted. </p><p>“He is my son! Mo Hua!”</p><p>“And for thirteen years he was <em> my </em>body, so.... He was Wei Ying.” </p><p>“No!”</p><p>“Yup! Now stay with your son. I’ve got to go talk to Wen Qing some more.”</p><p>His mother spent her time trying to tell him how much his father would love and appreciate him, while he alternately covered his ears, refusing to interact at all, and yelled at her about how she died, miserable and disgraced, and not one person in the entire Jin clan had loved or appreciated him. “I’m not going back! If you try to make me, I’ll just change my name to Wei!”</p><p>The Yiling Patriarch even seemed fine with that. “Sure! If you want to be Wei XuanYu, we can perform an adoption ceremony. It would certainly be easier to introduce you as my son than as the person I own because you sacrificed yourself to me in a dark ritual.”</p><p>“You can’t be his father! You’re too young! And I would never have slept with you!”</p><p>“But it will have to wait until I return.”</p><p>“What? Return from where?” </p><p>“We’re going to Nightless City.”</p><p>“You can’t take him there!”</p><p>“We, meaning Wen Qing and I. Not you two. You’re staying here.” </p><p>“Oh good!” </p><p> “You can’t just leave me here!”</p><p>“Well, I can hardly take you with me. You’re four!”</p><p>“My baby!” </p><p>“I’m nineteen!”</p><p>“As a nineteen-year-old, you thought ritual suicide to raise a demon was a good idea. So, you really couldn’t have come then. But now you’re four.”</p><p>“But I have a golden core!”</p><p>“You can’t go!” </p><p>“You have the golden core that I spent a decade developing for you. You’re welcome. But it’s not going to do you much good until you learn how to use it.”</p><p>“But your core is weakened! Wen Qing said it.”</p><p>“Uh-huh, little eavesdropper. But I know how to fight without a golden core. You don’t know how to fight even with one. And also, you’re four. So you’re staying here.”</p><p>“I’ll take good care of him here. And maybe his father will come to get him!” </p><p>“You can’t make me!”</p><p>“Of course I can make you. But instead of me setting a guard of corpses, Wen Qing is going to assign some nice Wen elders to care for you and your mother. And you are going to let them, because I’m going to be busy preventing the Wen invasions that started the Sunshot campaign.”</p><p>The young Yiling Patriarch’s voice had started out light and teasing but had gotten hard by the end of that statement. Despite knowing that this was The Yiling Patriarch, he had somehow forgotten that this was the man who had terrified all the great sects. This was not a man he should be arguing with. And then the words struck.</p><p>“You’re going to what?"</p><p>Even his mother stopped talking. </p><p>The Yiling Patriarch grinned widely enough that his eyes squinted with happiness, and Mo XuanYu had no idea if it was real or fake, as he twirled a flute that Mo XuanYu was only just now noticing.</p><p>“Wen Qing and I are going to see Sect Leader Wen RuoHan about the impact of resentful energy.”</p><p>Mo XuanYu found himself opening and closing his mouth, trying to think of something, anything, to say in response to that.</p><p>“And while you await our return, you should consider what you want from your second chance at life.”</p><p>“And if you don’t return?” Because sure he was the Yiling Patriarch, but this was Wen RuoHan they were talking about, and the Yiling Patriarch was currently a teenager.</p><p>The Yiling Patriarch blinked a few times, rubbed the side of his nose as he considered, and then said, “Well, in that case you’ll probably be killed, either by Wen RuoHan getting revenge or in the war when everyone related to the Wen are killed.” He spoke with bright cheer, as if he were talking about something that was not a choice between a slaughter and a genocide.</p><p>Mo XuanYu tried to think about the situation from the Yiling Patriarch’s perspective and mostly felt like his brain wanted to leak out his ears just in the attempt. But finally managed to say, “Won’t the Sunshot campaign fail without your presence?”</p><p>“Huh.” The Yiling Patriarch rubbed his nose again. “That’s a good point. So, wish us luck!”</p><p>And then he left.</p><p>Mo XuanYu did not find any of this reassuring. But he also didn’t know what else he should be doing, so he went ahead and followed the Yiling Patriarch’s suggestion and tried to consider what he wanted to do now. Which for the first several days mostly involved fighting with his mother at increasingly loud volumes until the Wen Elders politely suggested that if Second Young Mistress missed her home so much, she could leave her ill son in their care and they would send word once he was in a better state of mind.</p><p>He didn’t know whether he was more insulted or relieved when she accepted and departed. </p><p>He didn’t have much he wanted anymore. He mostly had things he didn’t want. Which is why the body-exchange ritual had seemed like such a good idea. He could get his revenge while also not having to deal with anything else ever again. That had been a benefit, not a cost, although he was only really realizing that now, in retrospect.</p><p>He wanted that benefit again. He wanted to not have to make decisions. All of his decisions were terrible anyway.</p><p>It was a long and anxious ten days, living at the Wen branch estate.</p><p>When the Yiling Patriarch and Wen Qing finally returned, there was a rush to surround them and he was too small to join them even without one of the servants physically holding him back. But the Yiling Patriarch broke away from the group relatively quickly and came to him, and he didn’t even let the man speak before saying, “I want what the ritual promised me!”</p><p>The Yiling Patriarch rocked back on his heels. “What? Not even a greeting or a congratulations?”</p><p>But Mo XuanYu didn’t care and just ignored him. “I want to not have to deal with anything anymore. All my decisions are horrible anyway, so I want to not have to make them anymore! That’s what I want from my second chance!”</p><p>It felt like spitting the face of the fate to say it all out loud like that, but who else could he say such things to if not the Yiling Patriarch?</p><p>Instead of striking him own for impertinence, the Yiling Patriarch just laughed. “If that’s what you want, then I know the perfect place for you.”</p><p>“What?” He hadn’t expected that.</p><p>“And it just so happens to be where I was planning to go next, too.”</p><p> “… Hell?”</p><p>The Yiling Patriarch laughed again, but said, “Depends on who you ask. But maybe don’t say that to the members of the Gusu Lan Sect residing at Cloud Recesses.”</p><p>They set off the next day with plenty of supplies and a donkey. It wasn’t until they were on the road, that Mo XuanYu realized he wasn’t even sure what had happened with Wen RuoHan. </p><p>The weeks of travel after that were surprisingly pleasant despite the frustration with his traveling companion.</p><p>Because his body was still ridiculously young, he mostly rode the donkey.</p><p>Because he claimed Mo XuanYu was too young for such things, the Yiling Patriarch refused to discuss demonic cultivation with him at all. Also because “Demonic cultivation is for people who aren’t afraid to make decisions. Even the wrong decisions. Maybe especially the wrong ones. You might grow back into that, but for now, you’re going to learn structure.” </p><p>So the Yiling Patriarch recited the rules of the Gusu Lan Sect, of which there were a ridiculous number. Somewhere between three and four thousand rules, according to the Yiling Patriarch and although he claimed to not recall which ones were present-current and which ones were future, he could recite them for hours on end, and the added comments about which ones he had personally broken and which ones were actually pretty decent added to the time it took, but also added interest and surprising humor.</p><p>But the Yiling Patriarch had a point: the rules defined a structure for life that maybe he could live. This could be a place where he wouldn’t need to make decisions, where he could avoid making terrible choices, where there was a path laid out for him that he could follow without risking such miserable failures as before.</p><p>“And since you survived, more or less, learning from my old notes, you must be a careful and intuitive researcher. You’ll probably love the library at Cloud Recesses.” </p><p>Somehow, Mo XuanYu had not expected to like the Yiling Patriarch.</p><p>But they walked across the land, from Qishan to Gusu, performing small cultivation services at the villages they ran across, while other cultivators traveled the high roads on their swords. There were enough cultivators travelling at speed, high in the air, that even the ordinary farmers and villagers were commenting on it. Something had happened and it had disrupted the cultivation world and the ordinary people just prayed that it wouldn’t lead to war.</p><p>Some rumors said that Wen RuoHan had died even at the height of his power, others that he had stepped down from the leadership, handing over the Wen Sect to his son Wen Xu. Others said that a hungry ghost had appeared and eaten Wen RuoHan’s golden core, leaving him an ordinary man. Some said it was a coup, others an invasion, and still others an act of the gods, smiting Wen RuoHan for his hubris in including himself among them.</p><p>The Yiling Patriarch, introducing himself as Mo Ying asked after all the rumors whenever they were in a village and listened with flattering attention to the words of each ordinary person making things up for the sheer drama of it. </p><p>Even when Mo XuanYu begged for the true story in the long stretches between villages, the Yiling Patriarch just waved an airy hand and said, “What actually happened doesn’t matter nearly as much at this point as what people think happened.” </p><p>When they finally reached Gusu, XuanYu wasn’t sure how the Yiling Patriarch expected to get in to Cloud Recesses but they walked right up to the gate and asked the guards there to deliver a message to Teacher Lan QiRen. </p><p>What surprised both of them, though, was when the guard said, “Are you Wei WuXian and Mo XuanYu? We have orders to allow you in and escort you to the guest quarters.” </p><p>“Ah?” said the Yiling Patriarch. </p><p>But after a moment to consider and a shrug, the Yiling Patriarch followed the guard in, leading the donkey with Mo XuanYu on its back. </p><p>Mo XuanYu did not like this situation and the more welcoming and peaceful it was, the more he waited for the betrayal. </p><p>They were shown to a very nice guest house and informed that Master Lan would see them shortly. </p><p>This was not how random petitioners to Cultivation Sects were treated. This was not how demonic cultivators were treated either. It made Mo XuanYu deeply nervous and he wasn’t sure if it was his overly large golden core or his stomach that roiled more with the anxiety. </p><p>And then the doors burst open again with a swirl of fabric and, “A-Xian!” </p><p>“Shijie?” </p><p>A woman had her arms wrapped around the Yiling Patriarch and the Yiling Patriarch looked close to tears in an instant. And then there was an angry adolescent guy yelling and throwing a punch, “What the hell!” </p><p>“Jiang Cheng? Ow! Hey!” But the Yiling Patriarch opened one of his arms that were already hugging the woman to draw the guy into the hug as well. </p><p>Mo XuanYu knew that name and he was having nothing to do with Sandu ShengShou who regularly tracked down demonic cultivators like Mo XuanYu and tortured them to death. No, he was going to be small and quiet and say nothing. </p><p>“No more than you deserve! What are you doing here?”</p><p>“What are <em> you </em>doing here?”</p><p>“Wen Xu! New Sect Leader Wen, sent Mom and Dad a letter, which was a lot more informative than your crappy ‘I’m sorry, I’m leaving’ letter, saying that you had done the Wen Sect a great service and were now headed to Cloud Recesses so if we wanted to find you we could head here.”</p><p>“I did him a great service so he sold me out? Hey! Ow!”</p><p>“It’s not selling you out to tell your Sect where you are! You just left! With no explanation!”</p><p>The Yiling Patriarch finally flinched, “I left a letter.”</p><p>“The letter to Mom saying that she was right, you were sorry and you were leaving to avoid causing a disaster? That is not an explanation!” </p><p>The door was still open and Mo XuanYu was the only one to notice yet another person enter the room. He was clearly Lan Sect and Mo XuanYu thought he might have seen the man before but hadn’t particularly taken any note of him. The man just looked at the mass of people, hugging or possibly grappling now, with clear disapproval. “Young people should learn patience and dignity.” </p><p>All three of them startled at the words and the Yiling Patriarch finally disengaged from the two others and turned to face the man. </p><p>“Master Lan. I bring to you one Mo Hua, courtesy name XuanYu, who has had a difficult life, taught avarice and improper cultivation, through no fault of his own. He wishes to rise above his fate but doesn’t know how. This one begs your help to teach him a righteous path.” And the Yiling Patriarch brought his hands together and went down into a deep bow from which he didn’t rise. </p><p>“Hmm.” Master Lan stroked his beard for a moment, while the Yiling Patriarch stayed absolutely still in his deep bow. The younger version of Sandu ShengShou and the woman Mo XuanYu was a bit embarrassed to only now recognize as the young version of the tragically killed Madam Jin both looked on awkwardly. Mo XuanYu felt a bit bad for them, but not enough to draw attention to himself, but then it didn’t matter because Master Lan saw him anyway. “I supposed this is Young Master Mo?” </p><p>No one answered because Mo XuanYu was absolutely frozen and the Yiling Patriarch was still bowed, and the other two didn’t know who he was. </p><p>Master Lan frowned. “Stand up, Young Master Wei and introduce the proposed new Lan disciple to me.” </p><p>“Thank you, Master Lan QiRen.” The Yiling Patriarch answered perfectly politely while rising from his bow. Mo XuanYu wondered if he was the only one who thought that politeness was a bit too pointed. But then the Yiling Patriarch grabbed Mo XuanYu and forced him out of his defensive huddle in the corner. “This is Young Master Mo XuanYu, a four year old child with the memories of a nineteen-year-old demonic cultivator and the golden core of a thirty-year-old proper cultivator. His death was from a self-mutilating ritual for revenge. To refrain from teaching him a better path would be to condemn him to continue the dark path of his memories.” </p><p>Master Lan gave the Yiling Patriarch an unimpressed look at that last bit but merely said, “The Lan Sect is not in the habit of abandoning people to the dark path.” </p><p>“Thank you, Master Lan.” </p><p>“I and my nephews,” Master Lan started to say and definitely noticed the Yiling Patriarch’s twitch, but continued on, “will have a conversation with Young Master Mo outside of your presence. In that time, you can apologize to the Jiang Sect for scaring them.” </p><p>Then Master Lan put a strong hand on Mo XuanYu’s shoulder and led him out of the room, completely ignoring the Yiling Patriarch’s attempts to continue the conversation. </p><p>Mo XuanYu was happy to just get away from Sandu ShengShou and any threat of Zidian, although he hadn’t seen the weapon yet. He didn’t want to take the chance. </p><p>There were two young men meditating in the room Master Lan led him to. They both opened their eyes when he was brought in, but only one of them stood to greet him. </p><p>“Hello, Young Master Mo.” </p><p>“Hello.” Mo XuanYu said. Looking at that kind, smiling face, he found himself asking, “Are you Master Lan XiChen?” </p><p>“Yes. May I ask how you recognized me?”</p><p>“The Yiling, I mean, Young Master Wei,” Mo XuanYu winced as he stumbled over how to even refer to his… patron? “He told me that you were really nice. That you see only the good in people.”</p><p>Master Lan XiChen blinked but smiled again. “That was kind of him. I do try to.” </p><p>“Hmm,” Master Lan QiRen said. “And what else did he say?” </p><p>“Ah,” said Mo XuanYu. </p><p>“Uncle?” Master Lan XiChen asked. </p><p>The third Lan in the room, and the youngest, remained silent, but Mo XuanYu felt his eyes drawn to him, away even from the sharp eyes of Master Lan QiRen. He was nearly certain that the silent young man was a young HanGuang-Jun. </p><p>“Mo XuanYu!” Lan QiRen’s sharp tone dragged his attention back. “What else did Young Master Wei tell you about Young Master Lan?”</p><p>“Ah,” XuanYu said again. </p><p>“Lying is forbidden at Cloud Recesses.”</p><p>“I know! He’s been reciting the Gusu Lan rules to me for the last two weeks.”</p><p>“So speak!”</p><p>“Uncle, please. Perhaps we can reassure Young Master Mo that he has a place among the Lan disciples. Wen Qing wrote to us about your situation: both child and adult, with a painful history. You have a home here.”</p><p>Mo XuanYu hadn’t even realized how tense he had been until it all seemed to drain away. </p><p>And then it came back. “It’s because I have a golden core now, isn’t it? You <em> have </em>to take me in.” </p><p>But Young Master Lan XiChen was serene in the face of that accusation. “No. If we didn’t want you here, we could have sent you back to Qishan Wen, who offered to take you in. Doctor Wen Qing simply thought that you would be more comfortable in Cloud Recesses and we agreed. And if you like neither, it sounds like Young Master Wei would continue to care for you. I understand he claimed you away from your mother?”</p><p>Mo XuanYu found himself relaxing again in the face of that slow and reassuring flow of words. “Yeah.”  </p><p>“So you have multiple places you would find welcome. But I hope you find peace and learning here.” </p><p>“Yeah,” Mo XuanYu sighed. “Yeah, I really like it here.”</p><p>“Even with the rules?” Master Lan XiChen asked with gentle humor. </p><p>“He told me that there were three thousand rules and I should figure out which ones to follow and which ones to ignore, but I really like knowing what I should be doing. And we both agreed that lying probably wouldn’t do anyone any good.”</p><p>“So can you answer my uncle’s questions?” </p><p>“But…” Mo XuanYu said, and then finished in a whisper, “I don’t want to offend.” </p><p>“I promise I won’t be offended. That’s a rule itself. Never be offended by true criticism.” </p><p>“Oh.” Mo XuanYu said, “I’ll have trouble with that rule.”</p><p>“Many of us do. But it is something to try for. True criticism is a gift because it helps us improve.” </p><p>“He said, he said that you were really nice, that you see the good in everyone around you but that sometimes that blinds to you to the evil so you can’t see it to fight against it. So you let the evil continue.” </p><p>“Oh.” Master Lan XiChen said, and looked sad. </p><p>“Do not be blind to evil,” Master Lan QiRen said, and sounded oddly pleased. </p><p>“I will meditate on this, Uncle. But Young Master Mo,” a sparkle came back to the kind Master Lan XiChen’s eyes, “did Young Master Wei have any advice about anyone else here?” </p><p>Mo XuanYu smiled back at him. “He said that Lan QiRen is very knowledgeable but focuses so much on who is being improper that he forgets to look at who is being immoral.”</p><p>Young Master Lan looked interested while Master Lan looked like he was struggling with the rule against being offended. </p><p>The third person finally spoke, “And what did he say about Lan WangJi?” </p><p>Mo XuanYu was honestly regretful when he shook his head. “All he would ever say is, ‘Lan Zhan is Lan Zhan.’ and then not explain what that meant! I mean, everyone knew that HanGuang-Jun and the Yiling Patriarch hated each other, but that doesn’t explain why he knows all the Lan rules well enough to recite from memory!” </p><p>The three Lans looked at each other with apparent confusion. </p><p>It was Master Lan XiChen who asked, “Who is HanGuang-Jun?” </p><p>“Um, HanGuang-Jun, the Second Master Lan WangJi, he’s one of the most famous cultivators there is. He always goes to where the chaos is.”</p><p>Both the other Lans looked at the youngest and quietest who still stood blank faced and calm. Although, Mo XuanYu realized, he thought he could perhaps see a hint of red rising to the tips of his ears.  </p><p>Young Master Lan XiChen smiled. “It is good to know that WangJi made such a good name for himself.” </p><p>“Why, why are you asking me these questions?” Mo XuanYu asked and then rushed ahead, “I mean, if it’s okay to ask! I don’t mean to be rude!” </p><p>Lan QiRen said something that Mo XuanYu couldn’t hear but Lan XiChen just smiled at him again. “There have been some significant changes that Young Master Wei has instigated but he has also apparently self-exiled himself from his home and his allies. We are trying to figure out where he should stay.”</p><p>“Then shouldn’t you be asking him these questions?” </p><p>“We will. But before we decide to make or refrain from making an offer, it is good to collect as much information as we can. He ran away from Yunmeng Jiang, did a service to Qishan Wen, and is bringing a student to Gusu Lan. His actions are based on information that only he and you have.”</p><p>“But I don’t know what his life was like at all.”</p><p>“But you know what the cultivation world was like fifteen years from now.”</p><p>“I guess? Sort of? I mean, I was just a disgraced Jin disciple. Well, I sure knew the Wen Sect wasn’t around anymore.” </p><p>“Exactly. What can you tell me about the Jiang Sect?”</p><p>“Well, Sandu ShengShou, Sect Leader Jiang WanYin, was pretty famous for hunting demonic cultivators the way other cultivators hunt monsters. I mean, he must have been good because he rebuilt the Jiang Sect after it was massacred and it became a powerful Sect again, but I was studying demonic cultivation. I stayed away from him!” </p><p>“That is good to know. And the Lan Sect?”</p><p>“I don’t know. I was kicked out of the Jin Sect before I had a chance to study here.” </p><p>“And the Nie Sect?”</p><p>“Nothing much. They didn’t really do anything. People made fun of Sect Leader Nie HuaiSang for being useless, but I never had any interactions with the Nie Sect.”</p><p>For a moment, Lan XiChen looked stricken, but then the soft smile was back. “Thank you for telling me. And the Jin Sect?” </p><p>Mo XuanYu had to give that a look. “I was a Jin disciple. How much information do you want and how long do you have?”</p><p>Lan XiChen’s smile brightened with humor. “Maybe later, you can tell me more. But for now, can you tell me what Young Master Wei’s, I believe you call him the Yiling Patriarch?, his relationship with the Jin Sect was?” </p><p>“Well, I’d say not good because the Yiling Patriarch killed Jin XiZuan, Jin XiZun, and Madam Jin. And a bunch of others too but those are the famous ones. Young Master Jin RuLan didn’t like to even have his name spoken in his presence. Some of the other disciples liked to rile him up by talking about how his uncle killed parents. He spent a lot of time at Lotus Pier instead of Koi Tower.” </p><p>Now that Mo XuanYu was recounting this, especially after having met the Yiling Patriarch, it struck him that some of this situation was just odd. “Now that I’m thinking about it, if Jin RuLan was just one month old when his parents were killed, I’m not sure why Madam Jin would have been at the Battle of Nightless City at all. I mean, that’s definitely where he killed her. And where Sect Leader Jiang killed him.” </p><p>All three Lans were looking at him with disturbed expressions. </p><p>“What? The Jin Sect said he was evil. He came to power in the Sunshot Campaign. Betrayed the Jin Sect to side with the last of the Wen Sect, and was killed after he killed a bunch of Jin. I thought he was evil.” </p><p>“And… you brought him back?”</p><p>“I wanted revenge. He seemed like the obvious choice.”</p><p>“... Did he seem like a good choice for revenge after you had met him?”</p><p>“I’m honestly not sure. What did he even do to Wen RuoHan?” </p><p>“Sect Leader Wen Xu did not go into the details.” The wry humor in that statement made Mo XuanYu giggle and once he started, he had trouble stopping. Talking about what the world had been like, would be like, wouldn’t be like anymore, might have been too much for his poor sense of reality. How had this happened? Was it really only a month ago that everything had been different? </p><p>“I think it’s time to return to Young Master Wei and check on his meeting with Sect Leader Jiang and Madam Yu.” </p><p>All four of them walked, purposefully but without hurrying, with good posture but without excessive pride, back to the guest house. </p><p>The situation back in the guest quarters was actually awkward enough that Mo XianYu was torn between being glad that Master Lan was there to disrupt the overpowering aura of discomfort and wishing he personally could have avoided it entirely. </p><p>“Sect Leader Jiang.”</p><p>“Master Lan. Thank you for allowing my family to reunite here.” </p><p>“It is our honor to support our allies in such a way.” </p><p>Sect Leader Jiang looked tired. “And Wei WuXian has demonstrated himself to be quite the ally.”</p><p>“Uncle Jiang…”</p><p>Both men ignored the Yiling Patriarch’s attempted interjection. </p><p>“Certainly one to be treated with care.” </p><p>“They did! They have! You did, Uncle Jiang. You treated me very well. Better than I deserved. You’ll always be my family, but I can’t return to Lotus Pier. Not to stay.” </p><p>“If that is settled then, perhaps we can leave. As lovely as Cloud Recesses is, it is dangerous for us all to have left Lotus Pier together.” Madam Jiang looked like she would fit right in with the high cultivation ladies of Koi Tower. </p><p>“Then perhaps you could head back immediately, my lady.” Sect Leader Jiang spoke perfectly politely, but it made Mo XuanYu wince. That relationship could also fit right in at Koi Tower. </p><p>Apparently Mo XuanYu was not alone in deciding to pretend he heard and saw nothing. </p><p>Lan QiRen stroked his beard. “Young Master Wei. You told Mo XuanYu that I focus on propriety above morality. Can you support that statement with any action or inaction on my part?” </p><p>The Yiling Patriarch huffed a quiet laugh. “You and I had a fraught relationship and Lan Zhan suffered the most for our disagreements. But in this case, let me use the example of Jin GuangShan who acts always with propriety and rarely with morality.” </p><p>“That’s a heavy accusation to level at a Sect Leader.” </p><p>“It is an open secret that Sect Leader Jin regularly betrays his wife and leaves bastards across the countryside. However, it is improper to chide a Sect Leader.” The Yiling Patriarch spoke precisely, laying out a case. </p><p>“When one such bastard distinguished himself in the war, his father finally acknowledged him, and thus all the Great Sect leaders were invited to the wedding of Jin GuangYao to Maiden Qin Su. You yourself, Master Lan, drank to their union. As was proper.” </p><p>“Madam Qin died of grief soon after that marriage, unable to live with the knowledge that her husband’s patron had forced himself upon her so many years ago and now her daughter had married her own half-brother.”</p><p>There were stifled gasps and even Mo XuanYu found himself shocked and horrified. “Qin Su is our sister? But, but what about A-Song? He, their son, my, my nephew...”</p><p>Master Lan actually swayed and put a hand out to steady himself. The Yiling Patriarch kept his eyes on Master Lan. “Their union was blessed by every Sect present, each of whom turned a blind eye to Jin GuangShan’s immoral behavior rather than face the accusation of being improper in chiding him.” </p><p>The Yiling Patriarch’s smile was merely a twitch of the darkest humor. “It was only in retrospect that I realized that there was more than one reason why Madam Jin ensured she knew the mother of her son’s betrothed. That she knew beyond any doubt that Jiang YanLi was the daughter of Madam Yu and Uncle Jiang, with no chance of any other.”  </p><p>Mo XuanYu looked over at Jiang YanLi who he only vaguely remembered as the Young Master’s wife and later the tragic victim of the traitorous Yiling Patriarch. </p><p>“Mother?”</p><p>Madam Jiang looked grim but not surprised. She didn’t say anything, but Mo XuanYu had too much experience in silence being a message in and of itself. </p><p>Sect Leader Jiang looked as horrified as anyone else, but also like he was having a revelation. Mo XuanYu wondered vaguely what that was about. </p><p>Lan QiRen also appeared to see something in that, and waited until Jiang Fengman had walked over to his wife to put an arm around her in support, before taking back the conversation again. </p><p>“Very well. I will meditate upon your criticism. And send someone to have a quiet conversation with Madam Qin.”</p><p>The Yiling Patriarch actually looked pleasantly surprised at that rather tepid response. “I expect nothing more.” </p><p>“Hmm. You told Mo XuanYu that my nephew Lan XiChen saw only goodness and was blind to evil. What is your support of that statement?” </p><p>The Yiling Patriarch was silent for a long moment before saying, “Lan XiChen had a sworn brother who he loved and who loved him in return. Many people insulted this brother due to circumstances of his birth. Lan XiChen was correct in defending his sworn brother from such insults. But he became so caught up in defending him against all insults that he defended him against accusations based on his actions. In the shelter of Lan XiChen’s defense, this sworn brother accrued power and wealth through unsavory actions. In the end, Lan XiChen was used to bring an unsavory individual into power and then used again to remove from power a sworn brother whom he loved. The discovery of both sent Lan XiChen into self-seclusion.” </p><p>While the Yiling Patriarch kept his eyes on Master Lan QiRen, Mo XuanYu watched as Master Lan XiChen lost his smile and looked increasingly stricken. The younger HanGuang-Jun took a step closer to provide silent support to his brother. Mo XuanYu wished he could do the same. </p><p>“Hmm.” Lan QiRen looked contemplative. “And Lan WangJi? What are your thoughts of him?”</p><p>“Lan Zhan…” Wei WuXian finally looked away. He looked instead at the young HanGuang-Jun and his whole face softened, “My Lan Zhan is everything that is good and righteous and terrible at communicating. It is good to see you without the scars on either your heart or your body,” he reached out a hand, as if to touch young HanGuang-Jun’s cheek, and but the young master stepped back to avoid it. The Yiling Patriarch looked sad but unsurprised. “But I miss my husband so much it hurts to breath.”</p><p>Mo XuanYu was not the only one gaping at that revelation. “But everyone said you were enemies!” </p><p>“But you’re not a cut-sleeve?” Sandu ShengShou said, appearing more confused than anything. “You’re always flirting with women.” </p><p>The Yiling Patriarch smiled in amusement. “Women are pretty and sweet and fun to flirt with. But Lan Zhan is Lan Zhan.” </p><p>“Husband?” the young HanGuang-Jun asked. </p><p>“I never understood why you loved me, but you did. While I was dead you raised our son to be an amazing cultivator and the best of men. After I returned, we lived in the Jingshi and went night hunting together and taught the disciples. But when we discovered what was happening to my soul, you refused to allow me to simply stay with you until the end.”</p><p>“Son?”</p><p>“Mm. Lan Yuan, courtesy name Sizhui. I can never adopt him in this world because I have done my best to prevent the slaughter that orphaned him.”</p><p>Master Lan QiRen had finally gotten himself back into some semblance of calm, although still clearly ruffled. “Do you expect to claim the Second Young Master Lan based on your word alone?”</p><p>The Yiling Patriarch seemed surprised at that. “No. Of course not. Lan Zhan is Lan Zhan and I love him, but he doesn’t know me at all. We can hardly be considered married.”</p><p>“Then why are you here?”</p><p>“Didn’t I already say that? To bring Mo XuanYu to you and to present us both for judgment. It is the responsibility of every cultivation sect to protect the innocent and punish the wicked. And I am a demonic cultivator. The greatest demonic cultivator the world has ever seen, or never seen in this case. But still. Mo XuanYu is a dabbler who can be taught a better path. I am a hardened demonic cultivator, however. Too knowledgeable and too curious. I have walked a very dark path for a very long time.”</p><p>“What are you saying, A-Xian?” Maiden Jiang YanLi softly asked, but the Yiling Patriarch shook his head.</p><p>“The ritual that brought me back to life is undone and my soul will reincarnate. What needed doing has been done, but my actions remain and my knowledge of the dark path remains. So now I present myself for judgement to the most righteous of Sects. Do with me what you will.” For all his humble words, his tone and manner were far from demure. The Yiling Patriarch was challenging the Lan Sect and fate itself, to judge him. </p><p>“What are you expecting from us?”</p><p>“You are all that remains of my last home. I have survived the loss of my home four times: once in the death of my parents, once in the razing of Lotus Pier, once in the massacre of the Burial Mounds, and once in the time travel that sent me back before I had even first studied at Cloud Recesses. So I am here to ask you what is right and give you the choice: kill me, imprison me, cast me out, what you will.”</p><p>“Welcome you,” young HanGuang-Jun said.</p><p>“What?” was said in a chorus of voices. Most of the people were surprised, but Lan XiChen and Lan QiRen looked frankly alarmed. </p><p>“My future husband is welcome at Cloud Recesses.”</p><p>The Yiling Patriarch laughs and it’s the softest laugh Mo XuanYu has ever heard from him. The look he gives to HanGuang-Jun is adoring, but he also shakes his head. “Lan Zhan, Lan Zhan. I just said we’re <em>not</em> married. You’ve never even met me before.”</p><p>“If Lan Zhan is Lan Zhan, then Wei Ying is Wei Ying.”</p><p>For all the stunned disbelief that others showed, Mo XuanYu found that he wasn’t actually surprised at the young HanGuang-Jun’s words. If he had someone look at him like the Yiling Patriarch looked at HanGuang-Jun, then he’d keep that one close too. </p><p>“That’s not how, that’s not how people work, Lan Zhan.”</p><p>“Mm. It is. It can be. If loved before, then love again. Still welcome.”</p><p>“I can hardly believe I’m about to say this, but Lan Zhan, listen to your uncle. He will advise you well. In this instance.” The addition tempered the advice and the Yiling Patriarch seemed to be laughing at himself as much as at Master Lan QiRen. </p><p>Lan QiRen stroked his beard in thought as it seemed like everyone else held their breath. “We cannot judge a person based only on his own accounted actions. Thus the Lan Clan extends an offer of a year at Cloud Recesses to the First Disciple of the Jiang Sect, to study in our library and assist in teaching the newest disciple Mo XuanYu.”</p><p>Sect Leader Jiang nodded at that, but Mo XuanYu kept waiting and sure enough, Master Lan continued. “If, at the end of that year, you have shown yourself to be righteous and capable, I will allow a courtship between Young Master Wei and Second Young Master Lan.” </p><p>And now Second Young Master Lan nodded. “Thank you, Uncle.” </p><p>The Yiling Patriarch looked absolutely shocked. “What? Really?” </p><p>The Yiling Patriarch’s gaze jerked from Master Lan QiRen to Second Young Master Lan WangJi and back again, like he doesn’t quite believe his eyes but wants what he sees too badly to truly question it. </p><p>“If you prove yourself!” </p><p>“I will absolutely prove myself!” the Yiling Patriarch clearly lied through his teeth. There was no way that he was going to abide by the rules for a year. </p><p>“What about us!” Sandu ShengShou shouted and interrupted whatever moment that was forming. </p><p>But the Yiling Patriarch laughed and said, “if you train very hard  and Uncle Jiang agrees, then I’ll take my little brother on a night hunt to slay the Tortoise of Slaughter!” </p><p>“What? You know where the Tortoise of Slaughter is?” </p><p>“Yup! Lan Zhan and I got it last time, but that was because you were injured and were guarding like thirty other people on their retreat.” </p><p>“The Tortoise of Slaughter? Really, Wei WuXian?” </p><p>“Really!” </p><p>As the Jiang Sect started talking over one another, Mo XuanYu thought about how the Yiling Patriarch had told him that demonic cultivators must never be scared of making decisions, even bad ones. He wasn’t sure he ever wanted to be a demonic cultivator again, but he wanted the option to be available to him and for the Yiling Patriarch to not forget it. So, he forced himself to speak up. “If you adopt me and then marry Second Young Master Lan, would that make me a Lan too?” </p><p>With his attention jerked back to Mo XuanYu, the Yiling Patriarch gave him an overdone scowl. “You’re not nearly as cute as my A-Yuan was at that age, you know. But I suppose you have a charm all your own. Who’s to say Lan Zhan will want to marry a single father again? You’ll have to be extra good to make him love us!” </p><p>Mo XuanYu thought it would not be hard to be extra good in this place of structure and righteousness, especially with the Yiling Patriarch looking out for him with laughing cheer and fearless actions. </p><p>But seeing the way young HanGuang-Jun looked at them, with confused desire for that same laughing cheer and fearless action… Mo XuanYu thought that he probably didn’t need to be too good, or the Yiling Patriarch too rule-abiding, to still get the family they all wanted.</p></div>
+        <!-- end cache -->
+    </div>
+<!--/chapter-->
+
+
+  </div>
+  <!-- END work skin -->
+<!-- END work -->
+
+<!-- BEGIN comment section -->
+<!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="TAPpfLp_Tbok2kdetVR_yrvOPCeM2ya4CO5o74W7yWArFsSFzYgqHopavMUWuEuUnBjqrAAKpPcjklflC78uAA"/>
+          <input value="23017654" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?work_id=23017654">Comments (160)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/sitimawar">sitimawar</a>, <a href="/users/not_nice_person">not_nice_person</a>, <a href="/users/soso_yoongi">soso_yoongi</a>, <a href="/users/GenerallyQuiet">GenerallyQuiet</a>, <a href="/users/senna_robbins">senna_robbins</a>, <a href="/users/DragonMaster_Shi">DragonMaster_Shi</a>, <a href="/users/NatalySil">NatalySil</a>, <a href="/users/Raizanna">Raizanna</a>, <a href="/users/Smidgen">Smidgen</a>, <a href="/users/Sumigoddess">Sumigoddess</a>, <a href="/users/Rosileecatmum">Rosileecatmum</a>, <a href="/users/Frizzylizzy3">Frizzylizzy3</a>, <a href="/users/Hallowtide">Hallowtide</a>, <a href="/users/staccato">staccato</a>, <a href="/users/Haely_Potter">Haely_Potter</a>, <a href="/users/hungryhypno">hungryhypno</a>, <a href="/users/trina36051">trina36051</a>, <a href="/users/SpitFyreForever">SpitFyreForever</a>, <a href="/users/scribbet">scribbet</a>, <a href="/users/rosegoddess221">rosegoddess221</a>, <a href="/users/Dragon_Faeries">Dragon_Faeries</a>, <a href="/users/thelaughinghermit">thelaughinghermit</a>, <a href="/users/Stormy_Disaster">Stormy_Disaster</a>, <a href="/users/Ann_IA">Ann_IA</a>, <a href="/users/queenexploosion">queenexploosion</a>, <a href="/users/Postiroxy">Postiroxy</a>, <a href="/users/geegirl">geegirl</a>, <a href="/users/maikkii">maikkii</a>, <a href="/users/TKAWAIII2013">TKAWAIII2013</a>, <a href="/users/rssmca">rssmca</a>, <a href="/users/LauraHalestilinski">LauraHalestilinski</a>, <a href="/users/kathalynx_kooe12">kathalynx_kooe12</a>, <a href="/users/amillionhopes">amillionhopes</a>, <a href="/users/Epid13">Epid13</a>, <a href="/users/Scarsha">Scarsha</a>, <a href="/users/FanaticDomainExpert">FanaticDomainExpert</a>, <a href="/users/Annarielwen">Annarielwen</a>, <a href="/users/HappyTr33">HappyTr33</a>, <a href="/users/musichd">musichd</a>, <a href="/users/Kiraii">Kiraii</a>, <a href="/users/Bewbew">Bewbew</a>, <a href="/users/spaceAnon">spaceAnon</a>, <a href="/users/aerois">aerois</a>, <a href="/users/ninasafiri">ninasafiri</a>, <a href="/users/Douglasoctet">Douglasoctet</a>, <a href="/users/Ashstoleacrown">Ashstoleacrown</a>, <a href="/users/readsandruns">readsandruns</a>, <a href="/users/ottervisje">ottervisje</a>, <a href="/users/AngryRobin">AngryRobin</a>, <a href="/users/oropel">oropel</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/23017654/kudos?before=3808842514">1519 more users</a>
+             as well as 
+          489 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_23017654">
+  <form class="new_comment" id="comment_for_23017654" action="/works/23017654/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="QV9q-1Juz1Dbh1VRuFijeqZFubarJEIJm-A1L8gS-7cmSkcCJZmo9HUHrsobtJckgZNvPSf1wEawnAolRhYc1w"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_23017654">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_23017654" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_23017654=new LiveValidation('comment_name_for_23017654',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_23017654.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_23017654">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_23017654" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_23017654=new LiveValidation('comment_email_for_23017654',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_23017654.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_23017654" class="landmark">Comment</label>
+        <textarea id="comment_content_for_23017654" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_23017654" name="controller_name" value="works"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_23017654_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_23017654">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_23017654=new LiveValidation('comment_content_for_23017654',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_23017654.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_23017654.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_23017654" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+<!-- END comment section -->
+<!-- END revealed -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/23017654/hit_count.json")})</script>
+
+
+  </body>
+</html>

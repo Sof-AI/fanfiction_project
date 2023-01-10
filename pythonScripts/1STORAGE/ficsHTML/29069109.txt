@@ -1,0 +1,716 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"232243a405","applicationID":"129290979","transactionName":"cVtXEUpbWFxdQhkAW1NETQBKRxtDUF9B","queueTime":0,"applicationTime":102,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"232243a405",applicationID:"129290979"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(9),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=M.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+M.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+M.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,y="addEventListener",h="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1215.min.js"},T=w&&b&&b[y]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:T,userAgent:s,disabled:E};if(!E){t(1),t(7),g[y]?(g[y]("DOMContentLoaded",o,l(!1)),m[y]("load",r,l(!1))):(g[h]("onreadystatechange",i),m[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Red Robin Hood - Chapter 1 - candlebreak - Batman - All Media Types [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="BJtx1A8zBmujXpi3-TzJVMZ1GhRSI3a8T_LTnemvWA4xOKjlUvINSlsv7nh5OW0BxLcFc4XPYR_jxjH7wo0RQQ"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="axR7f8cC-vsKKNd_q9gGyqdR0ONyhvwes80yUxh3iohet6JOmsPx2vJZobAr3aKfpZPPhKVq670f-dA1M1XDxw"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: &quot;sherlock (tv)&quot; m/m NOT &quot;sherlock holmes/john watson&quot;</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/29069109?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/29069109/chapters/71459382#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/29069109/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/29069109/chapters/71353419" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="71353419">1. The Replacement (Jason)</option>
+<option value="71459382">2. Titans Tower (Tim)</option>
+<option value="71498193">3. The Search Begins (Barbara)</option>
+<option value="71564094">4. What Happens to Robins (Jason &amp; Tim)</option>
+<option value="71728785">5. The First of Several Breakdowns (Jason &amp; Tim...</option>
+<option value="71987685">6. A History Lesson (Jason &amp; Tim)</option>
+<option value="72107703">7. Messages from the Grave (Bruce)</option>
+<option value="72246885">8. Escape, Part I (Tim)</option>
+<option value="72462468">9. Escape, Part II (Jason)</option>
+<option value="72899076">10. A Truce (Tim &amp; Jason)</option>
+<option value="73485798">11. Spoiler's Return (Stephanie)</option>
+<option value="73686000">12. A Scattered Flock (Barbara &amp; Jason)</option>
+<option value="74605602">13. Black Mask, Part I (Jason &amp; Stephanie)</option>
+<option value="74790534">14. Black Mask, Part II (Jason)</option>
+<option value="75432668">15. The Red Hood, Part I (Dick &amp; Bruce &amp; St...</option>
+<option value="76589960">16. The Red Hood, Part II (Barbara &amp; Jason)</option>
+<option value="76630796">17. Great Life Choices (Stephanie)</option>
+<option value="76723172">18. I'm Not Okay (Bruce)</option>
+<option value="76942178">19. A Reunion of Robins (Tim)</option>
+<option value="78001844">20. Reflections &amp; Realizations (Jason &amp; Bru...</option>
+<option value="79350142">21. Operation: RSJ (Stephanie)</option>
+<option value="80587498">22. Scranton (Jason &amp; Barbara &amp; Dick)</option>
+<option value="82784833">23. Graveyard, Part I (Jason &amp; Bruce)</option>
+<option value="83064307">24. Graveyard, Part II (Dick &amp; Jason)</option>
+<option value="86072479">25. Son of the Bat (Cassandra)</option>
+<option value="88565809">26. A Certain Sense of Calm (Dick)</option>
+<option value="91181845">27. How the Turn Tables (Kon &amp; Tim)</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/29069109/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=71353419">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/29069109/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/29069109/Red%20Robin%20Hood.azw3?updated_at=1647594358">AZW3</a></li>
+          <li><a href="/downloads/29069109/Red%20Robin%20Hood.epub?updated_at=1647594358">EPUB</a></li>
+          <li><a href="/downloads/29069109/Red%20Robin%20Hood.mobi?updated_at=1647594358">MOBI</a></li>
+          <li><a href="/downloads/29069109/Red%20Robin%20Hood.pdf?updated_at=1647594358">PDF</a></li>
+          <li><a href="/downloads/29069109/Red%20Robin%20Hood.html?updated_at=1647594358">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Mature/works">Mature</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Graphic%20Depictions%20Of%20Violence/works">Graphic Depictions Of Violence</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Gen/works">Gen</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Batman%20-%20All%20Media%20Types/works">Batman - All Media Types</a></li><li><a class="tag" href="/tags/DCU%20(Comics)/works">DCU (Comics)</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Tim%20Drake%20*a*%20Jason%20Todd/works">Tim Drake &amp; Jason Todd</a></li><li><a class="tag" href="/tags/Stephanie%20Brown%20*a*%20Jason%20Todd/works">Stephanie Brown &amp; Jason Todd</a></li><li><a class="tag" href="/tags/Stephanie%20Brown*s*Cassandra%20Cain/works">Stephanie Brown/Cassandra Cain</a></li><li><a class="tag" href="/tags/Cassandra%20Cain%20*a*%20Barbara%20Gordon/works">Cassandra Cain &amp; Barbara Gordon</a></li><li><a class="tag" href="/tags/Stephanie%20Brown%20*a*%20Barbara%20Gordon/works">Stephanie Brown &amp; Barbara Gordon</a></li><li><a class="tag" href="/tags/Barbara%20Gordon%20*a*%20Bruce%20Wayne/works">Barbara Gordon &amp; Bruce Wayne</a></li><li><a class="tag" href="/tags/Jason%20Todd%20*a*%20Bruce%20Wayne/works">Jason Todd &amp; Bruce Wayne</a></li><li><a class="tag" href="/tags/Dick%20Grayson%20*a*%20Jason%20Todd/works">Dick Grayson &amp; Jason Todd</a></li><li><a class="tag" href="/tags/Stephanie%20Brown%20*a*%20Tim%20Drake/works">Stephanie Brown &amp; Tim Drake</a></li><li><a class="tag" href="/tags/Cassandra%20Cain%20*a*%20Jason%20Todd/works">Cassandra Cain &amp; Jason Todd</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Jason%20Todd/works">Jason Todd</a></li><li><a class="tag" href="/tags/Tim%20Drake/works">Tim Drake</a></li><li><a class="tag" href="/tags/Stephanie%20Brown/works">Stephanie Brown</a></li><li><a class="tag" href="/tags/Dick%20Grayson/works">Dick Grayson</a></li><li><a class="tag" href="/tags/Bruce%20Wayne/works">Bruce Wayne</a></li><li><a class="tag" href="/tags/Barbara%20Gordon/works">Barbara Gordon</a></li><li><a class="tag" href="/tags/Alfred%20Pennyworth/works">Alfred Pennyworth</a></li><li><a class="tag" href="/tags/Cassandra%20Cain/works">Cassandra Cain</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Jason%20Todd%20is%20Red%20Hood/works">Jason Todd is Red Hood</a></li><li><a class="tag" href="/tags/Tim%20Drake%20is%20Robin/works">Tim Drake is Robin</a></li><li><a class="tag" href="/tags/Stephanie%20Brown%20is%20Robin/works">Stephanie Brown is Robin</a></li><li><a class="tag" href="/tags/Accidental%20Sibling%20Acquisition/works">Accidental Sibling Acquisition</a></li><li><a class="tag" href="/tags/Alternate%20Universe%20-%20Different%20First%20Meeting/works">Alternate Universe - Different First Meeting</a></li><li><a class="tag" href="/tags/Implied*s*Referenced%20Child%20Abuse/works">Implied/Referenced Child Abuse</a></li><li><a class="tag" href="/tags/Jason%20Todd%20Needs%20A%20Hug/works">Jason Todd Needs A Hug</a></li><li><a class="tag" href="/tags/Tim%20Drake%20Needs%20a%20Hug/works">Tim Drake Needs a Hug</a></li><li><a class="tag" href="/tags/Stephanie%20Brown%20Needs%20a%20Hug/works">Stephanie Brown Needs a Hug</a></li><li><a class="tag" href="/tags/Protective%20Jason%20Todd/works">Protective Jason Todd</a></li><li><a class="tag" href="/tags/Protective%20Bruce%20Wayne/works">Protective Bruce Wayne</a></li><li><a class="tag" href="/tags/Hurt*s*Comfort/works">Hurt/Comfort</a></li><li><a class="tag" href="/tags/Angst/works">Angst</a></li><li><a class="tag" href="/tags/Kidnapping/works">Kidnapping</a></li><li><a class="tag" href="/tags/Torture/works">Torture</a></li><li><a class="tag" href="/tags/Psychological%20Torture/works">Psychological Torture</a></li><li><a class="tag" href="/tags/More%20discussion%20of%20suicide%20than%20I%20thought%20there%20would%20be/works">More discussion of suicide than I thought there would be</a></li><li><a class="tag" href="/tags/POV%20Alternating/works">POV Alternating</a></li><li><a class="tag" href="/tags/Background%20Core%20Four%20(Young%20Justice)/works">Background Core Four (Young Justice)</a></li><li><a class="tag" href="/tags/Ma%20Kent%20makes%20an%20appearance%20or%20two/works">Ma Kent makes an appearance or two</a></li><li><a class="tag" href="/tags/And%20is%20easily%20the%20most%20badass%20character/works">And is easily the most badass character</a></li><li><a class="tag" href="/tags/Bruce%20Wayne%20Tries%20to%20Be%20a%20Good%20Parent/works">Bruce Wayne Tries to Be a Good Parent</a></li><li><a class="tag" href="/tags/Does%20he%20succeed*q*%20ehhhh/works">Does he succeed? ehhhh</a></li><li><a class="tag" href="/tags/But%20he%20loves%20his%20children%20and%20he%20does%20get%20better/works">But he loves his children and he does get better</a></li><li><a class="tag" href="/tags/Implied*s*Referenced%20Rape*s*Non-con/works">Implied/Referenced Rape/Non-con</a></li><li><a class="tag" href="/tags/Past%20Stephanie%20Brown*s*Tim%20Drake/works">Past Stephanie Brown/Tim Drake</a></li><li><a class="tag" href="/tags/Batfam%20reckoning%20with%20canon%20trauma/works">Batfam reckoning with canon trauma</a></li><li><a class="tag" href="/tags/Jason%20Todd&#39;s%20Thematic%20Book%20Club%20(tm)/works">Jason Todd&#39;s Thematic Book Club (tm)</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+      <dt class="series">
+        Series:
+      </dt>
+      <dd class="series">
+        <span class="series"><span class="position">Part 1 of the <a href="/series/2587177">Red Robin Hood</a> series</span><span class="divider"> </span><a class="next" href="/works/34763518">Next Work &#8594;</a></span>
+      </dd>
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/RedHoodvRobin">Red Hood vs Red Robin</a>, <a href="/collections/Wonderful_Worldbuilding_Fics">Wonderful_Worldbuilding_Fics</a>, <a href="/collections/SatiatedMyEscapism">Dumb Bullshit to satiate my Escapism</a>, <a href="/collections/badbihbonanza">the pickiest and pettiest</a>, <a href="/collections/Fics_for_later_incomplete">Fics that I want to read once they are complete</a>, <a href="/collections/Incqwe4r">My Favorite: Incomplete Edition</a>, <a href="/collections/Batman_BatFAM">Batman? Nay nay more like BatFAM</a>, <a href="/collections/Stories_That_I_Liked_slash_Loved">S.T.I.L.L.</a>, <a href="/collections/Building_From_the_Ashes_On_Up_Slow_Build_Fics">Building From the Ashes On Up (Slow Build Fics)</a>, <a href="/collections/Squiggles_Supurb_Fics">Squiggle's Supurb Fics</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2021-01-30</dd><dt class="status">Updated:</dt><dd class="status">2022-01-21</dd><dt class="words">Words:</dt><dd class="words">136192</dd><dt class="chapters">Chapters:</dt><dd class="chapters">27/?</dd><dt class="comments">Comments:</dt><dd class="comments">2313</dd><dt class="kudos">Kudos:</dt><dd class="kudos">5041</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/29069109/bookmarks">1437</a></dd><dt class="hits">Hits:</dt><dd class="hits">131123</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Red Robin Hood
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/candlebreak/pseuds/candlebreak">candlebreak</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>The kid was going to die at this rate, whether or not Jason had anything to do with it. Apparently dead Robins were just a <i>thing</i>, now, and Bruce didn’t give a shit whether they lived or died.</p>
+<p>There was something almost comforting about that, that Jason’s wasn’t the only life that didn’t matter.</p>
+<p>There was something fucking infuriating about that, that Jason’s wasn’t the only life that didn’t matter.</p>
+<p>Well. If those fucks didn’t care about their baby bird now, Jason would just have to <i>make</i> them care. And he had a few ideas on just how to do that.</p>
+<p>Robin might get a little broken in the process, but what was a little kidnapping and torture between friends?</p>
+<p>***</p>
+<p>a.k.a. the Titans Tower AU where Jason kidnaps Tim instead of trying to kill him. And then he kidnaps Steph. And Dick. And Cass. And...</p>
+<p>Jason may have a problem.</p>
+<p>Less crack-y than it sounds. This is mainly hurt, angst, and reckoning with canon trauma. Comfort will come! There *will* be a happy ending.</p>
+<p>[summary updated 1/21/22]</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+    <ul class="associations">
+
+
+        <li>
+            Inspired by
+
+            <a href="/works/26362858">Take Two</a> by <a rel="author" href="/users/envysparkler/pseuds/envysparkler">envysparkler</a>.
+        </li>
+        <li>
+            Inspired by
+
+            <a href="/works/28191915">Beat Him to It</a> by <a rel="author" href="/users/iselsis/pseuds/iselsis">iselsis</a>.
+        </li>
+
+    </ul>
+
+
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/29069109/chapters/71353419">Chapter 1</a>: The Replacement (Jason)
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+      <div id="notes" class="notes module">
+        <h3 class="heading">Notes:</h3>
+          <blockquote class="userstuff"><p>So really this could have been inspired by any of Iselsis and EnvySparkler’s works, but I chose those two because they’re some of my favorites, and they involve Jason kidnapping Tim.</p><p><b>General TW</b> for canon-typical violence, thoughts of suicide, self-harm, torture, some really fucked up patterns of thinking, depression, anxiety, panic attacks, child abuse</p><p><b>Timeline:</b> this takes place in a timeline that is *mostly* canon-compliant with New Earth canon. So, Jack Drake died pretty recently, and Tim has moved in with his fake uncle in Bludhaven (aka, he’s living alone). Steph was “killed” by Black Mask and is still believed dead. I’m gonna go ahead and say that this is around the same time that Dick is going undercover as Renegade, working with Deathstroke and Ravager, and Cass is infiltrating the Justice League Elite (a Justice League-sanctioned Black Ops teams that…did not end well), which I’m pretty sure may actually line up with canon.</p><p>The main difference between the New Earth timeline and this one is that Jason didn’t reveal his identity to Bruce in Batman #641, so Bruce still has no idea who he is. Also, Barbara hasn't moved to Metropolis yet. Since the Clocktower's gone, she's currently staying with her dad while she figures things out.</p></blockquote>
+            <p>
+            (See the end of the chapter for  <a href="/works/29069109/chapters/71353419#chapter_1_endnotes">more notes</a>.)
+            </p>
+      </div>
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p class="p1">Jason slowly tensed and untensed each of his muscles, head to toe, as he lay on the cold concrete roof with his sniper rifle set up in front of him. He’d been there for a few hours already—completely sacrificing his night as Red Hood—but there were too many masks galavanting about this city for him to chance a shoddy stakeout.</p>
+<p class="p1">Bludhaven wasn’t supposed to be like Gotham; there shouldn’t be so many capes and villains running around. But he guessed that was what happened when Dickwing decided to claim the city as his own. He brought the crazies with him.</p>
+<p class="p1">Crazies like Jason. Oops.</p>
+<p class="p1">Speaking of Dickface, he was off playing renegade with Deathstroke on the other side of the city. Jason had confirmed they were far away tonight—and that the Bat was in Gotham—before setting up. He didn’t have nearly the same resources in Bludhaven as he did in Gotham, and he <em>really</em> didn’t fancy a fight with Bruce or Deathstroke-the-fucking-Terminator right then.</p>
+<p class="p1">Jason had no idea what was going on with Dick; surely Goldie hadn’t actually gone full darkside, but how had he convinced <em>Slade motherfucking Wilson </em>that he had? Because Deathstroke seemed pretty damned convinced, sending Dick on all sorts of missions with his daughter. Which, point for Evil Dick. But Bruce wouldn’t let his one remaining Robin live all alone in a city that had Deathstroke, Ravager, <em>and</em> an evil Dick Grayson running around, would he?</p>
+<p class="p1">It was a conundrum. Jason had hacked into the Bats’ comm frequency weeks ago, but they hadn’t discussed Dickhead at <em>all</em>. At least not where Jason could hear. It didn’t matter. His plan didn’t involve his so-called “big brother.” If all went well, Nightwing wouldn't be involved until it was too late.</p>
+<p class="p1">But Goldie and the Terminator weren’t the only masks running around the city. Oh, no. The new Batgirl was also supposed to be floating around somewhere, but no one had seen her in a few weeks. No sightings in Gotham, either. It could be she was just quiet, but Jason’s money was that she was either recovering from an injury, training abroad, or undercover somewhere. But he wasn’t going to let his guard down just because she probably wasn’t around right now. Rumor said she was <em>good, </em>and she could be back any time.</p>
+<p class="p1">Then there was Barbie, who was probably playing Oracle to an extent. Not as much as she did in Gotham, but Jason couldn’t imagine a world where the ex-Batgirl wasn’t at least keeping half an eye out for Dick. And the new Robin.</p>
+<p class="p1">The final fucking vigilante living in Bludhaven.</p>
+<p class="p1">The reason Jason was here tonight.</p>
+<p class="p1">His goddamn <em>replacement</em>.</p>
+<p class="p1"><em>Robin</em> wasn’t here right now, but Jason was pretty sure he would be. The Bats’ comm line was currently playing in his ear, relayed from Gotham, and it confirmed that the Replacement was in Gotham tonight. The line was fairly quiet, mainly brief status reports between B and Agent A, with occasional insight from Oracle and a few short check-ins from the Replacement. It sounded like the kid was flying solo, on the other side of the city from Bats. And wasn’t <em>that </em>just asking for trouble.</p>
+<p class="p1">Jason was happy to oblige. That was, after all, why he was here: to cause the bats some fucking trouble. Or, not <em>here </em>here. That would come later. He was <em>here </em>here to do some fucking reconnaissance, the boring-as-shit old fashioned way. He knew their schedules and routines in Gotham, had been listening long enough to map them out, was keeping a pretty close watch on the Teen Titans' activity, but he had one major gap in his intel that needed to be rectified: Eddie Drake. Little Robin’s legal guardian.</p>
+<p class="p1">He was doing a shit job of it. Oh, on paper he looked fine—an upstanding citizen, clean tax history, fine employment and medical records, a <em>long </em>list of past residences all around the world that reflected the nomadic lifestyle he'd given up to take care of the Replacement as soon as the kid's father died—but that was only on <em>paper. </em>As far as Jason could tell from careful stakeouts of the guy’s place, he hadn’t even <em>seen </em>the Replacement in at least two weeks. Tim Drake certainly wasn't living with him. And three days ago, he’d pulled the kid out of school. If Jason didn’t have Robin’s sporadic reports over the comms, he would have thought that Uncle Eddie killed the kid and was trying to cover it up.</p>
+<p class="p1"><em>Something </em>fishy was going on, so Jason had tailed the Replacement back to this place a few nights ago, a nondescript apartment building in a semi-nice area of Bludhaven. If anything in Bludhaven could be called even semi-nice. Ownership traced back to a shell company. Now it was just a waiting game. See where Robin came to roost.</p>
+<p class="p1"><em> Fucking </em>Timothy Drake, making him give up perfectly good time when he could be crime-lording so that he could stare at an empty apartment in the freezing fucking cold instead.</p>
+<p class="p1">Jason breathed through the rage that thoughts of the new Robin always brought. He kept his focus on the view through the scope of his rifle, the world washed in cold green clarity. Whether that was the night vision scope or the Pit didn’t matter; either way, it brought Jason focus. Purpose. A pointed, patient rage, a purifying fire that consumed and comforted him, distilling his being into deadly <em>intent</em>.</p>
+<p class="p2">Jason had died in an orange blaze of fire. He had died beaten black and blue and broken and bloody. He had died betrayed, and abandoned, and alone. Jason had died, and that should have been the end of it. Robin should have died with Jason.</p>
+<p class="p2">
+  <em>Robin should have died with Jason.</em>
+</p>
+<p class="p2">But Jason was back, and so was fucking Robin. Timothy fucking Drake. Jason’s death hadn’t mattered, to him. Hadn’t mattered to Bruce or Dickface or any of them. <em>Jason </em>hadn’t mattered. And now there was a new Robin, flying around town like he wasn’t wrapped in a dead boy’s stolen shroud. Dancing on the edge of rooftops like he didn’t know he could fall.</p>
+<p class="p2">That had to be why Jason had returned. <em>Someone</em> needed to introduce the new kid to gravity. Clip his wings, give him a little push. Robin should have died with Jason. So it was Jason’s job to set that right, and he burned with a righteous green fervor at the task, a hotter flame than even the explosion that had ripped his body to shreds.</p>
+<p class="p2">Robin would die. Jason would kill him. Jason would destroy Robin so thoroughly, raze his ashes to the ground, salt the fields with his tears and his bones so that nothing could grow again. No more Robins. No more pale imitations creeping out of mansions and concrete. No more colorful corpses crawling out of graves like undead daisies.</p>
+<p class="p2">It wouldn’t be enough. Jason wasn’t stupid, no matter what Talia or Ra’s or Bruce or Dick or anyone might think. He’d read <em>Hamlet</em>. He’d read <em>The Count of Monte Cristo</em> and <em>Wuthering Heights. </em>More than that, he’d seen too many kids die in the street, gasping for air with punctured lungs, caught up in so much revenge for their sisters and brothers who’d died just the same way, caught up in the gangs and the endless escalation of a head for an eye and never getting any satisfaction from the blood that ran into the gutters and washed out into the river with the rest of Gotham’s toxic <em>shit</em>.</p>
+<p class="p2">Jason <em>knew </em>the price of revenge. The toll paid in blood and ripped off pieces of your soul for an ultimately hollow prize. But he was not Edmond Dantès. He was not Hamlet, or Miss Havisham, or Heathcliff. He was not a kid caught up in dreams of power and justice.</p>
+<p class="p2">Jason <em>knew </em>he would destroy himself, destroying Robin. He would break everything good about what he once was—at least the bits not already shattered by the Bat and the Joker and the Pit and cesspool that was Gotham. <em>Robin gives me magic. </em></p>
+<p class="p2">He would tear that magic away. Not just from Robin, but from <em>Jason</em>. He didn’t care. He deserved it. He’d long since suffocated his innocence, long enough since that he hadn’t even felt a fleeting flutter of it as he hacked off seven gang lieutenants’ heads and stuffed them in a duffel bag for show and parade.</p>
+<p class="p2">It didn’t matter. Robin <em>would</em> die with Jason. And then Jason could die with Robin, for real this time.</p>
+<p class="p2">And so, Jason waited, and lost himself in the clarity of the navy-blue night, soft city noises, the view of the cracked-open window and empty bed, framed in black and all washed green through the lens of his rifle scope.</p>
+<p class="p2">Jason loved his scope. It was top of the line: second focal place reticle design with a powerful telescopic lens; ED glass; a .250 MOA click value; an integrated power throw lever; night sights; the works. The scope alone had probably cost around three grand, and that was on top of the rifle itself, a beautiful SAKO TRG 42—not the fanciest gun out there, but a marvel of Finnish engineering and light enough to make up for the weight of the scope. All told, Jason was probably aiming about ten grand worth of gun towards the Drake's window. Plus the directional mic—he was too paranoid about being caught this early in the game to bug the birdie’s room—and the veritable armory he was decked out in. No iconic red helmet tonight; it was too flashy for this stakeout. So he was wearing a replacement helmet instead, black, and one that left his eyes free for the scope but still had just as much tech and all the filters built in. So maybe fifty, sixty grand of equipment, all told. <em>Thank you, Al Ghul money</em>.</p>
+<p class="p2">Talia had been happy to outfit him with whatever gear his heart desired, on two conditions: one, he got rid of the Drake boy; and two, he didn’t kill Bruce. Well, neither of them were explicit conditions, but Jason could read between the lines. She hated Timothy Drake—an easy hatred to share—and she was obsessed with reuniting with her dear “Beloved”—a less understandable goal. Jason had no desire to crawl back to the man.</p>
+<p class="p2"><em>Punish </em>him, yes. <em>Reconcile?</em> Never.</p>
+<p class="p2">Ugh. Jason rolled his eyes and gagged beneath his mask. He wasn’t ever going to understand Talia’s obsession with Bruce. Like, <em>sure</em>, he was currently building up an entire criminal empire and stalking the man’s new pet project solely for the sake of a long and convoluted revenge plot against him, but it wasn’t the same at all. <em>Jason</em> didn’t expect Bruce to love him at the end of this. Talia was an idiot for thinking that this could end in anything other than hatred and pain all around.</p>
+<p class="p2">Everything ended that way, with Bats.</p>
+<p class="p2">No, Jason was smarter than that. He just wanted Bruce to hurt. He wanted him to hurt bad enough that the agony of Jason’s own torture and death would be preferable to the hell he was stuck in.</p>
+<p class="p2">And he would start with Timothy Drake.</p>
+<p class="p2">Speaking of, here came the little birdie, pulling up to the curb in his civilian motorcycle and parking.</p>
+<p class="p2">His <em>replacement</em>.</p>
+<p class="p2">And damn if that didn’t hurt, the knowledge he’d been swapped out for a new and improved model, like an action figure or an upgraded character in a video game. Jason swallowed against the surge of green rage that screamed at him to tear the imposter limb from limb. He couldn’t do that. Not yet. He had a plan. He had a <em>metaphor.</em></p>
+<p class="p2">Bruce was about to learn what happened when you didn’t take care of your toys.</p>
+<p class="p2">So Jason banked the Pit to mere fury, and watched the Replacement as he limped to fire escape and hauled himself up to the window. Incompetent little shit had been injured. <em>And where was Bruce? </em>He really did take such bad care of his Robins.</p>
+<p class="p2">Jason would be doing him a favor, showing him just how bad.</p>
+<p class="p2">The Replacement shimmied through his window—stupid to do that in civvies—and huffed as he collapsed on the bed, the sound crackling in Jason’s ear as the mic did its job.</p>
+<p class="p2">The Replacement groaned, then flopped half his body over the edge of the bed, grabbed something from underneath it.</p>
+<p class="p2">Jason watched as the kid pulled out a large orange bag, pretty easily recognizable as the type that EMTs carried around—lots of pockets, crazy organized, stuffed with, like, premium first aid shit.</p>
+<p class="p2">Now <em>that </em>was interesting: <em>why was the kid patching himself up?</em> Did Alfred not exist anymore? That was a stupid thought, even if Jason hadn’t heard Agent A checking in over the comms scarcely an hour ago. Alfred couldn’t stop existing. He was immortal and unchanging and would never die or leave or be anything less than <em>Alfred.</em></p>
+<p class="p2">But the evidence spoke otherwise: Timothy Drake was here, <em>after </em>he’d reported back to the cave, all alone and spreading an absorbent pad across his comforter to soak up the blood before it stained the sheets. Alfred wouldn’t have allowed that to stand. <em>So what exactly was going on here?</em></p>
+<p class="p2">Jason winced in sympathy as the kid stripped out of his sweats until he was dressed in nothing but a thin pair of boxer briefs against the cold November chill that was seeping in from the <em>still-open </em>window. The kid was torn up to all hell: layers upon layers of bruises up his ribs and a serious case of road rash across both forearms and the outside of his left thigh. He’d somehow managed to avoid any injury to his face, but the rest of him was not pretty.</p>
+<p class="p2">A lot of those were new injuries, but Jason hadn’t heard anything about Robin getting hurt over the comms.</p>
+<p class="p2">The kid had an obvious <em>routine </em>going. Squeeze bottles of sterilized water to clean out his wounds, antiseptic cream, gauze and butterfly bandages for the more shallow cuts that looked recent, stitches for what looked like older injuries, to replace the ones he’d obviously popped on patrol.</p>
+<p class="p2">He hissed as he brushed the gravel out of his injuries, and bit his knuckles to keep from screaming as he contorted his bruised torso to stitch closed a cut on his side.</p>
+<p class="p2">Finally he finished, but he didn’t go to sleep or even clean up the bloody first aid materials. Instead, he pulled out a computer and stared intently at the screen, working on something.</p>
+<p class="p2">As he worked, Replacement toyed with his discarded needle, seemingly unaware of what he was doing as it poked in and out of his thigh, in and out. Thin pinpricks of blood bubbling up to the surface and wiped away.</p>
+<p class="p2">He didn’t stop until dawn. Then he squinted at the sun out the window and drew the blackout curtains closed.</p>
+<p class="p2">Jason stayed on his rooftop, listening intently as Replacement fell back on his bed. There was no further noise, no clacking of keys or sound of clean-up efforts, and Jason was about to call it a night and go when soft hitches of breath caught his attention.</p>
+<p class="p2">The Replacement was crying.</p>
+<p class="p2">He sobbed almost silently, only the irregular shaking of his breath giving him away. Or maybe he was just shivering against the cold. Even when he’d closed the curtains, the stupid kid <em>still </em>hadn’t closed the window or even put on fucking PJs.</p>
+<p class="p2">Either way, it took another half an hour before his Replacement finally stuttered off into what sounded like actual sleep breathing.</p>
+<p class="p2">Jason packed up slowly, methodically, flexing his numb limbs to bring some sort of life back into them. He used the time to think. His original plan wouldn’t work, not with this new information.</p>
+<p class="p2">He’d thought that Bruce and Dickface and the rest of them would be all over the baby bird, especially after the last one—the girl—had bit the dust. Drake's father hadn’t died that long ago, either. But they didn’t even care enough to know the kid was injured, living alone in Bludhaven, had dropped out of school, and was crying himself to sleep at 7:00am.</p>
+<p class="p2">The kid was going to die at this rate, whether or not Jason had anything to do with it. Apparently dead Robins were just a <em>thing</em>, now, and Bruce didn’t give a shit whether they lived or died.</p>
+<p class="p2">There was something almost comforting about that, that Jason’s wasn’t the only life that didn’t matter.</p>
+<p class="p2">There was something fucking infuriating about that, that Jason’s wasn’t the only life that didn’t matter.</p>
+<p class="p2"><em>Do better, Bruce</em>.</p>
+<p class="p2">His plan had depended on people caring about Timothy Drake, parents rich and powerful enough to cause <em>problems </em>for Brucie Wayne, parents who would would at the very least hire someone to dig into the details. But then Jack Drake had died, the stepmom had been committed, and this new uncle obviously wasn’t doing any kind of parenting. His plan depended on a Bruce so wracked with guilt at the death of <em>yet another </em>Robin that he would slip up enough for Jason to take advantage of the cracks.</p>
+<p class="p2">But it was pretty fucking obvious that no one was looking out for the kid. Not if he was stitching himself up in his room, crying alone in the cold, and so used to it that he had it down to a<em> routine</em>.</p>
+<p class="p2">Well, okay, then. Jason would just have to adapt.<span class="Apple-converted-space">  </span><em>Improvisation</em>, that was his speciality. Hmm…<em>yeah</em>. That might work. He wouldn’t even have to modify the plan too much.</p>
+<p class="p2">If those fucks didn’t care about their baby bird now, Jason would just have to <em>make </em>them care. And he had a few ideas on just how to do that.</p>
+<p class="p2">Timothy might get a little broken in the process, but what was a little kidnapping and torture between friends?</p>
+  </div>
+  <!--/main-->
+
+    <div class="chapter preface group">
+      <div class="end notes module" id="chapter_1_endnotes" role="complementary">
+        <h3 class="heading">Notes:</h3>
+        <blockquote class="userstuff">
+          <p>So...this ended up being just 3k words of Jason thinking, but whatever. I have never claimed to be concise. Not once in my life.</p>
+        </blockquote>
+      </div>
+    </div>
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/29069109/chapters/71459382#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="gna4XzTF0z87KzT11wdq_4Ta1lIkft2Qwn-td26fmha31WFuaQTYHsNaQjpXAs6qhhjJNfOSyjNuS08RRb3TWQ"/>
+          <input value="29069109" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=71353419">Comments (45)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/aloeveratown">aloeveratown</a>, <a href="/users/Starchains">Starchains</a>, <a href="/users/smiley_anon">smiley_anon</a>, <a href="/users/ElectroShock2354">ElectroShock2354</a>, <a href="/users/lovely_human">lovely_human</a>, <a href="/users/Queen_and_Three">Queen_and_Three</a>, <a href="/users/Diamond_Crystal">Diamond_Crystal</a>, <a href="/users/umbrellacam">umbrellacam</a>, <a href="/users/Syrabelle">Syrabelle</a>, <a href="/users/JellyFizz">JellyFizz</a>, <a href="/users/Darnica">Darnica</a>, <a href="/users/Edokage">Edokage</a>, <a href="/users/SavannahJade1208">SavannahJade1208</a>, <a href="/users/Angellmc">Angellmc</a>, <a href="/users/Nach0">Nach0</a>, <a href="/users/Ahhh_Dinosaurs">Ahhh_Dinosaurs</a>, <a href="/users/a10208">a10208</a>, <a href="/users/MagpieMagic">MagpieMagic</a>, <a href="/users/Piguchu">Piguchu</a>, <a href="/users/Soren_Quill">Soren_Quill</a>, <a href="/users/Clockwork_Uncanny">Clockwork_Uncanny</a>, <a href="/users/Saden_Imet">Saden_Imet</a>, <a href="/users/oceangreenalgae">oceangreenalgae</a>, <a href="/users/HecubusIsEvil">HecubusIsEvil</a>, <a href="/users/Htpket">Htpket</a>, <a href="/users/Havoc1224">Havoc1224</a>, <a href="/users/OneTimeWeAllBelievedInSantaNowHereWeAre">OneTimeWeAllBelievedInSantaNowHereWeAre</a>, <a href="/users/fanwujiu">fanwujiu</a>, <a href="/users/CalligraphyCandies">CalligraphyCandies</a>, <a href="/users/SilverMarmot">SilverMarmot</a>, <a href="/users/xandromedan">xandromedan</a>, <a href="/users/DinoPrincess">DinoPrincess</a>, <a href="/users/Avaari">Avaari</a>, <a href="/users/ImAGiraffacorn">ImAGiraffacorn</a>, <a href="/users/xanmanmurc">xanmanmurc</a>, <a href="/users/GangGroovy">GangGroovy</a>, <a href="/users/Angelmonster">Angelmonster</a>, <a href="/users/bethebelle">bethebelle</a>, <a href="/users/nemo_noon">nemo_noon</a>, <a href="/users/Gay_mess">Gay_mess</a>, <a href="/users/belovds">belovds</a>, <a href="/users/tired_ace29">tired_ace29</a>, <a href="/users/MayAllLightShineInTheHeart">MayAllLightShineInTheHeart</a>, <a href="/users/xt1me">xt1me</a>, <a href="/users/Levi_Exists">Levi_Exists</a>, <a href="/users/nerdiekatie">nerdiekatie</a>, <a href="/users/dramabeansoup">dramabeansoup</a>, <a href="/users/olive_ger">olive_ger</a>, <a href="/users/pas_un_elephant">pas_un_elephant</a>, <a href="/users/FluffyCat365">FluffyCat365</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/29069109/kudos?before=3884939062">2724 more users</a>
+             as well as 
+          2267 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_71353419">
+  <form class="new_comment" id="comment_for_71353419" action="/chapters/71353419/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="AJa7OG_R-GxE_JkJuH9XfXcBdIlCblFXOAog-BLZzYM1NWIJMhDzTbyN78Y4evModcNr7pWCRvSUPsKeOfuEzA"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_71353419">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_71353419" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_71353419=new LiveValidation('comment_name_for_71353419',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_71353419.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_71353419">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_71353419" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_71353419=new LiveValidation('comment_email_for_71353419',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_71353419.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_71353419" class="landmark">Comment</label>
+        <textarea id="comment_content_for_71353419" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_71353419" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_71353419_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_71353419">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_71353419=new LiveValidation('comment_content_for_71353419',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_71353419.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_71353419.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_71353419" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/29069109/hit_count.json")})</script>
+
+
+  </body>
+</html>

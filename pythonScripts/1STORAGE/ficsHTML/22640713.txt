@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Best Laid Plans - Chapter 1 - SadinaSaphrite, tearsontherocks - Pocket Monsters: Sword &amp; Shield | Pokemon Sword &amp; Shield Versions [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="gqhFaOmLvAwecIqzUeufqibOGidJJR2SjWgjpLV6Bp3QsX8oTb9CJgW0pWa7eyt8i8OmN_6V4ojwgstOhexzNQ"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="nGdPuC2_nvdOM2vDWVSBeCWXiK0Jva5CnMJgX7yUcp7OfnX4iYtg3VX3RBazxDWuiJo0vb4NUVjhKIi1jAIHNg"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: hetalia f/f sort:kudos</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/22640713?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/22640713/chapters/54225208#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/22640713/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/22640713/chapters/54111910" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="54111910">1. Chapter 1</option>
+<option value="54225208">2. Chapter 2</option>
+<option value="54346825">3. Chapter 3</option>
+<option value="54387289">4. Chapter 4</option>
+<option value="54583603">5. Chapter 5</option>
+<option value="54709834">6. Chapter 6</option>
+<option value="54851407">7. Chapter 7</option>
+<option value="55049230">8. Chapter 8</option>
+<option value="55183090">9. Chapter 9</option>
+<option value="55359877">10. Chapter 10</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/22640713/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=54111910">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/22640713/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/22640713/Best%20Laid%20Plans.azw3?updated_at=1592356928">AZW3</a></li>
+          <li><a href="/downloads/22640713/Best%20Laid%20Plans.epub?updated_at=1592356928">EPUB</a></li>
+          <li><a href="/downloads/22640713/Best%20Laid%20Plans.mobi?updated_at=1592356928">MOBI</a></li>
+          <li><a href="/downloads/22640713/Best%20Laid%20Plans.pdf?updated_at=1592356928">PDF</a></li>
+          <li><a href="/downloads/22640713/Best%20Laid%20Plans.html?updated_at=1592356928">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Mature/works">Mature</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandom:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Pocket%20Monsters:%20Sword%20*a*%20Shield%20%7C%20Pokemon%20Sword%20*a*%20Shield%20Versions/works">Pocket Monsters: Sword &amp; Shield | Pokemon Sword &amp; Shield Versions</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Dande%20%7C%20Leon*s*Kibana%20%7C%20Raihan/works">Dande | Leon/Kibana | Raihan</a></li><li><a class="tag" href="/tags/Kibana%20%7C%20Raihan*s*Nezu%20%7C%20Piers/works">Kibana | Raihan/Nezu | Piers</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Kibana%20%7C%20Raihan/works">Kibana | Raihan</a></li><li><a class="tag" href="/tags/Dande%20%7C%20Leon/works">Dande | Leon</a></li><li><a class="tag" href="/tags/Nezu%20%7C%20Piers%20(Pokemon)/works">Nezu | Piers (Pokemon)</a></li><li><a class="tag" href="/tags/Sonia%20(Pokemon)/works">Sonia (Pokemon)</a></li><li><a class="tag" href="/tags/Hop%20(Pokemon)/works">Hop (Pokemon)</a></li><li><a class="tag" href="/tags/Rose%20%7C%20Chairman%20Rose/works">Rose | Chairman Rose</a></li><li><a class="tag" href="/tags/Kabu%20(Pokemon)/works">Kabu (Pokemon)</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Slow%20Burn/works">Slow Burn</a></li><li><a class="tag" href="/tags/Friends%20to%20Lovers/works">Friends to Lovers</a></li><li><a class="tag" href="/tags/Hurt*s*Comfort/works">Hurt/Comfort</a></li><li><a class="tag" href="/tags/Major%20Character%20Injury/works">Major Character Injury</a></li><li><a class="tag" href="/tags/Fluff/works">Fluff</a></li><li><a class="tag" href="/tags/Angst%20with%20a%20Happy%20Ending/works">Angst with a Happy Ending</a></li><li><a class="tag" href="/tags/Blood%20and%20Injury/works">Blood and Injury</a></li><li><a class="tag" href="/tags/Pining/works">Pining</a></li><li><a class="tag" href="/tags/Himbo%20Leon/works">Himbo Leon</a></li><li><a class="tag" href="/tags/Piers*s*Raihan%20Friends%20with%20Benefits/works">Piers/Raihan Friends with Benefits</a></li><li><a class="tag" href="/tags/Piers%20ships%20it%20and%20can&#39;t%20wait%20to%20be%20left%20alone/works">Piers ships it and can&#39;t wait to be left alone</a></li><li><a class="tag" href="/tags/Implied%20Sexual%20Content/works">Implied Sexual Content</a></li><li><a class="tag" href="/tags/Canon%20Compliant/works">Canon Compliant</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+      <dt class="series">
+        Series:
+      </dt>
+      <dd class="series">
+        <span class="series"><span class="position">Part 1 of the <a href="/series/1728991">Best Laid Plans of Meowth and Men</a> series</span><span class="divider"> </span><a class="next" href="/works/23979901">Next Work &#8594;</a></span>
+      </dd>
+
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2020-02-09</dd><dt class="status">Completed:</dt><dd class="status">2020-03-13</dd><dt class="words">Words:</dt><dd class="words">41050</dd><dt class="chapters">Chapters:</dt><dd class="chapters">10/10</dd><dt class="comments">Comments:</dt><dd class="comments">81</dd><dt class="kudos">Kudos:</dt><dd class="kudos">576</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/22640713/bookmarks">95</a></dd><dt class="hits">Hits:</dt><dd class="hits">8614</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Best Laid Plans
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/SadinaSaphrite/pseuds/SadinaSaphrite">SadinaSaphrite</a>, <a rel="author" href="/users/tearsontherocks/pseuds/tearsontherocks">tearsontherocks</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>“Y’just need to ask him out, mate.”</p><p>“No. It wouldn’t work. Neither of us have any time and it would be a distraction from our jobs and the press would turn it into a big scandal…”</p><p>Piers stuck another cigarette between his lips.</p><p>“Never took you for a coward, Raihan.”</p><hr/><p>It's time for the Galar Gym Challenge and Raihan has a gym to run, but Raihan is determined to tell Leon how he feels. Nothing, not the press, not the Chairman, not even an apocalyptic pokemon is going to get in his way. However, the best laid plans of meowth and men often go awry...</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+
+    <p class="jump">(See the end of the work for <a href="/chapters/55359877#work_endnotes">notes</a>.)</p>
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/22640713/chapters/54111910">Chapter 1</a>
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p>Wind whipped across Raihan’s face as the familiar square skyline of Spikemuth came into view. He gave Flygon a pat on the neck, and the pokemon let out a trill that was swallowed by the wind rushing past them and put on a burst of speed. It wasn’t long before they reached the grungy brick walls. Flygon trumpeted out a single warbling note announcing their arrival, and made a slow, spiraling descent, landing in a grassy patch outside the aluminum gates. </p><p>Raihan hopped off Flygon and rubbed the pokemon’s head in gratitude. </p><p>“Nice work! You want back in the ball or do you wanna hang out?” Raihan pulled the ultra ball off his belt and gave it a wave. </p><p>Flygon crooned and spread his wings, taking off in a flurry of wind and alighted on the town walls, settling in for some sun basking. </p><p>“Yo, Rotom. How are we looking?”</p><p>With a buzz, his Rotom phone zipped out of his hoodie pocket and did a quick flyby, circling Raihan. </p><p>“Hair’s a mess, bzzt, and bandana's coming undone!”</p><p>The Rotom talked him through straightening up, then vanished again into his hoodie pocket once satisfied. Running his fingers through his hair one more time, Raihan stuck his hands in his pockets and slouched through the gates. </p><p>Spikemuth, unlike literally any other city Raihan knew of, was completely enclosed, the brick walls extending to form a tight ceiling over the entire town. The speculation was that it had initially been a giant fortress to a paranoid Duke, not a town, but time had repurposed it into a tight-knit community. He passed row after row of densely packed buildings, illuminated only by neon and wavering street lamps, until the familiar chain link fence of the Spikemuth Gym came into view. </p><p>“Hey, Piers!” He shouted, paying no heed to the looks he got from the bystanders loitering nearby. “You around?”</p><p>“Oi, Piers!” a thick, mohawked man echoed, the sound carrying significantly farther than Raihan’s initial shout. “Someone’s ‘ere to see ya!”</p><p>With a groan, Piers emerged from behind the humble stage in the arena, rubbing his spiky head. “Yeah, yeah, I heard ya… who the hell is it?”  He stopped in his tracks upon seeing Raihan, squinting at him with his dark-lidded eyes.  “Well, look what the Meowth dragged in…”</p><p>He turned on his metal heel, making his way back toward the stage. “Whaddya want, Raihan?  Show’s not for another few weeks.”</p><p>“You know I love your music as much as any other fan-the last concert was <em>amazing,</em> by the way-but I’m here on League business,” Raihan said, heading for Piers. “You have somewhere we can talk?”</p><p>Another groan escaped Piers’ stick-thin frame, and he tilted his head back in a show of exasperation. “How d’ya like that… sweet talkin’ a guy right before ya nail ‘im.”  He bent down and picked up his jacket from off the stage, slipping it on as he kept walking.  “C’mon, we’ll go to my place. Not like I got an office or anythin’.”</p><p>He led Raihan back beyond the soft glow of the stage’s neon lights into a back alleyway lit only by a few flickering lamps lining its concrete walls.  It took him a full thirty seconds to go through the process of fishing out his key and getting the door to his flat open, and he yawned as he meandered inside.</p><p>“What’s this about League business? You finally comin’ to fire me?” Piers muttered, sounding almost hopeful as he flopped onto a very old, creaky couch in the living room.</p><p>“Of course not!” Raihan dropped into his usual spot on the couch next to him, stretching and throwing one foot onto the coffee table. “Opening Ceremonies are next week, and I’m trying to get you to actually show up this year. Put on a good show for all the challengers.”</p><p>Rolling his head to one side, Piers gave Raihan an unimpressed look. “If the Chairman wants t’put on a respectable show, then he definitely doesn’t want <em>me</em> there.”</p><p>“Don’t say that,” Raihan said. “We’ve been over this. You’re important to the League! You’re an excellent trainer and an irreplaceable Gym Leader.”</p><p>“Sure,” Piers grumbled, “the only Gym Leader who won’t dynamax don’t make his fancy League less pretty? It ain't no secret that I’m the black Wooloo in the bunch, mate.”</p><p>“You’re not still bitter about that proposal to move your gym the Chairman put through last year, are you?” Raihan asked, dropping his leg off the coffee table and sitting up. “Because that’s ancient history. None of the other Leaders think any less of you for not having a dynamax site. If anything, it shows just how impressive you are, being able to whip our asses without dyanamaxing your pokemon! Besides, isn’t your little sister entering this year? Don’t you want to be there for her?”</p><p>Piers’ pale eyes slid away from Raihan’s gaze, and he fiddled with his spiked collar. “‘Course I wanna be there for her. But I also don’t wanna soil her chances.  She’s gonna shine way brighter than I ever could.”</p><p>“All the more reason for you to come and support her,” Raihan persisted, but his tone was more gentle.</p><p>Piers anxiously tugged on the ring of his spiked collar, still not looking at Raihan. “Nah, mate… don’ wanna embarrass her.” He yanked harder on the ring, grudgingly adding, “Don’ wanna embarrass anyone by showin’ up.”</p><p>“You’re not an embarrassment,” Raihan insisted, but he knew he sounded like a broken record. “And I’m going to keep saying it until you believe it. None of the Leaders think you’re an embarrassment, and Marnie <em>certainly</em> doesn’t.”</p><p>“Listen, Raihan,” Piers said, finally looking back at him, “I got no plans t’go to that fancy ceremony.  All you chaps do is walk out and wave anyway.”  It was his turn to put both booted feet on the coffee table with two heavy clunks. “Plus, they hate it when I won’t let ‘em do me up pretty for the telly.”</p><p>“That’s because they’re jealous that you’re pretty enough already,” Raihan grinned, elbowing Piers in the side.</p><p>A yelp escaped Piers at the gesture and he jumped, soon rubbing his side and grumbling again. “Oh yeah, I’m sure that’s what the make-up lady was thinkin’ when she called me a ‘raccoon-faced Mareanie’...”</p><p>“Maybe it was a compliment? Who cares about her opinion anyway? What matters is that I think you’re pretty,” Raihan’s grin widened.</p><p>“Why’s that matter, then, eh?” Piers shot back, “‘Specially when you only come to visit to talk League stuff or gawk at me while I’m tryin’ to put on a good show.”</p><p>“C’mon,” Raihan said easily, recognizing the surly tone. They’d played this game many times before, and he knew the steps well. “You know that’s not true. Yeah, I’ve been busy for a few weeks, but I was over here just last month.”</p><p>“Tch, how could I forget?” Piers said, making a vague gesture with one hand. “You ate half of my kitchen. Plus that curry you ordered in.” One steel-toed boot tapped in the air to a rhythm that only Piers could hear. </p><p>“I could always order curry in again,” Raihan said. “Unless you’re just going to kick me out. Then I’ll just fly back to Hammerlocke, eat curry all alone…”</p><p>“Don’t tempt me, mate,” Piers said, finally looking back over at him. “You eat enough for both of us anyway.” There was another heavy clunk as he crossed his legs on the coffee table, the top-most toe still tapping.  “Real shame to have to head back with the good news that ‘ol Piers won’t be comin’ to the ceremony, too.”</p><p>“Here’s an idea. How about I tell the League that you have a perfectly valid excuse for not being able to make it to the Opening Ceremonies, and in exchange, we...order in dinner again tonight.”</p><p>Raihan gave Piers a sideways glance. Piers returned the look with one of his own.</p><p>“You tryin’ t’bribe me? ‘Cause that usually entails both folks gettin’ somethin’ outta the deal.”</p><p>“What, you don’t like free dinner?”</p><p>“Nothin’ in life is free, mate.”</p><p>Raihan leaned in close, a gleam in his eyes. “Is there something you want?”</p><p>Piers’ gaze stayed as level as ever, looking right back into Raihan’s eyes, not recoiling from the intrusion into his space, but also not further closing the gap between them. “Seems a lot like there’s somethin’ <em>you</em> want… and it ain’t curry.”</p><p>Raihan met Piers’ unflinching gaze, holding it for a long moment before, like usual, he broke first. His grin faltered. Was he being too pushy? Maybe this time Piers really <em>did</em> want to be left alone. Especially after talking about all the League stuff, Raihan <em>knew</em> Piers was self-conscious of how he was viewed in comparison to the other Gym Leaders, and though the other Leaders accepted him, there were a lot of critics among the fans and analysts, idiots with really loud voices, and what with Marnie entering as a challenger this year, then maybe…</p><p>“I...you know, I really could just go. If you want,” he said, all pretense gone from his voice.</p><p>A tiny, rare smile found the edge of Piers’ lips and he rolled his eyes. “If I wanted y’gone, I wouldn’t’ve brought you home, you git.”</p><p>Raihan’s eyes lit up with renewed hope and he slid closer across the worn couch into Piers’ space.</p><p>“You saying you’re fine with...staying in?”</p><p>Piers raised an eyebrow at him, still doing nothing to stop Raihan’s advances, but not reciprocating yet either. “When do I ever want to go <em>out?”</em></p><p>That startled a laugh out of Raihan. </p><p>“Then you won’t mind if I get comfortable?” He slid an arm around Piers’ thin shoulders.</p><p>“Guess not,” Piers said, his shoulders sagging even more than usual under the weight of Raihan’s arm. “Were you gonna order that curry, or am I not even gettin’ cheap takeout from this?”</p><p>“I see you have your priorities in order,” Raihan said dryly, and fished his phone out of a pocket with his free hand. “The usual?”</p><p>The motion was miniscule, but more than noticeable enough to Raihan as Piers shifted slightly to lean against him. “Yeah, the usual.” </p><p>He put the order in and grinned.</p><p>“Hey Piers. Gimme a smile?” He snapped a picture.</p><p>Piers did not, in fact, smile.  He did, however, at least look up at the phone for the picture.</p><p>“Still snappin’ those selfies, eh?” Piers droned, watching Raihan’s Rotom phone flip through various photo filters.</p><p>“You know it. But don’t worry, this one’s for the personal collection,” Raihan said, settling on a filter he liked.</p><p>“Hm,” Piers toned, eyes still on Raihan’s phone, “aren’t those all the ones to keep track of your defeats?”</p><p>Raihan blanched. </p><p>“Awful rude of you, judging a man by his photo albums.”</p><p>“Nah, lucky for you, I judge a man by his actions. Comin’ into a guy’s home, tryin’ to get him out to some awful ceremony, and not even managing that.  Doesn’t give a guy a lotta hope that such a man’d last through much more than takeout curry.”</p><p>“That so?” Raihan said, too casually, and pocketed his phone. “Is that a challenge?”</p><p>Piers shrugged, moving Raihan’s arm along with the motion. “All I’m sayin’ is that you keep goin’ down this road, and you’ll definitely have another selfie to take.”</p><p>“Of all the damn- You asshole,” Raihan growled and moved in for a kiss.</p><p>Raihan’s lips met Piers’ infuriating smirk, and finally he reciprocated, reminding Raihan that his pouty mouth was skilled in more than just song. One gloved hand grabbed the front pocket of Raihan’s hoodie, holding him there but not urging him closer. Raihan’s arm tightened around Piers’s shoulders, then pulled him forward into his lap. </p><p>After all the tease and frustration of their previous conversation, Piers’ mouth was doing wonders at getting Raihan to relax again. He sank into the back of the couch, letting his hands rest lightly on Piers’ hips. They swayed slightly as he held onto them, as Piers got more comfortable on his lap.</p><p>With a soft sound, their lips parted, and Piers let out a sigh. He met Raihan’s eyes, and there was finally that small, familiar spark in them that only seemed to ignite for three occasions. Battles, concerts, and…</p><p>“Still up for that challenge, dragon tamer?” Piers quipped.</p><p>Raihan smirked. </p><p>“I thought you’d never ask.” </p><p>He lunged forward, lips crashing against Piers’, wanting more of that talented mouth for himself, eager for everything and anything Piers was willing to give him. </p><p>They never did hear the doorbell, and the curry sat on the front porch, forgotten.</p>
+<hr/><p>Raihan...needed a moment. Maybe a few moments. Like any good performer, Piers was a man of many talents, and the second act was always better than the first. Raihan didn’t know how long he lay with his face pressed into Piers’ bedspread, but he eventually had the sense to roll over. He  sprawled on his back and still panted as he came down from the high.</p><p>“Well,” he said between breaths, dark skin covered in a fine sheen of sweat. “You sure showed me.”</p><p>Piers took a long drag on his cigarette and let it out slowly, letting the smoke lazily shift in the air above them.  He let the silence linger a bit with the smoke before he spoke.</p><p>“You asked for it.” He took another, shorter drag this time, letting this one out with a sigh.  His arms rested on his spindly legs as he sat cross-legged on his bed, fiddling a bit with the cigarette between his fingers.</p><p>Raihan made a face as the smell of cigarette smoke reached him. </p><p>“Do you have to do that here? Every time?”</p><p>Piers snorted.  “This is my house, you knob-head.”</p><p>Raihan sighed, but didn’t argue.</p><p>“What time is it? Where’s my phone?” He looked around half heartedly, but his hoodie was still back in the living room, far out of reach. He dropped back against the bed with a groan. </p><p>“Phooooone…” He whined, significantly louder, hoping his Rotom would hear him.</p><p>“Ya lazy lump,” Piers chided, “Always workin’ that poor Rotom t’death.”</p><p>“He knew what he was getting into when he took the job.”</p><p>As if on cue, Raihan’s Rotom phone flew into the room.</p><p>“Selfieszzt?” It asked, utterly unconcerned with their state of undress.</p><p>“Nah, just wanna check my texts.”</p><p>Obediently, the phone flew to Raihan’s outstretched hand and went quiet, letting him scroll through his messages.</p><p>Several more smoky shapes escaped past Piers’ lips as Raihan played on his phone. Piers’ pale eyes followed the vapors until they dissipated into nothing, his normally vacant expression leaning toward thoughtful.</p><p>“Oh hey,” Raihan broke the silence. “Leon says he’s officially endorsed Hop as a challenger this year.”</p><p>Piers’ eyebrows rose a fraction. “Yeah?  Hell… dunno why I never put t’gether that he’n Marnie were that close’n age.”  He took one last drag on his cigarette before putting it out in an ashtray on the bedside table. “I’m bettin’ that’s all Leon’s been able ta talk about for weeks.”</p><p>“Pretty much,” Raihan said, texting as he spoke. “I know he was on the fence about it, didn’t want to make it look like he was endorsing Hop just because he’s his brother. Seems like there’s another kid in Postwick that’s gonna keep Hop on his toes, though.”</p><p>He fell silent, texting out another reply, and a slow smile spread across his face. “Lee’s over the moon about it. Says Hop’s got himself a genuine rival.”</p><p>Raihan kept his fond smile as he read Leon’s texts, reading them over and over as he waited for a reply.</p><p>One glance at Raihan, and Piers’ hand was twitching back toward the box of cigarettes on his night stand.</p><p>“Textin’ your crush while still sore from your squeeze?” Piers asked, ultimately fingering the cig box but nothing else. “Most folks might get a bit narked ‘bout that, y’know.”</p><p>“Good thing you’re not most folks,” Raihan replied automatically. A beat passed before his brain caught up to his mouth and a flush crept over his cheeks. “And he’s not my crush!”</p><p>A surprised snort came from Piers, his tone incredulous.</p><p>“You really gonna try lyin’ to my face like that, mate? You’ve been ogling that gormless git for years. Longer than we’ve been snoggin’, that’s for sure.”</p><p>Raihan sputtered. </p><p>“I… he…it’s not… look, it’s just that… I mean, I’ve got a gym to run and he’s so busy being Champion, there’s no way we could just… and besides, it’s not like Leon would ever notice.”</p><p>Raihan couldn’t hold back the sharp tang of bitterness in his voice and hunched his shoulders, slouching against the backboard. Piers looked unimpressed.</p><p>“Y’just need to ask him out, mate.”</p><p>Raihan stubbornly refused to acknowledge the flush still darkening his cheeks, or that it was spreading to his ears. </p><p>“No. It wouldn’t work. Neither of us have any time and it would be a distraction from our jobs and the press would turn it into a big scandal…”</p><p>Piers seemed to have finally made up his mind and stuck another cigarette between his lips, fishing around for his lighter, speaking around the stick in his mouth.</p><p>“Never took you for a coward, Raihan.”</p><p>The words were said in such a casual, matter-of-fact tone that Raihan bristled.</p><p>“I am <em>not</em> a coward,” he snarled. “I’m only…” </p><p>He trailed off, and his anger faded just as quickly as it flared in the face of Piers’ unimpressed look.</p><p>“You’re right,” he admitted. “I’m afraid. I’m afraid that after years of pining after him, Leon doesn’t and never will feel the same way. I’m afraid of rejection. I’m afraid that if I tell him I want to be more than friends, it’ll go bad and I’ll lose him. I’d rather be friends and wish for something more than not have Leon in my life at all.”</p><p>He sighed and rested his head against the headboard.</p><p>“I’m a joke.”</p><p>“Y’ain’t a joke, Raihan,” Piers said smoothly, even as his fingers tried for the fifth time to light the cigarette in his mouth. “Yer just a bit of a git.” He finally gave up on the cigarette for the moment, pointing the lighter at him, the motion similar to a scolding schoolteacher. “Always usin’ yer knob ‘steada yer head.”</p><p>Raihan gave him a sideways glance. </p><p>“So you’re saying I should go for it? What if it goes badly?”</p><p>“Y’really think that Leon’s jus’ gonna never speak to ya again after one misstep?” Piers’ gaze got more intense. “Is your friendship really <em>that</em> weak?”</p><p>Raihan fell silent for a few long moments.</p><p>“No,” he finally said, and he knew in his heart that he was right. “It isn’t.”</p><p>“Damn right,” Piers said firmly, trying to use his intensity to start the lighter again. It didn’t work. He sighed, and waved the lighter in front of Raihan, a pout offsetting the cigarette in his mouth comedically. “Be a dear an’ light this thing for me, would’ja?”</p><p>Raihan let out a short laugh and took the lighter.</p><p>“This is a bad habit, you know that, right?” Raihan said, but he started the lighter on the first try and held it up to Piers’ cigarette.</p><p>Piers leaned in, lighting up and let out a sigh, leaning against Raihan instead of on the backboard. “Yeah, well… s’not the only bad habit I have.”</p><p>Raihan slung an arm around Piers and kissed his cheek. </p><p>“Let’s just say that I only appreciate some of your bad habits,” he trailed his fingers absently along Piers’ bare shoulder. “Thank you. Really.”</p><p>A ghost of a smile lingered on Piers’ face for a moment. “Don’t mention it, mate.”</p><p>Raihan grinned and gave Piers another kiss on the cheek, then another to his neck, longer this time. Raihan was just about to propose a third round when the Rotom phone buzzed in his hand.</p><p>“Sorry, Boss! But it’s getting late and you’ve got an appointment at seven tomorrow morning! Bzzt!”</p><p>Raihan groaned and buried his face into Piers’ shoulder.</p><p>A snort of laughter escaped Piers, resting a hand on Raihan’s head. “Leave it to you t’get a cock-blockin’ Rotom, hm?”</p><p>“Bzzt, he wouldn’t get anything done otherwise!”</p><p>“Alright, alright. Cut the sass, you lot,” Raihan sighed and reluctantly let Piers go. He clambered off the bed and started hunting down the rest of his clothing, strewn throughout Piers’ flat.</p><p>Piers watched him, making no move to get dressed himself, working more slowly at his second cigarette than he had his first. As Raihan wandered into the living room to get his hoodie and shoes, a soft melody drifted out of the bedroom. For all his bad habits, Piers’ voice was still clear as crystal when he willed it. The tune was meandering as Piers worked out a new song through the smoke. Raihan smiled as he dressed, familiar with many of Piers' quirks by now, including his tendency to compose in the wake of their afterglow. </p><p>“I’ll see you around,” Raihan said, getting his bandana back in place. </p><p>“Later, Raihan,” Piers droned between notes, giving him a small wave through the open bedroom door.</p><p>The flight back to Hammerlocke was uneventful, Flygon more than adept at flying at night, especially with a brilliant full moon above them, but Raihan hardly noticed, lost in thought the entire way back.</p><p>He’d do it. He’d confess his feelings to Leon and then...and then something. He’d play it by ear. But he was going to tell Leon how he felt. </p><p>Eventually.</p>
+  </div>
+  <!--/main-->
+
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/22640713/chapters/54225208#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="ZQsfgxg6P7IZOyaEGqzQefkX9xNxWquKHc6TD-9Ax-o3EiXDvA7BmAL_CVHwPGSvVBpLA8bqVJBgJHvl39ayQg"/>
+          <input value="22640713" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=54111910">Comments (5)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/Nabaat68">Nabaat68</a>, <a href="/users/gemini_hyuck">gemini_hyuck</a>, <a href="/users/Diasphere">Diasphere</a>, <a href="/users/LegendOfKat">LegendOfKat</a>, <a href="/users/rabidFairy27">rabidFairy27</a>, <a href="/users/SunnyD_emisexual">SunnyD_emisexual</a>, <a href="/users/mutalune">mutalune</a>, <a href="/users/remthedogsitter">remthedogsitter</a>, <a href="/users/SparxFluffle">SparxFluffle</a>, <a href="/users/AdorableWarrior">AdorableWarrior</a>, <a href="/users/Haikha">Haikha</a>, <a href="/users/Louricam">Louricam</a>, <a href="/users/EvieKatReadsBooks">EvieKatReadsBooks</a>, <a href="/users/aw_writing_no">aw_writing_no</a>, <a href="/users/Shipper4Eeveelution">Shipper4Eeveelution</a>, <a href="/users/AshFire3838">AshFire3838</a>, <a href="/users/Owl_12">Owl_12</a>, <a href="/users/Nononofeels">Nononofeels</a>, <a href="/users/lotheil">lotheil</a>, <a href="/users/Meepsheepweaps">Meepsheepweaps</a>, <a href="/users/DarkSapphire8">DarkSapphire8</a>, <a href="/users/whitehyena">whitehyena</a>, <a href="/users/Urbiezira">Urbiezira</a>, <a href="/users/Solbrar">Solbrar</a>, <a href="/users/Grand_Dark_Queen">Grand_Dark_Queen</a>, <a href="/users/Not_A_Potato">Not_A_Potato</a>, <a href="/users/Mikiri">Mikiri</a>, <a href="/users/Demented_Fox">Demented_Fox</a>, <a href="/users/rexanii">rexanii</a>, <a href="/users/IceenSwary">IceenSwary</a>, <a href="/users/Yunnie_2020">Yunnie_2020</a>, <a href="/users/ikanasi">ikanasi</a>, <a href="/users/WickedGremlin">WickedGremlin</a>, <a href="/users/CockatooGray">CockatooGray</a>, <a href="/users/plantgirl">plantgirl</a>, <a href="/users/ReaDreamer24">ReaDreamer24</a>, <a href="/users/ashmashr">ashmashr</a>, <a href="/users/nafara">nafara</a>, <a href="/users/TheWanderingViolet">TheWanderingViolet</a>, <a href="/users/MegaLia">MegaLia</a>, <a href="/users/Aelya">Aelya</a>, <a href="/users/nvrlostword">nvrlostword</a>, <a href="/users/shadowstone">shadowstone</a>, <a href="/users/JoSnow">JoSnow</a>, <a href="/users/NM0nt">NM0nt</a>, <a href="/users/Mx_Poogie">Mx_Poogie</a>, <a href="/users/Descaladumidera">Descaladumidera</a>, <a href="/users/kalemsalad">kalemsalad</a>, <a href="/users/sacchi">sacchi</a>, <a href="/users/fluffyirwie">fluffyirwie</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/22640713/kudos?before=2928864300">230 more users</a>
+             as well as 
+          296 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_54111910">
+  <form class="new_comment" id="comment_for_54111910" action="/chapters/54111910/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="wAqofmv9Luep3EsirOt3lwE1z_2tmY2D0QMZoLMe3VSSE5I-z8nQzbIYZPdGe8NBrDhz7Ropcpms6fFKg4io_A"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_54111910">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_54111910" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_54111910=new LiveValidation('comment_name_for_54111910',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_54111910.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_54111910">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_54111910" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_54111910=new LiveValidation('comment_email_for_54111910',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_54111910.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_54111910" class="landmark">Comment</label>
+        <textarea id="comment_content_for_54111910" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_54111910" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_54111910_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_54111910">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_54111910=new LiveValidation('comment_content_for_54111910',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_54111910.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_54111910.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_54111910" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/22640713/hit_count.json")})</script>
+
+
+  </body>
+</html>

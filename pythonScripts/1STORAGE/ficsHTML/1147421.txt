@@ -1,0 +1,1199 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"232243a405","applicationID":"129290979","transactionName":"cVtXEUpbWFxdQhkAW1NETQBKRxtDUF9B","queueTime":0,"applicationTime":127,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"232243a405",applicationID:"129290979"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(9),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=M.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+M.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+M.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,y="addEventListener",h="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1215.min.js"},T=w&&b&&b[y]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:T,userAgent:s,disabled:E};if(!E){t(1),t(7),g[y]?(g[y]("DOMContentLoaded",o,l(!1)),m[y]("load",r,l(!1))):(g[h]("onreadystatechange",i),m[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Tony Stark Meets an Extremely Unimpressed Time Traveler, or, Thomas Barrow Makes a Surprisingly Good 21st Century Butler - Chapter 1 - Alex51324 - Downton Abbey [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="QFEHp2X3mkVNe4q3QcO0tzZbKb10LH-DB7m-3XJIQfERuiBT29IYT1Wl-TRiiCmyQZKfYmjjGsfLkGe9UUWt-w"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="_l_qhnV88vfBinsUepkIib5nKYi05i-hi0NqQetqx4OvtM1yy1lw_dlUCJdZ0pWMya6fV6gpSuVHarMhyGcriQ"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: words:100</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/1147421?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/1147421/chapters/2324501#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/1147421/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/1147421/chapters/2324484" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="2324484">1. The Cyclone</option>
+<option value="2324501">2. The Tower</option>
+<option value="2324507">3. Downton</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/1147421/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=2324484">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/1147421/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/1147421/Tony%20Stark%20Meets%20an.azw3?updated_at=1645235803">AZW3</a></li>
+          <li><a href="/downloads/1147421/Tony%20Stark%20Meets%20an.epub?updated_at=1645235803">EPUB</a></li>
+          <li><a href="/downloads/1147421/Tony%20Stark%20Meets%20an.mobi?updated_at=1645235803">MOBI</a></li>
+          <li><a href="/downloads/1147421/Tony%20Stark%20Meets%20an.pdf?updated_at=1645235803">PDF</a></li>
+          <li><a href="/downloads/1147421/Tony%20Stark%20Meets%20an.html?updated_at=1645235803">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Teen%20And%20Up%20Audiences/works">Teen And Up Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Downton%20Abbey/works">Downton Abbey</a></li><li><a class="tag" href="/tags/The%20Avengers%20(Marvel%20Movies)/works">The Avengers (Marvel Movies)</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationship:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Thomas%20Barrow*s*Tony%20Stark/works">Thomas Barrow/Tony Stark</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Thomas%20Barrow/works">Thomas Barrow</a></li><li><a class="tag" href="/tags/Tony%20Stark/works">Tony Stark</a></li><li><a class="tag" href="/tags/Steve%20Rogers/works">Steve Rogers</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Time%20Travel/works">Time Travel</a></li><li><a class="tag" href="/tags/Butlers/works">Butlers</a></li><li><a class="tag" href="/tags/Crossover/works">Crossover</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2014-01-22</dd><dt class="status">Completed:</dt><dd class="status">2014-01-22</dd><dt class="words">Words:</dt><dd class="words">87671</dd><dt class="chapters">Chapters:</dt><dd class="chapters">3/3</dd><dt class="comments">Comments:</dt><dd class="comments">297</dd><dt class="kudos">Kudos:</dt><dd class="kudos">3556</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/1147421/bookmarks">1082</a></dd><dt class="hits">Hits:</dt><dd class="hits">51531</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Tony Stark Meets an Extremely Unimpressed Time Traveler, or, Thomas Barrow Makes a Surprisingly Good 21st Century Butler
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/Alex51324/pseuds/Alex51324">Alex51324</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>In which Tony Stark ditches a boring party, makes an addition to the household staff, throws a much better party, and tries not to sexually harass his new butler.  </p><p>Or,In which Thomas Barrow has a little trouble getting home from the pub, is generally unimpressed with many aspects of the 21st century, never thought of himself as a conservative dresser before, and may or may not be falling in lust with his new employer.</p><p>tl:dr: Thanks to time travel, Thomas Barrow becomes the Avengers' butler.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>This fic contains:<br/>1. Mild spoilers for Downton Abbey 4x01<br/>2. Major ending spoilers for <i>The Great Gatsby</i><br/>3. Language reflective of early 20th century racial attitudes<br/>4.  Fade-to-black sex<br/>5.  Swearing</p><p>In addition, it ignores the events of Iron Man 3 and assumes that the Avengers all live in Stark Tower like it's a superhero frat house.    </p><p> Thanks as always to Beboots for beta, cheerleading, and coming up with the title!</p>
+    </blockquote>
+
+    <p class="jump">(See the end of the work for <a href="/chapters/2324507#children">other works inspired by this one</a>.)</p>
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/1147421/chapters/2324484">Chapter 1</a>: The Cyclone
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p>“JARVIS!” Tony said happily as he answered the phone, having recognized the ringtone.  “Tell me there are super villains attacking an orphanage.  Bus load of nuns about to plunge off a cliff.  Kitten up a tree—anything that’ll get me out of here.”  He was currently in London, enduring a very dull party.  He’d been press-ganged into coming because they were giving him an award—something about the solar-powered water filtration system he’d invented for a refugee camp in Africa.  He hadn’t minded that part, and even had had been kind of touched by the slideshow of happy children, old people, and animals who now, thanks to him, had clean water to drink.  But that sort of thing couldn’t hold his attention for long, and he was eager to make his escape.  He kept being cornered by really earnest people who wanted to talk about the water filtration system or the many other problems plaguing Africa.  Since he’d already <i>done</i> the water filtration system, and the other things weren’t <i>engineering</i> problems, there wasn’t anything he could do except nod and throw money around, which got old fast.</p>
+<p>“I’m afraid I can’t provide an attack on an orphanage, sir,” JARVIS said dryly, “but I am picking up some SHIELD chatter that may be of interest.  They’ve picked up what they’re calling a Spatio-Temporal Disturbance’ at approximate coordinates 54.1 North, 1.5 West.”</p>
+<p>“When you say “Spatio-Temporal Disturbance’,” Tony said.  “You mean….”</p>
+<p>“SHIELD has not yet come to any conclusions, sir.”  But an array of satellite data suddenly displayed from Tony’s phone.  </p>
+<p>Scanning it, he wasn’t able to come to any conclusions either.  The readings were more similar to those from Thor’s appearance in New Mexico than anything else Tony was familiar with, but they weren’t very similar to that.  “Is this up to date?  SHIELD’s not on the scene yet?”  If they were, they’d probably try to keep him out of it.  Emphasis on<i> try</i>.  </p>
+<p>“It is, and they aren’t.  They are scrambling a response team from the Helicarrier, but the first responders have just departed as of forty-seven seconds ago, and the rest of the team will be another twenty minutes behind them.”</p>
+<p>Calculating the Helicarrier’s position and flight times, compared with his own, Tony <i>did</i> come to a conclusion.  “If I really haul ass, I can get there before they do,” he said, making a bee-line for the elevators, which would take him to his room, where the suitcase armor was waiting under the bed.  “Start initializing the suit, and find me a takeoff point.”</p>
+<p>#</p>
+<p>Immediately upon regaining consciousness, Thomas rolled onto his side and was violently sick.  <i>Waste of a perfectly good pint and pie, </i> he thought as he heaved.  </p>
+<p>When the spasms subsided, he wiped his mouth on his handkerchief and sat up, looking around him.  He was in the middle of a field—pasture, probably; it didn’t look ploughed.  The shapes of some trees and a bit of wall or something were dimly visible in the near-darkness off to one side.  None of it looked particularly familiar.  </p>
+<p>None of it looked a bit like the road back from Thirsk, which was where he ought to have been.  Where he <i>had</i> been.  He’d been walking back from his evening out—he’d missed the last bus—when suddenly the wind had picked up, and—well, his memories were jumbled, and what he could pick out didn’t make much sense.  He’d been swept up and tossed about—it was like a description he’d once read by a survivor of a cyclone in the American middle west.  But you didn’t get cyclones in Yorkshire, as a rule.  </p>
+<p>The more likely explanation was that he’d wandered off the road, fallen asleep—or passed out—and dreamed the rest of it.  Only he didn’t think he’d had <i>that</i> much to drink.   Maybe one more than he ought to have had.  Trying to take his mind off things.  </p>
+<p>Still, the only thing for it was to find his way back to the road—or <i>a</i> road, if the cyclone had really happened—and make his way back to Downton.  Or to the nearest town—if the cyclone had really happened.  </p>
+<p>Thomas got his feet under him and stood up, but as soon as he did, a wave of dizziness passed over him.  He’d likely have been sick again if there was anything left in his stomach; as it was he fell back to his hands and knees and gasped for a moment or two.   </p>
+<p>All right, perhaps he needed a bit more time to recover before he went looking for the road.  Looking around in the dim moonlight, he located an outcropping of rock, crawled over to it, and sat up with his back to it.   That was all right.  He’d take it in stages, that was all.  Once he’d been sitting up for a while, he’d try standing again, and take things from there.  And the change in position gave him a little distance from the puddle of sick, which was all to the good.</p>
+<p>To pass the time, he lit a cigarette –his Black Cats and lighter were in his pocket where they always were; at least they hadn’t fallen out in the cyclone.  Though where his hat had gone, he had no idea.  </p>
+<p>Halfway through the cigarette, Thomas saw a shooting star—a funny sort of one, it looked sort of blue, and was moving awfully fast.  Still, on the theory that it couldn’t possibly hurt, he thought, <i>I wish I’d get home before I have to try and explain any of this to Mr. Carson</i>, and kept his eye on the shooting star.  His father had always said you had to watch them until they disappeared, or your wish wouldn’t come true.</p>
+<p>As he watched, the shooting star seemed to grow larger.  And to be coming straight for him.  An optical illusion, Thomas told himself.  Like how the moon seemed to follow along beside you, whether you were walking or riding in a car or railway carriage.  </p>
+<p>Except—unlike the moon—shooting stars did have to come down <i>somewhere</i>.  And here was as good a spot as any, as far as a chunk of rock from the heavens would be concerned.  Thomas considered running for it—he thought he might just about be able to manage standing up now—but he certainly wouldn’t get <i>far</i>.  </p>
+<p>He decided to stay where he was; if he was going to be crushed by a meteor, he might as well finish his cigarette first.  And suppose it landed some distance off, in the direction he’d been thinking of running.  He’d feel pretty silly then.  </p>
+<p>Thomas had just made this decision when he noticed yet another disturbing thing about the shooting star.  As it passed in front of the moon, he saw that in addition to the glowing bit, there was a dark silhouette.  Sort of…man shaped.  </p>
+<p>For a confused moment, he considered whether it might be another victim of the cyclone—one who had also somehow caught on fire, which meant that he was having an even worse night than Thomas was.  But the air was perfectly still, and he was fairly sure that you could see cyclones—they didn’t just toss people around in the air invisibly.  </p>
+<p>Meanwhile, the shooting star—or whatever it was—kept getting closer.  Thomas’s next notion was that it might be a bird, diving with its wings tucked back…and also on fire…but it became clear that the shape was far too big to be any kind of bird, flaming or not.  And the glowing part resolved into two separate points, a large one where the man’s feet would be—if it was a man—and a smaller one in about the middle of the chest.  </p>
+<p>And it was still heading right for him.  Thomas was growing increasingly convinced that it was a man.  Like Sherlock Holmes said, once you’d eliminated the impossible, whatever remained, however improbable, had to be the truth.  He couldn’t think of much that was less probable than a man flying through the air while on fire, but the other options were impossible, so….</p>
+<p>Belatedly, it occurred to Thomas that perhaps he ought to be thinking about how to extinguish the man when he came down.  If he came down.  Thomas wasn’t exactly England’s greatest humanitarian, but doing nothing while a man burnt to a crisp seemed a bit much, even for him.  Only there didn’t seem to be a stream or anything nearby, and even there had been, Thomas didn’t have anything to carry water in.  He supposed he could have a go at beating out the flames with his coat.  Thought it might be a waste of a perfectly good coat.  What were the chances the fellow was even still alive?  Not bloody likely.  </p>
+<p>But he had to change his mind about that, too, when the flying man stopped heading straight toward him, and veered off to one side in a graceful arc.   Rather like an aeroplane—except those had wings, and they didn’t fly quite so smoothly when they were on fire.   Thomas had seen a few spotters’  ‘planes go down in the war—never up close, but it had seemed pretty clear that as soon as the machine was damaged, it would be meeting the ground very quickly, and the pilot didn’t have much choice about where.  The flying man was clearly steering.  </p>
+<p>The flying man circled overhead for a minute or two, long enough for Thomas to conclude that it was definitely a man—he could make out arms, legs, and a head, at this distance—and that he appeared to be in control of his flight.  And not particularly concerned about being on fire—surely if it was bothering him, he’d hurry up and <i>land</i>, wouldn’t he?  </p>
+<p>Then, quite suddenly, the man started plummeting straight toward the Earth, quite near Thomas.  The fear that now he <i>was</i> crashing was allayed when the man did a sort of flip in the air, like a circus acrobat, prior to alighting neatly in front of Thomas, down on one knee.  The flames at his feet went out, but the light in his chest still glowed; in its light, Thomas could see that the man was dressed in what looked like a suit of armour out of the dark ages, except that it was bright red.</p>
+<p><i>No one</i>, Thomas thought distantly, <i>is ever going to believe that this really happened</i>.  He barely believed it himself, and he was here.  </p>
+<p>Then again, when Thomas had been growing up, the papers had been full of humorous accounts of ignorant rustics having their first encounter with a motor-car, and thinking it was propelled by witchcraft, or that the horses snapped the traces and run off.   Maybe in ten or twenty years <i>all</i> the toffs would have flying suits of armor.  It didn’t seem <i>likely</i>—but then, Thomas’s own grandfather had gone to his grave insisting that motorcars were a passing fad.  </p>
+<p>He had just made a firm decision to do nothing that even faintly resembled the response of an ignorant rustic in a comic paper, when the flying man flipped up the visor of his helmet and said, “Hey.”</p>
+<p>#</p>
+<p>After flying around taking readings for a while, Tony picked up a life sign at the exact center of the Spatio-Temporal Disturbance.  All of the data suggested human and unarmed—or at least not armed with any type of energy weapon, which was the only thing he’d have to worry about in the suit—so he decided to go ahead and land.  </p>
+<p>Up close, the guy looked pretty much like a normal guy—one head, four limbs, one heart, body temperature 35.7 C.  A little low—the opposite of the Agardians, who ran hot.  Also, not half bad looking, with dark hair, pale skin, and dressed in a dark suit.  The guy made no sudden moves, just stood there looking at Tony—and not even looking particularly <i>impressed</i>.  </p>
+<p>Well, if he was a time traveler, maybe the Iron Man suit was nothing special to him.  </p>
+<p>Except that Tony wouldn’t have <i>thought</i> that a time traveler from the future—or another planet—would be dressed quite so much like an undertaker.  Or Lurch from the Addams family.  </p>
+<p>Yeah, Lurch was way funnier; he’d use that when he told this story.  </p>
+<p>There were still no signs of energy weapons, and Tony thought the face-to-face touch was important when dealing with an emissary from the unknown, so he retracted his visor and said in his own voice, “Hey.”</p>
+<p>“Good evening,” said Lurch, calmly.  </p>
+<p>British accent.  Time Lord?  No, there was no sign of a TARDIS, and he only had one heart—and also, he wasn’t fictional.  Tony waited to see if there was going to be anything more—we come in peace, take me to your leader, anything like that—but there wasn’t.  “Do you know where you are?”</p>
+<p>The man looked puzzled.  “Somewhere off the road between Thirsk and Downton, I…hope.  I’m a bit lost myself.”</p>
+<p>Into Tony’s earpiece, JARVIS said, <i>He is correct, sir, broadly speaking.  Thirsk is a market town and civil parish some 3.5 kilometers northeast, and Downton is a resort hotel some 2.3 kilometers southwest.  No road directly connects the two, but if there were, you would probably be near it. </i></p>
+<p>“Good,” Tony said, to both JARVIS and the…Lurch guy.  “How about…when you are?”  It was a Spatio-<i>Temporal</i> disturbance, after all.  </p>
+<p>Lurch looked puzzled again, but took out a pocket watch—attached his <i>vest</i>, with a <i>chain</i>—and said, “Half past twelve.  I am…extremely late.  Could you see the road from--” He looked upwards.  “Up where you were?  If you could point me toward it, I’d be grateful.”</p>
+<p>Possibly not a time traveler then.  Or at least, not an <i>intentional </i>time traveler.  “What about the date?”</p>
+<p>“Twenty-fourth of June.  Well, twenty-fifth, technically.”</p>
+<p>“What year?”</p>
+<p>“Nineteen twenty one.  Look, do you need…help, of some kind?”  Now he sounded a little bit…impatient, which was not what Tony would have expected.  “I was a medical orderly in the war.”</p>
+<p>The war.  If he thought it was 1921, he meant <i>World War One</i>.  Steve was going to plotz.  “Hoo boy.  No, I don’t need any help.”  Why the hell was he taking the flying suit of armor so calmly, if he was from 1921?  They barely had <i>airplanes</i> then.  “But you sure do.”</p>
+<p>“What do you mean?” the World War One medical orderly asked.  </p>
+<p>But before Tony could figure out how to answer, he heard helicopter engines.  So did the Man From The Past; he looked up, shielding his eyes with one hand against the glare of their searchlights.  “What the bloody hell is that?”</p>
+<p>“Chopper,” Tony shouted back.  The man shook his head; that clearly didn’t mean anything to him.  “Helicopter.”  When had they been invented?  They’d had them in WW2, but he wasn’t sure about earlier…the man did not look at all enlightened, so probably not.  “Like airplanes, but…different.”</p>
+<p>“Friends of yours?” </p>
+<p>“…sort of, yeah.  Hang on, let me talk to them first.”  He didn’t want SHIELD stealing his time-traveler, and he bet they would try.   Tony had found him first; that ought to count for something.  He jogged over to the landing chopper.  There were three agents inside, one guy he knew—Decosta, or something like that—and two others he didn’t.  But they knew who he was, of course.  </p>
+<p>“Iron Man,” said the leader, a woman.  “What are you doing here?”</p>
+<p>“I was in the neighborhood,” he answered.  </p>
+<p>“You shouldn’t be here.  We’re dealing with some kind of Spatio--”</p>
+<p>“—Temporal Disturbance; yeah, I know.  Except not so much the <i>Spatio</i> part.  It connected with June 24th or 25th, 1921, but there doesn’t seem to be any geographic dislocation.”</p>
+<p>“How can you possibly know that?”</p>
+<p>“I asked the guy who came through it,” Tony answered, jerking his thumb back over his shoulder.</p>
+<p>#</p>
+<p>Thomas watched in alarm as the thing that was like an aeroplane, but different, landed.  It made a hell of a noise, and stirred up the air—like a cyclone, in fact.  He watched from a distance as the flying man had a brief conversation with the people inside.  He couldn’t hear anything—not over the racket the not-aeroplane made—but there were a lot of dramatic gestures.  </p>
+<p>Well, the fellow <i>was</i> American.  </p>
+<p>After a few moments, they switched the machine off; the silence rang in his ears, like it had when there was a pause in the shelling at the Front.  Then the flying man’s friends climbed out of the thing and started walking over, with the flying man in the lead.  The others were dressed more or less normally—no suits of armor, at least.  One was wearing an ordinary business suit, the second was dressed like a roustabout, in dark trousers and a canvas jacket, and the third…was a woman, wearing trousers, like riding breeches but with no skirt over them.  Her sex was unmistakable, because her hair was down, and the bodice of her…costume, was just as tight as her trousers.  </p>
+<p>Thomas saw no particular reason why women shouldn’t dress sensibly—including in trousers if they liked—but the woman’s attire was looked neither practical nor decent.  He averted his eyes.  </p>
+<p>“Here we are,” the flying man said cheerfully.  “These are, uh…well, that one’s Agent Decosta.”  </p>
+<p>That was the roustabout—a swarthy fellow, too.  Italian, maybe, or a Spaniard?  </p>
+<p>“Agent Talliman,” added the woman.  “And he’s Agent Ling.”</p>
+<p>The normally-dressed one was a Chinaman.  Splendid.  Thomas had never met one before, and what this night clearly needed was one more new experience.</p>
+<p>“And I’m Tony Stark,” added the flying man.  </p>
+<p>“Thomas Barrow,” Thomas said.  Why were they all called <i>Agent? </i>  Agents of what?   Maybe it was something like how the radical Socialists went around calling each other <i>Comrade</i>.  </p>
+<p>“Thomas,” said…Agent Talliman.  “We’d like to take you back to our…facility, so that we can…figure out what’s happened.”</p>
+<p>“I can’t,” he said.  “I wish I could help, but I must be getting back.”</p>
+<p>“Back where?” the woman demanded.  </p>
+<p>“Downton Abbey,” he answered.  “I work there.”</p>
+<p>“In…nineteen twenty-one,” she said.  </p>
+<p>Was she <i>mad</i>?  “Of course.”</p>
+<p>“Yeah,” said the flying man—Mr. Stark.  Or possibly Agent Stark, whatever he called himself.  “We didn’t quite…get to that part yet,” he concluded sheepishly.</p>
+<p>“What part?”  Thomas wondered, wildly, if this was a kidnapping.  If it was, they’d be disappointed—there was no one would pay ransom for <i>him</i>.  </p>
+<p>The woman opened her mouth, but Stark held up one armored hand.  “Let me.  I mean, honestly—you guys?  Do not have a good track record with this sort of thing.”</p>
+<p>“What sort of thing?” Thomas demanded.  </p>
+<p>“See,” Stark said, “these guys would probably try to avoid telling you.  They’ve done it before.  Didn’t end well.  It’s not nineteen twenty-one anymore.”</p>
+<p>“Isn’t it?  Did I sleep for a hundred years like Rip Van Winkle?”  <i>Lunatics</i>.  Absolute lunatics.</p>
+<p>“No, but there’s a guy you’re gonna have to meet….  Right.  Rip the Band-aid off.  It’s twenty thirteen.   But still Yorkshire.  Ninety-two years and change into the future, exact same spot.  We don’t have the faintest idea how it happened.  But I am just the guy to figure it out, so it’s a good thing I’m here.” </p>
+<p>“That’s impossible,” Thomas said, shaking his head.  <i>As impossible as a man flying around in a suit of armor? </i>  “No, I’m sorry, but it’s just not possible.”</p>
+<p>Stark scratched his beard—a neatly-trimmed van Dyke.  “It’s pretty surprising, isn’t it?  I’ve never seen anything like it, and I’ve seen lots of things.  But, here we are.  What’s it going to take to prove it to you?”</p>
+<p>“I’m going home,” Thomas said firmly, stepping back from them.  “I’ll just—find the road on my own, thanks.”</p>
+<p>Everyone except Stark reached under their jackets; the Chinaman pulled out a pistol.  Thomas stopped, his blood running cold.  They couldn’t be the <i>harmless</i> kind of lunatics, could they?  No, they had to be <i>armed, dangerous</i> lunatics.  That was just the way Thomas’s life went.  </p>
+<p>Then the Chinaman shot him.</p>
+<p>#</p>
+<p>“<i>Seriously</i>?” Tony yelled.  “Seriously?  You <i>shot</i> my <i>time traveler</i>.”</p>
+<p>“He isn’t yours,” said Agent Talliman.</p>
+<p>“And it’s just a tranquilizer dart,” Agent Ling added.  “We can’t stand here and argue with him all night; the rest of the analysis team is on their way.  And we can’t let him go wandering around the countryside looking for some…Abbey.”</p>
+<p>“We could have <i>taken him to it</i>,” Tony said.  “It’s still here—it’s a hotel now; in 1921 it was a house—one of those big, old fashioned, Merchant and Ivory movie stately…pile…thingies.  We take him there, he sees how it’s changed, he admits it really is the future, and there’s no need to <i>shoot him</i>.  You guys really are <i>terrible</i> at this.”</p>
+<p>Talliman sighed.  “We’re taking him to the Helicarrier.”</p>
+<p>“I’ll come too,” Tony said.  </p>
+<p>“I’m not going to try to stop you,” she answered.  “But it’s up to Director Fury whether you get landing clearance or not.”</p>
+<p>Hah.  Tony didn’t need no stinkin’ landing clearance.  </p>
+<p>#</p>
+<p> Thomas woke in what he recognized, without much difficulty, as a hospital ward.  There was a row of white-sheeted beds, all of them neat and empty, except for his, and out of the corner of his eye, he could see a nurse—or something—bustling about in a manner that was indefinably but recognizably medical.  He also recognized a sort of hazy, floating feeling, like when they’d given him morphine after he was shot.  </p>
+<p>After a few moments’ unconcerned contemplation of these details, he remembered that he’d been shot <i>again</i>—in the chest, by some lunatics who’d turned up in a field.  By rights he ought to be dead, but he didn’t even hurt so as he could notice.  </p>
+<p>Thomas briefly entertained the notion that he was dead, and this was what the afterlife looked like, but as he lay there, he became aware of a dull ache in his head and a bit of queasiness.  That didn’t seem to fit with the idea that he was dead—as he understood it, dead people usually got either no suffering at all, or a great deal more of it.  </p>
+<p>As the morphine-like haziness faded, Thomas decided that the most urgent thing was to sort out how badly he was injured.  After a couple of false starts, he managed to bring his hand up to his chest.  When he did so, he noticed that he was still dressed, and there didn’t seem to be any bullet holes in him.  </p>
+<p>The motion attracted the attention of the nurse-type-person, and before Thomas could come to any more conclusions, she came over.  As she got closer, Thomas could see that she was wearing trousers, as the woman in the field had, but hers at least weren’t anything like as form-fitting; from a distance, Thomas had assumed they were a slim skirt.  She also wore a sort of…smock, in the same light blue fabric as the trousers, and just as shapeless.   It had short sleeves, revealing slim arms, the same nut-brown color as her face.  </p>
+<p>“Oh, good, you’ve come round,” she said.  Like the Chinaman in the field’s, her English was perfectly good; she even had a London accent, unlike the Chinaman’s American one.   “How do you feel?”</p>
+<p>Thomas didn’t immediately answer.  He hadn’t really given the matter much thought, but if anyone had asked, he would have said he thought he must have gotten free of the lunatics somehow, and been brought to this hospital.  But now he was beginning to doubt that assumption.  </p>
+<p>“Can you understand me?” the brown woman asked, raising her voice slightly and pronouncing each word distinctly.</p>
+<p>“Yes, of course I can,” he snapped.  “I feel—not too bad, considering.  I could have sworn I was just shot.”</p>
+<p>“You were, but it was only a tranquilizer dart,” she explained.  “I gather Agent Ling was a bit hasty—but perhaps it’s just as well, and no harm done.  There was no telling if you’d been physiologically affected by your temporal displacement—or if you were carrying any of the pathogens endemic to your period of origin.  You aren’t, as it happens, but if you had been, it would have been as well to get you into medical as quickly as possible, without taking the time to be polite about it.”</p>
+<p>Thomas didn’t understand everything she’d said, but gathered that the gist was that she didn’t think he ought to mind being shot and brought to this hospital, since he might have been injured or ill, but he wasn’t.  “I see,” he said. </p>
+<p>He decided to try sitting up, just to see what would happen.  As it turned out, what happened was that the woman helped him, but warned, “I wouldn’t try standing up yet, if I were you.  The tranquilizer hasn’t quite cleared your system yet.”</p>
+<p> He nodded.  “Thank you, ah, Nurse….”  He thought it likelier, given her colour and mode of dress, that she was some sort of ward attendant or cleaner rather than a trained nurse, but people usually didn’t mind if you assigned them a higher status than they really had.</p>
+<p>But the woman said, “Doctor.  Doctor Vashanti.”</p>
+<p>Oh.    The lunatics had lady doctors.  Coloured, lady doctors.   “Thomas Barrow.  Pleased to meet you.”</p>
+<p>“You as well.  Now that you’re up, I’d like to take a blood sample for analysis.  Do you understand what that means?  The Agents told me you were a medical orderly in World War—in the Great War.”</p>
+<p>“I was,” Thomas said.  “And yes, I know what it means.”  It wasn’t something they’d had time for, at the Front, but Dr. Clarkson had done it from time to time at the hospital.  He shrugged out of his coat and began rolling up his sleeve.  At this point, it seemed like cooperating was the best thing he could do; he’d have to feel a good bit steadier and clearer-headed before he could start thinking about escaping.  And even then, convincing them they’d got the wrong bloke and ought to let him go might be the better course, considering how casually they went about shooting people, tranquilizer darts or otherwise.</p>
+<p>“I’ll be right back.”</p>
+<p>She went back to the other side of the room and came back with a tray with a syringe and needle on it, along with a couple of glass tubes.  She dabbed at the crook of his elbow with a bit of cotton-wool, saying, “This is just a bit of antiseptic, to prevent infection.”</p>
+<p>“I’m familiar with the concept.”  God knew more men in the war died of infection than of their original wounds, no matter how much antiseptic you sloshed around.  </p>
+<p>“Good.  This will just pinch a bit.”</p>
+<p>She put the needle in his arm and pulled the plunger, like normal, but when the barrel had filled with his blood, she swapped it out for one of the glass tubes, and then when that filled, for the second.  They hadn’t had that kind in the war—perhaps it was foreign.  After withdrawing the needle, she covered the tiny wound with a bandage that—Thomas watched—came out of the packet already attached to a bit of sticking tape.  </p>
+<p>Later, he would trace the beginning of his slow realization that the people in the field had been neither lying nor insane to that moment, but at the time, he just told himself firmly that that, too, must be foreign.  </p>
+<p>But not foreign from wherever Doctor Vashanti was from—the tape seemed to have been coloured to more or less blend in with his skin, but not with hers.  </p>
+<p>As Thomas was rolling his sleeve back down, the wall across the room <i>slid apart</i>, and in came Stark, dressed in what looked like a suit of black pyjamas, with some sort of glowing pendant under his shirt, and holding his hand up to one ear.  “—no, just got here,” he was saying, to no one in particular as far as Thomas could tell.  “That one-eyed bastard kept me circling for ages waiting for landing clearance.”  Looking at Thomas, he said, “Hey!  I meant to be here when you woke up, but—somebody else had other ideas.  Remember me?”</p>
+<p>“Yes,” said Thomas.  “You’re one of the lunatics who shot me.”</p>
+<p>“Technically,” Stark said, “I’m a <i>consultant</i> to the lunatics who shot you.”  He took his hand away from his ear to gesture emphatically; Thomas saw he had some small, shiny object in it.  “And if they had <i>consulted</i> me, I would have advised against shooting you.”  Putting the object back to his ear, he said, “Yeah, sounds like he doesn’t buy it yet.  What would it take to convince <i>you</i>?”</p>
+<p>Dr. Vashanti seemed to find nothing odd at all in Stark’s behavior; she just picked up the tray with the vials of blood and took them back to the counter and row of cabinets where she’d gotten the supplies.  </p>
+<p>“I don’t know if that would do it,” Stark said, with the air of a man who was arguing with something someone else had said.  “Didn’t they have—”  Then, “Oh.  Well, yeah, I guess you have a point.  Okay.  Yeah.  Later.”  He put the object into a pocket of his pyjamas.   “Can we bust out of here?  Doc, are you done with him?”</p>
+<p>“Do you have any kind of authorization to take him out of here?” she asked.</p>
+<p>“Would I suggest it if I didn’t?”  Stark asked innocently.</p>
+<p>Thomas was not particularly surprised when Dr. Vashanti replied, “In a word?  Yes.”</p>
+<p>#</p>
+<p>After convincing Fury that Tony really was the best person to show Thomas around, and convincing Dr. Vashanti that he would take good care of him, and convincing Thomas himself that Tony was, at least, the least threatening of this band of lunatics, Tony was, at last, allowed to take his time traveler out of Medical and begin introducing him to the wonders of the 21st century.  </p>
+<p>Well, to begin, introducing him to the fact that he really was in the 21st century.</p>
+<p>“So,” Tony said as they set off.  “I understand you’re, uh, you’re still a little bit skeptical about the 2013 thing.  Perfectly understandable.  I would be, too.   This guy I know, who’s kind of the closest thing to an expert on what you’re going through, says that the best way is just to show you.  It’s gonna be kind of a shock, but it’s gonna be a shock no matter what, so you might as well get it over with.  So I’m just gonna show you this thing, and then, I don’t know, we’ll go find you some tea or something.”</p>
+<p>Thomas’s expression was fixed, but slightly skeptical.  He’d see soon enough.  Tony waved to the crewman who was guarding the door, then stepped out onto the deck, gesturing for Thomas to follow him.  </p>
+<p>It was just about dawn out here in the middle of the Atlantic Ocean.  The towers and landing strips were lit up like the proverbial Christmas trees, and there was a tang of salt in the air.  “What do you think?” Tony asked, spreading his hands. </p>
+<p>“I think it’s an ocean liner,” Thomas said, looking around.  His tone clearly implied <i>so what</i>?</p>
+<p>“Over there,” Tony said, pointing at the landing strip, where a jet was just coming down.</p>
+<p>Thomas looked.  “An ocean liner with an aeroplane landing on it.  That’s…unusual.”  He said the last grudgingly.</p>
+<p>“<i>Now</i> do you believe you’re not in Kansas anymore?” Tony asked.</p>
+<p>“Kansas?” Thomas asked blankly.</p>
+<p>“You didn’t understand that reference?” Tony asked sheepishly.</p>
+<p>#</p>
+<p>Thomas looked skeptically at what Stark assured him was considered breakfast in the year 2013: a sort of bread roll with a hole in the middle, halved lengthwise and spread with bland, soft cheese.   The promised tea turned out to be a tepid, brownish liquid, faintly tea-flavored, that came in a pasteboard cup.  It reminded Thomas of the stuff they’d gotten at the Front in the war; under the circumstances, he wasn’t sure whether that was comforting or not.  Stark had explained that the ocean liner with aeroplanes on it—they called it the Helicarrier; apparently there was only one—was a military vessel of a sort.  Apparently some things never changed, and Army tea was one of them.</p>
+<p>They were in a sort of canteen or mess hall.  It was sparsely occupied, at this odd hour of the morning, but Army camps never really slept, and he supposed ships didn’t, either.  “So—whose ship is it?  A lot of these people don’t look English or American.”  Thomas thought he’d heard more American accents than otherwise, but they seemed to come in all colours.  Did America have more colonies now?</p>
+<p>“Uh,” Stark said.  “Well, it was made in the good ol’ USA, but it operates under the auspices of an international organization called the World Security Council.”</p>
+<p>“Is that like the League of Nations?” Thomas asked.  </p>
+<p>“…yes, actually.  It kind of is.”</p>
+<p>Thomas pondered that for a while, as Stark babbled about other things that had changed since Thomas’s say.  Cars were faster, and nearly everyone had one; aeroplanes were bigger, and people whizzed about in them as casually as taking a train; the shiny thing—which periodically made noises,  causing Stark to take it out of his pocket, poke at it with his fingers, and occasionally talk to it, was, Stark claimed, a telephone.  </p>
+<p>“So does people turning up out of the past just…happen, from time to time, now?” Thomas asked, when Stark paused for breath.</p>
+<p>“Ummm…no.  You’re the only one.  Steve’s situation was…different.  But kind of similar.”</p>
+<p>As an explanation, that didn’t explain much—for one thing, Thomas had no idea who Steve was.  “So, there’s…not much chance of getting back, then.”</p>
+<p>“Well,” said Stark.  “That’s a difficult question.  There are basically three possibilities about what happened.  One, the easiest one, is that somebody invented a previously-unknown device that had the intentional or unintentional effect of transporting you—and your immediate surroundings—from 1921.  It wasn’t just you it picked up,” Stark added, parenthetically.  “It transported at least a couple dozen cubic meters of air—it’s hard to say how much, since it’s dissipated, but there’s a lot more coal and wood smoke dust around that spot than there should be, along with some leaves, dirt, and insects.  Possibly an owl, too, but they’re not sure about that—brought it in for further testing on the grounds that it ‘looked confused.’”  Stark returned to the point.  “Anyway, if there <i>was</i> a device—and the person using it started out from this time period—we might be able to find it, and either convince them to send you back, or capture it, figure out how it works, and send you back.  Maybe.”</p>
+<p>“A time machine, you mean,” Thomas said.  He did <i>read</i>.  </p>
+<p>“Right,” Stark said.  “It’s not supposed to be possible—but people said that about heavier-than-air flight, too.  The next possibility is some kind of natural phenomenon that’s never been observed before.   If that’s it, I don’t think you’re getting back.  We’ll need to invent a new branch of physics to even figure out how it <i>works</i>, let alone control it.”</p>
+<p>“And the third possibility?”</p>
+<p>“Aliens,” Stark said.  “People from outer space.  Other planets.   We’ve, uh, recently met some, and they can do things we don’t understand.  We haven’t seen any evidence that they have time travel, but I doubt we’ve seen everything they can do.  Or it could be other aliens we haven’t met.”</p>
+<p>Spacemen.  Well, since Thomas had accepted, over the last hour or so, that he had in fact traveled in time, he supposed Martians weren’t too big a leap.  “What would that mean for my chances of getting back?”</p>
+<p>“Uh, it wouldn’t be good,” Stark said apologetically.  “The, uh—the representative of the aliens we’re on friendly terms with says it wasn’t them.  He’s not exactly their greatest scientific mind, but his <i>mom</i> kind of is, so he’d probably know if they had time travel.  If it was the aliens we’re <i>not</i> on friendly terms with…if they’ve come back, we have bigger problems than you.  Sorry.  And as for aliens we haven’t met yet…well, they could turn up ten minutes from now and say, ‘Hey, sorry, we accidentally turned our time-ray on your planet, is there anything we can do to help anyone who was inconvenienced?’   But I wouldn’t count on it.”</p>
+<p>Thomas mentally reviewed everything Stark had said since he’d asked about going back, stripping out the irrelevant details.  “So the short answer is…no, then.”</p>
+<p>“Well, that’s an oversimplification, but, uh…yeah.  That would be no.”</p>
+<p>#</p>
+<p>The time traveler didn’t yell, cry, or otherwise obviously freak out when Tony admitted they didn’t know how to send him back.  He just sat there and stared at his half-eaten bagel for what seemed like a really long time.  Then he said, “Well.  What am I going to do now?” in a voice that was, somehow, worse than crying or screaming.</p>
+<p>“You’ll get used to it,” Tony said, in what he hoped was a bracing way.  “It’s not so bad, 2013.  We have TV.  And video games.  And, uh…pizza!”</p>
+<p>Thomas gave him a withering look.  “I don’t know what any of that is, and I don’t see how it will help.  I’m going to need some sort of job, aren’t I?  And everyone who can give me a reference has been dead for fifty years or more.”</p>
+<p>Oh, that.  “Might not be a problem right away,” Tony suggested.  “Did you have a bank account?  Even if there wasn’t a lot in it, 92 years of compounded interest--”</p>
+<p>“I didn’t.  I’ve got--”  Thomas took out his wallet.  “Nine shillings.  And a stamp.”</p>
+<p>“Then I guess you’ll have to find something sooner than later,” Tony said uncomfortably.  Or else sell his story to the tabloids.  “But, you know, we’re not going to just toss you out into the street.   We’ll, uh, we’ll find somewhere to put you up for a while, help you get adjusted.”  If SHIELD got finished with Thomas before he was ready to go out on his own, he could always crash on Steve’s couch.  Or one of the empty apartments in Stark Tower.  </p>
+<p>“I’m grateful,” Thomas said distractedly.   “Still.  I don’t have any time to waste before I start thinking about the future.  So to speak.”</p>
+<p>“What did you do before?  Besides being a medical orderly in the war.”  Those skills would be too far out of date to do him any good at all.  Although Tony was hard-pressed to think of any skills that wouldn’t be.  </p>
+<p>“I was an under-butler.  Footman and valet before that, at different times.”</p>
+<p>“Oh, boy,” Tony said.  “That’s…not good.”</p>
+<p>“I didn’t mind it,” Thomas said stiffly.</p>
+<p>“Sorry, I just meant—that’s not going to be much help in finding you a job now.”  Almost nobody had butlers anymore—not even the kind of people Tony Stark knew.  Maybe he could get something as a cater-waiter.  </p>
+<p>“No,” said Thomas.  “I don’t imagine there are too many households looking for a butler who’s over a hundred years old.  Unless for the novelty value, maybe.”</p>
+<p>Tony just nodded, not sure if it was a good time to explain that the situation was a bit worse than that.</p>
+<p> Thomas went on, “But I can’t imagine what the household would be like.  ‘Step into the drawing room, where you can gawp at my stuffed crocodile, my pet monkey, and my time-traveling butler.”</p>
+<p>It occurred to Tony that he did have one idea of the kind of household where a time-traveling butler would fit right in.  But, mindful of Pepper’s advice that, when meddling in other people’s lives, they generally preferred it if you gave the matter a little more thought than a spider-monkey on meth would, he decided not to say anything right this minute.  “We’ll have to…look into the options,” he said instead.   “See what we can work out.”</p>
+<p>Thomas winced at that, for some reason.  </p>
+<p>“D’you want more tea?” Tony suggested</p>
+<p>#</p>
+<p>After “breakfast,”  Thomas was assigned a room on the Helicarrier—a very small one, with the furniture bolted to the walls like in a ship’s cabin, which he supposed made sense—and he spent most of the next day and a half in it.  He was given a stack of what they called “orientation materials,” and—apart from when he was taken back to the canteen for meals or to various other places to be questioned by scientists and doctors about his experiences with the Spatio-Temporal Disruption, he primarily occupied himself by reading them.  </p>
+<p>The stack of “materials” was topped by a booklet that said, <b>“Fast Facts: Read this First!”</b> on the cover, so, lacking any better idea of where to begin, he did so.  A table of contents announced sections on Society, Technology, Daily Life, and Health and Safety.  It seemed like a strange ordering of priorities to Thomas, but he supposed he might as well begin at the beginning.</p>
+<p>The “Society” section began,</p>
+<p>
+  <i>The most striking changes that you may notice include the integration of women and of people of all racial backgrounds into all areas of life.  Today, educational, social, and career opportunities are not limited by race or gender.  In general, it is considered impolite to draw attention to a person’s race or gender, such as by expressing surprise that they occupy a role that may have previously been unusual for their race or gender.</i>
+</p>
+<p>So, Thomas translated, it was a good thing he hadn’t said anything about the coloured lady doctor.  </p>
+<p>
+  <i>Many terms for describing race and gender differences that were considered polite in the past are now found to be offensive.  SHIELD personnel who have been briefed on your circumstances will make allowances, but other individuals may be angry or upset if you use language that they believe communicates disrespect for diversity. </i>
+</p>
+<p>Apparently it was an especially good thing that he hadn’t said “coloured lady doctor.”  The next few pages talked about what words to use and not use.  Adult human females, it said, were called “women,” not “girls,” and they didn’t always appreciate “ladies,” either.   Nobody at all was called “coloured,” ever.  Negros were “black” or “African-American.”  (It didn’t say what to call them if they weren’t American.)   Chinamen were “Asian.”  He wasn’t sure <i>what</i> Doctor Vashanti was.  </p>
+<p>It seemed like an odd set of facts to put at the very beginning of the “Read this first” book, but given that the vessel seemed to be packed with what the booklet told him were known as “racial or ethnic minorities; people of color,” he supposed it was a good thing he’d found that out before he put his foot in it.  </p>
+<p>Next came a few pages on women, emphasizing again that they could have any job they liked, and most of them did—or “worked outside the home” as the booklet put it.  One was not to assume that a woman in a business setting was a secretary, or “occupies a traditionally subordinate role, as this may be considered offensive.”  It went on to talk about how they dressed: apparently skirts and dresses still existed, but most women wore trousers more often than not, and even when they did wear skirts, they hardly looked decent: the book had a picture captioned, “Woman in conservative business attire,” which showed a woman dressed in what looked like the jacket to a riding habit, a more-or-less normal blouse, and a skirt that ended <i>several inches</i> above her knees.  </p>
+<p>Well, Thomas reminded himself, someone from the 1820’s would be shocked by the ladies of his time walking around with their ankles and lower calves exposed for all to see.  </p>
+<p>His resolve to be un-shocked faltered, however, when the next page displayed a photo of a less “conservatively” dressed woman.  On top, she was dressed in a sort of chemise, the thinness of which made clear she wore no corsetry of any kind, and her skirt reached far less than halfway down her thighs.   The text emphasized that a woman who dressed in such a way should not be assumed to be a prostitute, sexually immoral, or unintelligent.  </p>
+<p>“Right,” Thomas said to the book.  “I’ll keep that in mind.”</p>
+<p>He kept on.  “Technology” covered much of the same ground that Stark already had, though it was a bit more comprehensible.  Though not always.  Occasionally, it compared the new inventions it was telling him about to things he’d also never heard of.  For instance, “television,” was apparently a great deal like “radio,” except it had pictures.  That was not particularly helpful.  With some effort, Thomas was able to remember that “radio” was what the Yanks called wireless telegraphy, but since as far as he knew, it was mainly used to communicate with ships at sea, he wasn’t sure why pictures were necessary, or why whoever had written this booklet seemed to think it was one of the first things he should know about.</p>
+<p>“Daily Life” explained that “ethnic meals from around the world are now regularly enjoyed throughout America,” but “familiar dishes such as steak, chicken, and mashed potatoes remain popular.”  Thomas was happy to read that—by the time he got to that part, he’d also “enjoyed” a luncheon that consisted of some sort of unleavened, foreign bread, rolled up around salad and wafer-thin sheets of something he was promised was meat.  He supposed it wasn’t bad, really, but he wouldn’t have liked to eat it for the rest of his life. </p>
+<p>The same section also discussed how men dressed.  Apparently, they tended to go about half-naked too, wearing hats and jackets only if the weather was cold.  In hot weather, it was quite usual for them to appear in public in their undershirts and short trousers.  It didn’t say whether you were allowed to think they were sexually immoral prostitutes, though.  </p>
+<p>In “Health and Safety,” the detail that made the greatest impression on Thomas was that cigarettes were now, apparently, widely believed to cause cancer, and as such, smoking was now banned in “all SHIELD facilities, as well as most public places in New York and other major cities.”  Bloody hell.  The bloke who’d led him in to lunch had told him, when he tried to light up afterward, that he wasn’t allowed to smoke in there, but he had figured that was something to do with being onboard a ship—risk of fire, or something like that.  And he’d also shown Thomas to a spot on the deck where there were a few other blokes—and two women—having an after-lunch fag.  He wondered if that meant smoking was only forbidden <i>inside</i>, or if some people just did it anyway.  He’d have to be more careful until he found out.  </p>
+<p>The next book in the stack, after “Read this first,” promised to be an overview of major events in world history—and it was, but, oddly, it started with the crowning of a new Queen of England in 1952.  The “materials” certainly seemed to be written for someone in his exact situation—which, now that he thought of it, was a little odd, considering Stark had said that it had never happened before—but surely thirty years hadn’t gone by without one or two things of importance happening.   Especially since the book covered some things that didn’t strike Thomas as particularly important, such as the opening of something called “Disneyland,” which Thomas gathered was something like an amusement pier at the seaside, only bigger.  And there was a mouse involved somehow.  </p>
+<p>He checked the rest of the stack to see if there was another book covering the missing years, but there wasn’t—the others mostly covered the same topics as “Read this first,” but in more detail.  Figuring he’d had enough of that sort of thing for one day, he shrugged and kept on with the history, stopping eventually to go to sleep, and resuming again after breakfast.  This time, he was taken to breakfast at what was evidently the usual time, and he was pleased to see toast, eggs, and bacon on offer—though he did notice that a lot of people chose the breadrolls with the holes in them instead.   </p>
+<p>As he moved through the 1950’s and began the 1960’s, it certainly looked like things were building toward a war between the Americans and the Russians.  He certainly hadn’t been naïve enough to think that the “War to end war” would live up to its billing, but he didn’t see what those two countries would find to fight about.  They’d been allies in the Great War, and it wouldn’t make much sense for Russia to hop over all of Europe and an ocean to attack America.  Or to hop over all of China and a different ocean, if they went the other way.  </p>
+<p>Thomas started flipping ahead, to see if there had been a war, and if so, whose side England had taken, but before he could find out, another Agent Somebody knocked at the door.  This one was a black gentleman, and he informed Thomas that he had an appointment with a Doctor Hughes.  This proved to be another lady doctor—though white, this time—and dressed in what “Read this first” told him was conservative business attire.  Thomas, mindful of all that he’d learned, remarked on none of it.  Not even when she extended her hand for him to shake and said, “I’m Catherine Hughes.”</p>
+<p>“Thomas Barrow,” he answered, though she probably already knew that.  Idly, he wondered if she was any relation to Mrs. Hughes.  Probably not—it wasn’t an uncommon name.  She showed him, not into an examining room or ward, but into a room that was furnished as a sort of cross between an office and a sitting room, with a desk at one end, and a sofa and chairs at the other.  </p>
+<p>“Please, have a seat, anywhere you’d like,” she said, sitting on the sofa herself.   Thomas selected an armchair, and as he seated himself, she went on, “How are you settling in?”</p>
+<p>“Ah.  Well enough, I suppose,” Thomas said cautiously.  “I’ve been keeping to my room, mostly.  Reading.”</p>
+<p>“Good,” she said with a nod.  “Is there anything you have questions about?”</p>
+<p>Thomas hesitated.  “Well, I’m on the history part now.  Did you Yanks ever go to war with Russia?”</p>
+<p>She blinked, seeming to find that a surprising question, but recovered and answered, “No, fortunately, we didn’t, but there were times when we came very close.”  She hesitated.  “There have been a number of…smaller scale armed conflicts, throughout the last half of the twentieth century and the beginning of the 21st.”</p>
+<p>“I’d be surprised if there weren’t,” Thomas said.  He was about to ask if Britain had been involved in any of them, but she spoke first.</p>
+<p>“I understand you served in the Great War.”</p>
+<p>“Yes.  Just about everyone did, if you were physically fit.”</p>
+<p>“Can you tell me a little bit about that?”</p>
+<p>Thomas wasn’t sure why a doctor would want to know about that—it was pretty obvious he’d come back more-or-less whole—but answered, cooperatively enough, “I was with the RAMC.  Royal Army Medical Corps.  I managed to spend the second half of the war on Home Service—working in a hospital back in England, but I was in France for the first half.  A regimental aid post.”</p>
+<p>“So you were in the trenches?”</p>
+<p>“Yes.”</p>
+<p>“What was that like?”</p>
+<p>“What was it like?”  Thomas echoed.  Nothing suitable to discuss with a lady, for starters.</p>
+<p>“Yes.”</p>
+<p>“Not very pleasant.”    She seemed to be expecting him to say more, so he added, “Dirty.  Dangerous, sometimes.  And dull, when it wasn’t.  I was glad to get out of it and back to England.”</p>
+<p>“Dr. Vashanti noticed you have a scar on your hand, that looks like a bullet wound.  Is that from the war?”</p>
+<p>“It is,” Thomas said with a nod.  When had she seen that?  It must have been when he was unconscious.  One reason he always kept it covered—beyond it not being very nice to look at—was that he didn’t want anyone getting a good enough look to start wondering how he’d come to have a bullet go straight through the palm of his hand.  It would be a turn-up for the books to have gotten it past the Army for years, only to be caught now.   “Turned out to be a bit lucky, actually,” he went on, doing his best to sound casual.  “If it had been any worse I’d have lost the hand.  But it healed up pretty cleanly, considering, and they decided it was weakened just enough they didn’t want me carrying stretchers on the battlefield, so I didn’t even have to go back to France.”  </p>
+<p>“That is lucky,” she said.</p>
+<p><i>Suspiciously</i> lucky, did she mean?  It was all true—getting himself shot had been more a product of panic than a real plan; he could have ended up crippled for life, or so lightly wounded that it did him no good at all.  “I’d signed up right at the beginning, a few days after the war was declared.  The blokes who waited to be conscripted were showing up in France about the time I left.”  </p>
+<p>“So you felt like you had done your bit?” Dr. Hughes asked.</p>
+<p>Thomas tried to look as though the idea had just occurred to him.  “I suppose it did work out that way.  I was there for about two years, and back on Home Service for about two years.  I was still able to serve my country, looking after the wounded men back home.”</p>
+<p>“So you feel proud of your military service.”</p>
+<p>Her tone didn’t give much hint as to whether she thought he should feel that way, or not.  He hedged by saying, “Well, I did my best.  But it wasn’t anything special.  Most men did.”  Remembering his reading, he added, “Women, too.   We didn’t have—they could only do certain things.  Nursing, working in munitions factories.  Or keeping up with the jobs of the men who were away.”  He considered.  “Some of them weren’t all that keen on going back to how things were before.”  Lady Sybil, for one.  “Is that how it ended up like it is now, with women doing all sorts of things?”  He thought the question might divert her from any further probing into his war wound.</p>
+<p>“As a matter of fact, it was,” she said with a nod.  “Though it took…time.”  She seemed about to say something more, then visibly changed her mind.  “What about the aims of the war?  Were those…important to you?”</p>
+<p>Suddenly, Thomas felt like he was at school, being called on for a lesson he hadn’t prepared.  He’d always been a bit shaky on the war’s aims—he supposed there were some, but he’d never paid much attention to them.   But at least it wasn’t about his wound.   “Well,” he said slowly, “you can’t really let the Germans take over France.  They’d be across the Channel to us, next, wouldn’t they?”</p>
+<p>She nodded, but said, “The Americans and the English are both on good terms with Germany now.”</p>
+<p>“Good.”</p>
+<p>“That doesn’t bother you?” she asked.</p>
+<p>“Well, I didn’t enjoy the war so much that I’d like to do it again,” Thomas said.  “As long as they’re behaving themselves.  And I suppose it makes sense, with Russia being an enemy,” he added, hoping to make up any points he may have lost by not knowing much about the war aims.  </p>
+<p>It occurred to him that, with all these questions that didn’t seem at all medical, Dr. Hughes might be trying to sort out if he was insane or feeble-minded.  He vaguely remembered reading an article, back home, about the Americans’ growing interest in eugenics, particularly in stemming the proliferation of the feebleminded.  If they’d kept up with it, they might want to assure themselves he wasn’t one of those before they let him loose.  He couldn’t exactly explain why they didn’t need to worry about him proliferating, so he thought he ought to make an effort to sound as sane and intelligent as possible.  </p>
+<p>“Actually,” she said, “we’re on good terms with the Russians now, too.  But yes, I think you’re right, that was one of the reasons it was important to make peace with them.”</p>
+<p>Oh.  “I must not have gotten to that bit yet.”</p>
+<p>“It was pretty recent—the 90’s.”</p>
+<p>Thomas was confused for a moment, before he realized she must mean the nineteen nineties, not the 1890’s.  “That’s a bit of a relief; I was getting a bit worried about what they might get up to next.  In my reading.”</p>
+<p>“What else are you worried about?”</p>
+<p>“In history, you mean?”  He hoped that was what she meant; otherwise, he didn’t want to think about the question, let alone answer it.  </p>
+<p>“No, in general.”</p>
+<p>Damn.  “Well.  There’s what I’m going to do, here.  In the future.  As far as work, and finding a place to live, and all that.  I don’t know anyone who’d still be…living.  Even little Sybil would be, God, ninety-four or so.”</p>
+<p>“Is she your daughter?”</p>
+<p>“Hm?  No, no.  The…granddaughter of the family I worked for.  There was Master George, too, he’d only be ninety-three, but I wouldn’t say I <i>know</i> him.”  Realizing that likely made little sense to Dr. Hughes, he added, “Lady Sybil—little Sybil’s mother—was a trained nurse in the war.  We worked in the same hospital, so I got to know her, a bit more than just waiting on her.”</p>
+<p>“What about your own family?” she asked.</p>
+<p>“I didn’t really have one, not so you’d notice.  Parents, of course, but they’d died before—before I left.  Cousins, that was about it.”  Thomas was reminded of another conversation he’d had, on the same subject, and added, “Thomas, <i>contra mundi</i>.”</p>
+<p>“You weren’t married?  Did you have a sweetheart?”</p>
+<p>Now, why was she asking about that?  “No.  I was in service.  Under-butler.  Maybe they do it differently now, but back then, servants didn’t marry.  Mostly,” he added, thinking of the Bateses.  “There was a girl I walked out with, a bit, before the war,” he added, figuring it wouldn’t hurt to embellish a little.  “Daisy.  But she chose the other bloke.”</p>
+<p>“How did you meet her?”</p>
+<p>It was a good thing he hadn’t made up a girl out of whole cloth, Thomas thought.   “We worked together.  She was a kitchen maid.  I was only a footman at the time.”</p>
+<p>“What about your other workmates?”</p>
+<p>“What about them?”</p>
+<p>“Did you have other close friends among the people you worked with?” she clarified.</p>
+<p>“Oh, you know.  I try to be friendly with everyone.”  There couldn’t be any risk in telling such an uncheckable lie, could there?   “There were a few of us who had been there for a long time—Miss O’Brien, her ladyship’s maid; Anna, she started as a housemaid about the same time I did, and now she’s Lady Mary’s maid.  Mrs. Patmore, the cook.”  Even at 92 years’ remove, he quailed at the notion of claiming Mrs. Hughes or Mr. Carson as friends.  But he ought to have some men friends, shouldn’t he?  “And Bates, of course.  He’s valet, now that I’m under-butler.  The other fellow who was a footman along with me was killed in the war, so the rest of the blokes are new.  Except for the butler, Mr. Carson.”  He figured he’d better mention him so it was clear that they hadn’t gone out looking for a new butler while keeping him as under-butler.  “But being the man in charge, he keeps his distance from the rest of us.”</p>
+<p>She went on to ask more questions, about all sorts of seemingly unrelated topics, finally finishing up, after nearly an hour, with a couple that at least sounded like something a doctor might ask.  “Have you been sleeping well?”</p>
+<p>“It’s only been one night,”  he pointed out.  “But…I suppose I slept well enough.  For being in a strange place.”</p>
+<p>“What about your appetite?”</p>
+<p>“Fine.  The food’s a bit different to what I’m used to.”</p>
+<p>“All right, then.  We’ll just keep going as we are, and we’ll talk again in a few days; does that sound all right?”</p>
+<p>He wasn’t precisely looking forward to it, but it didn’t seem wise to say so.  “Certainly.”</p>
+<p>#</p>
+<p>“—alert and oriented, but presented with a very flat affect,” Hughes, the SHIELD psychiatrist, was droning on.</p>
+<p>Returning to the Helicarrier after a lab all-nighter with Bruce, Tony had bluffed his way into a meeting on what they were apparently now calling the Temporally Displaced Person.  He’d expected there to be more in it about the <i>phenomenon</i>, but so far, it seemed to be all about Thomas himself.  Dr. Vashanti had told them all about his medical test results—about half an hour of lab results that basically added up to, “Yup, he’s from the 1920’s, and he seems fine.”    Now Fury had turned things over to the shrink.</p>
+<p>“He seems to be taking his temporal dislocation very calmly, which I suspect means he’s repressing the trauma, as would be typical for a British male in the World War One era.  He also showed very little emotional reaction when discussing the war, the death of one of his friends, and his rejection by a girl he’d been dating.  The only concerns he expressed were about finding a job and a place to live—which does show he’s processing his situation on some level, although he’s concentrating the practical, rather than the emotional, level—and whether we were headed toward war with Russia.”</p>
+<p>“What?” said Dr. Vashanti.</p>
+<p>“He’s been reading the orientation materials that I prepared for Captain Rogers,” she explained.  “I gather he’s gotten up to the Cold War.”</p>
+<p>“What about World War <i>Two</i>?” asked some technician Tony didn’t know.  </p>
+<p>“We…omitted the volume about the conclusion and immediate aftermath of the war,” Dr. Hughes explained.  “And removed any stray references to it from the packet covering major world events, 1950 to 2010.  Given that the war experience was very traumatic, and it was believed at the time to be a “war to end wars,’ it’s likely to be upsetting to him to learn that the entire thing was essentially repeated barely twenty years later.”</p>
+<p>“With the extra fun bonus of atomic bombs and concentration camps,” Tony added.  “But really—you guys tried the whole ‘keeping a giant secret and hoping he doesn’t notice’ thing with Steve, and that didn’t go so well, did it?  I seem to remember something about him <i>breaking down a wall</i> to get away…ring any bells for anyone else?”</p>
+<p>“The TPD already knows about his temporal dislocation,” Hughes said.  “Thanks to your unilateral decision to tell him in a completely nonsupportive environment.  He--”</p>
+<p>“The what?” Tony asked.</p>
+<p>“Temporally Dislocated Person,” she said.  </p>
+<p>“We could just call him ‘Thomas,’” Tony pointed out.  “Fewer syllables.”</p>
+<p>She ignored the comment.  “He’s already processing a substantial trauma; we don’t need to add a second one.  Accordingly, I’d like to stress to everyone who has contact with the TPD that they are <i>not</i> to mention World War Two, Nazis, or any related concepts.  In addition, World War One—if the subject comes up—should be referred to only as the Great War.  He’s intelligent enough to make inferences and ask about them; if anyone says ‘World War One,’ he’s going to realize there must have been a second.”</p>
+<p>“What’s your recommendation?” Fury asked.</p>
+<p>“On balance, I think we should keep him here on the Helicarrier for at least a few weeks.  It’s a very alien environment for him, but it’s also a controllable one.  He can continue studying the orientation materials—I’m working on a new packet covering 1921 to 1950—attend regular sessions with me, and be gradually introduced to carefully selected facets of 21st century life.  He’s been being escorted to meals by various crewmembers; once we figure out which ones he gets along well with, we’ll have them take him to selected recreational activities—sports, movie nights, that sort of thing.  Once he’s oriented—well, we’ll have to ask if he wants to be repatriated to the UK.  If he does, we’ll have to find some organization to partner with to continue his education and acculturation; if he’s willing to go to the US, we can do it ourselves.  Either way, he’ll have to be set up with an apartment, taught skills of daily living, provided with education that will give him credentials for employment.  A GED to start, or the UK equivalent, and then some sort of vocational training.  He was an--”  She glanced down at her notes.  “Under-butler.  I’m not entirely sure what that means, but since nobody has a butler anymore, it won’t be much help.”</p>
+<p>“I have a butler,” Tony pointed out.  </p>
+<p>“You have a computer program,” Fury said.  </p>
+<p>“Who is a butler.  And we had a regular one when I was a kid.  Which seems like a great opening for me to suggest an alternative plan,” Tony added brightly.</p>
+<p>“We are not making the TDP your butler,” Fury said.  </p>
+<p>Damn.  He must be getting predictable.  “Why not?   We can’t send him back, you can’t keep him locked up in a secret government facility for the rest of his natural life.  He has to go somewhere, and do something.  Why not Stark Tower?  Why not be my butler?  Why not Zoidberg?”</p>
+<p>Fury shook his head.  “What?”</p>
+<p>“Scratch that last one. Seriously, though, what’s the downside?”  Tony looked around the table.</p>
+<p>Dr. Hughes spoke up.  “In the present day, with proper education, he has many more career opportunities open to him than waiting on you hand and foot.”</p>
+<p>“So,” Tony said, “you think domestic service is…demeaning,” Tony translated. </p>
+<p>“There’s a reason nobody has servants anymore,” she said.</p>
+<p>“Yeah, it’s that most people can’t afford them,” Tony said.  “Which—hey—not a problem.  It’s not like I’m planning to keep him chained up in the basement, hand-washing my skivvies.  He can help JARVIS run the house—having a butler who’s completely noncorporeal has one or two disadvantages—and get acclimated to the 21st century while he’s at it.  There’ll be a lot about it that’s different, but some things about it’ll be familiar—which, take it from Steve, makes a difference.  Which brings me to the most important reason this is a genius idea: Steve.”</p>
+<p>“Steve wants a butler?” Fury asked dryly.</p>
+<p>“Actually, he’s a little uncomfortable with the idea,” Tony admitted.  “<i>But</i> he lives at the Tower, and he’s the only other person in the world who has the slightest idea what it’s like to suddenly find yourself in the future, and he’s eager to help.  They can have a 24/7 support group.  For Temporally Dislocated Persons.  Now,” he added, holding up his hand.  “You’re about to ask why I don’t just invite him to stay at the Tower as my guest, right?”</p>
+<p>“The thought had occurred,” said Dr. Hughes.</p>
+<p>“It occurred to me, too. Steve thinks Thomas would be pretty uncomfortable living on charity in my palace of wonders—you know he only puts up with it because I convinced him it’s an Avengers perk, and he still tries to pay me rent every couple of months.  This way, Thomas has a job—which will really only keep him busy for a couple of hours a day, considering everything in the Tower is automated.  It comes with room and board included, on top of a generous salary, health benefits—I can get him on Stark Industries’ group plan—and he’ll have plenty of free time to get his GED, or whatever he wants to do.  Plus—face it—‘butler to Tony Stark’ is the kind of thing that draws attention on a resume.  Case in point, my former PA is now CEO of a Fortune 500 company.”</p>
+<p>“Because you made her CEO of your Fortune 500 company,” Fury pointed out.</p>
+<p>“She’s had offers from other ones.  Look.  I’m not saying we should, say, shoot him with a tranquilizer dart drag him to my house while he’s unconscious.  We could try…asking him.   Tell him about Dr. Hughes’s plan, tell him about my plan, see what he wants to do.”  Tony bit his lip.  “Plus, I’m not sure you can actually <i>stop</i> me from offering him a job.  Or keep him here against his will if he wants to leave.  I’ll have to check up on it, but I think that’s one of those…human rights thingies.”</p>
+<p>“I strongly recommend that he at <i>least</i> stay here for the several weeks of orientation that I proposed,” Dr. Hughes said.  “There are a number of sound psychological reasons for a more controlled introduction to the 21st century.  And there’s a case to be made for not presenting him with potentially confusing choices while he’s still processing the trauma of his dislocation.”</p>
+<p>“And you will have the opportunity to make that case,” Fury told her.  “To him.”</p>
+<p>#</p>
+<p>“Hi, I’m Steve Rogers,” said Steve, to the guy Tony insisted on referring to as “my time-traveler,” usually while bouncing.  They were in the Helicarrier’s mess hall, where Tony had arranged for him and Steve to meet.</p>
+<p>“Good afternoon.  Thomas Barrow,” said the guy.  He was dressed in a black suit that looked old-fashioned even to Steve, with a vest and watch chain, like Steve’s grandfather had worn.  </p>
+<p>“I knew you guys would hit it off,” Tony said happily, turning to wave off the crewman who’d been escorting Thomas.  </p>
+<p>Since so far they had only exchanged greetings and names, Steve suspected Tony was up to something.  “I don’t know what Tony’s told you about me,” he said to Thomas as they got into the serving line.  </p>
+<p>“Very little,” said Thomas.  “I believe he said you were a ‘guy I should meet.’”</p>
+<p>“Right,” said Steve.  “I was born in 1919.”</p>
+<p>“Oh,” said Thomas.  “You look very good for your age.”</p>
+<p>Tony snorted.  </p>
+<p>“In 1943 I…fell into the Arctic Ocean and was frozen for seventy years,” Steve explained as he grabbed a tray and reached past the stack of paper cups for a ceramic one.   “SHIELD found me and thawed me out about two years ago.”  He poured himself some coffee from the “French Roast” urn.  As far as he could tell, it had the same stuff in it as the other, but it had been cleaned more recently.</p>
+<p>“I see,” Thomas said.  “Are those the cups for the coffee?  Maybe I’ll try that.”</p>
+<p>Tony was right; this guy was hard to impress.  “Uh, you can use the cups for anything,” Steve said.  “A lot of people like the cardboard ones because they can take them with them when they leave the mess, but I figured we’d talk for a while, so we might as well use the real ones.  It’s less wasteful.”  Even now, he was sometimes shocked by how much these people threw away—when they’d had a rooftop picnic for his birthday last summer, Tony had bought “disposable” plastic plates that Steve was absolutely certain his mother would not only have kept for re-use, but probably saved for special occasions.  </p>
+<p>Thomas nodded, seeming to find that information of more interest than the part about Steve also being a man out of time.  But after they’d collected their drinks and pastries and found a table, Thomas said, “Do they…thaw people out regularly now, then?”</p>
+<p>“No, most people wouldn’t have survived that, and they’ve done a lot of things in this century, but they haven’t found a cure for death.”  Steve thought that might be important to clarify, given…well, everything.  “I was….”  It was funny; ever since he’d woken up in this century, everyone who knew who he was also knew all about the Super Soldier project.  This was Steve’s first time having to explain it.  “In the 1940’s, there was an experiment to…expand human capabilities.  I was the test subject.                                                     The experiment…worked.  I’m unusually strong and fast, I heal very quickly, and I can survive being frozen.  Among other things.”</p>
+<p>“That’s just him, by the way,” Tony put in, not looking away from his phone.  “We aren’t all…engineered supermen these days.”</p>
+<p>Steve continued, “And that’s not really important right now.  What is important is that I had to get used to—all this.   I know it all looks pretty strange right now, but once get past the surface, a lot of things are the same.   Some people are really good, some are really bad, most are muddling around somewhere in the middle, trying to do the best they can.”</p>
+<p>That line usually went over well on the talk shows Steve appeared on, but Thomas just nodded.   “I suppose they would be.  Hasn’t really been that long.  When you think about it.  I mean, someone who turned up in…my time, from 1830, wouldn’t find us changed all out of recognition.”</p>
+<p>“No,” Steve agreed.  “You’re right.  Is there…anything you have questions about?  I know SHIELD’s given you some stuff to read—they gave to me, too—but they don’t think of everything.”</p>
+<p>Thomas went even stiller than usual for a second or two.  “Well.  If you don’t mind my asking.  What do you do for work?  If you work.”  </p>
+<p>“I’m with SHIELD,” Steve said.  That wasn’t going to help Thomas much, unfortunately.   He’d been hoping for some easier questions—he had some stuff prepared, about things SHIELD had forgotten to tell him about.   “Part of a team that responds to…unusual threats.  It’s kind of like what I was doing before, in the forties.  I was lucky that way.  But SHIELD’s putting together some ideas for you, I think.”</p>
+<p>“One idea,” Tony said, still playing with his phone.  “And my idea is already ready, but I’m not allowed to tell you yet.   Dr. Hughes thinks if she tells you her plan first, you won’t realize that mine is way awesomer.”  Now he glanced up.  “Or is that supposed to be ‘more awesome?’”</p>
+<p>Steve ignored him, and told Thomas, “People today say ‘awesome’ a lot.  It just means ‘good,’ not actually inspiring awe.”</p>
+<p>“Many of my ideas inspire awe,” Tony put in.</p>
+<p>Steve continued with the ignoring.  “‘Cool’ is another one they say all the time.  That means ‘good’ too.”</p>
+<p>Steve thought that was useful information—it would have saved him a lot of confusion if someone had explained it early on—but Thomas just said, “What about these ideas?”</p>
+<p>“Can’t tell you,” Tony repeated.  </p>
+<p>“Why is that stopping you?” Steve wondered.  “You don’t usually do what you’re told.”</p>
+<p>“My pysch review is coming up,” Tony answered.  “The good doctor assures me that she can and will pull any number of strings to make sure she gets to do it.”</p>
+<p>Now it all made sense.   “But she couldn’t fail you just for revenge,” Steve pointed out.</p>
+<p>“It’s cute that you think that,” Tony answered.  </p>
+<p>As he so often did, Steve regretted that he’d stopped ignoring Tony.  To Thomas, he explained, “Tony’s on my team, too.   You saw the Iron Man suit?”</p>
+<p>“The flying armor?  Yes.”</p>
+<p>“Which is awesome in every sense of the word,” Tony added.  </p>
+<p>Steve went on, “Another weird thing about now is that it’s normal to get a checkup by a psychiatrist—it doesn’t mean they think you’re crazy.   Everybody who works for SHIELD has to go at least once a year.  More if you’ve had a traumatic experience.”</p>
+<p>“I thought she might be one of those,” Thomas said.  </p>
+<p>Tony glanced up again.  “She didn’t tell you?”</p>
+<p>“No,” Thomas told him.  “She just said she was a doctor.  And asked a lot of strange questions.”</p>
+<p>“Did she ask you about your war trauma?” Steve asked. </p>
+<p>“I don’t have a war trauma,” Thomas said.  </p>
+<p>“I bet she thinks you do,” Steve said.  “She thinks I have one.  It’s her specialty.”</p>
+<p>“She thinks <i>I</i> have a war trauma,” Tony added.  “And I wasn’t even in a war.  And <i>anyway</i>, not identifying herself as a psychiatrist has got to be some kind of professional ethics violation.  JARVIS is looking into it.”</p>
+<p>“Tony,” Steve said.  “Don’t.  She’s perfectly nice, and she was very helpful when I first woke up here.”  Despite her conviction that he had a war trauma.  To Thomas, he went on, “It’ll all work out.”</p>
+<p>“I hope it does,” Thomas said.  “But I’m used to making my own luck.”</p>
+<p>“That’s not a bad way to be,” Steve agreed.  “But I don’t think waking up 90 years in the future—or even just 70—is something anybody can be prepared for.”  </p>
+<p>Thomas looked down into his coffee cup for a while, then changed the subject.  “Do you mind if I smoke?”</p>
+<p>“Oh—you’re not supposed to, on SHIELD property,” Steve said, wondering if anyone had told him about lung cancer yet.  </p>
+<p>“I know, but there’s a place outside—that black…American…gentleman showed me.”</p>
+<p>So Steve took him out on deck—Tony stayed behind, with his phone.  Steve got a little bit of secret amusement out of watching how the staffers reacted to having their secret smoking spot discovered by Captain America: people who knew him mostly from the movies and comics tended to think he was some sort of goody-goody.  A couple of them dropped their cigarettes into the sand bucket and hurried away without making eye contact; the one who stayed said, “Filthy habit, Cap—I’ve been trying to quit.”</p>
+<p>“You probably should,” Steve said.  “It’s not very good for you.”</p>
+<p>Thomas asked the man who had spoken, “Meanwhile, do you have an extra one?  I’m out.”</p>
+<p>“Sure.”  He handed Thomas one from a crumpled package.  “You need a light?”</p>
+<p>“No, that I have.”  Thomas tore the filter off, put the cigarette in his mouth the wrong way around, and lit the torn end with a silver lighter.  “Good thing, too,” he added to the other smoker.  “It’s my lucky one from the war.”</p>
+<p>Steve knew he would only be increasing his goody-goody reputation, but he felt like he had to say, “The filters are supposed to make it a little less bad for your health.”</p>
+<p>“Yes, I already heard about how I’m giving myself lung cancer,” Thomas said.  </p>
+<p>Thomas’s smoking buddy said, “But you don’t want to quit when you’re going through a major lifestyle change.  Too much stress.  That’s why I’ve had so much trouble finding a good time to quit—nothing but stress around here.”  Tossing his butt into the sand bucket, he added, “And I’d better get back to it,” before walking off.</p>
+<p>Leaning against a nearby railing, Thomas said, “You do meet people, smoking.  I found that out where I worked before.”</p>
+<p>“I guess you do,” Steve agreed.  He’d seen that in the war; sharing or asking for a cigarette was a good way to get talking with somebody.  “I never picked up the habit.  Before the…experiment, my lungs didn’t work so good, and after, it didn’t have much effect on me.”</p>
+<p>Thomas just nodded and blew out smoke.  </p>
+<p>He really didn’t seem to be taking advantage of the opportunity to ask questions; Steve decided to move into some of his prepared material anyway.  “One of the things that surprised me the most about people now is how much they swear.  Even the women.”</p>
+<p>“Haven’t noticed that,” Thomas said.</p>
+<p>“They’ve probably been restraining themselves,” Steve said.  “They also think that their generation invented those words.  Tony says ‘fuck’ about fifty times a day, but he almost busted a gut the first time he heard me say it.”</p>
+<p>“I was in the Army,” Thomas said.  “I’ve heard them all.”</p>
+<p>“So was I, but they’ll think you haven’t.”</p>
+<p>#</p>
+<p>Thomas had gathered that Rogers was a soldier.  He stood like one—or like a footman, but he clearly wasn’t one of <i>those</i>—and the crewman calling him “Cap” was another hint.  Now, as the pieces began settling into place, he asked, casually, “Was there a war, where—when—you came from?  The book they gave me starts with 1952.”</p>
+<p>Rogers let out a breath.  “Yeah.  They were kind of…waiting, to tell you about it.  They tried to keep things from me, too, when I first…got here.”  Rogers smiled humorlessly.  “I didn’t like it much.  Uh, yeah.  The war was kind of a big one.  That’s, uh, why the experiment.  They were trying to make super-soldiers.”</p>
+<p>“Suppose that makes sense,” Thomas said.  As much as anything had since his trip through the cyclone-that-wasn’t, at any rate.  “Was England in it, too, or just you Yanks?”  </p>
+<p>“No, England was…in it.  And some other countries.”</p>
+<p>The hesitation was telling.  They’d been “waiting” to tell him about it.  Why?   “We weren’t on opposite sides, were we?”  That might explain why they’d whisked him away from England so quickly, if they were an invasion force…except the war, Rogers’s war, had been decades ago.  </p>
+<p>“No, no.  Same side.  Us, and, uh, France and Russia, were the main ones.”</p>
+<p>That sounded quite familiar.  “Against who?”</p>
+<p>Rogers hesitated again before admitting, “Mostly the Germans.  Plus the Italians and the Japanese.”</p>
+<p>“Bloody hell.”  Them, again.  “Didn’t they have enough?”  Thomas certainly had.</p>
+<p>“Guess not,” Rogers said.</p>
+<p>“Blimey.”  A thought occurred.  “We did <i>win</i>, I hope?”</p>
+<p>“Oh, yeah.  We won.”</p>
+<p>That was something.  And his history book that started in 1952 didn’t say much about Germany.  “They’ve been quiet since then?”</p>
+<p>“Yes—coming up on seventy years, now,” Rogers confirmed.</p>
+<p>“Not a bad innings.”  At least they’d stayed down, the second time.  “But we only kept them down for twenty years, the first time?”  What had been the bloody <i>point</i>?</p>
+<p>“About that, yeah.”  Rogers shifted his weight uncomfortably.  </p>
+<p>Thomas took a last draw on his cigarette before pinching it out.  “Glad I missed that.”   Doing the sums, he realized that he’d likely have been over military age by the new war, even if he hadn’t skipped over it.   But Jimmy might not have been, and Alfred.  Master George would have been just the right age to be shipped off—a fresh-out-of-Eton Lieutenant, like so many Thomas had seen in the trenches.  He wasn’t that much older than they, but they still looked like schoolboys to him.  </p>
+<p>He shook his head.  “There was a cartoon in a trench newspaper—did your lot have those?”</p>
+<p>“More or less,” Rogers said.</p>
+<p>“There was one that had a cartoon—I kept in my cigarette case for a while.  We thought—the top brass were always saying the next big push would end it, but it never did, so it seemed like we might be there forever.  In this cartoon, the caption said it was somewhere around 1940, and there were a couple of blokes in a trench talking about the sons they’d conceived on home leave ought to be showing up to fight any day now.  I suppose if you look at it that way, we ought to be glad we got twenty years of peace in between.”  He’d missed the twenty years of peace, too.  “Was it as bad as ours?”</p>
+<p>“It was…bad in different ways,” Steve said.  “They did learn enough not to let men get stuck in holes in the ground fighting over the same stretch of mud for years on end.”</p>
+<p>That was something, at least.  Thomas wondered what they’d done instead.</p>
+<p>Rogers went on, “But…well, the Germans committed a lot of atrocities, in the countries they conquered.”</p>
+<p>They had in Thomas’s war, too.  “Which countries?”  Had they made it across the Channel?  </p>
+<p>“Mostly Eastern Europe.  They got as far as France, and held part of it.  They never took England,” he added, apparently understanding the direction of Thomas’s thoughts.  </p>
+<p>Thomas let out a breath he hadn’t known he’d been holding.  “Good.”</p>
+<p>“But there was a lot of progress made with aviation in the twenty years in between, so…there wasn’t a lot of bombing from airplanes in your war, was there?”  </p>
+<p>“There was some,” Thomas said warily.  </p>
+<p>“There was a lot, in mine.  A lot of…bombing of civilian targets.  The RAF bombed the Germans at home, and they bombed London pretty hard.”  </p>
+<p>“I don’t mind the first part of that,” Thomas noted.  So they <i>had</i> made it across the Channel.  In aeroplanes.  He imagined England looking like France and Belgium had, a mass of mud and craters.  </p>
+<p>“London…came through it better than a lot of people expected,” Steve added.  “It was sort of a point of pride, that they weren’t going to give in. ‘Keep calm, and carry on,’ was one of the slogans.  And ‘London can take it.’”</p>
+<p>So maybe it hadn’t been as bad as Thomas was picturing.  “That sounds like us.”</p>
+<p>“The other really bad part,” Steve added, “was that the Americans, toward the end of the war, invented a …special sort of weapon.  It could flatten most of a city, and kill everyone in it, with just one bomb.”</p>
+<p>“How the hell did they do that?” Thomas asked.   The bombs they’d had in his war were bad enough.  But he didn’t exactly understand how those worked, either.  “Thank God the Germans didn’t have it,” he added in an undertone.  If they had, London <i>would</i> have been flattened.  </p>
+<p>“It is a good thing they didn’t,” Rogers agreed.  “A lot of people think we never should have used it, but they did, on Japan.  Germany’d already surrendered, but the Japanese were hanging on, and—well, it worked, they surrendered very quickly and we haven’t had a peep out of them since, but it was a pretty horrible weapon.”  </p>
+<p>“No argument here.”  The thought of a city-flattening bomb was fairly terrifying, but knowing it had only been used on Japan—a country Thomas knew almost nothing about and might not have been able to find on a map without several guesses—made it a bit easier to put out of his mind.  </p>
+<p>Not like the bombing of London.  He tried to remind himself that anyone he knew was dead by now either way, so what difference did it make?  But it did.  </p>
+<p>Rogers went on, “And I should warn you, it’s kind of a sensitive subject, because Tony’s dad worked on the project.  He and Tony didn’t get along—I don’t know why not; they’re a lot alike—but he gets offended if you say maybe Howard should have refused to work on it.  Though that might not be a problem that you’ll have,” he added.  </p>
+<p>“It doesn’t seem like a subject that would come up very often,” Thomas agreed.</p>
+<p>“No.  I…talked about it a lot, when I first heard about it, but that’s more of a personal problem.”</p>
+<p>One thing learning about the second war with Germany did for Thomas, was take his mind off how SHIELD and Stark apparently had plans for him they didn’t want to tell him about.  Still, he was glad when Rogers moved on to lighter conversational fare.  “Another thing is,” he said, “they think human beings should have no natural odour at all.”</p>
+<p>“How do they manage that, then?”  Thomas was becoming increasingly comfortable with Rogers—even though he’d let slip that he’d been an officer in his war, it was clear he’d only been a temporary gentleman.  Even allowing for Americaness, his manners and way of speaking marked him out as lower-middle-class at <i>best</i>.  </p>
+<p>“To begin with, they take a full bath or shower every day.  Sometimes twice.”</p>
+<p>“Not everybody,” Thomas objected.  “How’d they get anything else done?”</p>
+<p>“They have hot and cold running water in just about every house,” Rogers explained.   “They think it’s unhygienic not to.”</p>
+<p>“Even poor people?”</p>
+<p>“In America and Europe, yeah.  Some of the other continents, the poorest people don’t, and the really rural ones.  But in New York, even in the <i>tenements</i>, every family has their own bathroom.  I mention that growing up, we shared ours with all the other families in the building, and they think we might as well have lived in a cave.”  </p>
+<p>And that confirmed Thomas’s estimation of his class.  </p>
+<p>Rogers continued, “And there’s this stuff you’re supposed to rub under your arms—deodorant.  It’s a sort of white, chalky stick.”</p>
+<p>“Oh, is that what that’s for?  They gave me some.”  There was a shower in his room, too—an item Thomas had only previously seen in the Army.  It was in a little cubicle along with the toilet; he’d figured out the latter easily enough—the only difference was in how you flushed it—but he hadn’t seen any reason to experiment with the shower.  Perhaps he should—he didn’t want the future-people to think he was dirty.  </p>
+<p>“And they wear a completely different set of clothes every day.”</p>
+<p>That, Thomas wasn’t sure he was willing to do, at least not until he had the means of buying his own proper clothes.  He’d been given some—canvas trousers and some really peculiar shirts, jerseys in bright colors—but he’d only put on the drawers and an undershirt, which he’d worn under his own shirt, waistcoat, and jacket, like a civilized person.  </p>
+<p>Rogers also told him about private life in the future.   “Almost everyone does—you know, it—before they’re married.  If you have a steady girl, it’s just about expected, and it’s not that unusual to go right to bed with somebody you just met.  Tony does it all the time.”</p>
+<p>That, at least, was something he didn’t have to worry about.  “There were always men like that, though.  And girls like that,” he added, thinking of Ethel.  Her experiences as a prostitute may have turned her off the idea, but before that she hadn’t been particularly reluctant.  </p>
+<p>“Yeah, but now nobody looks down on the girls for being like that.   Much, anyway.  Natasha—she’s on our team, too—says it’s insulting to women to assume they don’t like sex just as much as men do.”</p>
+<p>Thomas tried to wrap his head around that one.  “So it’s insulting to say they’re <i>not</i> promiscuous?”</p>
+<p>“Not exactly.  But they don’t really agree on how much is too much, or how fast is too fast.”</p>
+<p>After sharing a few more details like that, Rogers—“Call me Steve”—had left, and Thomas went back to his room.  The next morning, he was once again taken to Dr. Hughes’s consulting room, but when he got there, Mr. Stark was already there, as well as a black-or-African American fellow dressed in black leather and sporting an eye-patch.</p>
+<p>“Thomas,” Dr. Hughes said.  “You already know Tony, and this is Director Fury; he’s in charge of SHIELD.”</p>
+<p>“Sir,” Thomas said, as neutrally as he could manage.  Somehow, he’d expected that the <i>officers</i> in this outfit, at least, would be white.  Though he supposed “Read This First” had warned him.  </p>
+<p>“Please, have a seat,” Dr. Hughes said.  Thomas didn’t think he should—the officer was still standing up, though he was resting his backside against the doctor’s desk—but he decided, on balance, it was best to do as he was told.  Once he was seated, she went on, “I understand you’re concerned about what finding a career and making a life for yourself in the 21st century.”</p>
+<p>“Yes,” Thomas said, wondering if he ought to be calling her “ma’am.”  Doctors were officers, too.  But he wasn’t exactly enlisted, was he?  Gentleman of leisure, was Thomas Barrow.  </p>
+<p>“There’s no need for you to make any major life decisions just yet,” she said with a smile, “in fact, I’d advise waiting until you’re a bit more settled to decide anything.  Right now, you might not have a clear picture of the choices available to you.”</p>
+<p>This was about the plan Stark had mentioned yesterday, Thomas realized.  Which he and the good doctor disagreed about.  He ought to tread carefully.  “I think I’d feel more comfortable knowing I had some choices,” he said.  </p>
+<p>“Of course,” she said.</p>
+<p>He waited.  </p>
+<p>“Well.  The idea that I and my colleagues recommend is that you stay with us for a few more weeks, until you begin to feel a bit more acclimated.  Then you can begin becoming integrated into the community—we’d provide housing and financial assistance, and then a bit later you could train for a new career.”</p>
+<p>“A new career,” Thomas repeated.  At his age?  He’d have to start at the bottom of whatever it was.  </p>
+<p>“Yes.  You see, there aren’t very many households that keep domestic…help anymore.”</p>
+<p>Things had been going that way after the war—maybe they’d gone even further that way after the second war that Rogers had told him about.  He nodded.</p>
+<p> Dr. Hughes went on, “You could look into something in a related service field—hotel or restaurant work might draw upon your existing skills—or take the opportunity to learn something new.  You’ve shown an interest in the medical field, for instance.  Your previous training is quite…dated, but once you’re up to speed, you could go to college and become a nurse or medical technician.  It’s not unusual for men to be nurses these days,” she added.</p>
+<p>Between nurse and <i>hotel waiter</i>—like bloody <i>Alfred</i>—he supposed he’d prefer the former.  Maybe.  “How long would that take?  The…college?”  That didn’t sound quite right to him—the Americans called University “college,” and surely you didn’t need that to be a nurse?</p>
+<p>“Well, before you could start, you’d need a certificate indicating that you’ve completed secondary education.”</p>
+<p>“I haven’t got one of those,” Thomas noted.  The schoolmaster had written him a reference, but he’d lost track of it ages ago.  “I did go to school, all the way up until I was fourteen, but I couldn’t prove it.”</p>
+<p>“No, you’d have to earn one by examination,” Dr. Hughes explained.  “The details vary depending on whether you decide to settle in the US or Britain, but in both places you’d need to pass exams on mathematics, reading and writing, and science.  The US requires social studies—history, geography, and civics—too.”</p>
+<p>“I do know how to read and write,” Thomas pointed out.   “And I got as far as geometry in Maths, but I’ve forgotten a lot of it.”</p>
+<p>“Most people have, if they take the tests later in life,” Dr. Hughes said.  “There are self-study materials and classes you can take.  The reading and writing shouldn’t be much of a problem, but in the examination, you read passages and answer questions about them, and write a short composition on a given topic.  Lack of cultural familiarity with the topics might be an obstacle, at first.”</p>
+<p>“And I suppose the science has changed a lot.  And the geography.”  They had redrawn the map of Europe after his war; the history book they’d given him hinted it had been done several more times since.  “And all the new bits of history.”</p>
+<p>“Yes.  So it may take several months of study before you’re ready for the examination.”</p>
+<p>Several months.  But if “housing and financial assistance” meant he’d have his room and board provided for him while he worked at it, he supposed that might not be too bad.  “And then the nursing…thing?”</p>
+<p>“There are two and four year programs.”  </p>
+<p>Two or four <i>years</i>?  His Army training had only been a few weeks.  Even if they were willing to house and feed him for that long, he’d go mad.  “Uh…and how much schooling do they want for a hotel waiter?”</p>
+<p>“That you might be able to start immediately after you’ve completed the equivalency tests,” she said.  “But to advance in the career, an additional degree in business or hotel-restaurant management would be helpful.”</p>
+<p>Bloody hell.  “And those take….”</p>
+<p>“There are two- and four-year programs,” she repeated.  “You could study part-time while you work, but that takes longer.”</p>
+<p>“I see.  What about digging ditches?  Do you need a degree for that?”</p>
+<p>Stark spoke up.  “No, for that you need a heavy equipment operator’s license.  And a GED.  It’s, uh, not done by hand,” he explained.  “Can I tell him my plan now?” </p>
+<p>The question seemed to be aimed at Director Fury, who said, “Dr. Hughes?”</p>
+<p>“Those aren’t the only opportunities available to you,” she said.  “There are many other careers, perhaps some you’ve never even dreamed of.  But my recommendation is that, when you are ready to leave here, you begin studying for the secondary schooling equivalency, and then choose a program of continuing education.  <i>Stark</i> has a different idea of what would be best for you.”</p>
+<p>Stark bounced up out of his chair.  “Yes.  Like Dr. Hughes said, most people can’t afford live-in domestic staff anymore.  Some of us can.  Like me.  And it turns out I could use an under-butler, if you want the job.”</p>
+<p>Thomas had suspected Stark of being some variety of toff, but hadn’t considered him in light of a prospective employer before.  “That’s very kind of you.”</p>
+<p>“It’ll be great,” Stark said.  “You get a generous salary, complete medical and dental, retirement plan—all the usual stuff.  Probably wouldn’t be a bad idea to get the GED—the secondary equivalence thing she was talking about—but you can study for it in your spare time.”</p>
+<p>Thomas liked that idea a lot better than he did the notion of living on charity for however long it took to be qualified to start at the bottom as a hotel waiter.  Or a nurse.  “What, uh, what sort of a house is it, sir?  And how many staff?”</p>
+<p>“Big house,” Stark said.  “Small staff.  It’s, uh…a lot of things are automated.  There’s the butler, Jarvis.  And two others.  Plus some…cleaners, and hopefully you.”</p>
+<p>That didn’t sound so bad.  “How many in the household, if I may ask, sir?”  If he was as much of a libertine as Rogers said, there probably wasn’t a wife or children.</p>
+<p>“Six. The whole team—Steve’s and my team—live there.  So that’s me, Steve, Bruce, Clint, Natasha, and Thor.  Everyone has their own apartments; I’m thinking you’d mainly be responsible for the common areas.”</p>
+<p>Thomas wasn’t sure what that meant, exactly—but he supposed six wasn’t unreasonable.  For a butler, and underbutler, two footmen, and some cleaners.  He noticed Stark hadn’t said anything about a cook, but maybe he just hadn’t mentioned her.  Or perhaps the butler cooked.</p>
+<p>Taking a slip of paper from a pocket, Stark handed it across to him, saying, “Salary quote.  Top number is in today’s US dollars, which probably doesn’t make much sense to you.  Bottom two are adjusted for inflation and converted into British pounds—it works out a little bit differently depending on which you  do first, the adjustment or the conversion.  But it should give you the idea.”</p>
+<p>It did, and it added up to a considerable increase over what Thomas had gotten at Downton.  “And is it a live-in position, sir?”  If he had to get room and board out of it, that would account for the difference. </p>
+<p>“Oh, yeah.  There’s a nice apartment that goes with it.”</p>
+<p>“When would you like me to start, sir?”</p>
+<p>#</p>
+<p>“Hey Steve,” Tony said, turning up in the gym just as he’d come back from his morning run and was settling in for some work on the heavy bag.</p>
+<p>“Yeah?”</p>
+<p>“You know how Thomas is coming to work here?”</p>
+<p>“Yeah.”  All yesterday afternoon and evening, Tony had been bouncing off the walls bragging about his new time travelling butler.  </p>
+<p>“It occurs to me that, when I was offering him the job, I may have said one or two things that were, in context, slightly misleading.”</p>
+<p>Steve caught the bag’s backswing, stilled it, and turned to face Tony.  “What did you lie to him about?”</p>
+<p>“Technically, it wasn’t a lie.”</p>
+<p>Steve just looked at him.</p>
+<p>“OK.  Well.  He asked about what other staff I had.  So I told him about JARVIS , and U and DUM-E, and the cleaning bots.”  </p>
+<p>“Good….”</p>
+<p>“The thing is, I never actually <i>said</i> that they weren’t human beings.  So he might have assumed they are.”</p>
+<p>Steve closed his eyes briefly.  “You know he’s probably thinking U and DUM-E are two Chinese guys.”</p>
+<p>“Actually, I didn’t mention their names.  Just JARVIS’s.”</p>
+<p>“You thought you’d just <i>spring</i> them on him?” Steve asked.  </p>
+<p>“I thought if I made it sound too weird, he’d say no,” Tony explained.   “But you’re absolutely right; we shouldn’t spring it on him.”</p>
+<p>“I agree.”</p>
+<p>“And you guys really seemed to hit it off the other day.”</p>
+<p>“Tony….”  Steve knew what was coming.</p>
+<p>“And you like JARVIS and the bots, now that you’ve gotten to know them.”</p>
+<p>Steve didn’t answer.  He was going to make Tony actually ask, in words.</p>
+<p>“So I was thinking, maybe you could explain everything to him.  Just so he knows what to expect when he gets here.”</p>
+<p>“You were thinking that,” Steve said.</p>
+<p>“Uh-huh,” said Tony brightly.  “I bet he’d like that.  Having the AI butler and the robots explained by somebody else from the past.  I might not be able to dumb—to make it clear enough.”</p>
+<p>Shaking his head, Steve turned back to the bag.  “Let me know when.”</p>
+<p>#</p>
+<p>Thomas sat at a table in the mess, looking at a magazine.  One of the crewmembers—Technical Specialist “Call me Jean” Ames—had lent it to him because it had an article on his new employer.  Well, he supposed it could be called an article—there didn’t seem to be more text than would make up a paragraph, though it was spread over several pages.  </p>
+<p>He wondered, sometimes, if the future-people didn’t read.  This magazine was the first printed matter he’d seen, other than the materials prepared specially for him and Steve Rogers, and it was mostly pictures, all in color and most of them shocking.</p>
+<p>The one his eye kept returning to featured Mr. Stark, bare-chested, standing between two women in what he eventually decided must be bathing-dresses, since all three were posed in front of a swimming bath.  Mr. Stark wore only drawers—and very brief ones at that—which clung tightly, exposing the bulge of his…person.  The women’s costumes consisted of no more fabric than his, though it was disposed differently across their bodies.  </p>
+<p>It was the second-most obscene thing he’d ever seen in his life—the first being a French postcard which was the prized possession of one of his fellow orderlies in the war, featuring a women dressed only in stockings.  Thomas couldn’t believe he was sitting here looking at it in <i>public</i>, nor that it had been lent to him by a woman.    As far as he could tell, the publication was not intended as pornography—it seemed to be mostly a film-star magazine, but also had items on singers, something called a “TV Chef,” a duck that had been fitted with a prosthetic leg, and a woman who, after being operated on for a form of cancer that ought to have been unmentionable in polite company, had developed a line of skin creams.  </p>
+<p>The feature on Mr. Stark celebrated the occasion of his being awarded the title “Sexiest man alive.”  Thomas was not a complete stranger to film star magazines’ celebrating the stars’ sex appeal, but they usually euphemized it as “It” or, at worst, “S.A.”  </p>
+<p>As far as his future employer’s habits, he could have wished for the article to be more informative.  When he did manage to tear his eyes away from the obscene photograph, he read that Mr. Stark was one of the richest men in the world and owner of “Superstar tech company Stark Industries.”  What exactly the company made or did was not specified.  Other photographs showed Stark in, variously, his flying suit of armour, a rather sharply-cut business suit with no necktie, a dinner jacket (at a film premiere, in the company of another scantily-dressed woman), and in an undershirt and workman’s trousers (leaning over the bonnet of what Thomas eventually decided must be an automobile, holding a wrench and artistically smudged with motor oil).  The dinner jacket photograph was certainly the most <i>appropriate</i>, but he found his eye most drawn—after the swimming costume one—to the photograph with the car.  </p>
+<p>  In all of the photographs, the glowing blue pendant-or-something was plainly visible, either through his clothing or…not, in the case of the poolside image.  That photograph made clear that it was not suspended on any kind of chain—in fact, it seemed to be attached directly to the skin of Mr. Stark’s chest, though Thomas was at a loss to imagine how or why.  The remaining text—nearly as skimpy as the bathing costumes—shed no light on the subject, though it did identify Mr. Stark as a “playboy,” “philanthropist,” “MIT alum” and “Avenger.”  Thomas felt that he fully understood two and a half of those descriptors—playboy and philanthropist were clear enough, and “alum” was probably an abbreviation for “alumnus.”  “MIT” might, perhaps, be a school or university.  As for “Avenger,” he knew what the word meant, but there was no hint given as to what Mr. Stark avenged, or why it was important.  </p>
+<p>Giving up on the subject for the moment, Thomas turned his attention to the feature that displayed the runners-up for the “Sexiest Man Alive” title.  After some surreptitious consideration, he was forced to conclude that the judges had chosen fairly, though his future employer had faced stiff competition.  He also wondered where more magazines of this type might be obtained, and if it would look funny for a man to buy one.  </p>
+<p>He flipped hastily back to the article on Mr. Stark when Rogers joined him at his table.  Unfortunately, that put the swimming costume photo right where he couldn’t avoid looking at it.  Perhaps he should have pretended to be reading about the duck.  </p>
+<p>“Reading up on Tony, I see,” Rogers said cheerfully.</p>
+<p>“Yes.  Er.  One of the crewwomen lent it to me.”  He wondered if he ought to call Rogers “sir” now.  He was one of the household at Thomas’s new place.  But—well, he was sort of like <i>Branson</i>, wasn’t he?   And Thomas hadn’t started his job yet—they had decided on a week from today, so as to give Dr. Hughes a little more time for her acclimatization plans.  </p>
+<p>Rogers glanced at the magazine.  “What is that, People?  I know it doesn’t look like it, but it’s a perfectly respectable magazine.”</p>
+<p>“What is a ‘supermodel’?” Thomas asked.  That was how the two women in the improbable bathing dresses were described; he could at least pretend to have been looking at them.</p>
+<p>“A model is a woman who has her picture taken for a living,” Rogers explained.  “’Super’ means she’s famous for it.”</p>
+<p>“I see,” Thomas said, though he wasn’t sure he did.  </p>
+<p>“You won’t be seeing those two hanging around the house,” Rogers went on.  “Well—that’s the Malibu house, anyway, I think.  There are always a lot of models and movie stars at Tony’s parties, but they’re not really close friends.”</p>
+<p>Thomas nodded.  He was glad of that, at least.  “How many houses does he maintain?”</p>
+<p>“At least three,” Rogers said.  “Malibu, the Tower in Manhattan, and the family place on Long Island.  He never goes to the Long Island one.  There’s a place in Tuscany he goes, too, but he might rent that one.  I’m not sure.”</p>
+<p>Three or four houses was not completely unreasonable, for an American millionaire—Lord Grantham had never maintained more than two, Downton and the London house, but Lady Grantham’s American family had three.  “I’m not sure he said which one I’ve been engaged to work in.”</p>
+<p>“The Tower,” Rogers said.  “Stark Tower, but he’s thinking of changing it to Avengers Tower.”</p>
+<p>“What…does ‘Avenger’ mean something different now?”</p>
+<p>“Oh—yeah, it’s the code name for our SHIELD team.  The Avengers Initiative.  I don’t really know why it’s called that.”  </p>
+<p>“I thought code names were usually…secret,” Thomas pointed out.  “It’s in this magazine.”</p>
+<p>“Yeah.  Tony doesn’t really…do secret.”   Changing the subject swiftly, he went on, “So you’re finding out a little bit more about Tony and all of us before you come.  That’s good.  There are a couple of things I thought I’d better fill you in on.  So you know what to expect.”</p>
+<p>“Yes?”  There was something Thomas didn’t quite like about Rogers’s tone.  It sounded like he was about to be warned off—and considering he hadn’t done anything since he’d come to this century, that seemed a little unfair.  </p>
+<p>“Tony told you about, uh, Jarvis.  And the others.”</p>
+<p>Thomas nodded.  “He did.” </p>
+<p>“Yeah.  He left out one important detail.”</p>
+<p>Having no idea what it could possibly be, Thomas waited.</p>
+<p>“They aren’t exactly …<i>people</i>.”</p>
+<p>“What?”  He wouldn’t have been surprised, at this point, to learn that the staff was made up entirely of Esquimaux or African Pygmies, or that the butler was a woman, but he wasn’t sure what they could but if not <i>people</i>.  Unless… “Are they spacemen, then?”</p>
+<p>“No,” Rogers said.  “Though that’s not a bad guess.  And actually, Thor…I’d better tell you about the team, next.  No, the…staff, are…have you ever heard of robots?”</p>
+<p>“No,” Thomas said.  The word didn’t ring even the faintest of bells.  </p>
+<p>“I had a little bit of an advantage, there, I guess,” Rogers said.  “There were stories about them, when I come from.  Sort of…mechanical people.”</p>
+<p>“Oh,” said Thomas.  “Like clockwork?”  He thought he’d seen a children’s story or two, about clockwork toys coming to life.</p>
+<p>“Sort of.  Only there’s…electricity involved somehow.  They aren’t, uh…well, mostly they aren’t exactly real.  There are movies and stuff about robots that look like human beings, and think and feel like human beings.  And Tony…I think Tony watched a lot of those movies when he was a kid.  And then when he was a…slightly bigger kid, he built two of his own.  But they don’t look like people—they’re just sort of…arms on wheels.  Here,” Rogers added, taking a small pad of paper out of his jacket pocket and sketching quickly, before sliding the paper across the table to him.</p>
+<p>The sketch looked like a cantilevered lamp, attached to a rolling platform.  “This is…one of my coworkers,” he said, thinking—hoping—that Rogers must be having a joke on him.</p>
+<p>“That’s DUM-E.  The other one’s called U; he looks pretty much the same.  They’re both about so tall.”  He held out his hand at shoulder height.  “They mostly hang out in Tony’s workshop.  They’re kind of…well, it’s hard to say how smart they are.  Tony designed them to be able to learn, and they have personalities.  Sort of.  At least he thinks they do.”</p>
+<p>So either his prospective employer was insane, or he was about to have two colleagues who were thinking, feeling, arms on wheels.  Lovely.  “He said there were Jarvis, two others, and some cleaners,” Thomas remembered.  “These are the two others?”</p>
+<p>“Yes.  The cleaners are also robots.  Little guys, mostly.  He has carpet sweepers, and floor scrubbers, and some that are supposed to do the dusting, but they tend to break things.  They come out of hatches in the wall and roll around on the floor, on their own, cleaning things up.  Those ones don’t have names.”</p>
+<p>That prospect didn’t bother Thomas quite so much—he never paid much attention to housemaids anyway, so what difference did it make if they were replaced by electrical-clockwork things?  As long as he wasn’t the one scrubbing the floors, he didn’t mind.  “And Jarvis?  He’s a robot as well, is he?”</p>
+<p>“Not exactly.  He’s an Artificial Intelligence.  Sort of like…well, it’s not much like anything, really.  Have you ever heard of a calculating engine?”</p>
+<p>“No.”</p>
+<p>“I didn’t either, before I met Tony.  He says they were first invented in the 19th century, but apparently nobody was interested.  They’re sort of…machines that can do arithmetic.  In <i>my</i> war, they used them to break German codes.  Then after the war they went on making ones to do other stuff.  Different kinds of calculations, storing information, retrieving it, comparing it….”</p>
+<p>“Oh,” Thomas said.  “Computers.  I’ve just gotten to them in my book.”  He didn’t entirely understand what they were, or why they were so important, but he hadn’t finished the chapter yet.  “Miss Ames says they use some to steer this ship.”</p>
+<p>“Yeah, they do.  Jarvis is a little more advanced than that one.  He can really…think.  You’ll—when you meet him, he’s just a voice that comes out of the walls.   But you can ask him anything.”</p>
+<p>“And he’s a butler,” Thomas said.  He was skeptical of how a voice that came out of the walls could be a butler.</p>
+<p>“Sort of.  I mean, Tony says he is.  And he based his personality on his family’s real butler from when he was a kid.  And he does…stuff.  I mean, if you need something from the store—any store—you just tell him what and how fast you need it, and he orders it.  And he keeps track of everything Tony owns and where it is, in which house.  If you want to get a message to somebody else in the house, you just tell him and he tells them.  Like that.  And he sends out the cleaning robots, and tells you about phone calls and visitors.  I mean…I don’t really <i>know</i> what a butler does, except what I’ve seen in movies, but he seems kind of…butler-ish.”  </p>
+<p>“Ordering and inventorying, organizing the other staff, and announcing visitors are big parts of it,” Thomas admitted.  “I take it he doesn’t wait at table.  Being a voice in the walls.”</p>
+<p>“Right.  So I bet he’ll be able to come up with plenty of stuff for you to do,” Rogers added.  “Since he doesn’t have hands.  Or any other body parts.”</p>
+<p>Well, at least that meant he wouldn’t have to deal with an immediate superior who walked around half-dressed.  Granted, the two robots appeared to roll around entirely unclothed, but since they looked like lamps, Thomas didn’t think he would be bothered by that.  </p>
+<p>Rogers went on, “I know it sounds weird.  But Jarvis is pretty easy to get used to, and the other guys are…well, it helps to think of them sort of like dogs.  They’re real friendly, and they try to do what Tony tells them, but they don’t always understand.  So that’s…I mean, if you still want the job, that’s what you’re getting into.”</p>
+<p>“I’m sure I can manage,” Thomas said.  It was better than staying on this ship until Dr. Hughes was ready to let him go, and then going to school for God knew how long.  The situation had seemed almost too good to be true—Mr. Stark’s obvious eccentricity not seeming like quite a severe enough defect to make up for all of the other aspects that seemed entirely suitable.  Now that he knew what the catch was, he almost felt better about it.  “But thank you for telling me.  I’m sure there will be plenty of other surprises in store.”</p>
+<p>“Yeah,” Rogers said.  “You never know what’s going to happen next, at the Tower.”</p>
+<p>#</p>
+<p>“Oh, good, you’re all here,” Tony said, coming into the TV room on the Avengers’ common floor.  </p>
+<p>“You said that it was a house meeting,” Thor pointed out.</p>
+<p>Natasha added, “Since you usually have to be dragged in kicking and screaming when Steve calls one, we thought we’d come for the novelty value.”</p>
+<p>That was unfair; he’d only actually kicked and screamed once.  After that he’d decided to submit with quiet dignity when Natasha showed up in his workshop and started counting to three.  “As many of you know,” he went on, “our new, time-traveling butler is coming next week.”</p>
+<p>“We know,” Bruce said.  “You were singing about it at dinner last night.”</p>
+<p>“I particularly liked the dance,” Natasha added.  </p>
+<p>Tony began to realize that Steve had a point about comments from the peanut gallery not being funny when one was trying to conduct a house meeting.  “Before he gets here, I wanted to go over a few points.  One.  Just because we have an under-butler now—and he has hands—does not mean we all have an excuse to act like pigs.”</p>
+<p>“So we should avoid things like, say, leaving our socks on the coffee table,” Steve suggested.  </p>
+<p>“Or taking bowls of cereal into our workshop and forgetting to eat them, or return them to the kitchen, until they’ve turned into mold-infused cement,” Bruce offered.</p>
+<p>“Or becoming so inebriated that we fail to recognize when the lid of the toilet is closed,” Thor said.</p>
+<p>“That was <i>one time</i>,” Tony protested.  “And you guys do stuff too.  Bruce, you’re always leaving your…disgusting baskets of twigs and goop on the counter.”</p>
+<p>“You mean my tea leaves?”  Bruce asked.</p>
+<p>“My description was much more evocative,” Tony answered.</p>
+<p>“…fine.  I’ll be careful not to do that,” Bruce said.  </p>
+<p>“Good!  And I’m sure we can all be a little bit more careful about things like that.  Also.  Speaking of the kitchen.  Natasha, as much as we all love it when you come down for a midnight snack in a big t-shirt and panties, maybe for the next couple of weeks or so, you could put something else on.  Just so we don’t shock the guy from 1921.  I’ve ordered you a robe.  And then I sent that one back and ordered you a less sexy robe.  Should be here Monday.”</p>
+<p>“Seriously, Stark?” Natasha asked.</p>
+<p>“No, I didn’t send back the sexy one; I figured I’d save it for your birthday.  Or mine.”</p>
+<p>“You never told Natasha to put on clothes for <i>me</i>,” Steve pointed out.  </p>
+<p>“You toured the country with an elite team of showgirls,” Tony reminded him.  “If you hadn’t already seen all there is to see, you needed all the help you could get.”</p>
+<p>“Is everyone else supposed to dress up to avoid offending the new guy, or am I the only one who has to act like I’m ashamed of my body?” Natasha asked.</p>
+<p>“Nobody should be ashamed of their body!  We all have great bodies.  I enjoy looking at all of them,” Tony said.  </p>
+<p>“Ew,” said Bruce.  </p>
+<p>“But now that you mention it, maybe the rest of us should try not to walk around in our boxers, either.  Down here, I mean.  He’s going in the guest apartment on this floor, so maybe just make this whole area a pants-mandatory zone.”</p>
+<p>“Tony,” Steve said.  </p>
+<p>“Yes?”</p>
+<p>“I seem to remember a time, not too long ago, where someone proposed a ‘pants required’ dress code for team meals.  And I recall someone else goose-stepping and calling the party of the first part ‘mein fuehrer.’  JARVIS, could you access the security recordings and remind us who those two people were?”</p>
+<p>“Certainly.  It appears that the party of the first part, as you put it, was yourself, Captain Rogers, and the party of the second part was none other than Mr. Stark.”</p>
+<p>“Just checking,” Steve said.  “And—seriously, Tony, I think you’re probably right, about none of us coming into the common areas in our underwear.  But it’s probably even <i>more</i> important that you try not to openly leer at him.  Or even make jokes about leering at him.”</p>
+<p>“Oh, is the new guy hot?” Natasha asked.</p>
+<p>“Very,” said Tony.  “And I was coming to that—you’re getting my agenda items all out of order.”  </p>
+<p>“You made an agenda?” Bruce asked. </p>
+<p>“Yes!” He took out his phone, brought up his notes for the meeting, and showed it to Bruce.  </p>
+<p>Bruce took the phone, moved it slightly further away from his face, and read, “‘House meeting Agenda.  1.  Not acting like pigs.  2.  Natasha wearing clothes.  3.  Keeping the noise down.  4. Not telling him I smoke pole.’”  Bruce looked up from the phone.  “Really, Tony?”</p>
+<p>Tony explained helpfully, “Pole is a metaphor for—”</p>
+<p>“We know what it’s a metaphor for,” Bruce interrupted.  Looking back at the phone, he continued, “‘5. Questions??’  There are two question marks,” he added.  “Tony, like Steve said, I think these are all really great points.  I’m just…surprised you’re the one making them.  What brought on all this…concern?”</p>
+<p>“Do you have <i>any</i> idea how hard it is to keep a butler when you’re…well, <i>me</i>?  The year before I got JARVIS up and running, I went through—how many was it, J?”</p>
+<p>“Seven, sir.  Eight if you count the nanny that then-Captain Rhodes sent as a joke.”</p>
+<p>“Yeah, she actually lasted longer than some of the butlers,” Tony mused.  “See,” he explained to the others, “People tend to be drawn to the idea of being a butler because they like having things just so.  And I, on the other hand, am….”</p>
+<p>“A one-man force for chaos?” Bruce suggested.  </p>
+<p>Tony would have put it differently—something about the pace of his genius appearing incoherent to lesser minds, but…. “Yeah.  That.”  </p>
+<p>“I thought you just thought a time-traveling butler would be cool,” Clint spoke up, fulfilling his quota of one contribution per meeting.  </p>
+<p>“That too, <i>obviously</i>,” Tony said.  “But I’m thinking, the time-travel thing is going to cause so much static, that by the time he realizes how much of the weirdness is just <i>me</i>, he’ll be used to it.”  He paused.  “Also, he’s really hot.  Most butlers now-a-days, either they’re really old guys, or they look like they ought to be a tennis pro named Skip.  This guy is young and hot, but in a butlery way.”</p>
+<p>“You really need to not say that to him,” Steve warned.  “He probably thinks homosexuality is a sin and a mental illness.  And it could be considered sexual harassment.”</p>
+<p>“I <i>know</i>,” Tony said.  “I’m getting it out of my system.  So, guys?  Can we do these four, simple little things, so we can keep our butler?”</p>
+<p>#</p>
+<p>In the few days preceding his departure from the Helicarrier, Thomas was finally given permission to travel between his quarters and the mess without an escort.  On his first solo expedition, he was surprised to find that what had looked like smoked-glass panels in various corners of the room were now lit up and displaying brightly colored moving pictures.  And making a hell of a racket, competing with one another as one showed a sporting event of some kind, another a newsreel, and a third a cartoon.   Nearly everyone in the room had their eyes fixed to one or another of the screens; one of the crewmen that Thomas knew managed to tear his away long enough to explain that this was television, adding, “Doc Hughes has been making us turn it off when we know you’re coming.”</p>
+<p>Suddenly, the explanation in the Orientation Materials made a great deal more sense.  He had no idea why they had said it was like “radio” with pictures, when it was, quite obviously, cinema with sound, but at least things were beginning to fall into place now.  He did find that his acquaintances among the crew were much less willing to answer his questions when the television was playing, until he worked out that conversation was encouraged only when the picture abruptly changed to a short film about the merits of a particular make of automobile or brand of washing powder.  These short items, while just as informative to Thomas as the main programmes, were apparently advertising matter, and of no interest to anyone else.  </p>
+<p>He took to frequenting the mess at odd hours, when often only one television was playing, or they were all showing the same programme.  When all three were showing something different, he had trouble sorting out which sounds went with the picture he was looking at.  The other seemed to manage, but Thomas supposed it took practice.  </p>
+<p>His study of the Orientation Materials fell by the wayside.  He had worked his way through “History” and dipped into the most relevant bits of “Daily Life” and “Technology,” but he felt he was getting a fair enough idea of “Society” from his study of television.  When he tired of that and wanted to relax, he went back to his room and read a real book.  Rogers, explaining that when he felt out of place, he found it comforting to read or listen to something from his own time that was still enjoyed today, had given him a present of several books that had been published in the early 1920’s and were still in print.  He had a couple by PG Wodehouse, who Thomas knew as a writer of funny little things for <i>The Strand</i>; a murder mystery written by someone called Agatha Christie, who had apparently gone on to write dozens more; a new one by Virginia Woolf; and an American one called <i>The Great Gatsby</i>, which Rogers said defined how many people today thought about the 1920’s.</p>
+<p>One day, as he was nearing the point of frustration with television news, and considering going back to his room to find out just who had killed Roger Ackroyd, a woman approached his table, dressed in what both the orientation materials and television had persuaded him really was considered conservative business attire.  “Thomas?” she asked.  At his nod, she extended her hand.  “I’m Pepper Potts.  CEO of Stark Industries, and Tony’s…friend.”</p>
+<p>“Pleased to meet you,” Thomas said, standing.   He hadn’t done so at first because he’d gathered that men no longer stood in the presence of a lady as a matter of course, but since she was a friend of Mr. Stark and…something or other to do with his company, the gesture seemed warranted.</p>
+<p>“Thanks,” she said, sitting.  “Now, since Tony’s running your employment through the company, there are some HR things to go over.  And I thought I’d just come myself, because—well, I survived being his PA for years.  I might be able to tell you a thing or two.”</p>
+<p>“PA, ma’am?” Thomas asked, then wondered if he ought to have gone with “Miss.”  And if the question was an impertinent one.  Perhaps he ought to have asked about “HR” instead.  Or neither.  </p>
+<p>“Please, call me Pepper.  PA is personal assistant.  Sort of like a personal secretary, but I also ran errands, made sure he got places on time, that kind of thing.  I focus on the company now, and believe me, it’s a lot easier.”  She rummaged in a sort of handbag or briefcase and came out with a folder.  “I have everything in hard copy, since that’s probably easier for you.  Tony already told you about the salary, he said.”</p>
+<p>“Yes.  It’s…generous.”</p>
+<p>“Pay is bi-weekly.  Tony went ahead and set up—well, I’m sure he had Jarvis set up—an account for you at the bank he uses, so we’ll have your direct deposit ready to go in time for your first check, and your cards and everything will be at the Tower when you get there.”</p>
+<p>“Ah,” Thomas said.  </p>
+<p>“Sorry—what part of that did you have trouble with?”</p>
+<p>“Well, I know what a bank is, miss.”</p>
+<p>She explained that his pay would be sent directly to the bank every two weeks.  The “cards and everything” were credit and debit cards, which he’d already read about in “Daily Life,” so he knew—at least in theory—how to use them to buy things or to get actual money from machines that he was assured were quite easy to find.  Thomas signed a form consenting to have his pay handled in this manner.  Next, Ms. Potts discussed his health plan, which he eventually understood was a form of insurance.  Unlike, say, fire insurance, its purpose was not to pay him a lump sum if he ceased to be healthy, but rather to pay the doctor’s bills if he incurred any.  Lord Grantham had always paid the doctor bills for any of the servants who were ill, so there was nothing strange about that to Thomas, though he was left unsure why it had to be explained to him in advance of need and in so much detail.  </p>
+<p>She handed him a brightly-colored leaflet, saying, “This has all the numbers to call if you have questions or to find a provider, but really you can just ask Jarvis.  The second-to-last thing is your retirement plan.”</p>
+<p>The retirement plan, once Thomas understood it, seemed like a terrific idea.  In the system he was used to, he would put money aside towards his eventual old age, doing his best not to lose it to black market speculation or similar misadventure, and when he became too old or sick to work, his last employer might, if he felt like it, provide him with some kind of pension or annuity, the amount—or whether it existed at all—to be determined based on how much the employer liked him and how much cash he had going spare.  If Thomas had been fortunate enough to remain at Downton for his entire career, he thought it likely that the answers to both of those variables would be “not very much.”  Under the Stark Industries plan, they’d put aside a bit of money that came out of the salary he’d been quoted, and another bit extra, every two weeks for as long as he kept working.  The only drawback was that he couldn’t get it out of the bank before he was sixty-five.  Which would at least prevent him from losing it all doing something stupid.  “And I still get it even if I’m not working for Mr. Stark anymore by then?” he asked, just to make sure he’d understood correctly.</p>
+<p>“Right.  It’s 100% portable,” Ms. Potts said.  So he signed his name agreeing to that, and then she said, “The last item is the sign-on bonus.  It comes as Stark Industries stock, currently valued at….”  She quoted a figure that would have accommodated Downton’s ordinary household expenses for the better part of a year.  </p>
+<p>“What, ah, what’s that for?” he asked.</p>
+<p>“It’s standard for anyone who works closely with Tony.  We call it a sign-on bonus, but you have to make it through your first 30 days—calendar days—before you can collect it.  It’s meant to sort of…encourage you not to run away in terror the second day.”  </p>
+<p>“Does that happen often?”</p>
+<p>“Let me put it this way.  Of his last twelve PAs, three collected their sign-on bonus.  Two of them quit on day 31, and the third was me.”</p>
+<p>“Ah.”  For the first time, Thomas began to wonder if he had made a mistake.  He’d thought Mr. Stark seemed all right—mad, but all right—but he was not the world’s best judge of character.  “Is he violent?”</p>
+<p>“What?  No, God no.  I mean, unless you’re trying to take over the world or a terrorist or something.  He’s just, um…well, he’s very smart.”</p>
+<p>Thomas knew that, to Americans, “smart” meant “clever,” not “well dressed.”  He nodded, not quite understanding why that was a problem.</p>
+<p>“Ever since he was a teenager, he’s always been the smartest person in the room, and the richest person in the room, and usually the most attractive person in the room.  And that isn’t enough for him.  He’s always doing something crazy to get attention.  And he doesn’t always think of other people—don’t get me wrong, he can be very sweet when he does make an effort…but a lot of the time he doesn’t.  He always has some kind of scheme or project that’s more important.  I mean, case in point.  The night he found you, he was in London getting an award for helping refugees.  But he decided to fly out and look at the Temporal Disturbance—which for all he knew could have <i>killed</i> him—because he was bored.   That’s the kind of thing he does.  He doesn’t think things through.”</p>
+<p>Still at a loss as to why any of that made Mr. Stark a particularly difficult employer—Thomas was quite used to not being thought of, and to the whims of the rich—he asked, “Is he likely to suddenly decide he doesn’t need an under-butler anymore?”</p>
+<p>“No—I mean, I’m sure he’ll lose interest in the novelty of a time-traveling butler before long, but he won’t fire you.  It’s just hard to keep up with the constantly changing enthusiasms.  And when he asks you to do something—like plan a party, or schedule a trip, or look for a racehorse he can buy—you never know whether he’s going to call you every fifteen minutes asking for updates, or disappear into his workshop for three days and forget about the whole thing by the time he comes out.”  She mused, “We still have the racehorse, but he’s never even looked at it.”</p>
+<p>Thomas had a vision of a dining room full of dinner guests, and Mr. Stark either never showing up at all, or showing up in his undershirt and smudges of motor oil.  He wasn’t sure which would be worse.  “I can see how that would be…frustrating.”</p>
+<p>“That’s exactly what it is.  He doesn’t mean to be infuriating.  He just is.  But,” she added on a more hopeful note, “you’ll be running the house—helping Jarvis run the house—for all of the Avengers.   That should dilute the—Tony effect.  If you put a lot of effort into something for the team, <i>someone</i> will appreciate it.  Or Steve or Bruce will at least pretend to.”</p>
+<p>Yes—they could explain Mr. Stark’s absence or unusual mode of dress to the hypothetical dining room full of guests.  Thomas wouldn’t have to.   “I expect I’ll manage well enough, then.”  Really, as long as Mr. Stark wasn’t the sort of man who threw boots at his valet or pots of jam at his butler when thwarted, he expected he’d be all right.</p>
+  </div>
+  <!--/main-->
+
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/1147421/chapters/2324501#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="LFvG9bSSMr_cl1g7a4uSymlQU47fLW7FqEeTdnW4Ou19sOEBCrewtcRJK7hIwA_PHpnlUcPiC4FkbkoWVrXW5w"/>
+          <input value="1147421" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=2324484">Comments (54)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/Ellana42">Ellana42</a>, <a href="/users/TreesAndCheese">TreesAndCheese</a>, <a href="/users/redowl">redowl</a>, <a href="/users/PaladinOfChaos">PaladinOfChaos</a>, <a href="/users/Coastal_Shell">Coastal_Shell</a>, <a href="/users/Patroclus07">Patroclus07</a>, <a href="/users/Nati_Snapdragon">Nati_Snapdragon</a>, <a href="/users/sunflower1853">sunflower1853</a>, <a href="/users/Marynn">Marynn</a>, <a href="/users/athenamacg">athenamacg</a>, <a href="/users/whydean">whydean</a>, <a href="/users/marvel_and_more">marvel_and_more</a>, <a href="/users/MadamKira">MadamKira</a>, <a href="/users/Butterfly_gal">Butterfly_gal</a>, <a href="/users/Jayden_The_Enby_Boi">Jayden_The_Enby_Boi</a>, <a href="/users/lover_of_blue_roses">lover_of_blue_roses</a>, <a href="/users/Mairon">Mairon</a>, <a href="/users/DorisS">DorisS</a>, <a href="/users/aro_through_the_heart">aro_through_the_heart</a>, <a href="/users/GabyGBlondie">GabyGBlondie</a>, <a href="/users/puduhegepa">puduhegepa</a>, <a href="/users/Tharapita">Tharapita</a>, <a href="/users/BirchWillow">BirchWillow</a>, <a href="/users/MomoMai">MomoMai</a>, <a href="/users/amusednow">amusednow</a>, <a href="/users/Athena16">Athena16</a>, <a href="/users/flawedamythyst">flawedamythyst</a>, <a href="/users/Clymenes">Clymenes</a>, <a href="/users/Azley512">Azley512</a>, <a href="/users/kdorian">kdorian</a>, <a href="/users/Asheron25">Asheron25</a>, <a href="/users/Eunoiapricity">Eunoiapricity</a>, <a href="/users/vvirago">vvirago</a>, <a href="/users/KarminaaTylor">KarminaaTylor</a>, <a href="/users/alexaneko">alexaneko</a>, <a href="/users/Eleyben">Eleyben</a>, <a href="/users/sutaraito_kamado">sutaraito_kamado</a>, <a href="/users/strawberrydearth">strawberrydearth</a>, <a href="/users/IwanIskander">IwanIskander</a>, <a href="/users/Nessie2000">Nessie2000</a>, <a href="/users/LeafyGreen">LeafyGreen</a>, <a href="/users/Rai_Awesome97">Rai_Awesome97</a>, <a href="/users/SunnySonic">SunnySonic</a>, <a href="/users/hufflepuffynerd">hufflepuffynerd</a>, <a href="/users/mochib99">mochib99</a>, <a href="/users/ViragoUnashamed">ViragoUnashamed</a>, <a href="/users/TheGameIsOn_SH">TheGameIsOn_SH</a>, <a href="/users/Jonesy1888">Jonesy1888</a>, <a href="/users/Lemon_Battleship_312">Lemon_Battleship_312</a>, <a href="/users/TheGlassesPredicament">TheGlassesPredicament</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/1147421/kudos?before=3770209780">2185 more users</a>
+             as well as 
+          1321 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_2324484">
+  <form class="new_comment" id="comment_for_2324484" action="/chapters/2324484/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="en70Es4brZr92hfoT8pGoblF8ywXObDFFyWDfk11UXErldPmcD4vkOUEZGtsgdukzoxF8wv21YHbDFoebni9ew"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_2324484">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_2324484" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_2324484=new LiveValidation('comment_name_for_2324484',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_2324484.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_2324484">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_2324484" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_2324484=new LiveValidation('comment_email_for_2324484',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_2324484.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_2324484" class="landmark">Comment</label>
+        <textarea id="comment_content_for_2324484" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_2324484" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_2324484_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_2324484">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_2324484=new LiveValidation('comment_content_for_2324484',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_2324484.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_2324484.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_2324484" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/1147421/hit_count.json")})</script>
+
+
+  </body>
+</html>

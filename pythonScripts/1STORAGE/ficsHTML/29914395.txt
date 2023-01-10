@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        three surgeries and a mercy kill - MarbleGlove - 陈情令 | The Untamed (TV) [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="8g7KMwz0825l-Ln471TTJNZ9lan7Zjs0zcApu6qlZ3SMq7e9saEhvmZ8UVBPPom6pSqTh4LZkVg_HEcNH46YsA"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="zyoya7BA8tS9OaRAMuNDVr_Nc9TRuaKExO8t_s0NJqixj0_lDRUgBL69TOiSiRnIzJp1-qgGCOg2M0NIeCbZbA"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: words:100</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="works-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<ul class="landmark skip">
+  <li><a name="top">&nbsp;</a></li>
+  <li><a href="#work">Skip header</a></li>
+</ul>
+
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+<!-- BEGIN revealed -->
+<!-- BEGIN work -->
+<!--work description, metadata, notes and messages-->
+    <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?work_id=29914395">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/29914395/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/29914395/three%20surgeries%20and%20a.azw3?updated_at=1622517431">AZW3</a></li>
+          <li><a href="/downloads/29914395/three%20surgeries%20and%20a.epub?updated_at=1622517431">EPUB</a></li>
+          <li><a href="/downloads/29914395/three%20surgeries%20and%20a.mobi?updated_at=1622517431">MOBI</a></li>
+          <li><a href="/downloads/29914395/three%20surgeries%20and%20a.pdf?updated_at=1622517431">PDF</a></li>
+          <li><a href="/downloads/29914395/three%20surgeries%20and%20a.html?updated_at=1622517431">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Teen%20And%20Up%20Audiences/works">Teen And Up Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Gen/works">Gen</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/%E9%99%88%E6%83%85%E4%BB%A4%20%7C%20The%20Untamed%20(TV)/works">陈情令 | The Untamed (TV)</a></li><li><a class="tag" href="/tags/%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88%20-%20%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%20%7C%20M%C3%B3d%C3%A0o%20Z%C7%94sh%C4%AB%20-%20M%C3%B2xi%C4%81ng%20T%C3%B3ngxi%C3%B9/works">魔道祖师 - 墨香铜臭 | Módào Zǔshī - Mòxiāng Tóngxiù</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n/works">Wèi Yīng | Wèi Wúxiàn</a></li><li><a class="tag" href="/tags/W%C4%93n%20Q%C3%ADng%20(M%C3%B3d%C3%A0o%20Z%C7%94sh%C4%AB)/works">Wēn Qíng (Módào Zǔshī)</a></li><li><a class="tag" href="/tags/Ni%C3%A8%20M%C3%ADngju%C3%A9/works">Niè Míngjué</a></li><li><a class="tag" href="/tags/W%C4%93n%20N%C3%ADng%20%7C%20W%C4%93n%20Qi%C3%B3ngl%C3%ADn/works">Wēn Níng | Wēn Qiónglín</a></li><li><a class="tag" href="/tags/Ni%C3%A8%20Hu%C3%A1is%C4%81ng/works">Niè Huáisāng</a></li><li><a class="tag" href="/tags/Ji%C4%81ng%20Ch%C3%A9ng%20%7C%20Ji%C4%81ng%20W%C7%8Eny%C3%ADn/works">Jiāng Chéng | Jiāng Wǎnyín</a></li><li><a class="tag" href="/tags/L%C3%A1n%20Zh%C3%A0n%20%7C%20L%C3%A1n%20W%C3%A0ngj%C4%AB/works">Lán Zhàn | Lán Wàngjī</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Medical%20Procedures/works">Medical Procedures</a></li><li><a class="tag" href="/tags/Demonic%20Cultivation%20(M%C3%B3d%C3%A0o%20Z%C7%94sh%C4%AB)/works">Demonic Cultivation (Módào Zǔshī)</a></li><li><a class="tag" href="/tags/Alternate%20Universe%20-%20Canon%20Divergence/works">Alternate Universe - Canon Divergence</a></li><li><a class="tag" href="/tags/Fix-It/works">Fix-It</a></li><li><a class="tag" href="/tags/Self-Indulgent/works">Self-Indulgent</a></li><li><a class="tag" href="/tags/W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n%20Has%20a%20New%20Golden%20Core/works">Wèi Yīng | Wèi Wúxiàn Has a New Golden Core</a></li><li><a class="tag" href="/tags/Alternate%20Universe%20-%20Everyone%20Lives*s*Nobody%20Dies/works">Alternate Universe - Everyone Lives/Nobody Dies</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+      <dt class="series">
+        Series:
+      </dt>
+      <dd class="series">
+        <span class="series"><span class="position">Part 1 of the <a href="/series/2204673">everyone has a braincell of their very own</a> series</span><span class="divider"> </span><a class="next" href="/works/29974308">Next Work &#8594;</a></span>
+      </dd>
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/Suggested_Good_Reads">Suggested Good Reads</a>, <a href="/collections/Rain_Recs">Rain Recs</a>, <a href="/collections/FavoriteMDZSFics">favorite mdzs fics</a>, <a href="/collections/MDZStofeedme">MDZStofeedme</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2021-03-08</dd><dt class="words">Words:</dt><dd class="words">11220</dd><dt class="chapters">Chapters:</dt><dd class="chapters">1/1</dd><dt class="comments">Comments:</dt><dd class="comments">152</dd><dt class="kudos">Kudos:</dt><dd class="kudos">2893</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/29914395/bookmarks">523</a></dd><dt class="hits">Hits:</dt><dd class="hits">22166</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      three surgeries and a mercy kill
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/MarbleGlove/pseuds/MarbleGlove">MarbleGlove</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>Does it count as surgery if the patient is a sabre/spiritual weapon? If the answer is no, then it's probably just two surgeries, no mercy kill.</p><p>Two geniuses in a radish field can come up with a lot of theories bouncing their ideas off on another, and when one is the grandmaster of demonic cultivation and the other is the best medical doctor alive, there's no telling what they can come up with. Now they just need a hospital room to put theory into practice and the Nie sect is the lucky winner. No, really, the Nie Sect lucks out and life gets better for everyone.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+    <ul class="associations">
+
+
+        <li>
+            Inspired by
+
+            <a href="/works/27292231">decay</a> by <a rel="author" href="/users/antebunny/pseuds/antebunny">antebunny</a>.
+        </li>
+
+    </ul>
+
+    <blockquote class="userstuff">
+      <p>I was re-reading decay by antebunny and this fic just tumbled out of my fingers as a result and now my weekend is gone</p>
+    </blockquote>
+
+</div>
+
+
+  </div>
+
+
+<!--/descriptions-->
+
+<!--chapter content-->
+    <div id="chapters" role="article">
+        <h3 class="landmark heading" id="work">Work Text:</h3>
+          <div class="userstuff"><p>It was trying to figure out how to help Wen Ning that finally created the unlooked for breakthrough for Wei Wuxian.</p><p>Wen Ning had been dying in the stone quarry turned mass grave of the Jin prison camp at Qiongqi Pass. He had been dying and no one there had the spiritual power to heal him, but Wei Wuxian had the resentful energy needed to halt everything, to preserve everything. Like a flower drowned in honey, the last flicker of Wen Ning's golden core was preserved, completely untouchable.</p><p>It was in the burial mounds, after Wei Wuxian had successfully brought Wen Ning’s spirit back to full cognition that Wen Qing asked how it had been achieved.</p><p>Wei Wuxian explained to Wen Qing what he had done, and Wen Qing said, "there has to be a way to strengthen that last flicker into something stable and find some way for the resentful energy to recede without damaging it." </p><p>"Maybe," Wei Wuxian said, "but I'm not sure... wait, maybe..."</p><p>And then they got down to work.  </p><p>"You did the same thing to yourself as you did to Wen Ning didn't you. You just weren't quite as close to death as he was, but you weren't far from it either." </p><p>"I fell into the Burial mounds." </p><p>She blinked.</p><p>"They flew over and threw me down. I'm not sure how many of my bones broke but enough that I couldn't get away from the fierce corpses."</p><p>"Oh." </p><p>Death by fierce corpse was an unpleasant thing.</p><p>"It's funny isn't it: I'm not scared at all of fierce corpses but I'm still terrified mindless of dogs. And I have many fewer dog bites." </p><p>"You were much younger when the dogs bit you. And less able to fight back." Wen Qing fell back on practicality. </p><p>The fierce corpse bites weren’t even visible. Resentful energy didn’t heal in the same way spiritual energy did, but it could be used to fix and preserve. It didn’t leave visible scars the way real – spiritual or natural – healing did, unless you were sensitive enough to resentful energy to feel the patches directly.</p><p>“I can’t sense where you’ve patched yourself up,” Wen Qing said after a moment of consideration. “Can you draw me a map of where your injuries are?”</p><p>“I can try, but I don’t think it’s going to help to have me as a practice run for Wen Ning,” Wei Wuxian pointed out, even as he started drawing a diagram of his body and started noting what injuries he could remember or still sense.</p><p>Looking at the diagram, Wen Qing had to agree.</p><p>Still, she memorized the diagram before moving on to focus on her own field of expertise, the golden core.</p><p>They spent their days growing radishes and clearing scrub brush while theorizing about advance medical techniques in regards to spiritual cultivation and demonic cultivation and musical cultivation and acupuncture.</p><p>In a land filled with dead bodies, unsure if they were starving or not with the food that might or might not be enough to support their lives or the lives of the other refugees, the one thing they had more than enough of was hope. Hope that they could get better than this, somehow if they could just figure out how.</p><p>It was hope that kept them going until they reached the point where their theories needed to be either put into practice or given up. There was no further theoretical work to be done.</p><p>"If we're going to do this, I need a proper hospital and support staff."</p><p>"You did an entirely unique surgery in a field."</p><p>"And I didn't love it. But also, it was an untried theory and a detailed surgery requiring knowledge and control, but it was also a single incision in each person. The difficult part was de-connecting and reconnecting the golden core from the internal connections."</p><p>"And it was very impressive."</p><p>"What we're talking about here is removing preserving energy to abruptly reveal at least a dozens of broken bones, open wounds, and likely bruised or burst internal organs. More than the expertise, this needs more bandages and hands to hold those bandages to prevent you from bleeding out." </p><p>"Can't the rest of the Wen here act as our help?"</p><p>"They could if we had a good hospital set up with clean bandages and clean water and a good assortment of medicines. But since we don't have that, we could probably all gather together and maybe prevent you from bleeding out so that you survived long enough to die from infection."</p><p>"Ah." </p><p>"So the question becomes: which hospital can we use?"</p><p>It was an impossible question. Before the Sunshot campaign, when Wen Ruohan had still been the acknowledged chief cultivator, Wen Qing could have gone to any Sect in the world and asked to use their hospital rooms. Sect Leaders would have tripped over themselves to offer such a resource to the niece of the chief cultivator and few might have even been pleased to work with Wen Qing in her own right. She had once had a good reputation as a good doctor. Now she would be killed on sight.</p><p>"Well, the Jin would love to get the yin tiger seal and would probably trade the use of their hospital for it,” Wei Wuxian offered, as if that were a serious option. </p><p>"And your sister could even help nurse you." Wen Qing added, as if it were an actual viable option. </p><p>"Jiang Cheng can't protect us. That's why we're here in the first place. The Jiang aren't powerful enough to deal with the target we'd paint on their back."</p><p>"Lan Wangji has been here before and he's even asked you to return to Cloud Recesses with him."</p><p>"But I doubt he's discussed that offer with any of his elders, or his uncle, for that matter, who kicked me out."</p><p>"Which leaves us with the Nie." </p><p>"I like Nie Huaisang?"</p><p>"Chifeng-Zun has the power to protect us from the Jin, if he wants to. But is also a sworn brother with the new Jin Guangyao."</p><p>"We could always try one of the lesser sects? Does it have to be one of the main ones?"</p><p>"If we can't go to the Jiang because they're not strong enough, then we can't go to any of the lesser ones either."</p><p>"So, we ask the Nie."</p><p>"Yeah. That's what it looks like."</p><p>"What can we offer them in return?"</p><p>"I think... we offer them the burial mounds."</p><p>"No one wants the burial mounds. It's why we were able to settle here. No one has claimed it before and no one wants to."</p><p>"No one could claim it before because it killed everyone who entered. Until you."</p><p>"And if they give us sanctuary just long enough to use their hospital and no longer?"</p><p>"Then we'll find somewhere else to settle. There are valleys deep in Qishan where no one goes. It was just, too far when we were all escaping prisoners."</p><p>“It might be a good idea to go to someplace like that regardless.”</p><p>“Yes.”</p><p>“Okay, then. Let’s go to the Nie and see if we can trade them the burial mounds for the use of their hospital rooms.”</p><p>It took time to ward the burial mounds and warn the rest of the Wen that their three strongest people protectors were all going to be absent for an unknown period of time. But they all understood risks.</p><p>Granny Wen held A-Yuan as he cried, and the three of them – Wei Wuxian, Wen Qing, and Wen Ning – walked away.</p><p>Five days later, they waited at the gates of the Unclean Realm under the eyes of some very nervous guards. “Well, so far so good,” Wei Wuxian said. One of the guards had run inside to let Sect Leader Nie know that they were there. No one had tried to kill them yet.</p><p>Nie Mingjue arrived back with a retinue that include Nie Huaisang and Nie Zonghui.</p><p>Nie Mingjue did not waste time with pleasantries. "You want me to allow the Yiling Patriarch and highest ranking surviving Wen into the heart of my sect?"</p><p>"I'm asking the honorable Chifeng-Zun to allow two injured men into your hospital to be treated by the best doctor in the world." </p><p>"You don't appear very injured." Nie Mingjue pointed out. Not mentioning that Wen Ning probably also didn’t look very injured since instead he looked very dead.</p><p>Wei Wuxian smiled his wide grin and elbowed Wen Qing in the side. "See! I told you I looked healthy!"</p><p>Wen Qing was not amused. "If Sect Leader Nie must see blood before he considers someone to be injured, I can understand why so many of Nie sect die of qi deviation." </p><p>The tension at the gate somehow got worse than it had already been. </p><p>Wei Wuxian was always surprised to discover someone else was even worse at politics than he was.</p><p>"Da-ge?" Huaisang said, but when Nie Mingjue didn't make any move, stepped forward himself without further waiting and directed his attention at Wei Wuxian. "Will you tell us what the medical conditions are that you are hoping to treat in our hospital?"</p><p>"Not unless you agree to allow us to treat it. Sorry, brother Nie. I can't tell anyone a weakness, not even you." </p><p>"Then how about I guess?” Huaisang unfurled one of his ubiquitous fans and smiled down at it before using it to mask his face and peer over it instead. “Lan Wangji is always talking about how resentful energy harms the mind and body."</p><p>"Heh. Yeah, he's not subtle about that." </p><p>"He’s really not. But he's not wrong either is he?"</p><p>Wei Wuxian sighed. "No, he's almost never wrong, about anything really. It’s very irritating of him, isn’t it?" </p><p>"But you found a way to counter it?"</p><p>"You really are too smart, brother Nie. The problem isn't directly with the resentful energy. I wasn't lying when I said I could deal with it. The problem is what happens if I try to stop using it." </p><p>Nie Mingjue finally spoke. "And that's what you're trying to do now? To stop using demonic cultivation?" </p><p>The easy camaraderie that Nie Huaisang had created abruptly shifted back to more cautious suspicion. "I won't give up our only means of defense. But I would like to be able to put it down for a while." </p><p>Nie Zonghui shifted in a way that was completely unlike the Nie. It was enough to draw the eye and it did draw Nie Mingjue’s eye. But instead of looking embarrassed, the Nie first disciple looked back at his Sect leader with a meaningful look. Wei Wuxian tensed, in case this was a signal for attack, but it lasted too long, like it was a whole conversation. Even Nie Huaisang couldn't read that look. "Da-ge?" </p><p>Nie Mingjue finally looked away. "I'll allow it on the condition that I, my first disciple, and my chief physician all observe."</p><p>"We accept. Thank you." </p><p>Nie Mingjue wished he didn’t know why he had agreed. He should have just turned them away, or possible he could have let Wei Wuxian use his hospital rooms as a resource he owed to one of the heroes of the Sunshot Campaign regardless of what had happened since then. But instead, he knew he was doing it so that they could learn what medical technique Wei Wuxian and Wen Qing had developed to deal with resentful energy.</p><p>Nie Mingjue had long accepted that he would die young and it would be an unpleasant death. He just hoped that he wouldn’t linger like his father, and instead die within a day like his grandfather.</p><p>But Nie Zonghui still hoped for a better fate, not just for himself but for Nie Mingjue and for the rest of the Nie cultivators as well. Such hope was painful, and yet, Nie Mingjue couldn’t turn away from it entirely.</p><p>Thus, he allowed Wei Wuxian, Wen Qing, and the ghost general Wen Ning into the Unclean Realm, although under heavy guard. They stayed in their rooms for the rest of the day and night while the Nie hospital rooms were arranged for their use.</p><p>They were all in the hospital room the next day: Wei Wuxian, Wen Qing, Wen Ning, Nie Mingjue, Nie Zonghui, Chief Physician Nie Feihong, two of Feihong’s assistants, and three Nie guards, plus Nie Hauisang who Nie Mingjue really wished he could keep out of this.</p><p>It was a very crowded room.</p><p>Despite the crowd, it seemed very intimate when Wei Wuxian turned to his companions and asked, “Are you sure you want this? Both of you?”</p><p>Wen Qing was pale but she looked at Wen Ning in a way that Nie Mingjue found all too familiar: the determination to do right by a little brother whatever it took mixed with uncertainty over what the right thing was.</p><p>Wen Ning had all the expressive abilities of a fierce corpse and yet still managed to look apologetic but determined. “I… I want this. If there’s a chance… I want to take it. I know you will do your best.”</p><p>He laid himself down on the hospital table, looking more like a peaceful corpse than a fierce one. Wen Qing’s look solidified into determination. Wen Ning closed his eyes as his sister carefully peeled back his robes to reveal his bare chest. It was pale and lined with dark veins all centered in a black spot the size of Nie Mingjue’s fist on his stomach.</p><p>Nie Mingjue averted his eyes.</p><p>Wen Qing had a stack of bandages, an array of needles and a table full of jars of medicines that Nie Feihong had already assured him were the supplies that a battlefield medic might dream of having to hand.</p><p>They all knew that the next part would involve Wei Wuxian playing Chenqing, but it was still a struggle to not grip his sword. The guards didn’t manage to avoid it, although none of them pulled the blades.</p><p>Baxia shivered in her sheath, but not in either fear or anger. Nie Mingjue couldn’t quite identify what the sword spirit felt, just that it was paying attention to the long mournful notes that played.</p><p>The Yiling Patriarch played and the dark smoke of resentful energy pealed off of the ghost general. First in faint wisps and then in thick billows that slowly became less and less until it was once more a stream of the faintest wisps being summoned by the delicate sounds of the flute. And under that delicate sound, Nie Mingjue could hear a whimper.</p><p>Then Wen Qing was there with her needles focused entirely on her little brother and bringing Nie Mingjue’s eyes back onto the Ghost Generals stomach. Where once it had been a solid black mass, now it looked more like a fishing net held taut over a mortal wound.</p><p>Blood oozed and seeped and Wen Ning whimpered and Wen Qing and Nie Feihong were now both focused entirely on that gaping wound. The flute played on and the netting flexed and shifted around the two doctors fingers, receding as they replaced it with silk threads and poured vials of medications. The two doctors' assistants were each holding one of Wen Ning’s hands, transferring a steady stream of spiritual energy.</p><p>Nie Mingjue wasn’t entirely sure when Nie Huaisang had leaned against him until he noticed the body that he’d been hugging was shivering with distress. “Shh, shh.”</p><p>He had seen a lot of bloody wounds in his days. He’d given them to his enemies and he’s held his men as they’d died and he still sometimes had nightmares of his father’s gored body. Before this, he’d been proud that he’d protected his little brother from ever having to see such things.</p><p>His thoughts flinched away from even imaging doing what Wen Qing was doing right now, working smoothly and calmly with her little brother’s blood on her hands and tears dripping freely down her face, not allowing them to hinder her sight.</p><p>At least he had his little brother safe in his arms right now.</p><p>It was hours later and servants had actually come in to provide food and drink to everyone observing, when Wen Qing finally stepped back for the last time.</p><p>The flute music finally trailed off in one last mournful note that faded into silence. Everything was very quiet. Then that silence was broken by Wei Wuxian doubling over into gasping, hacking coughs.</p><p>Nie Mingjue could feel Huaisang jerk in his arms, trying to go to Wei Wuxian and Nie Mingjue wasn’t even sure why he tensed to prevent it. He wasn’t scared of the Yiling Patriarch and didn’t fear that Wei Wuxian would do anything to Huaisang. Certainly not here in the heart of the Unclean Realm, while coughing from having played a flute for hours without pause. But he still couldn’t let Huaisang go. None of the other Nie went to him either. It was Wen Qing who brought water to him and told him to sip it carefully.</p><p>“Did it work?” Wei Wuxian finally gasped out, coherent words. “Did it work?”</p><p>“You know it did.”</p><p>“No, not that. I know I was able to peel back the resentful energy. But will Wen Ning live?”</p><p>“He survived the surgery. His golden core is still there. It’s as tiny as any new beginner but he has a chance to heal. Now we wait and see.”</p><p>“He has to live. I promised you.”</p><p>“I know. Thank you. Now we rest. Because next time will be you.”</p><p>It seemed like they had forgotten there was anyone else in the room beside themselves.</p><p>“No,” Nie Mingjue found himself interrupting. They both startled, like they really had forgotten that anyone else was present in this extremely crowded room.</p><p>Both their faces also hardened, prepared for betrayal and he regretted that.</p><p>“No?” Wei Wuxian said softly, but it carried a level of threat that was enviable in a man who still struggled to breath, much less stand straight.</p><p>“No. Next you’ll both rest and recover and ensure young master Wen is recovering as well. And then you’ll practice this technique for removing resentful energy on a Nie blade.”</p><p>“A Nie blade?” Wei Wuxian’s face had at least lost the battle readiness in confusion. “Do you have a Nie blade that’s become overwhelmed?”</p><p>There was a certain grim satisfaction in learning that not even the Grandmaster of Demonic Cultivation had realized how many Nie blades had become overwhelmed by resentful energy. How many and how inevitably. “Yes.”</p><p>“So that’s why you let us in.” Wen Qing actually sounded relieved at that realization. Nie Mingjue could sympathize. He didn’t like being given gifts either without knowing exactly what strings they brought with them.</p><p>“Yes.”</p><p>“I can be ready tomorrow.” Wei Wuxian said.</p><p>“He can be ready in three days,” Wen Qing said, speaking right over him.</p><p>Nie Mingjue raised his eyebrows at both of them, and the way they were now glaring at each other. The rumors that had one or the other of them having seduced the other to their side seemed less likely with each interaction. They having formed an unlikely sibling relationship seemed a lot more self-evident.</p><p>“It will take me four days to acquire the blade,” he interrupted their stand-off.</p><p>He wouldn’t allow the first sabre to undergo this to be Baxia. There were unfortunately plenty of sabres to work with, but he thought that he’d retrieve his grandfather’s sabre for this. It was the most dangerous and the most powerful of the masterless blades, so that if the process worked, they would know it could be done on powerful spirits, and if it didn’t, no living disciple would suffer the loss of their sabre like his father had.</p><p>The guards were gentle as they escorted their guests back to their rooms. More gentle than they had been before this. The people they guarded were no longer merely old enemies, but now potential saviors of so many Nie facing qi deviation.</p><p>Wen Ning stayed in the hospital room in Nie FeiHong’s care, while Wen Qing and Wei Wuxian were free to visit him as often as they’d like. Nie Mingjue was just glad for how exhausted they all were so that it freed him to leave the fortress to retrieve his grandfather’s sabre.</p><p>It actually took two days to retrieve it, a third day to recover from the retrieval, and a fourth day to assess all the Sect Leader duties that he should have been doing for the last week but that got postponed due to the arrival of the Yiling patriarch and the hope that he unknowingly brought with him for the Nie cultivators and their sabres.</p><p>And then deal with the discovery that every single Nie disciple who had a sabre had somehow heard the rumor that there might be a way to pull the buildup of resentful energy out again while leaving the spirit alive. It occurred to Nie Mingjue that if this worked – and he was telling himself not to get his hopes up and yet, he hoped – he would need to find a way to incorporate it into his sect’s cultivation. Musical cultivation in the Nie Sect, when being tone deaf also ran in the family line along with the rage issues. That would be a problem for the future.</p><p>Nie Zonghui got him caught up on events. “Wen Ning is still alive and even woke up. Our doctors have been talking with Wen Qing for every waking moment, learning as much as they can from her and putting together a proposal for you to bring her into the Sect.”</p><p>Nie Mingjue clenched his fists. “Bring a Wen into the Nie sect?”</p><p>He wasn’t sure how he felt about that. Other than raw. He’d hated the Wen for so long. They had taken so much from him, from everyone in the Nie Sect. And yet, what Wen Qing had done for her brother was a miracle and if she could bring that level of healing skill to the Nie…</p><p>“That wound was a painful death sentence. It’s the kind of wound that causes friends to give a mercy stroke.”</p><p>Mingjue nodded. He knew that too well.</p><p>“Do you really think our ancestors would ask us for revenge rather than that skill?”</p><p>“I don’t know.” He shook his head. “She might not want to stay.”</p><p>“You think anyone would prefer to return to the burial mounds?”</p><p>“I think that if we want to bring her into the sect, we’ll need to bring all of them in. A whole refugee village of Wens.”</p><p>“You’ve been thinking about it too.” Nie Zonghui sounded surprised.</p><p>“Of course I have been!” He hesitated a moment but then continued, “And Wei Wuxian too.”</p><p>“He already broke away from the Jiang, to whom he should have showed loyalty. And the Jin might allow us to quietly absorb some escaped prisoners, but they won’t overlook the Yiling Patriarch.” Nie Zonghui warned, but didn’t disagree.</p><p>“So, what do we do?”</p><p>“Well, first thing first, we figure out if his method even works on sabres.”</p><p>“Mm.”</p><p>“And if it does, we figure out if any of our disciples can learn how to do it. And what the Yiling Patriarch wants in exchange for teaching it.”</p><p>“He probably won’t ask for anything.” Huaisang spoke up and Nie Mingjue tensed and Nie Zonghui actually jumped because they had both forgotten that he was even there listening in. “He’s brilliant about cultivation but not very smart when it comes to politics. Wen Qing will be the one trying to make it a deal.”</p><p>“So, protection for her people then.”</p><p>“I think,” Nie HuaiSang tapped his lips with the end of his closed fan, “that we should offer the Wen protection in exchange for Wen Qing and Wen Ning’s medical expertise.”</p><p>“Wen Ning’s medical expertise?”</p><p>“He was her assistant as well as her brother at Cloud Recesses. And for Wei-xiong, we offer protection to him in exchange for destroying the Yin Tiger Seal.”</p><p>That surprised them both.</p><p>“Destroying it?”</p><p>“Too many people want it. It’s just like the Yin iron pieces. Too many people think that just having it would make them unbeatable. You know the Jin want it, and the Jiang couldn’t afford to keep it.”</p><p>“When did you get so interested in politics?” Nie Mingjue smiled. He was used to thinking of Huaisang as his spoiled little brother, but with the blink of an eye, here he was instead a scholarly young man.</p><p>“When I realized that I didn’t want another war.”</p><p>He’d thought he’d protected Huaisang from suffering in the last war. He’d done his best to protect him from it. But it could never be a complete protection.</p><p>“Ah.”</p><p>“If Wei Wuxian agrees to destroy the Tiger Seal, then it will need to be a public event.” Nie Zonghui said and Nie Huaisng nodded.</p><p>“It has to be publicly destroyed, or the fight for it will be even worse with people chasing rumors.”</p><p>“So now I not only need to ask the Yiling Patriarch to destroy his overwhelmingly powerful spiritual tool, I also have to host a cultivation conference for the express purpose of inviting all the people I least like or trust to be witnesses.”</p><p>“Well, he could always refuse.”</p><p>“I suppose I can hope he will.”</p><p>But when it came down to it, Wei Wuxian and Wen Qing shared another long silent look and Wei Wuxian turned back to Nie Mingjue and said, “In exchange for protection for the Wen remnants and myself, and,” he raised a hand, “an alliance with the Jiang Sect.”</p><p>Nie Mingjue blinked. “I thought you were separated from the Jiang.”</p><p>Wei Wuxian avoided a direct response. “You’re already sworn brothers with Jin and Lan. You can have an alliance with Jiang.”</p><p>“You make it sounds like you’re marrying in, brother Wei,” Huaisang murmured, just his eyes peaking over the edge of his fan, but not hiding the laughter in his eyes at all.</p><p>“Ah, maybe I should demand a lovely maiden for my bride as well?” Wei Wuxian joked back before yelping and dodging away from Wen Qing, who was still standing perfectly poised.</p><p>“Back on topic,” Wen Qing said, pointedly not looking at anyone in particular, “I think we need to determine an order of events. If this offer is contingent on Wei Wuxian’s ability to cleanse the sabre of resentful energy without harming the blade spirits, then that should be attempted prior to any further arrangements. Either way,” she continued before Nie Mingjue could respond, “we have our original reason for being here, and now the proposed destruction of a powerful spiritual tool.”</p><p>He thought that if he were more charitable, like Lan Xichen, he would offer them protection in exchange for destroying the Yin Tiger Seal, regardless of whether or not they could bring anything else to his Sect. He wasn’t. He would count himself lucky that if he wasn’t as charitable as Xichen, neither was he as mercenary as Jin Guangyao.</p><p>“Since you originally arrived for a purpose, then let that come first, before any further actions are taken.” Nie Mingjue agreed. He had agreed that they could use the hospital, and he wouldn’t add more conditions to that agreement at the last moment.</p><p>But Wei Wuxian shook his head. “I think the original need will have to come last,” Wen Qing sent him a sharp look, “since it will take the longest to recover from.”</p><p>“You can work with the sabres after,” she spoke sharply.</p><p>“I think I had better cleanse the sabre Sect Leader Nie has just retrieved and then we can negotiate what protections we’ll need in exchange for giving up the protection offered by the Tiger Seal.”</p><p>“It makes you a target, brother Wei,” Huaisang said.</p><p>“I know, brother Nie, but getting rid of it won’t make any of us less of one.”</p><p>There was nothing to say to that. It was true enough.</p><p>This time, at least the work could be done in an open training yard rather than in a crowded surgery room. The walls were lined with disciples, there to protect against a dangerous masterless blade and also to witness what was going to be done. They should know, one way or another, what was being attempted, and whether or not it succeeded.</p><p>Wei Wuxian standing there in his plain black robes with his dizi, looking out of place but arrogant in his assurance as he faced off against a superior marital enemy. It felt like a flashback to the Sunshot Campaign. Nie Mingjue had to remind himself that he was home. He was safe and in the Unclean Realm. Wen Ruohan was dead and he wouldn’t have to send any of the disciples into battle against such terrible odds.</p><p>He really hoped he wasn’t starting another war.</p><p>He placed his grandfather’s sabre on the table that had been moved to the center of the training yard for this very purpose. He had held it in check for two days, but it would not be subdued for much longer.</p><p>With the first fluttering note of the flute, the sabre shredded the talismans that had kept it calm and flung itself into the air. Before Nie Mingjue could do more than pull Baxia in preparation, the sabre dove back down, aiming directly at Wei Wuxian, who simply turned sideways half a step and it soar right past him, while continuing to play. Which unfortunately left the sabre heading straight towards some of the watching disciples. And yet, before it truly threatened any of them, it arched back up into the air again to attack Wei Wuxian. Wei Wuxian played and stepped and dodged the diving sword. The more it happened, the longer it continued, the less the whole thing looked like an attack and the more it looked like a dance. There was a stream of gauzy smoke like a connection between dance partners, connecting the sabre to the flute.</p><p>It was remarkably beautiful. Certainly more beautiful than any of the dances Nie Mingjue had been forced to sit through while attending conferences at Jin tower.</p><p>It was also working. He could sense it. The blade was moving slower and was calmer in its movements. The stream of resentful energy was lightening and dissipating until there was no more visible connection between the sabre and the flute. At the end, the sabre almost seemed tired. He found himself frowning at the thought. It was good that the sword was being drained of the energy that enraged it, but it was unpleasant to think of it as being exhausted and empty too.</p><p>Just as he was thinking it, though, the slow melancholy flute changed once more to a high spike, and an immense bloom of resentful energy poured out, not into a thread or connection, but into a sphere so dense it was almost physical as it hung in the air.</p><p>The sabre that had seemed tired before, burst up again in full energy before plummeting down to strike through the sphere, and embed itself inches into the hard packed ground. The sphere of resentful energy split in half and then into shards and then dissipated entirely, leaving the sabre standing tall and triumphant. And possibly smug.</p><p>It wasn’t until Huaisang started clapping, as if at the end of a performance that Ni Mingjue noticed that Wei Wuxian had stopped playing. Wei Wuxian made an elaborate bow to Huaisang.</p><p>Unlike the long marathon of a session with Wen Ning, this performance with the masterless blade took only an hour.</p><p>“It worked?” Nie Mingjue asked, even though he knew it had. He could feel it even before he put his hand on the hilt and pulled it from the ground. Baxia rattled slightly, jealous of his holding another blade by the hilt, but his grandfather’s sabre simply hummed happily in his hand, content after a long fight.</p><p>“Yes,” Wei Wuxian confirmed. “It still has enough resentful energy in it to be aware and recognize threats around it, but not so much as to taint all of its world sense with resentful energy and certainly not the thick coating that it was swimming through originally.”</p><p>“Do you think you’d be able to do something similar with a living person’s sabre?” Nie Mingjue was virtually certain it could. His grandfather’s sabre still obviously contained its sword spirit.</p><p>“I think so, although I’d want to work individually with each person to make it right. This was a two-person dance, but with a living wielder, I think it had better be a three-person dance.”</p><p>That was an even better answer than Nie Mingjue had been hoping for. They wouldn’t even need to put their sabres in someone else’s care if they could be involved themselves.</p><p>There was a rustle among the watching disciples. Nie Mingjue nodded to them. He didn’t require their approval of his actions but he took the desires of his people into account. They all wanted their blades to be happy and unblinded by the inevitable build-up of resentful energy. He would try to get it for them.</p><p>“I’d originally thought that I could teach Nie Huaisang how to do it,” Wei Wuxian said, as they walked back to his guest rooms.</p><p>Nie Mingjue tried to imagine his little brother doing what Wei Wuxian had just done and couldn’t quite imagine it.</p><p>“He has the skill, I think, to use resentful energy the way I do,” Wei Wuxian said.</p><p>“But not the temperament to work with the sabre spirits.” Nie Mingjue agreed. Huaisang could barely connect to his own sabre spirit. For all Wei Wuxian’s faults that included giving up the use of his own sword, it had been obvious that Wei Wuxian loved sword fighting, just from watching the way he interacted with the sabre. He had nearly a sword spirit himself in some ways, and for the first time Nie Mingjue wondered if perhaps that is what caused Wei Wuxian to put down his sword. If perhaps it was not Wei Wuxian who put it down but his sword who had refused to be picked up, jealous of his own wielder. It was an uncomfortable thought and Nie Mingjue did not continue to think about it.</p><p>He waited until they were back in the hospital room where Wen Ning was sitting up and being inspected by both Wen Qing and Nie Feihong as he received another infusion of spiritual power.</p><p>The ridiculous boy was now visibly alive and also visibly ridiculous as he tried to get up to formally bow to Nie Mingjue and had to be pressed back into his seat by both physicians.</p><p>“Now we know that Wei Wuxian can cleanse sabres of resentful energy, I’m formally offering you and the rest of the burial mounds living residents the protection of the Nie Sect. I will expect you to be loyal and I expect you to destroy the Yin Tiger Seal.”</p><p>“I bring trouble with me, wherever I go.” Wei Wuxian warned, as if that were something that Nie Mingjue wasn’t already quite aware of. “Madam Yu always warned that I would bring disaster to the Jiang.”</p><p>“Mm.” Nie Mingjue let that pass. “We of the Nie are well used to dealing with trouble. And if you bring it now, then it is already here and we will deal with it as such.”</p><p>“Then we agree to join the Nie and to be loyal to you as our sect leader.”</p><p>“What is the second healing you had planned?”</p><p>“It is for myself.”</p><p>“I never heard that you had been seriously injured.”</p><p>“No, you didn’t.”</p><p>“When did it happen?” Nie Mingjue had been the commander of the Sunshot campaign and should have known about any serious injuries. If anything had happened since then, surely all the attention paid to the Yiling Patriarch would have spread those stories far and wide. If this man was to be a member of his sect, he needed to know both his strengths and his weaknesses.</p><p>“It’s always amazes me,” Wen Qing spoke bitingly, “how everyone can simply forget that Wei Wuxian was captured by Wen Chao’s forces after the fall of Lotus Pier. He didn’t manage to escape and return to you for three months.”</p><p>It had been the early days of the Sunshot Campaign when the Nie had fought mostly alone. Both the Lan and the Jiang Sects had been nearly destroyed and the Jin were still waiting to see how the wind would blow. He remembered being frustrated that Jiang Cheng and Lan Wangji had both devoted their time and attention to searching for Wei Wuxian, because he had assumed that the boy was either dead like so many or in hiding like so many others.</p><p>Then Wei Wuxian had appeared again, with a new heretical cultivation method and the tides of the war had begun to turn.</p><p>He would not apologize for neither knowing nor caring about Wei Wuxian’s situation before he was anyone of any importance to the war effort. But, “I’m glad you were able to continue for so long then.”</p><p>Wei Wuxian’s smile was somewhat twisted but seemed genuine. “Me too.”</p><p>“Then, if we’re agreed, I’ll make arrangements.” He prepared to depart but added, as a courtesy, “Will you need anything special for the process?”</p><p>“Well…,” Wei Wuxian said, looking incredibly shifty in a way that was reminded him that he and Huaisang were friends.</p><p>He frowned in general disapproval but also waved a hand to make the man speak.</p><p>“I’d like to get Nie Zhiruo’s help,” Wei Wuxian blurted out.</p><p>Nie Mingjue blinked at that. “How do you even know Zhiruo?” Nie Zhiruo was a swordsmith who specialized in the Nie sabres. She was actually the swordsmith who’d forged Baxia. Wei Wuxian was looking shifty again, so Nie Mingjue waved the question away. “Never mind. I’ll ask her if she’s willing to help.”</p><p>She almost certainly would be. Nie Zhiruo was always interested in anything that affected their sabres and she had been watching what Wei Wuxian did with the masterless blade earlier.</p><p>Nie Zhiruo was interested and did meet with Wei Wuxian. Nie Zonghui later reported that they seemed less interested in the details of breaking the Yin Tiger Seal, which was apparently fairly straight forward, and instead interested in picking each other’s brains about the creation of spiritual tools in general.</p><p>Which was lucky because within a day of sending the invitations out to the other Sects, Jiang Cheng showed up in a barely controlled rage that Wei Wuxian was entering a different sect. Before Nie Mingjue could do much more than shove the two brothers into a room together to yell and cry at each other, Jin Guangshan himself showed up, trailed by Jin Guangyao looking disturbingly similar to how he’d looked while trailing behind Wen Ruohan.</p><p>Before he’d managed to get anything out of Jin Guangshan regarding why he thought this was a terrible idea, with no clear indication of what exactly “this” was, Lan Xichen showed up with Lan Wangji looking surprisingly emotional behind him.</p><p>He had to triple the guards on Wei Wuxian, Wen Qing and Wen Ning, not even sure who he was trying to protect from what, other than the whole of the Nie sect from another war breaking out.</p><p>Nie Zhiruo had one of the old anvils moved out to the center of the main training field.</p><p>Nie Mingjue was beginning to think that maybe Wei Wuxian should just be given his own training yard to use to deal with resentful energy issues, but given the number and status of the witnesses, they had to use his main yard for this. After all, there needed to be audience seats available suitable for sect leaders to observe the proceedings.</p><p>Nie Mingjue had been a bit wary of doing this inside their primary fortress, since there were stories about how badly that had gone back in the time of their ancestors. They’d only barely managed to beak the thing into shards that could be hidden, and that process had not been without casualties. Including more than one weapons smith. Nie Zhiruo had insisted that this was different, and she was in very little danger at all. Wei Wuxian would control the seal and assure it was weakened, the smith would flatten the seal, removing all the designs and talismans etched into it, and then Wei Wuxian would redirect the ensuing explosion upwards to avoid any injuries to those around.</p><p>He had been mostly reassured, until Wei Wuxian had jumped in to assure him that there was virtually no risk at all of the process causing either an earthquake or a shower of acid rain or a massive fireball. He glared at Nie Zhiruo who hadn’t said anything at all about anything like that, but she had merely shrugged at him. In the end, he just had all his disciples standing by with protective talismans ready. The Jiang disciples were fully prepared too, with fire suppressants and ground stabilizers, which Jiang Cheng had apparently started distributing as soon as he’d heard that Wei Wuxian was doing something experimental.</p><p>The process itself actually did wind up being extremely straight-forward although somewhat tedious. It also started at sunrise.</p><p>“At least we’re in the mountains,” Huaisang said though a yawn. “Sunrise is later and sunset earlier.”</p><p>There was once more a lot of flute playing, but no flying swords this time.</p><p>The most interesting thing about the whole process was seeing Lan Xichen’s eyebrows slowly rise as the playing went on, and the way he then proceeded to side-eye his little brother. Lan Wangji, in contrast, kept his eyes entirely straight forward and studiously ignored his elder brother and Sect leader completely even as the tips of his ears showed a bit of a blush.</p><p>Nie Mingjue found himself trading glances with his own little brother as they both avidly watched and guessed about what was going on with the Lan brothers. At one point, Huaisang lost all sense of propriety and made his way to their side to ask. He came back to relay that apparently Wei Wuxian had incorporated a significant amount of Lan music into his repertoire. Wangji had apparently been downplaying how much time he had spent with Wei Wuxian during the war and how much of that time had been spent playing music together. Huaisang waggled his eyebrows at him at that.</p><p>Nie Mingjue considered how lucky Huaisang was that there were no rules against listening to and spreading rumors among the Nie, since he took such a delight in it.</p><p>When he got bored of watching the Lan brothers, he could always appreciate Jin Guangshan being thoroughly annoyed and trying to mask it with gritted teeth.</p><p>He made a mental note to speak with Xichen after this about potentially getting their youngest sworn brother away from the Jin Sect for a while to avoid any fall-out from his father’s frustrations.</p><p>Finally, after a long tedious day of listening to flute music from sunrise to sunset, the seal started glowing visibly red like it had been embedded in a forge this whole time rather than floating above an old anvil in the middle of the training field. It slowly settled onto the surface of the anvil and Nie Zhiruo struck it with a single blow. There was a burst of energy that blew wind in all directions and then it was done.</p><p>What had been the Yin Tiger Seal was now a rather flattened lump of metal. All the audience members were welcomed to walk past it and even touch it.</p><p>“So, what are you going to do with it now?” Xichen asked, having dutifully prodded at the lump and confirming that it was nothing particularly spiritually interesting anymore.</p><p>“I thought I’d offer it to Sect Leader Jin, since he’s shown so much interest in possessing it in the past,” Nie Mingjue managed to say with a straight face.</p><p>“That’s quite all right. I’m sure you’re capable of guarding something of this power,” Sect Leader Jin smirked.</p><p>Nie Mingjue glared.</p><p>“If there’s no interest or need for it,” Nie Zhiruo interrupted, her age and expertise letting her get away with inserting herself into a conversation of Sect Leaders. “I’ll keep it in my workshop. It’ll be a good lesson to the apprentices: some weapons are too powerful to keep.”</p><p>Sect Leader Jin had to stay one more night before leaving and his departure thankfully signaled the departure of most of the other witnesses as well. Although not all, because it was two days later that Nie Mingjue found himself back in the hospital room that was even more crowded than before since now they were joined by Sect Leader Jiang and Lan Wangji.</p><p>Sect Leader Jiang had insisted on being there. Somehow Lan Wangji was also there although Nie Mingjue still wasn’t entirely sure why. Lan Wangji had a tendency to just do whatever he was going to do with such assurance that it was the correct thing that everyone around him assumed he must have the right to do whatever it was. Including being in the hospital room of the newest Nie Sect member.</p><p>The medical supplies ready and waiting for Wen Qing to use were even more extensive than what she’d had prepared for her brother who had apparently had a flag pole thrust entirely through him. It was somewhat worrisome but Nie Mingjue assumed she knew what she was doing.</p><p>Unlike Wen Ning, Wei Wuxian was lounging on the hospital bed, leaning back against a wall, with his legs sprawled before him, and his flute in his hands.</p><p>He wore only a single layer of the lightest of undyed underrobes that were expected to not survive this process. There was a blazing fire in the grate, to keep him warm, as everyone else got a bit too hot in their regular layers of clothing.</p><p>“Will you be able to use the flute through this?” One of the Nie disciples asked, which Nie Mingjue had wondered at as well.</p><p>“I’ll have to switch to whistling eventually, but it’s easier to start with the flute.” Wei Wuxian answered easily.</p><p>“And when he can no longer whistle, we’ll have to do as much as we can and hope for the best.” Wen Qing added, much more tensely.</p><p>“Wait, how dangerous is this?” Jiang Cheng asked.</p><p>No one answered and Wei Wuxian started playing once more.</p><p>Somehow Nie Mingjue had thought there’d be a difference now that the tiger seal was destroyed, but if there was, it wasn’t anything he could sense. Wei Wuxian played and the resentful energy emerged from his pores and swirled around him like smoke. It swirled around in place, not going anywhere or doing anything, for long enough that Nie Mingjue actually noticed the rhythm in the music. There was a simple beat, like a heart-beat, and a longer cycle that went up and down before repeating again. It was on the third cycle that an extra trill was added and the resentful energy pulled back from Wei Wuxian’s left foot. As the resentful energy pulled back, the wounds appeared. The deep scratches and scrapes. Just as with Wen Ning, the wounds were unnaturally clean. Some of the punctures he could only see once blood began to swell up and out.</p><p>Wen Qing was there with poultices and powders and bandages.</p><p>Even as she was finishing the bandages on the foot, the resentful energy continue to retreat back up Wei Wuxian’s left leg, leaving more and more injuries visible. Mostly scrapes, but some scratches and one long gash that required stitches to hold closed. And then a splint to hold the leg still, as if it were broken, even though it was perfectly straight and Wei Wuxian had been walking on it all this time, even to walk to this hospital bed.</p><p>The receding resentful energy has revealed the entirety of Wei Wuxian’s left leg, reaching up even to his side and lower ribs, when there was a hitch in the playing.</p><p>“Keep your ribs protected as long as you can,” Wen Qing spoke for the first time. “Right leg is next.”</p><p>Wei Wuxian’s face is still and focused, not noticeably acknowledging anything around him or Wen Qing’s words, but the shadow of resentful energy expands just a bit, to cover the a bit more of Wei Wuxian’s lower left side. There’s a whole cycle of the music where nothing more happens, and then the next cycle and the shadow retreats from Wei Wuxian’s right foot. Except this time, Nie Mingjue is expecting it and is staring and can see when a whole slice of the skin on Wei Wuxian’s heel turns dark and translucent and drifts away, leaving a fresh wound. The blood wells up and Wen Qing is there to slather on a poultice and wrap a bandage.</p><p>Nie Mingjue is a brilliant cultivator in his family’s style and a brilliant war leader. Demonic cultivation is nothing he’s studied, but he’s beginning to realize the sheer scope of what Wei Wuxian has done with it.</p><p>When Wen Ruohan went mad with cultivating demonic power, he was tainting his body with its corrupting influence. Wei Wuxian’s body was already dying. None of the wounds that are being revealed are necessarily mortal so far, not the way Wen Ning’s was, but Nie Mingjue is quite aware that so far they’ve only revealed the wounds that are least able to stop Wei Wuxian from accomplishing his goals. His torso with all its internal organs, his head with all his thoughts, and his arms to hold the flute: all of that is left to be revealed. But in the meantime, Nie Mingjue can see the pattern of how Wei Wuxian used resentful energy to fill in the missing holes, created by whatever unknown torture he had suffered through.</p><p>He hadn’t realized that he had been confused by how closely Wei Wuxian and Wen Qing worked together, a fighter and a healer, until he discovered the answer: Wei Wuxian used resentful energy like a doctor used medicine. It made sense that they could understand one another.</p><p>It also made sense that for any healing process, there came a point when the patient had to stop using the medicines and the bandages. There had been more than one Nie Sect disciple that struggled with knowing when to use pain-relieving medicines and when to stop using them. For his whole life, physicians had always spoken to Nie Mingjue about knowing how to push his body to expand his limits but also when to stop and rest to assure he didn’t push too far too fast and limit himself all the more.</p><p>Wei Wuxian was a man who had used resentful energy to hold himself together and it had worked for years, but if he was going to have any chance of improving, he had to remove it before it tainted him.</p><p>The music did another repeat, but this time the shadow didn’t retreat any further. The entirety of both legs were free from the dark hazy energy, but also covered in bandages and splints.</p><p>“I’m ready for your arms, whenever you are,” Wen Qing said. Her voice was cold, clear, and clinical. She was focused in a way that was dehumanizing, that treated this living body as a thing, and yet Nie Mingjue could understand the necessity of that approach.</p><p>He wasn’t sure if Jiang Cheng or Lan Wangji could, because they both looked horrified and enraged in their very different ways. But at least they were holding back from interrupting.</p><p>There was a moment when the music stopped, and the silence rang loud in his ears.</p><p>It lasted for as long as a breath, and the swirling smoke of the resentful energy shifted and expanded before a sharp whistle called it back and suddenly revealed both of Wei Wuxian’s arms, from fingertip to shoulders, scrapped and gouged and broken.</p><p>Wen Ning, who had been standing, nearly forgotten at Wei Wuxian’s side, blending in to the wall behind him, darted forward, holding a square of silk fabric and plucked the flute Chenqing from his hands, before it could fall, and holding it carefully so that he never touched the flute with his own hands, held it against Wei Wuxian’s forehead, like a charm.</p><p>It was quick and done and then Nie Fiehong and Wen Qing both got to work, slathering on treatments and wrapping bandages and splints onto Wei Wuxian’s arms. Nie Fiehong on Wei Wuxian’s right and Wen Qing on his left. The bandages and the physicians own bodies hid much of what was happening, but there had been that one moment when both arms were revealed and nothing was hidden. It was shocking to see so many wounds so perfectly clean of all dirt or infection. There were bite marks that Nie Mingjue could recognize as having come from the human teeth of fierce corpses, and yet there was no dirt or decay in them that such fierce corpses left in their victims.</p><p>Whatever poison was in the resentful energy that Wei Wuxian had layered onto and into himself, it had attacked and destroyed the rot and infection that was already there first, leaving him wounded but clean. It hadn’t healed him any more than it had healed Wen Ning, but it had let him hold on until he could be healed.</p><p>“Your arms are done and there’s nothing that won’t heal well enough,” Wen Qing reported.</p><p>Wei Wuxian’s face was a study in concentration, but he continued to whistle.</p><p>It was possibly even more unnerving to hear that endless whistle than it had been to hear the flute. Anyone who wanted to learn Wei Wuxian’s skills at demonic cultivation would need to have impressive breath control before they even started.</p><p>Wen Qing stepped back from the hospital bed and actually turned away to drink a cup of water. After a moment, Nie Fiehong did the same from a cup that one of his assistants hurried to offer him. It had already been a long and stressful time and the worse was most definitely still to come.</p><p>Wei Wuxian whistled and the resentful energy thickened and darkened, and then the whistling hitched and stopped and Wei Wuxian gave a painful gasp and cough. For the first time, it looked like he had actually lost control. Then a sharp whistle that made everyone in the room flinch at the shrill piercing sound, but also pulled the energy into something clearly controlled and visible and dense. With another sharp tone that Nie Mingjue feared would actually cause his ears to bleed, the energy lifted away from Wei Wuxian’s body entirely, a dark image of a torso and head, suspended above him, and then flung entirely into the fire.</p><p>The fire roared, Wei Wuxian grunted in pain, and Wen Ning shifted to hold Wei Wuxian in his arms rather than let him slip and toppled down sideways against the wall. The infamous and dangerous Chenqing was tossed to one side to be out of the way.</p><p>Nie Mingjue had only a moment to see the clear unmarked skin of Wei Wuxian’s torso before it bloomed before his eyes into dark bruises showing the bleeding under the skin. Wen Qing barely waited for Wen Ning, who had casually shouldered Nie Fiehong aside, to straighten Wei Wuxian out on the bed, before cutting him open with her scalpel to get to the injuries insides.</p><p>Jiang Cheng gave a muffled cry, and Lan WangJi was so pale Nie Mingjue hoped someone was prepared to catch him if he fell.</p><p>Nie Mingjue thought that perhaps Wen Qing would be a good fit in the Nie after all, in a sect that was started by butchers.</p><p>“Jiang Cheng. You can begin to give him spiritual energy now, but slowly. Heal him like you would a civilian child: nothing that would overwhelm a body unused to spiritual energy.”</p><p>Jiang Cheng nodded jerkily before shifting to where Wen Ning had stood previously, against the wall and out of the way of the physicians at work, but able to lay a hand gently on Wei Wuxian’s forehead.</p><p>Lan WangJi reach out to put a hand onto Wei Wuxian’s foot, but Wen Qing didn’t even look up to say, “Stand back and don’t interfere. This is tricky enough as it is.”</p><p>Lan WangJi clenched his hand into a fist but did retreat again.</p><p>It was another long and bloody wait, even more so than with Wen Ning because Nie Mingjue was even less sure what was happening. There was no more music, just the sound of rustling sleeves and squelching blood and a few low murmurs of Wen Qing directing Wen Ning.</p><p>Nie Fiehong looked over Wen Ning’s shoulder, looking increasingly concerned and confused. “What are you…?” He said, before trailing off and then starting again, “Where is his…?”</p><p>“If this works, I’ll tell you later,” Wen Qing said, and then made more slices with her scalpels and placed more needles inside Wei Wuxian’s body where Nie Mingjue hadn’t thought any needles should ever need to be.</p><p>Then, “Lan WangJi, be prepared to pour as much power as you can into as small a point as you can, as suddenly as you can. And someone else, be prepared to catch him afterwards.”</p><p>Lan WangJi nodded with sudden assurance and actually looked less likely to pass out now that he had a goal to accomplish. “Mm.”</p><p>Nie Mingjue wondered how intentional it was that neither Wei Wuxian nor Wen Qing had apparently told anyone what exactly they were doing, not even the people they were asking to assist.</p><p>“What are you… that’s impossible. Do you actually think…” Nie Fiehong murmured, more to himself than anyone else, but Nie Mingjue was listening and so was everyone else.</p><p>“Attempt the Impossible,” Jiang Cheng practically barked.</p><p>“That’s what we’re doing here,” Wen Qing said almost absently. “Your brother is a menace and a bad influence. Jiang Cheng, keep your spiritual energy coming slow and steady. Do not get distracted.”</p><p>“Yes, madam.”</p><p>Nie Mingjue almost laughed at the look on Jiang Cheng’s face as he realized what he had must have said purely by reflex.</p><p>“Lan Wangji, pour as much as you can into this needle. Everyone else, close your eyes.”</p><p>Nie Mingjue was glad to have had even that half-second’s warning but would have welcomed a more thorough understanding of what he should expect. It was like a small sun suddenly burst into existence in the middle of where Wei Wuxian’s stomach had once been. He closed his eyes too late and even then, the light shown through his eyelids.</p><p>Nie Mingjue was left blinking his eyes, feeling the tears leak down his face and still having trouble seeing anything past the afterimage of what he’d just seen.</p><p>Through it all, Wen Qing had apparently continued to work, shifting her needles around inside the open wound that was Wei Wuxian’s chest and now smelled a bit too much like cooked meat. That smell did not bode well for his survival.</p><p>“Sister, did it work?” Wen Ning asked.</p><p>Rather than reply, Wen Qing asked, “Wei Wuxian, can you feel it?”</p><p>Nie Mingjue’s eyes flew to Wei Wuxian’s face. He’d assumed that Wei Wuxian was unconscious. That surely he had to have been unconscious after that last collapse, removing the rest of the resentful energy. Surely Wen Qing wouldn’t have cut him open like that if he were still aware. But Wei Wuxian’s lips were parted and panting and his eyes were slit open and glinting. “Can feel it.”</p><p>“Can you spin it? You need to spin it.”</p><p>“Can… not quite… trying…”</p><p>“It’s now or never. You have to hold onto it if you want to keep it.”</p><p>“It’s not… solid.”</p><p>“Then make it solid and stop wasting my time!”</p><p>“I can’t…”</p><p>“Jiang Cheng is giving you spiritual power from his core. Use it!”</p><p>“I… okay.”</p><p>“Okay?”</p><p>“I think…”</p><p>“Okay. I see it. You’ve got it. Keep doing that. And stay awake.”</p><p>“I’m trying.”</p><p>“Good.” Whatever it was that was done, Wen Qing seemed to finally be satisfied with because she had shifted from her acupuncture needs to her sewing needles. Nie Fiehong meanwhile was looking completely dumbfounded, just staring into the opening in Wei Wuxian’s stomach.</p><p>“Jiang Cheng, let me know if Wei Wuxian starts pulling energy from you, rather than just receiving it.” Wen Qing directed, and Nie Mingjue found himself startling again. That wasn’t something that people were supposed to be able to do. Outside of some of the more lurid erotic stories, cultivators couldn’t simply pull spiritual power from each other.</p><p>Jiang Cheng merely said, “Mm.”</p><p>It occurred to Nie Mingjue that there might have been more than one reason why Wen Qing and Wei Wuxian had been secretive about exactly what they were doing here. Nie Mingjue was fairly sure both Jiang Cheng and Lan Wangji could be trusted not to spread the details about what had happened here, but he’d need to make sure all the physicians and physician assistants knew that this was a matter of sects secrets too. After going to so much trouble to destroy the yin tiger seal to prevent the other sects from being scared enough of Wei Wuxian to attack preemptively, they didn’t need rumors getting out that he could drain them of their power as well.</p><p>Wen Qing continued to sew and shift and sew and shift until eventually she was sewing up the wound that she had cut herself in Wei Wuxian’s abdomen.</p><p>“Are you still awake, Wei Wuxian?”</p><p>“Mm.”</p><p>“Good. Jiang Cheng, keep giving him spiritual energy at the rate you’re doing it, for as long as you can, but stop if he falls asleep, or if he starts pulling it from you.” Wen Qing took two steps away from and then turned back. “Or if you start running low. Normally I take it for granted that people know to stop when they’re done, but you and your brother…” she shook her head. “I’m going to go clean up.”</p><p>She left, casually stepping around Lan Wangji, where he’d apparently been meditating on the floor after completely emptying himself of spiritual power in a single brilliant burst. Nie Mingjue thought that he really should have the man moved to rooms appropriate to the status of the Second Jade of the Lan, but Lan Wangji sure didn’t seem willing to move based on the urgings of the Nie Fiehong’s assistant.</p><p>Thinking of which, “Fiehong? What did they just do?”</p><p>“I… it seems impossible. I don’t want to guess and be wrong.”</p><p>“It was a golden core, wasn’t it?” Jiang Cheng said. “It was a brand new golden core because you haven’t had one for years, have you?”</p><p>“Jiang Cheng,” Wei Wuxian sighed.</p><p>“I’m not sure what exactly happened, but I know you lied to me and hid from me.” Jiang Cheng didn’t even sound angry. He just sounded soft and tired. “And I probably deserved it for not being the kind of Sect leader who could protect you.”</p><p>“That’s not!” Wei Wuxian actually seemed to be struggling to sit up, with his bruised stitched torso and splints on every limb.</p><p>“Lay down!” Nie Mingjue, Nie Fiehong, Wen Ning and Jiang Cheng all yelled over each other. Wei Wuxian collapsed back down, all of the inch he’d managed to rise.</p><p>Lan Wangji bolted up, looking around wildly, with one hand on his sword, clearly confused, and this time the medical assistant caught him before he slumped down to the floor again.</p><p>Wen Qing came skidding back into the room. “What happened?”</p><p>There were guilty looks all around. Wen Qing gave Wen Ning a piercing look and he caved, “Wei, Wie Wuxian tried to sit up.”</p><p>Wen Qing closed her eyes, took a deep breath, let it out, and then stomped over to the bedside. “You! The chances of your golden core working properly increase the longer you keep it spinning consciously, in the hope that it will continue to do so unconsciously when you finally do fall asleep. However, the golden core doesn’t matter if you die of internal bleeding before it even gets a chance to work. So if you don’t stay still, I will knock you unconscious. Do you understand?”</p><p>“I…,” Jiang Cheng started.</p><p>“I’m not talking to you. You are doing exactly as you should, sitting quietly and giving him spiritual energy. I’m talking to this idiot here. Wei Wuxian, do you understand?”</p><p>Wei Wuxian looked amazingly stubborn for being so obviously injured and so thoroughly bandaged.</p><p>“I’ve brought a way to keep him calm!” Nie Huaisang suddenly appeared. He was carrying a small child and escorting an old woman. Both of them were wearing Nie sect robes, but Nie Mingjue didn’t recognize either one. With everything else that had been going on, Nie Mingjue realized that it had been too long since he’d last seen Huaisang, who was clearly finding new ways to get into trouble.</p><p>The old woman was looking with something close to horror at Wei Wuxian’s appearance.</p><p>Wen Qing looked delighted to see them. “Granny!”</p><p>Nie Mingjue looked at his little brother. “You went to the Burial mounds without me?”</p><p>“Well, I wasn’t going to just stay and watch another surgery like that last one. Sorry, brother Wei, brother Wen, it was just too gross.”</p><p>“You’re forgiven. Now give me A-Yuan!”</p><p>“Nope! You don’t get A-Yuan until you’re healed. Unless you promise to stay very, very still, then A-Yuan will nap with you.”</p><p>Nie Mingjue took a moment to think about all the things that needed to be done in this room. Several of the people in this incredibly crowded room needed to have long conversations with each other, most of them needed to have a significant amount of sleep, some of them needed an authority figure to tell them to calm down. And none of it needed to be his problem right now.</p><p>He clapped a hand to Huaisang’s shoulder and enjoyed the look of dismay that crossed his brother’s face. “Welcome home, Huaisang. Thank you for retrieving our newest group of residents. You’re just in time to sort things out here. Make sure everyone gets settled into their appropriate rooms. I’m headed to bed.”</p><p>Nie Mingjue left the room before Huaisang had a chance to object. In the last two weeks, he’d watched two horrific surgeries for all they were successful, and seen two demonstrations of amazing musical demonic cultivation, and hosted half a dozen sect leaders one of whom was still sitting in his hospital. Two weeks in the life of a Sect leader.</p><p>The next two weeks would probably be just as busy. He really would need to assign Wei Wuxian his own training field once he was healed, and maybe assign Jiang Cheng a permanent room here too now that they had an alliance.</p><p>But so far, the Nie had not declared war or had war declared on them so Nie Mingjue was willing to accept it as success.</p></div>
+        <!-- end cache -->
+    </div>
+<!--/chapter-->
+
+    <!--afterword-->
+    <div class="afterword preface group" role="complementary">
+        <!--series links, backwards and forwards-->
+<div id="series" class="series module">
+  <h3 class="heading">Series this work belongs to:</h3>
+  <ul>
+      <li><span class="series"><span class="position">Part 1 of the <a href="/series/2204673">everyone has a braincell of their very own</a> series</span><span class="divider"> </span><a class="next" href="/works/29974308">Next Work &#8594;</a></span></li>
+  </ul>
+</div>
+<!--/series links-->
+    </div>
+    <!--/afterword-->
+
+  </div>
+  <!-- END work skin -->
+<!-- END work -->
+
+<!-- BEGIN comment section -->
+<!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="jA45RxzPmllAz48DJqRTOM8ByQL8VXWaSPrpiV06tK_yq0TJoZpIiUNLZ6uGzgmmvFbPLIXq3_a6Joc_6BFLaw"/>
+          <input value="29914395" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?work_id=29914395">Comments (152)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/StorytellingGhost">StorytellingGhost</a>, <a href="/users/Madley">Madley</a>, <a href="/users/kvarg">kvarg</a>, <a href="/users/luxroyalty">luxroyalty</a>, <a href="/users/Septdeneuf">Septdeneuf</a>, <a href="/users/andifweletgo">andifweletgo</a>, <a href="/users/T7wangxian">T7wangxian</a>, <a href="/users/SanctimoniousSibilance">SanctimoniousSibilance</a>, <a href="/users/TenAltius">TenAltius</a>, <a href="/users/stachu">stachu</a>, <a href="/users/cutecobain">cutecobain</a>, <a href="/users/DrowsyTea">DrowsyTea</a>, <a href="/users/simoneoe">simoneoe</a>, <a href="/users/bookwormxoxoxoxox">bookwormxoxoxoxox</a>, <a href="/users/willowbeecat">willowbeecat</a>, <a href="/users/Shirorie">Shirorie</a>, <a href="/users/Kurayami_Tsuki">Kurayami_Tsuki</a>, <a href="/users/skyscrapers">skyscrapers</a>, <a href="/users/alisonlynn">alisonlynn</a>, <a href="/users/Chimera0211">Chimera0211</a>, <a href="/users/shadownight28">shadownight28</a>, <a href="/users/Smidgen">Smidgen</a>, <a href="/users/theredqueen">theredqueen</a>, <a href="/users/herstrawberrypizza">herstrawberrypizza</a>, <a href="/users/Rosileecatmum">Rosileecatmum</a>, <a href="/users/galimeril">galimeril</a>, <a href="/users/LunaCascabel">LunaCascabel</a>, <a href="/users/ArtyRave27">ArtyRave27</a>, <a href="/users/AShippingAddict">AShippingAddict</a>, <a href="/users/CaspiaMistyBlue">CaspiaMistyBlue</a>, <a href="/users/Zela_Night_Phantom">Zela_Night_Phantom</a>, <a href="/users/sapphiresong">sapphiresong</a>, <a href="/users/bellalovesrevolution">bellalovesrevolution</a>, <a href="/users/Hallowtide">Hallowtide</a>, <a href="/users/staccato">staccato</a>, <a href="/users/Kaeerie">Kaeerie</a>, <a href="/users/Ninika_Zwolf">Ninika_Zwolf</a>, <a href="/users/LadyKatelynna">LadyKatelynna</a>, <a href="/users/ParadoxPotentia">ParadoxPotentia</a>, <a href="/users/Araminah">Araminah</a>, <a href="/users/Walburg">Walburg</a>, <a href="/users/faustine">faustine</a>, <a href="/users/musiciansmelody">musiciansmelody</a>, <a href="/users/sillsant">sillsant</a>, <a href="/users/cyber_inkblot">cyber_inkblot</a>, <a href="/users/SoneaDragon">SoneaDragon</a>, <a href="/users/gayatridoes">gayatridoes</a>, <a href="/users/the_incidental_author">the_incidental_author</a>, <a href="/users/Shypsheesh">Shypsheesh</a>, <a href="/users/Magnezium">Magnezium</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/29914395/kudos?before=3863003137">2222 more users</a>
+             as well as 
+          621 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_29914395">
+  <form class="new_comment" id="comment_for_29914395" action="/works/29914395/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="bxEXvafK2q7pfMbG-wB_P83Jg-CSSR1pdgIlbzb2wfARtGozGp8Ifur4Lm5baiWhvp6Fzuv2twWE3kvZg90-NA"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_29914395">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_29914395" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_29914395=new LiveValidation('comment_name_for_29914395',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_29914395.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_29914395">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_29914395" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_29914395=new LiveValidation('comment_email_for_29914395',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_29914395.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_29914395" class="landmark">Comment</label>
+        <textarea id="comment_content_for_29914395" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_29914395" name="controller_name" value="works"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_29914395_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_29914395">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_29914395=new LiveValidation('comment_content_for_29914395',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_29914395.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_29914395.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_29914395" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+<!-- END comment section -->
+<!-- END revealed -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/29914395/hit_count.json")})</script>
+
+
+  </body>
+</html>

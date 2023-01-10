@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        phone calls and photo albums - Bundibird - Supernatural [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="iFrZeCnjiX0uaUyogUS7e7EbMl03UIiOyMRFMXYHrrTbxzU9BGWV7MbIbUW286CenVHj0LiQOiYoTp8eZaE-Jg"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="DqxWwWGGX6PiNhvASi0mAeQOGxSekhthod9dj_T_BsNdMbqETABDMgqXOi19mj3kyETKmRFSqclBVYeg51mWUQ"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: katekyou &quot;alternate universe&quot; sort:&gt;words</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="works-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<ul class="landmark skip">
+  <li><a name="top">&nbsp;</a></li>
+  <li><a href="#work">Skip header</a></li>
+</ul>
+
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+<!-- BEGIN revealed -->
+<!-- BEGIN work -->
+<!--work description, metadata, notes and messages-->
+    <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?work_id=29399964">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/29399964/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/29399964/phone%20calls%20and%20photo.azw3?updated_at=1640618052">AZW3</a></li>
+          <li><a href="/downloads/29399964/phone%20calls%20and%20photo.epub?updated_at=1640618052">EPUB</a></li>
+          <li><a href="/downloads/29399964/phone%20calls%20and%20photo.mobi?updated_at=1640618052">MOBI</a></li>
+          <li><a href="/downloads/29399964/phone%20calls%20and%20photo.pdf?updated_at=1640618052">PDF</a></li>
+          <li><a href="/downloads/29399964/phone%20calls%20and%20photo.html?updated_at=1640618052">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Teen%20And%20Up%20Audiences/works">Teen And Up Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Gen/works">Gen</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandom:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Supernatural/works">Supernatural</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationship:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Adam%20Milligan%20*a*%20Dean%20Winchester/works">Adam Milligan &amp; Dean Winchester</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Dean%20Winchester/works">Dean Winchester</a></li><li><a class="tag" href="/tags/Adam%20Milligan/works">Adam Milligan</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/this%20fic%20started%20as%20a%20100-word%20note%20in%20my%20phone%20and%20then%20became%20a%204k%20tumblr%20fic/works">this fic started as a 100-word note in my phone and then became a 4k tumblr fic</a></li><li><a class="tag" href="/tags/and%20now%20it&#39;s%2012*d*57%20am%20and%20it&#39;s%2010*d*5k%20words/works">and now it&#39;s 12.57 am and it&#39;s 10.5k words</a></li><li><a class="tag" href="/tags/no%20beta%20we%20die%20like%20men/works">no beta we die like men</a></li><li><a class="tag" href="/tags/also:%20HILARIOUS%20that%20i&#39;ve%20been%20losing%20my%20mind%20for%20100%20days%20straight%20over%20destiel/works">also: HILARIOUS that i&#39;ve been losing my mind for 100 days straight over destiel</a></li><li><a class="tag" href="/tags/(and%20it%20is%20a%20hundred%20days%20today%20since%20November%205th;%20happy%20anniversary%20y&#39;all)/works">(and it is a hundred days today since November 5th; happy anniversary y&#39;all)</a></li><li><a class="tag" href="/tags/and%20yet%20my%20first%20spn%20fic%20in%20years*d**d**d**d**d*%20is%20it%20a%20destiel%20fic*q*%20No%20it%20is%20not*d*/works">and yet my first spn fic in years..... is it a destiel fic? No it is not.</a></li><li><a class="tag" href="/tags/its%20a%20genfic*d*/works">its a genfic.</a></li><li><a class="tag" href="/tags/i%20mean%20what%20else%20could%20you%20expect%20of%20me%20really/works">i mean what else could you expect of me really</a></li><li><a class="tag" href="/tags/i%20have%20a%20BRAND%20and%20that%20brand%20is%20genfic/works">i have a BRAND and that brand is genfic</a></li><li><a class="tag" href="/tags/anyway%20here%20have%20a%20found-family%20fic%20where%20they&#39;re%20technically%20already%20family/works">anyway here have a found-family fic where they&#39;re technically already family</a></li><li><a class="tag" href="/tags/but%20they%20don&#39;t%20know%20that%20and%20they%20find%20each%20other%20by%20accident/works">but they don&#39;t know that and they find each other by accident</a></li><li><a class="tag" href="/tags/also:/works">also:</a></li><li><a class="tag" href="/tags/John%20Winchester&#39;s%20A+%20Parenting/works">John Winchester&#39;s A+ Parenting</a></li><li><a class="tag" href="/tags/reference%20to%20John%20Winchester&#39;s%20journal/works">reference to John Winchester&#39;s journal</a></li><li><a class="tag" href="/tags/Alternate%20Universe%20-%20Canon%20Divergence/works">Alternate Universe - Canon Divergence</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2021-02-13</dd><dt class="words">Words:</dt><dd class="words">10496</dd><dt class="chapters">Chapters:</dt><dd class="chapters">1/1</dd><dt class="comments">Comments:</dt><dd class="comments">83</dd><dt class="kudos">Kudos:</dt><dd class="kudos">776</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/29399964/bookmarks">203</a></dd><dt class="hits">Hits:</dt><dd class="hits">2949</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      phone calls and photo albums
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/Bundibird/pseuds/Bundibird">Bundibird</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>Sammy is 18, and off at College. John is 43, and in the wind, chasing whispers. Dean is 22, and alone.</p><p>And Adam Milligan is 16, and fighting with his mom, and wants to come and stay with his dad for a while.</p><p>Too bad John left his phone with Dean before he fucked off into the sunset.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>In addition to having John go missing four years earlier than in canon, I've also aged Adam up a bit, because canonically, he was born in 1990. Which means he was all of 11 baby-faced years old when Dean was 22. I genuinely did not realise he was that young. The kid was only 15 when the series began, and he died at the grand young age of 19. That's so damn sad. </p><p>Anyway, I wanted all of the angst of a freshly abandoned 22 year old Dean plus all the angst of a surprise teenaged baby brother. So for the purposes of this fic, Adam is 16, which is only 6 years younger than Dean (and 2 years younger than Sam).</p>
+    </blockquote>
+
+</div>
+
+
+  </div>
+
+
+<!--/descriptions-->
+
+<!--chapter content-->
+    <div id="chapters" role="article">
+        <h3 class="landmark heading" id="work">Work Text:</h3>
+          <div class="userstuff"><p>It takes Dean several long moments to trace the source of the ringing, and once he does, a bolt of dull hurt lances through him. </p><p> </p><p>Because it's Dad's phone. The one the guy deliberately left behind – the one that Dean had found on the TV table in their shitty motel room four months ago, pointedly left on top of a note that said "Keep this charged and on," and which then said, on a separate line, "Caleb's coming up to finish the hunt with you," and nothing else. </p><p> </p><p><em>Keep it charged and on, </em>because it's the number that Dad would give out to almost everyone they encountered when on hunts, telling them to call if they remembered anything, or if they saw anything strange. They've been directed to more than one new hunt thanks to calls coming through to this phone. </p><p> </p><p>And <em>Caleb's coming up to finish the hunt with you, </em>because they'd been in the middle of a vamp hunt when John decided to give into his urge to go off on a fucking sabbatical, or whatever. Middle of a hunt, and he just up and leaves, without so much as a fucking goodbye. </p><p> </p><p>He'd had enough time to call Caleb and get him to come back Dean up on the hunt, but in too much of a hurry, apparently, to bother to say so much as <em>goodbye </em>to Dean. In too much of a hurry to say where he was going, or to leave any kind of contact information, or even a fucking arrow pointing in the direction he'd gone in. None of that. No time for any of that. </p><p> </p><p>But time enough to sneak out of the twin-bed motel room while Dean was sleeping, call Caleb and tell him to get his ass up to Minnesota, and then sneak back inside to pack his shit silently enough to avoid waking Dean, before heading out to his truck and fucking off to Mysteryville, leaving Dean asleep and alone and abandoned behind him. </p><p> </p><p>Anyway, the point is: every time Dean sees that damn phone, it makes his heart clench in his chest. Never mind that it was four months ago; the ache of having been ditched so pointedly by John – and so fucking soon after having been ditched by Sammy, too, which is just peachy – still flares sharp and bright in his chest each time before fading out to a dull pain. The kind of pain you'd think Dean would have learned to ignore by now, given how long he's been living with it. </p><p> </p><p>Cursing himself for his pathetic thoughts, Dean grits his teeth and flips the phone open. </p><p> </p><p>"This is Dean," he greets, voice gruff and a little bit sharp. </p><p> </p><p>"O– oh," someone says – a young someone, going by the sound of their voice. </p><p> </p><p>"Oh, sorry, I think– " the voice continues, stumbling over the words. "I think I have the wrong number, I'm looking for John Winchester?" </p><p> </p><p>"Yeah, he's not available right now," Dean says shortly, ignoring the customary flare of hurt in his chest. "But I'm his son, so whatever it is, I'll probably be able to help." </p><p> </p><p>"His – " the voice (male, and young – in his late teens at most, going by the sound of his voice) says, sounding startled. "His <em>son?" </em></p><p> </p><p>"Yeah," Dean confirms, rolling his eyes. "Look, just so you know? I'm in the same line of business that he is, so whatever the problem is, tell me, and I'll handle it." </p><p> </p><p>"Oh, no, it's – it's not a business call," the kid says. "It's, um. A personal matter? I guess?" </p><p> </p><p>"Alright, well, you can either tell me your <em>personal matter, </em>or you can hang up, 'cause Dad's been in the wind for months now and I'm your only option, so," Dean says, his already-limited patience fraying further with every stumbling word this kid says. </p><p> </p><p>"In the wind?" the kid says, sounding one-part confused and one-part alarmed. "What do you mean, in the wind?" </p><p> </p><p>"I mean he packed his shit one night and fucked off to who knows where, and no one's seen or heard from him since," Dean snaps, the last threads of patience snapping and giving way to the anger and frustration he's been trying for the last four months to keep bottled up. "We know that he wasn't abducted or whatever, because he left his phone behind with a note saying he'd organised for someone to come help me finish the job we were in the middle of. So do you want my help with whatever your problem is, or not? Because Dad's not around, so it's me or nothing, kid." </p><p> </p><p>"Oh," the kid says, sounding kinda small, and Dean feels a flare of guilt and lets out an irritated sigh. </p><p> </p><p>"Look, sorry," he relents, and the annoyance and frustration both bleed out of him until all he's left with is a bone-weary exhaustion. "But seriously, whatever your issue is? He's not around to help. So do you want my help instead, or not?" </p><p> </p><p>"Um, no, it's – it's fine. I just, I'll just, um. Never mind. Bye," the kid says, and then all of a sudden, Dean's got nothing but a dial tone in his ear. </p><p> </p><p>"Fine, whatever," he says with a shrug, flipping the phone closed and tossing it on the bed beside him before going back to his burger. Kid doesn't want his help, that's fine; Dean's halfway through reading about a potential hunt in Arkansas, phone call already dismissed from his mind as he reads the lengthy article about the surprisingly high number of people who go missing at Lake Dardanelle each year. Summer's only just started, there'll be swathes of people heading to the lakes, so if there's something in Dardanelle, then it needs to be dealt with before more people die. </p><p> </p><p>Ten minutes later, Dean's finished his burger and only has a few of his fries left, and has decided that yeah, Dardanelle is definitely deserving of a visit, and John's phone rings again. </p><p> </p><p>Dean blinks in mild surprise and looks at it blankly. Huh. Looks like the kid changed his mind. It's gotta be the kid again, because the likelihood of Dad's usually-quiet phone ringing <em>twice </em>in the span of ten minutes and having them be <em>different </em>callers is practically negligible. </p><p> </p><p>"Yeah," he greets shortly, once he's flipped the phone open.  </p><p> </p><p>"Hey, sorry, uh," the kid says. "Um, I've decided that I do need your help, actually." </p><p> </p><p>Dean makes a <em>called it </em>face, but keeps it out of his voice as he says, "Sure. What's the problem." </p><p> </p><p>"Um, I should probably start with – " the kid says, and he's fumbling his words again. Dean's used to it; folks aren't usually keen to just come right out and say shit like <em>I saw my neighbor in his window but he's been dead for five years </em>or <em>so I think my house is haunted </em>or <em>there's a monster in the woods </em>or whatever. It almost always takes the witness a bit to build up to it, because its always the kind of shit that regular people wouldn't believe for a second. The kind of shit that might get you thrown in the nuthouse, if you talk about it to the wrong person. These kinds of calls, there's always a bit of hemming and hawing as the witness tries to work out how to say "I saw something crazy" without coming across as, well. Crazy. </p><p> </p><p>Doesn't mean it's not annoying as hell, though. </p><p> </p><p>"Kid, whatever it is you have to say, I promise, I won't be surprised," Dean says, cutting off more of the boy's directionless babbling and hoping to prompt some direct sentences out of him. "My line of work, I've heard all kinds of weird shit. You aren't gonna shock me." </p><p> </p><p>"Ok, um," the kid says, and takes a bracing breath. Then he continues, his voice one-part hopeful and one-part hesitant. "I'm, uh. I'm Adam. Adam Milligan?" </p><p> </p><p>Dean's silent for a moment, waiting for the kid to continue – waiting for the kid to get to the point. </p><p> </p><p>"...Ok?" he eventually says, when it becomes apparent that the kid – Adam, apparently – isn't planning on saying anything else without further prompting.</p><p> </p><p>Adam lets out a short but explosive gust of air. </p><p> </p><p>"Ok," he says. "Ok, so, you don't know about me, clearly. Which, I mean, I guess makes sense, since I didn't know about you either, so –"</p><p> </p><p>"Kid, what are you talking about," Dean says, and it's less a question and more an irritated demand. He's got shit to do, and he doesn't appreciate sitting here on his dad's phone listening to some random teen babble nervously. </p><p> </p><p>His sharp words must do something to kick the kid into action, because he blurts out his next words abruptly. </p><p> </p><p>"I'm John's son," Adam says, so quickly that the words almost tangle together. </p><p> </p><p>Dean freezes. </p><p> </p><p><em>Huh, </em>thinks a very distant part of his brain. <em>Turns out the kid <strong>could</strong> shock him. </em></p><p> </p><p>"You're <em>what?" </em>he asks, after a moment, voice incredulous and stunned and bordering on angry. </p><p> </p><p>"Yeah, um, and I'm kinda stranded?" the kid says, and now that he's started talking, the words just pour out of him like air out of a pierced car tyre. "See, my report this year was, uh, <em>really </em>shit, and mom's <em>super </em>pissed about it, and we'd already been fighting a lot cause she's got this new boyfriend and he's a <em>dick </em>and she asked him to move in with us, and then all my results came through and school has never really been my thing anyway but this year was even <em>worse </em>than usual, and as if it wasn't bad enough that mom was pissed about it, then fucking <em>Brian </em>starts to get all on my case about it, like he's my dad or something, and anyway I told him where to shove it and mom hit the <em>roof, </em>and I said I didn't want to spend my summer with that asshole breathing down my neck and mom was like <em>well you've got no choice cause he lives here now, </em>so I waited til they'd gone to bed and I packed a bag and I left and I tried to hitchhike to South Dakota but I only got halfway and I've been stuck in Cottonwood for like a day and I was hoping Dad could come pick me up and take me the rest of the way and I could stay with him for the summer, but you said he's MIA so I guess I'm hoping you might come get me instead." </p><p> </p><p>Dean feels... actually, Dean's not sure what he feels, exactly. Winded, by that whirlwind of words, but also shocked and with no small amount of something that might be furious incredulity. </p><p> </p><p>"Hold on, back the fuck up for a second here," he says, because yeah, no, he needs the kid to rewind. "You're trying to tell me that you're John's kid. John Winchester. As in, my dad. You're telling me that <em>my dad </em>has another kid. That I never knew about. Is that seriously what you're saying right now?" </p><p> </p><p>"I mean," Adam says, and he sounds mulish. He sounds like Sammy, actually, whenever the kid would get into a strop, and <em>nope </em>we are not making comparisons between Sam and this random teenager, absolutely not. "I didn't know about you either. Trust me, I'm just as surprised to find out about you as you are about me." </p><p> </p><p>"Prove it," Dean says, because no, no way. No <em>way </em>would Dad— but then, maybe he would, though. Not like Dean knows him as well as he thought he did, after all, what with this whole going totally off the grid bullshit that he's pulled. Dean never would have expected John to go totally dark like this – and yet.</p><p> </p><p>"Prove – what?" Adam asks, sounding slightly derailed. "That I'm as surprised as you are? That's. Kind of a hard thing to quantify – "</p><p> </p><p>There he goes again, sounding like Sammy. Casually throwing around words like <em>quantify, </em>who even says that?</p><p> </p><p>"No, dumbass," Dean interrupts. "Prove you're John's son." </p><p> </p><p>"Oh," Adam says, and then when he speaks again a second later, Dean can <em>hear </em>the offended frown in his voice. "And how do you want me to do that, huh? It's not like I brought my birth certificate with me when I ran away from home." </p><p> </p><p>"Like that couldn't be forged, anyway," Dean scoffs. "Tell me something about him. Tell me shit that only his son would know." </p><p> </p><p>"So... just to clarify, <em>I </em>believe <em>you </em>right off the bat when you say you're his son, but <em>I </em>get the third degree?" the kid says, sounding snippy. </p><p> </p><p>"Yeah," Dean confirms, unrepentant. "Cause <em>I </em>have his phone, which you know 'cause you called it, and also <em>I </em>have spent the last 18 years travelling with him, and I'm finding it kinda hard to work out when he would have had time to sneak off and create a whole second baby brother for me." </p><p> </p><p>"Wait— second?" the kid asks, surprised out of his wounded pride. "What do you— do I have <em>another </em>sibling? Besides you?" </p><p> </p><p>"I'm not convinced that you have <em>any </em>siblings, not yet," Dean says, refusing to bring Sam into this just yet. "Not until you convince me you're really who you say you are." </p><p> </p><p>The kid huffs, offended and irritated all at once. </p><p> </p><p>"<em>Fine</em>. My name is Adam Milligan, I was born in '85, my mom's name is Kate. She got pregnant with me by surprise, and when she called John to tell him, he didn't believe her. Which is turning out to be a family trait, <em>apparently</em>." </p><p> </p><p>That last bit is said somewhat bitterly, and with a hurt sting to it that Dean forces himself to ignore. He's not just gonna buy into this bullshit cause the kid's a good actor. </p><p> </p><p>Adam doesn't appear to be expecting a response to his barbed comment, because he continues on without pause. </p><p> </p><p>"Mom was like <em>well if you're so sure he's not yours, you'll be happy to do a paternity test to rule it out, right? </em>and John agreed, and the paternity test confirmed that yeah mom wasn't lying. I didn't pack the paternity report either, in case you're wondering." </p><p> </p><p>Again with the waspish hurt, Dean thinks, pressing his lips together in unimpressed irritation as the kid goes on.  </p><p> </p><p>"Anyway, with John living in Sioux Falls and Mom in Minnesota, Mom pretty much raised me by herself – until fucking <em>Brian </em>came along this year, at least – " Adam continues, anger and dislike bleeding into his voice at the mention of Brian – but Dean's still stuck on the part where he said Dad lived in Sioux Falls. </p><p> </p><p>The Winchesters have never really lived anywhere – not since they left Lawrence – but the closest thing they <em>have</em> to a home base is Sioux Falls. It's where Dad kept bringing them back to, once he met Bobby. Old Singer might be a gruff old grump, but he's got a library collection better than most colleges, and he's got a couple spare rooms and a willingness to let a hunter and his kids crash there every now and then, so Bobby's house is the place where Dean's probably spent the most cumulative amount of time, all told. John too, even with how often he'd leave Sam and Dean with Bobby and go off hunting on his own, returning a week or a month or so later, tired and grumpy but successful. </p><p> </p><p>And Dean's stuck on the fact that Adam's mentioned the town, because <em>Bobby's the only one who knows</em>. Bobby's the <em>only one </em>who knows that South Dakota is the closest thing to a home base the Winchesters have, these days. The only one who knows that sometimes, when he was injured between hunts, John would stay for anywhere up to a few months at a time, alternating between reading up on lore and working in the salvage yard as he healed, and Dean and Sam would get a chance to see what it felt like to settle in one place for more than a few weeks. Dean knows that there are other hunters out there, but he knows barely any of them. Bobby and Pastor Jim and Caleb, and that's <em>it, </em>because John doesn't <em>like </em>other hunters. Doesn't trust them. So Dean knows for a <em>fact </em>that John would never tell any of them how much time he spends in South Dakota. How it was always his go-to place whenever he needed to drop his kids off somewhere safe for a while, or when he needed to recover between hunts. </p><p> </p><p>Bobby's the only one who knows. Bobby, and this Adam kid, apparently. To the extent that Adam apparently thinks John lives there full time, sure, but still. </p><p> </p><p>Adam, completely unaware of Dean's rapid-fire thoughts, continues on. </p><p> </p><p>"Dad only comes to visit a couple of times a year, so it's not like I've spent, you know, <em>ages </em>with him. But I <em>can</em> tell you that he drives a huge black Chevy truck, and it's always spotless, and he says that the best way to make sure you never run out of gas is to <em>Treat the quarter-way mark on the gauge as though it's the empty marker, </em>and he hates Coke but loves Pepsi, and he likes the post-mix stuff better than he likes it canned or out of a bottle, even though it tastes the <em>same</em>, and he gets the onions put underneath his hotdog instead of on top cause he's a fucking <em>weirdo, </em>and whenever the Royals are playing the Twins, he always comes up and we go, and one time we were there the person like three seats ahead of us caught the ball and we were shown on the big screen, and<em>—"</em></p><p> </p><p>"Hold up, stop," Dean interrupts, because what the fuck? <em>Ball games? </em>Come on. The kid might know about Sioux Falls, somehow, and yeah ok Dad <em>does </em>say that about the petrol gauge, and he <em>does </em>like post-mix soda better than canned soda, and he puts his onions underneath his hotdogs cause they're less likely to fall off that way, but what the fuck. Ball games? The Kansas fucking City Royals? The kid's making this shit up. </p><p> </p><p>"My dad's never been to a baseball game in his life, so stow the crap," Dean says. "Now I got no idea how you know that other shit, but quit fucking with me. I'm serious." </p><p> </p><p>"What do you mean?" the kid asks, and he sounds genuinely confused. "John… John loves baseball...?" </p><p> </p><p>Dean barks a laugh, and it sounds bitter and angry and sharp. </p><p> </p><p>"Loves baseball, sure, ok," he scoffs. "Kid, I dunno who's fed you this shit, but you gotta do better research if you think you're gonna con me into this whole story. My dad does <em>not </em>love baseball. My dad couldn't name a single baseball team if you waterboarded him." </p><p> </p><p>"Well unless we're talking about a different John Winchester, then <em>yeah, </em>actually, he <em>does </em>love baseball," the kid snaps back, indignant and offended and just as sharp as Dean. "I've got the photos to prove it. And he supports the Royals even though they're <em>shit,</em> cause he was originally from Kansas and he says you should never let go of your roots, and when I was still in Little League he wasn't able to come up for many of my games, but we <em>did </em>make the finals one year and he came and watched it, and took me out for burgers after even though we lost." </p><p> </p><p>There's a maelstrom of emotions swirling through Dean's chest. </p><p> </p><p>Disbelief, mostly, because come the fuck on, as if. </p><p> </p><p>But there's also a surprisingly strong swirl of jealousy, because Dean's life diverged away from the possibility of Little League baseball games and commiseration dinners with his dad a <em>long </em>time ago. And that's fine. It is. Would Dean have <em>liked </em>an apple pie life with a mom and a dad cheering for a stupid children's baseball team? Sure. But that was never on the cards for Dean, and that's ok. It’s genuinely fine – Dean gave up wanting that kind of life years ago, because he knows there’s more important things, and he accepted that some time in his mid-teens.</p><p> </p><p>Which is why it's surprising that there's such a bright and painful twist of envy in his chest at the thought of Dad doing all those things with some random other kid, but not with Dean and Sam. </p><p> </p><p>There's also a creeping sense of wary doubt. Because the kid – he sounds super convinced. He sounds like he fully believes what he's saying. He believes John Winchester is his dad, and he believes that his dad took him to ball games and came to his LL matches. And Dean... doesn't know what to do with that. </p><p> </p><p>"You've got pictures?" he asks, and it sounds more like a disbelieving statement than a question, but whatever. </p><p> </p><p>"Yeah," Adam says, and he still sounds belligerent and pissed and sulky all at the same time. </p><p> </p><p>"You've got photographs. Of my dad. With you. At baseball games," Dean clarifies, because this – this is something he can focus on. This is something tangible that he can see and assess with his own two eyes. "And you actually have them with you – they're not with your birth certificate and the paternity report back at your mom's place?" </p><p> </p><p>"Yeah, I have them with me," the kid confirms, irritated. "I was moving out, I wasn't gonna leave them behind." </p><p> </p><p>Dean pauses. </p><p> </p><p>"You were moving out, but you didn't think to take your birth certificate?" he asks. </p><p> </p><p>"Shuddup," Adam says, and Dean experiences a weird moment of disorientation, because the kid sounded <em>just </em>like Sammy there. Dean can almost picture the way the kid would have dropped his chin and flushed a dull pink. </p><p> </p><p>"Alright, well, I guess I'm coming to look at a photo album then," Dean says, shaking off the disorientation and putting thoughts of Sammy very firmly in a box on the <em>Do Not Think About </em>shelf in his brain. "Where did you say you are? Cottonville?" </p><p> </p><p>"Cotton<em>wood, </em>Minnesota," the kid corrects, and then seems to register what Dean's just said. "And wait— what? You're coming? You believe me?" </p><p> </p><p>"Wouldn't go that far," Dean disagrees, getting to his feet and yanking his duffle out from under the bed. "But either you <em>are </em>my dad's surprise third kid, in which case I wanna meet you, or you're fucking with me for reasons I don't know yet but don't like, in which case, I wanna meet you." </p><p> </p><p>"O-ok, right, um, thanks," Adam says, sounding winded by this sudden turn of events. "Um, I'm in the town library. It's small, but they can't kick me out until closing, so I'm out of the sun at least, and they have squishy armchairs here." </p><p> </p><p>"Right, well, I'm in Montana, so I'm at least ten hours away. What time's the Library close?" </p><p> </p><p>"Um, nine, I think." </p><p> </p><p>Nine. It's just gone midday now, and <em>technically </em>the trip from here to Minnesota is more like eleven hours than ten, but Dean's never met a speed limit that he hasn't ignored, so. If he pushes through with only a gas stop, he should be there by around ten thirty. </p><p> </p><p>"You'll have to wait outside the library after they close; I won't make it by nine," Dean says. </p><p> </p><p>"That's cool, there's a 24 hour internet cafe across the street and I think I have enough money for a milkshake or something. I'll go there after the library closes." </p><p> </p><p>Dean chooses not to ask about the wisdom of leaving home with barely enough money to buy a milkshake. </p><p> </p><p>"Alright. I'll see you then. Keep an eye out for a black Impala," he says instead, wrapping up. </p><p> </p><p>"Ok, I will," Adam says. "And, um. What was -- did you say your name is Dean?" </p><p> </p><p>Dean pauses. He didn't realise they'd had this whole conversation and the kid didn't even know his name. He only said it that one time, he supposes - when he answered the phone the first time. </p><p> </p><p>"Uh, yeah," he says. "It's Dean." </p><p> </p><p>"Ok," Adam says. "Ok. Thanks, Dean." </p><p> </p><p>Dean's still two-thirds unconvinced of this kid's validity, so the raw gratitude in the boy's voice throws him a bit. </p><p> </p><p>"Sure," he says, instead of facing any of his conflicting thoughts or emotions. "Sit tight. And if I get there and it turns out you're fucking with me, you'll regret it." </p><p> </p><p>"Definitely not fucking with you," Adam says, sure and solid. </p><p> </p><p>Dean hums, unconvinced. </p><p> </p><p>"We'll see," he says, and flips the phone closed. </p><p> </p><p>Looks like Lake Dardanelle is gonna have to wait. Maybe Dean'll call Pastor Jim, get him to sic someone on it. Because it can't go unaddressed, but Dean? Dean can't take it on, right now. </p><p> </p><p>Because Dean's headed to Minnesota, to meet some kid called Adam Milligan. </p><p> </p><p>…</p><p> </p><p>Dean arrives in Cottonwood a bit after ten, having made damn good time since leaving Montana, but tired as shit, hungry as a bear, and wary as hell.</p><p> </p><p>He’s tempted to stop at the gas station on the outskirts of town and top the car back up, but that would be stalling and he knows it, and Dean does a lot of things in life, but <em>stall </em>isn’t one of them, so he sets his jaw and drives past, eyes darting left and right at the buildings on either side of the road as he searches for one that looks like a library.</p><p> </p><p>It doesn’t him long to find it, and the promised 24-hour café is indeed right across the road, exactly where the kid had said it would be. Dean parks outside the library, takes a second to steel himself for whatever he’s about to find, and gets out of the car.</p><p> </p><p>The internet café is a dingy little thing, with an ugly ass green neon sign flashing in the window, but so long as they serve coffee and food, Dean doesn’t give a damn how run down the place is, and he shoves open the door, not letting himself hesitate for a second.</p><p> </p><p>It’s not hard to work out who he’s here to meet.</p><p> </p><p>The only occupants of the dingy little café are the woman behind the til who’s leaning on the counter and reading a battered novel, and who doesn’t even glance up at Dean’s entrance; an older woman using one of the café computers, leaning in close to the screen and squinting in concentration; and a kid with dark blond hair and a mostly-finished milkshake in front of him, who looks up sharply at the sound of the door opening, and who looks at Dean with an expression of mingled wariness, curiosity, and something else that Dean can’t put his finger on.</p><p> </p><p>“I’m guessin’ you’re Adam?” Dean says, making his way over to the kid’s table.</p><p> </p><p>“Uh, yeah, I’m – yeah,” the kid says, and clearly the nervous stammering isn’t reserved for phone calls.</p><p> </p><p>“I’m Dean,” Dean says, and holds out his hand.</p><p> </p><p>Adam returns the gesture without hesitation, shaking Dean’s hand neatly. Dean watches the kid’s face closely, but there’s no hint of a wince or grimace – no reaction to the silver of Dean’s ring pressing against his hand. So. Not a shifter, then, or a werewolf or a ghoul. Good to know.</p><p> </p><p>“Thanks for, you know, coming,” Adam says, oblivious to the test that he just passed. “The couple that gave me a lift here were going east after this, but they said that the Service Station on the edge of town is a popular stop for delivery trucks going on to South Dakota, but either they were lying or they didn’t know, cause I waited there for like twelve hours and there wasn’t a single truck that stopped, so.”</p><p> </p><p>Dean lets the kid babble and catches the eye of the woman behind the counter, who badly hides her sigh of irritation at having to put down her book, and comes over with a notepad and some seriously bad grace.</p><p> </p><p>“I’ll have a coffee and whatever the biggest, greasiest thing on the menu is,” he says, and she makes a note on her pad and turns an expectant eye on the kid.</p><p> </p><p>“Oh, um, nothing for me, I’m fine,” Adam says, and he’s barely finished speaking before his stomach rumbles.</p><p> </p><p>The kid ducks his head and flushes a dull pink, and Dean squashes the thought that says <em>Just like Sammy does </em>and raises an unimpressed eyebrow.</p><p> </p><p>“When’s the last time you ate?” he asks, and the kid attempts to pull a belligerent expression up over his face.</p><p> </p><p>“I ate lunch,” he says, and Dean keeps looking at him flatly.</p><p> </p><p>“Lunchtime was hours ago, and it was, what? The couple muesli bars you remembered to pack when you were forgetting to bring actual money with you?”</p><p> </p><p>Adam scowls, but doesn’t deny it.</p><p> </p><p>“Yeah, ok,” Dean says rolling his eyes. “Another one of whatever you’re giving me,” he tells the waitress, who gives a bored hum and walks off, banging through a skinny door at the back of the room to what must be the kitchen.</p><p> </p><p>“Thanks,” Adam says, and Dean’s amused by the way he sounds simultaneously grateful and also grumpy about it.</p><p> </p><p>“No problem,” he says, and it isn’t. He’s got a brand new card with a brand new name on it, and it’s no skin off his nose to make sure the kid’s stomach isn’t screeching all the way through this discussion they’re about to have.</p><p> </p><p>“So,” he says, as the waitress comes back out of the kitchen with a pot of coffee and a mug. “Let’s see your supposed evidence, then.”</p><p> </p><p>“Oh, yeah,” Adam says, turning to the backpack on the seat next to him as the waitress finishes pouring Dean’s coffee. Dean tries not to pounce on it the second she’s done, but he’s not sure he manages, and he’s got it half-finished before she even makes it back to her counter and her book. <em>What? </em>Dean’s just driven ten hours straight, he <em>needs </em>a coffee.</p><p> </p><p>“Here,” Adam says, emerging from his backpack with a handful of photo frames, which he holds out to Dean.</p><p> </p><p>Dean sets his coffee mug down, staring assessingly at the kid, trying to read what’s in his face (nervous anticipation, mostly), before reaching out to take the frames.</p><p> </p><p>He flips them over so he can see the photos inside them, and – freezes.</p><p> </p><p>Because fuck.</p><p> </p><p>That’s Dean’s dad.</p><p> </p><p>That’s <em>Dean’s dad, </em>in this photo.</p><p> </p><p>John Winchester’s face is beaming up at Dean from a photograph that’s crisp and neat and housed in a simple but nice wooden frame. He’s got a Royals cap on his head and a half-eaten hotdog in one hand. His other arm is wrapped around a skinny kid with dark blond hair who’s grinning from ear to ear and who has one of those dumbass giant foam pointing glove things on one hand, and a huge drink in his other.</p><p> </p><p>“Well fuck,” Dean says, because yeah, shit, that’s absolutely John Winchester. At a ball game. With a younger version of the kid that’s currently standing next to Dean and radiating nervous, anticipatory energy.</p><p> </p><p>Dean flips quickly through the other photos, and each one is worse than the last.</p><p> </p><p>John and Adam at the beach, sun bright behind them, both of them half-way through a laugh.</p><p> </p><p>Adam in a Little League uniform, next to John, both of them smiling with half-eaten burgers in front of them.</p><p> </p><p>An official theme park photo of the two of them on a roller coaster, Adam’s knuckles white around the safety bar but an expression of exhilarated delight on his face, John with one hand on the bar and the other around Adam, eyes crinkled at the edges and mouth open in a laugh.</p><p> </p><p>Adam leaning into John, beaming, and John smiling warmly at the camera, a cake with eight – no, nine – candles on it in front of the kid.</p><p> </p><p>“I can’t believe he took you to baseball games,” Dean mutters. Seriously, what the fuck. Is this a parallel universe? Is that a thing? Djinns are the only thing that come to mind that have the juice to swing anything close to a parallel universe, but Djinn are meant to give you your <em>dream </em>world, not a world where you find out that your dad took the little brother you didn’t even know you had to baseball games, but who flipped his shit when he found out <em>you</em> were on the school team.</p><p> </p><p>“For my birthday, yeah,” Adam murmurs, matching Dean’s volume, and Dean looks up, newly startled.</p><p> </p><p>“For your <em>birthday?” </em>he asks, and he sounds strangled.</p><p> </p><p>Adam blinks, surprised by Dean’s tone.</p><p> </p><p>“Yeah – why, what did he do for your birthdays?”</p><p> </p><p>Dean swallows, and resolutely does <em>not </em>think about his seventeenth birthday, and his first solo hunt. Stubbornly turns his memory away from the two nuns, who’s faces he can still see clearly if he thinks about them. The photo had been an old black and white thing that was faded and scuffed, but it was still clear enough that Dean could see the details of their facial features. Could see how happy they were. It’s been five years, but Dean still flinches at the memory.</p><p> </p><p><em>Why, what did he do for your birthdays? </em>Well he didn’t go to the fucking baseball, that’s for damn sure.</p><p> </p><p>“How—” Dean starts to ask, and then swallows and tries again, resolutely ignoring the kid’s question and asking his own instead. “How old are you?”</p><p> </p><p>“Sixteen,” Adam answers, quiet and reserved. He’s been watching Dean the whole time Dean’s been looking at the photos, not looking away once, and Dean has no idea what the kid has read on Dean’s face, but he’s watching him with an expression of empathic concern.</p><p> </p><p>Dean raises his eyebrows in surprise, and then huffs a bitter laugh. Sixteen. So the kid is six years younger than Dean, then. And that means…</p><p> </p><p>“Two years,” he says, clenching and unclenching his jaw as he tries to wrangle himself back under control. “Mom was dead a grand total of <em>two years</em> before he—”</p><p> </p><p>Dean cuts himself off there, lip curled furiously, and he’s not sure if it’s because he’s sparing the kid across from him from hearing Dean talk so callously, or if Dean’s saving himself from having to say it.</p><p> </p><p>Two years.</p><p> </p><p>Mary’s ashes were barely settled on the floor of what was once Sam’s nursery and John was already off picking up random women and creating brand new sons, and yet he had the <em>audacity </em>to spend the next 18 years of Dean’s life saying that they’re looking for revenge for her. Everything they did, every hunt they went on, every time Dean nearly died, every time <em>Sam </em>nearly died, was because they were looking for the thing that killed their mom, and John was the driving force behind it all, and yet John was out there banging random chicks from as early as <em>two years </em>after Mary died…</p><p> </p><p>Dean wants to <em>punch </em>something.</p><p> </p><p>“…Your mom is dead?” Adam asks, tentative, and Dean snaps his gaze back to the kid, who looks apologetic and wary all at the same time.</p><p> </p><p>“Yeah,” Dean says, short. “November ’83.”</p><p> </p><p>And hey, wow, now that Dean’s said the date aloud, he realises that it can’t have even been two years. Even if Adam was born in December ’85, there’s still nine months of pregnancy to be accounted for, so the latest it could have been was March, which is all of a year and four months.</p><p> </p><p>And maybe it wasn’t even that long.</p><p> </p><p>“What month is your birthday in?” Dean asks, abrupt.</p><p> </p><p>“Uh,” Adam says, looking thrown from the sudden change over the <em>yeah my mom is dead </em>conversation to the <em>when’s your birthday </em>conversation. “Early August. Why?”</p><p> </p><p>Dean does some quick math, and then sits back in his chair in disbelief.</p><p> </p><p>“Guess what month falls nine months before August,” he says, voice flat, and the kid frowns a little as he thinks.</p><p> </p><p>“Uhm,” he says, and then his face goes slack. “November,” he says, in the tone of someone who’s just realised something awful. “But. Didn’t you just say that your mom...”</p><p> </p><p>“Died in November? Yeah,” Dean finishes, and then rubs a hand over his mouth, and he’s not sure if he does it to hold in all the furious words that wanna erupt out of him, or if he does it to hide the distressed press of his lips from Adam.</p><p> </p><p>And shit, now that Dean’s thinking about it…</p><p> </p><p>He remembers the first anniversary of the fire. He remembers it because Dad screamed about it.</p><p> </p><p>Dean was five, nearly six, and Sammy had started walking a few months ago, and he was getting into everything with the gleeful abandon of a newly-walking toddler. For some reason he’d decided that the most interesting place in the motel that morning was behind the TV, where the cables were. Dad had done nothing since waking up other than stare at the only photo they had of Mary that had survived the fire, so responsibility had fallen to Dean to keep Sammy occupied and away from the electrical cables.</p><p> </p><p>Sam hadn’t appreciated that at <em>all, </em>and the fourth or fifth time Dean had pulled him away, the kid had burst into tears.</p><p> </p><p>And Dad…</p><p> </p><p><em>Fuckin’ hell, can’t you shut him up? You can’t even show some goddamn respect on the day your mother died? </em>Dean remembers him yelling.</p><p> </p><p>It was the first time John had yelled at them like that. <em>Really </em>yelled, you know? Not just been stern or sharp, but <em>yelled. </em>Sammy had gone quiet for a few seconds, staring in stunned silence at John, and then he’d started <em>wailing, </em>terrified. And John had snarled furiously and picked up his keys and slammed his way out of the motel room.</p><p> </p><p>He didn’t come back for the rest of the day. It was the first time Dean can remember being left alone in charge of Sam, and Dean remembers waiting – expecting John to arrive back any minute; to sweep back in and feed them lunch and change Sammy’s dirty diaper. But he hadn’t, and Dean remembers doing his best to keep Sam occupied through the day – remembers struggling to change the toddler’s diaper himself when he couldn’t wait any longer for Dad to come back and do it; remembers feeding the kid cold baby food from a jar because he didn’t know how to work the microwave. The rest of the details are blurry, but Dean remembers those parts.</p><p> </p><p>Dean figures he must have put the kid to bed at some point, and gone to bed himself, because his next clear memory is Dad waking him up in the middle of the night, telling him to take Sammy and get in the car. Dad had packed their stuff up with military efficiency, then got into the car and peeled out of the motel in the middle of the night. He didn’t stop driving until the sun had well and truly risen the next day.</p><p> </p><p>Dean doesn’t remember what state they were in at the time, but now, given what he knows about Adam and his birthdate, he’s willing to bet it was Minnesota.</p><p> </p><p>“I’m sorry,” Adam says suddenly, and Dean blinks and looks up, a confused frown wrinkling his forehead. The kid looks miserable, and his voice just now was dripping with guilt, and it hits Dean like a splash of cold water.</p><p> </p><p>“Kid, no,” he says, a tone of apology in his own voice. “It’s – it’s not your fault. I mean, not like you asked for any of this, so. It’s just, it’s – a lot to take in. I’m kinda… readjusting my whole world-view, over here, right now.”</p><p> </p><p>And it’s true. He’s not mad at the kid. After all, it’s not like any of this is <em>Adam’s </em>doing. And sure, it would be easy to blame the kid – to get mad at him for existing, to hate him for the charmed childhood he’s obviously led, to spit furiously about the fact that he grew up going to baseball games with their dad and eating birthday cake when all Dean got was a childhood filled with bullets and motel rooms and the occasional diner-bought slice of pie – and there’s a part of Dean that wants to. Wants to lash out at the nearest available target and vent his hurt and anger. That wants to blame Adam for all of this and hate him for it. Adam’s the product of Dean’s dad and some random woman who’s not Dean’s mom, and it would be <em>so easy </em>to hate him for that.</p><p> </p><p>But the kid is <em>sixteen years old, </em>and he looks even younger than that, and he keeps pulling expressions that are just like Sam’s, and he had no more idea about Dean before today than Dean did about him, and he’s been sitting in a diner on the edge of Minnesota nursing one milkshake for hours because the dumbass ran away from home and forgot to bring any money with him, and Dean – Dean can’t be mad at him.</p><p> </p><p>Adam’s just the surprise result of John’s reckless behaviour. It’s not remotely his fault that John went out looking for some tail on the first anniversary of his wife’s death, and it’s not Adam’s fault that John didn’t bother to tell his first two sons that he had a third kid. All that – that’s on John, unquestionably; not on Adam.</p><p> </p><p>And Dean loves his dad, absolutely, but that doesn’t mean he’s not <em>royally fuckin pissed </em>at the guy right now, because what the <em>fuck, </em>dad.</p><p> </p><p>It’s a good thing Dean doesn’t know where John is at the moment, cause he wants nothing more right now than to track the guy down and shake some answers out of him. Dean’s had a little brother for <em>sixteen years, </em>and John never even <em>mentioned </em>it. He spent <em>years </em>harping on at Dean about the importance of condoms, and threatening that if Dean ever got a girl pregnant, there’d be hell to pay, and meanwhile, John’s been walking around this whole time with the knowledge that he created a new son<em> on the anniversary of Mary’s death, </em>and Dean’s never wanted to punch his dad before, but he’s kind of feeling the urge right now.</p><p> </p><p>“Ok,” the kid responds, bringing Dean out of his own thoughts again. “Um. Same.”</p><p> </p><p>And yeah, shit, this has to be hard on the kid, too. Just today he’s found out that he has older brothers he never knew about before, that his dad is missing and hasn’t been heard from in months, and that he was conceived around the anniversary of his older brothers’ mother’s death. Kid’s got some worldview adjusting of his own to do, and it’s gotta suck.</p><p> </p><p>Their meals arrive at that moment and give them both something to focus on for a while, which Dean, at least, needs. Even so, he barely tastes the burger as he eats it. Adam inhales his as though he hasn’t eaten in days, and Dean’s newly glad that he insisted on ordering food for the kid.</p><p> </p><p>“So, uh,” Dean says a while later, as he picks at the last of the fries on his plate. “Have you thought about what you wanna do now?”</p><p> </p><p>Adam glances up from his last mouthful of burger with a quizzical expression.</p><p> </p><p>“Well it’s not like you can go and stay with Dad, him being in the wind and all,” Dean says. “I’m gonna have to get some shut eye before I do any more driving, but I can drive you back to your mom tomorrow if –”</p><p> </p><p>“No!” Adam interrupts, urgent and slightly wild-eyed. “No, I don’t want to go back. She’ll make me apologise to Brian, and she’ll be pissed at me for <em>weeks, </em>and grounded for even longer, and she’ll make me do, like, summer classes and shit, and Brian’s gonna keep being a <em>sanctimonious prick </em>and I’m– I just. I can’t go back there. Ok? I can’t.”</p><p> </p><p>Personally, Dean can’t imagine having a mom and wanting to stay away from her, but then, it’s not like Dean’s got experience with having a parent bring home someone who tries to fill a role they’ve got no business trying to fill. He tries to imagine how he would have felt if John had brought some random woman home and she’d started trying to be his and Sam’s mom. Even the concept is enough to make him clench his jaw in anger.  </p><p> </p><p>“Well, ok then,” he says, cause yeah, alright, he gets where the kid is coming from. But that still leaves the question of what he <em>is </em>gonna do. “What do you want to do instead, then?”</p><p> </p><p>Adam looks down at his plate and picks up a fry, using it to push at the others on his plate until they’re all in one corner.</p><p> </p><p>“Could I, maybe… could I stay with you?” he asks, and Dean blinks.</p><p> </p><p>“…What?” he asks, dumbfounded.</p><p> </p><p>“It’s just – I mean, I never really thought about having a brother but now that I know I have one – two, apparently, but you still haven’t even told me the other one’s name – I kinda wanna get to know you, you know? It’s not like I’ve spent my life wishing for an older brother or anything, but now that I know you exist, it would be weird not to get to know you at all, right? And I mean I can’t go stay with Dad, apparently, since he’s, like, missing or whatever – and you haven’t told me about <em>that </em>yet either, by the way – but like, I could stay with <em>you </em>and get to know you and you could get to know me and… yeah.”</p><p> </p><p>Dean stares at the kid, utterly thrown. Adam only learned about Dean’s existence today, and only met him – what, thirty, forty minutes ago? For all the kid knows, Dean could be a total whackjob, and yet he’s asking to stay with Dean?</p><p> </p><p>“I could be an axe murderer for all you know,” he eventually says.</p><p> </p><p>Adam peers at him, as though Dean’s gonna have a sticky note on him that says “Axe murderer: yes / no,” with a neat little circle drawn around the answer.</p><p> </p><p>“Nah,” the kid says after a moment of assessment. “You don’t seem the type.”</p><p> </p><p>Dean raises an eyebrow.</p><p> </p><p>“Know a lot of axe murderers, do you?” he asks, and Adam grins.</p><p> </p><p>“Maybe. You’ll never find out if you don’t let me stay with you and get to know me. It doesn’t matter if you don’t have a spare room – I can sleep on the couch, it’s fine.”</p><p> </p><p>Dean snorts.</p><p> </p><p>“Sleep on the couch, yeah, ok, cause I have one of those,” he says, and it’s only when Adam furrows a brow in confusion that Dean realises the kid wasn’t joking.</p><p> </p><p>“Uh,” he says. “You know I don’t have a house, right? Or, like, an apartment or whatever?”</p><p> </p><p>Adam’s outright frowning now.</p><p> </p><p>“What do you mean?” he asks. “Where do you live?”</p><p> </p><p>Dean quirks an amused eyebrow at the kid.</p><p> </p><p>“’Murica’s best roadside motels, usually,” he answers. “Our line of work don’t exactly lend itself to being a reliable renter. Plus, the commute would be a bitch.”</p><p> </p><p>Adam doesn’t look any less confused.</p><p> </p><p>“What line of work means you don’t even have a home?” he asks, genuinely baffled and more than a little bit concerned, something horrible slides into Dean’s stomach.</p><p> </p><p>“Fuck,” he says, amused grin sliding off his face. “You don’t know, do you?”</p><p> </p><p>“Know…. what?” Adam asks.</p><p> </p><p>“What the family business is,” Dean says, hoping wildly that Adam’s about to scoff and say <em>Oh, that.</em></p><p> </p><p>Adam fails to say <em>oh, that. </em>Adam doesn’t do anything other than look more confused.</p><p> </p><p>“What our dad does – what I do,” Dean goes on.</p><p> </p><p>“Uhhh, isn’t he a mechanic?” Adam asks, and he's starting to look vaguely weirded out now, and Dean’s stomach drops to his toes.</p><p> </p><p>“<em>Fuck,” </em>he repeats. “Fuck, he – fucking <em>hell, </em>Dad, what the <em>fuck.”</em></p><p> </p><p>Adam is starting to look more alarmed now, and Dean directs his next words at the kid again – instead of at their absent father.</p><p> </p><p>“But he didn’t leave you totally unprotected, right?” Dean presses, because surely, <em>surely</em> dad wouldn’t have been so reckless. Wouldn’t have been so <em>stupid.</em> “He’s installed, like, iron over the doors at your mom’s place? Taught you about salt? <em>Something?</em>”</p><p> </p><p>“Dean, what the <em>hell </em>are you talking about?” Adam demands, sounding equal parts annoyed and concerned, and Dean rocks back in his seat, running a hand through his hair. Apparently dad <em>would, </em>in fact, be that reckless. The kid’s a total civilian. A total <em>unprotected, vulnerable </em>civilian.</p><p> </p><p>“Fuck,” he says again, scrubbing his hands over his face as he processes this development. After a moment, he huffs out a dark laugh. “Actually, I shouldn’t even be surprised. He left it to me to tell Sammy, too. Apparently shattering your little brother’s world view is a big brother privilege.”</p><p> </p><p>“Dean, <em>what </em>are you talking about,” Adam repeats, voice low and serious and slightly freaked out, and Dean wets his lips and looks up at the kid – at the little brother he didn’t even know he had before today, and who has no idea about the reality of life. About the reality of life’s <em>dangers. </em> </p><p> </p><p>“Ghosts are real,” he says, frank and to the point. Maybe he should be gentler about this, and he almost certainly should be going into this conversation armed with some kind of proof, but what the fuck ever, too late for any of that now. “So are shapeshifters, and werewolves and every other thing that’s ever featured in a horror movie.”</p><p> </p><p>Adam blinks at him, thrown.</p><p> </p><p>“Vampires aren’t, but that’s only cause they’re extinct. Hunters wiped them out. That’s what I am. That’s what Dad is. We’re hunters. We hunt things that hunt humans; we find them, and we wipe them out.”</p><p> </p><p>Adam sits back in his chair, a myriad of expressions on his face.</p><p> </p><p>“Ok, heh,” he says after a long moment, sounding wildly freaked out but like he’s trying not to show it. “Very funny. You almost had me going for a second there –”</p><p> </p><p>“My mom was killed by something that pinned her to the ceiling and set the room on fire around her,” Dean says, ruthless, and Adam stills, eyes going wide. “That’s how we got into hunting. Dad saw how she died, and he dug until he found out that every monster under the bed, every b-grade horror movie antagonist that’s ever been written – all real. So he started hunting them, and he taught me how to as well, and we taught Sam once he was old enough, and that’s what we do. Dad hasn’t been a mechanic since ’83. He’s a hunter, and he’s been lying to you about it your whole life.”</p><p> </p><p>Adam stares at him with wide eyes for a long, silent moment.</p><p> </p><p>“…Ok,” he says, voice pitched slightly high as he reaches surreptitiously for his backpack. “Cool, that’s, uh. That’s good to know. Anyway its, uh… late, and I really should be going –”</p><p> </p><p>“I can prove it,” Dean says, calm and stern, and the kid pauses from where he’s trying (and failing) to subtly collect the photos that are still on the table.</p><p> </p><p>“You can prove that monsters are real,” Adam echoes, disbelief and burgeoning sarcasm thick in his voice.</p><p> </p><p>“Yup,” Dean says, popping the p. “Sons of bitches are all over the place; gimme an hour or two with a newspaper and I’ll find something around here that needs to be hunted.”</p><p> </p><p>Adam loosens his hold on his backpack, just a little bit.</p><p> </p><p>“You’re being serious,” he says, watching Dean closely. “You actually believe what you’re saying.”</p><p> </p><p>“Serious as a heart attack,” Dean confirms. “And if you wanna leave after I’ve proved it, then I’ll give you enough cash to get back to your mom’s place. But apparently you’re my brother, and the thought of you having no clue how to defend yourself against so much as a restless spirit is gonna keep me up at night, so I wanna fix that.”</p><p> </p><p>Adam swallows, looking conflicted and more than a little freaked out.</p><p> </p><p>“Sam,” he says, after a long moment, which seems like a weird topic change, but hey, maybe the kid’s grappling for something normal to pull out of the conversation. “You mentioned a Sam, is that – is he – ”</p><p> </p><p>“Our other brother, yeah,” Dean says, sternly pushing away the sting that comes with any thought of Sammy.</p><p> </p><p>“And… where is Sam?” the kid asks.</p><p> </p><p>“College,” Dean answers shortly, and then makes himself elaborate, because if he were in Adam’s shoes, he’d want to know. “Stanford, actually. For a few months now.”</p><p> </p><p>Adam pulls an expression that’s one-part challenging and one-part disbelieving.</p><p> </p><p>“People who ‘hunt monsters’ get to go to college?” he asks. “Didn’t realise that was a valid career path. Must have missed that when I was choosing my electives.”</p><p> </p><p>Dean levels a flat and unimpressed look at the kid.</p><p> </p><p>“Sam’s never been a fan of the job,” he says, something bitter in his voice that he wouldn’t be able to reign in even if he tried. “Left as soon as he graduated high school. Had a big blow out with Dad over it, in fact, and hasn’t spoken to either of us since. Or, well. Maybe he’s spoken to Dad since. I wouldn’t know, since Dad’s been AWOL for almost as long as Sam has been.”</p><p> </p><p>“Oh,” Adam says with a wince. “Sorry.”</p><p> </p><p>Dean shrugs, brittle.</p><p> </p><p>“So how about it? Wanna gimme a day to find a hunt, tag along, and see if I’m as crazy as you think I am? Or do you wanna call it quits right now, walk outta here, and hope to God you never end up needing to know how to fend off a poltergeist?”  </p><p> </p><p>Adam looks wary and conflicted and mistrustful… but curious.  </p><p> </p><p>“If I come with you,” he says, after a long few moments, “do you promise not to, like, murder me in my sleep, or something?”</p><p> </p><p>The bitter, sharp expression that’s been on Dean’s face since Sam was brought up twitches into an amused smile as he huffs out a startled chuckle.</p><p> </p><p>“Rethinking your opinion on me being an axe murderer, huh?” he asks, and Adam’s own lips quirk in a wary smile in response.</p><p> </p><p>“Little bit, yeah,” he says. “Mostly I’m curious, though. Cause what you’re saying is straight up <em>mental</em>, but you seem pretty convinced. So either you’re right, in which case I wanna know, or you’re absolutely insane, in which case, I wanna get you checked into a facility.”</p><p> </p><p>Dean laughs outright at that.</p><p> </p><p>“Ok, I’ll make you a deal,” he says. “Go on one hunt with me, and if it turns out I’m imagining things, I’ll check myself into the first hospital we find. But if it turns out I’m <em>not </em>insane, you let me teach you the basics. Cause it’s seriously freaking me out that you don’t even know how to ghost-proof a room. Deal?”</p><p> </p><p>Adam presses his lips together as he scrutinises Dean for a long, suspenseful moment, and eventually he shrugs with an air of cavalier defeat.</p><p> </p><p>“Sure, ok, whatever,” he says, and then continues in a half-mutter, talking to himself, apparently: “I’m stranded in the middle of Minnesota and I don’t wanna go home anyway; let’s go ghost hunting with the totally crazy older brother you didn’t even know you had. It’ll be fun.”</p><p> </p><p>“Seriously?” Dean asks, startled. He was not <em>remotely </em>expecting the kid to pick Option A. “You don’t know me from a bar of soap and I tell you monsters are real, and you say <em>yeah ok I’ll spend more time with this person who is clearly insane</em>. Do you have any sense of self-preservation at all?”</p><p> </p><p>“The fact that you know you sound insane is a pretty good sign,” Adam replies, sounding bizarrely confident for someone who just agreed to go ghost hunting with a man he met less than an hour ago. “And I’m pretty sure sixteen-year-old boys are <em>meant </em>to make dumb and reckless decisions. It’s like, character building, or whatever. Plus, they always make us write <em>What I Did This Summer </em>essays when school starts back, so either this will give me a <em>really </em>good story, or, if you kill me, I’ll haunt your ass for eternity. Since that’s a thing, according to you. Either way, I doubt I’ll be as bored as I was gonna be at home.”</p><p> </p><p>Dean huffs a surprised laugh.</p><p> </p><p>“Alright then,” he says. “We’re gonna have to work on the self-preservation instincts, because what the <em>fuck</em>, kid, but alright.”</p><p> </p><p>“Cool,” Adam says, and sits forward in his seat to lean his elbows on the table, either side of his abandoned plate. “So where to first, Dr Venkman?”</p><p> </p><p>“Ghostbusters, that’s cute,” Dean says dryly, fishing out his wallet. “I’d say that makes you Winston, but you don’t even have the Marines training, so.”</p><p> </p><p>“Yeah, I’m really not cut out for early mornings, and I hear that’s all the rage in the armed forces,” the kid says, glib as anything. Seems like the wary, unsure kid that Dean first encountered when he arrived here has vanished now that Adam’s got a plan of action. Like the unknown of what he was going to do next was making him anxious and nervous, but saying “Fuck it, let’s go ghost hunting” has revealed the sassy teenager that Adam must usually be.</p><p> </p><p>“You would <em>not </em>have survived my childhood,” Dean says, thinking back to all the early morning workouts and stakeouts that Dad subjected him and Sam to.</p><p> </p><p>“Yeah, I’m, uh,” Adam says, a thread of seriousness back in his voice all of a sudden. “I’m getting the sense that you got a pretty different version of Dad than I did.”</p><p> </p><p>Dean snorts, and it sounds bitter.</p><p> </p><p>“You can say that again,” he says, dropping several bills on the table and standing up. “So do you know where the nearest motel is? If I’m gonna find us a hunt tomorrow and then shepherd a green civillian on it, then I’m gonna need a few hours’ sleep beforehand.”</p><p> </p><p>“There was one just past the gas station out on the main road,” Adam offers, gathering his things and scrambling out of his seat with all the grace of a newborn colt that hasn’t grown into his legs yet. Dean has the sudden realisation that Adam’s pretty tall for sixteen, even if he’s willow-thin, and he has a swift realisation that he might end up having to watch a <em>second </em>younger brother grow to be taller than he is. That would friggin’ suck. Hopefully the kid never gets taller than he is right now.</p><p> </p><p>“Sounds good,” Dean says, waving absently to the waitress (who doesn’t so much as lift her gaze from her book) and heading out of the dingy little café, Adam on his heels.</p><p> </p><p>They find the motel exactly where Adam said it would be. Dean gets them a room and passes out on the bed closest to the door immediately, exhausted by the day of driving and the whole Adam situation. The next morning, as promised, Dean scans a paper until he comes up with a probable hunt.</p><p> </p><p>Six towns over, four different couples killed in the same house over the span of eighteen years. Dean and Adam pack their belongings and head on over.</p><p> </p><p>Adam spends the entire investigation swinging between amused cynicism at the concept of ghosts to warily concerned about Dean’s mental welfare, right up until the ghost of May Dainsfield pops up in front of him and tries to push him down the stairs of the house she’s been haunting for almost two decades. She’s thwarted by a timely swing of Dean’s iron crowbar, and the whole thing is very much enough to convince the kid, who throws up into the bushes outside for a while after the close call before emerging – pale faced and determined.</p><p> </p><p>“Ok,” he says, wiping his mouth with the back of his hand. “So, turns out, you’re not insane.”</p><p> </p><p>Dean nods, ruefully sympathetic, and hands the kid a bottle of water.</p><p> </p><p>“Not last time I checked,” he agrees, as Adam takes the water and rinses out his mouth.</p><p> </p><p>“Well, a deal’s a deal,” the kid says. “Teach me. But not just the basics – I wanna know <em>everything.</em>”</p><p> </p><p>Dean raises an eyebrow.</p><p> </p><p>“Everything? You sure? It ain’t pretty. And it’s hard work.”</p><p> </p><p>Adam squares his shoulders, setting his jaw in a way that reminds Dean starkly of John.</p><p> </p><p>“I’m sure.”</p><p> </p><p>Dean quirks a smile at the bold determination, drops the crowbar into the boot, and slams it shut.</p><p> </p><p>“Alrighty,” he says, getting into the Impala, Adam following suit on the other side of the car. They’ve probably got enough time before nightfall to figure out where Ms Dainsfield was buried. “How are you with manual labor?”</p><p> </p><p>“Uh, fine? I guess?” Adam says, clearly wondering what the hell the question has to do with ghost hunting.</p><p> </p><p>“Great,” Dean says, chipper. “Cause step one to dealing with a vengeful ghost, is work out who they are.”</p><p> </p><p>“May Dainsfield,” Adam offers, and Dean nods.</p><p> </p><p>“Step two, is find out where they’re buried.”</p><p> </p><p>“I’m not gonna like step three, am I?” Adam predicts, and Dean grins.</p><p> </p><p>“And step <em>three, </em>is dig up the body, salt the bones, and burn it all to ash,” he finishes, and Adam stares at him for a long, dry moment.</p><p> </p><p>“I’m not gonna be able to put any of this in my school paper, am I,” he finally says, and Dean laughs aloud.</p><p> </p><p>“Nope,” Dean says, popping the p, and Adam sighs in a way that would successfully come across as annoyed if it weren’t for the amusement tugging at his lips, and settles back into the passenger seat as Dean starts the car.</p><p> </p><p>It’s nothing like travelling with Dad ever was, and it’s different to what travelling with Sammy was like too, but Dean… thinks he could get used to it. Could get used to Adam. Is already halfway there, maybe. Because two days ago Dean didn’t even know this kid existed, but today Adam’s sitting in the passenger seat of the Impala, tapping his fingers against his knee in time to some Zepp, ready to go and dig up a grave and salt some bones.</p><p> </p><p>And Dean still wants to shake some answers out of John, and probably will next time he sees him – want to know why the hell he didn’t tell them about Adam, how the hell he could betray Mary like he did, wants to know why the <em>fuck </em>Adam was left with <em>zero </em>knowledge of the supernatural, as though it would somehow magically never darken his doorstep – but for now, Dean’s got a full tank of gas and a cassette tape freshly loaded, and a new little brother to show the ropes.</p></div>
+        <!-- end cache -->
+    </div>
+<!--/chapter-->
+
+
+  </div>
+  <!-- END work skin -->
+<!-- END work -->
+
+<!-- BEGIN comment section -->
+<!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="iWebkHoC0repS3MtgjPpTruSJBWck9Qw8938bDUFRRXa-nfVV4TOJkHqUsC1hPKrl9j1mBNTZpgTVyZDJqPVhw"/>
+          <input value="29399964" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?work_id=29399964">Comments (83)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/lmc291">lmc291</a>, <a href="/users/Idk_cool_i_guest">Idk_cool_i_guest</a>, <a href="/users/Fellow_Human9923">Fellow_Human9923</a>, <a href="/users/SiennaBlue">SiennaBlue</a>, <a href="/users/tomthefool">tomthefool</a>, <a href="/users/wenwen">wenwen</a>, <a href="/users/Siegeandstormy9">Siegeandstormy9</a>, <a href="/users/ThisThatAndTheOther">ThisThatAndTheOther</a>, <a href="/users/Midnilaw5">Midnilaw5</a>, <a href="/users/fanficchaos">fanficchaos</a>, <a href="/users/BookishFreak">BookishFreak</a>, <a href="/users/charoninheaven">charoninheaven</a>, <a href="/users/caycici">caycici</a>, <a href="/users/ApatheticCliche">ApatheticCliche</a>, <a href="/users/Sith_happens">Sith_happens</a>, <a href="/users/decdec1987">decdec1987</a>, <a href="/users/indygirl96">indygirl96</a>, <a href="/users/Robert_Lewis">Robert_Lewis</a>, <a href="/users/bootlessbodkin">bootlessbodkin</a>, <a href="/users/CaffeineGinger">CaffeineGinger</a>, <a href="/users/OzzyOsmundson">OzzyOsmundson</a>, <a href="/users/macachee">macachee</a>, <a href="/users/manictater">manictater</a>, <a href="/users/luce_e_collect">luce_e_collect</a>, <a href="/users/cupidstark">cupidstark</a>, <a href="/users/meriamm31">meriamm31</a>, <a href="/users/Caliga">Caliga</a>, <a href="/users/lisinwnderland">lisinwnderland</a>, <a href="/users/GASP">GASP</a>, <a href="/users/I_Am_IronMaiden">I_Am_IronMaiden</a>, <a href="/users/ImTheDevilRawr">ImTheDevilRawr</a>, <a href="/users/DefenestrationAct">DefenestrationAct</a>, <a href="/users/TheAmazedAla">TheAmazedAla</a>, <a href="/users/Roeverdatter00">Roeverdatter00</a>, <a href="/users/greenandgrayaros">greenandgrayaros</a>, <a href="/users/Harley_Hufflepuff">Harley_Hufflepuff</a>, <a href="/users/SpaceWall">SpaceWall</a>, <a href="/users/WingsOfMercury">WingsOfMercury</a>, <a href="/users/godbones">godbones</a>, <a href="/users/Kiwikiki9">Kiwikiki9</a>, <a href="/users/Exploding_galaxy">Exploding_galaxy</a>, <a href="/users/paintpuddles">paintpuddles</a>, <a href="/users/HH_Hugs">HH_Hugs</a>, <a href="/users/Agustin_drunk">Agustin_drunk</a>, <a href="/users/stephkae">stephkae</a>, <a href="/users/LittleMissFandomWorld">LittleMissFandomWorld</a>, <a href="/users/HelloPotato">HelloPotato</a>, <a href="/users/CheshireJaden">CheshireJaden</a>, <a href="/users/lifeonline">lifeonline</a>, <a href="/users/TheDancingWind">TheDancingWind</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/29399964/kudos?before=3697331542">536 more users</a>
+             as well as 
+          190 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_29399964">
+  <form class="new_comment" id="comment_for_29399964" action="/works/29399964/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="CBZaI8xlkV8-67TB9gJFamgw1JUiHB2ND88_7y7sxBpbi7Zm4eONztZKlSzBtV6PRHoFGK3cryXvReXAPUpUiA"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_29399964">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_29399964" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_29399964=new LiveValidation('comment_name_for_29399964',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_29399964.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_29399964">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_29399964" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_29399964=new LiveValidation('comment_email_for_29399964',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_29399964.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_29399964" class="landmark">Comment</label>
+        <textarea id="comment_content_for_29399964" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_29399964" name="controller_name" value="works"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_29399964_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_29399964">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_29399964=new LiveValidation('comment_content_for_29399964',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_29399964.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_29399964.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_29399964" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+<!-- END comment section -->
+<!-- END revealed -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/29399964/hit_count.json")})</script>
+
+
+  </body>
+</html>

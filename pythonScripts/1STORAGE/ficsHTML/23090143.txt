@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Twelve Moons and a Fortnight - Chapter 1 - stiltonbasket - 陈情令 | The Untamed (TV) [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="Nr5jCrqRLP9TbcJ2a5zKQsJ2Xx4BCDuBuKuqR5R5dBXJgki37uxf1Krfj4ooojvxxuGzhXdSQqD29BPYQDmn2Q"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="XksSQ0M1AlWNvulakpOnRnRthHIKOU_3c2pG0JY9F1Shdzn-F0hxfnQMpKbRrVb1cPpo6XxjNtY9Nf9PQn3EmA"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: austen words:10000-50000 sort:title</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/23090143?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/23090143/chapters/55259695#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/23090143/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/23090143/chapters/55240066" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="55240066">1. Chapter 1</option>
+<option value="55259695">2. Chapter 2</option>
+<option value="55292875">3. Chapter 3</option>
+<option value="55403539">4. Chapter 4</option>
+<option value="55518121">5. Chapter 5</option>
+<option value="55569130">6. Chapter 6</option>
+<option value="55650619">7. Chapter 7</option>
+<option value="55830343">8. Chapter 8</option>
+<option value="56049499">9. Chapter 9</option>
+<option value="56445970">10. Chapter 10</option>
+<option value="56604607">11. Chapter 11</option>
+<option value="56799016">12. Chapter 12</option>
+<option value="57184573">13. Chapter 13</option>
+<option value="57684817">14. Chapter 14</option>
+<option value="58382149">15. Chapter 15</option>
+<option value="58769743">16. Chapter 16</option>
+<option value="58850956">17. Chapter 17</option>
+<option value="59100700">18. Chapter 18</option>
+<option value="59244940">19. Chapter 19</option>
+<option value="59531074">20. Chapter 20</option>
+<option value="59725918">21. Chapter 21</option>
+<option value="60421435">22. Chapter 22</option>
+<option value="60966409">23. Chapter 23</option>
+<option value="61521664">24. Chapter 24</option>
+<option value="62099113">25. Chapter 25</option>
+<option value="62366242">26. Chapter 26</option>
+<option value="62772631">27. Chapter 27</option>
+<option value="63189928">28. Chapter 28</option>
+<option value="63488416">29. Chapter 29</option>
+<option value="64041628">30. Chapter 30</option>
+<option value="64839196">31. Chapter 31</option>
+<option value="65406979">32. Chapter 32</option>
+<option value="65863075">33. Chapter 33</option>
+<option value="66178174">34. Chapter 34</option>
+<option value="66460039">35. Chapter 35</option>
+<option value="67349470">36. Chapter 36</option>
+<option value="67656301">37. Chapter 37</option>
+<option value="68284741">38. Chapter 38</option>
+<option value="68656110">39. Chapter 39</option>
+<option value="69260439">40. Chapter 40</option>
+<option value="69440310">41. Chapter 41</option>
+<option value="70034796">42. Chapter 42</option>
+<option value="70460445">43. Chapter 43</option>
+<option value="70854366">44. Chapter 44</option>
+<option value="71392743">45. Chapter 45</option>
+<option value="72289164">46. Chapter 46</option>
+<option value="73410450">47. Chapter 47</option>
+<option value="74345553">48. Chapter 48</option>
+<option value="75239520">49. Chapter 49</option>
+<option value="75723806">50. Chapter 50</option>
+<option value="76917485">51. Epilogue</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/23090143/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=55240066">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/23090143/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/23090143/Twelve%20Moons%20and%20a.azw3?updated_at=1646530487">AZW3</a></li>
+          <li><a href="/downloads/23090143/Twelve%20Moons%20and%20a.epub?updated_at=1646530487">EPUB</a></li>
+          <li><a href="/downloads/23090143/Twelve%20Moons%20and%20a.mobi?updated_at=1646530487">MOBI</a></li>
+          <li><a href="/downloads/23090143/Twelve%20Moons%20and%20a.pdf?updated_at=1646530487">PDF</a></li>
+          <li><a href="/downloads/23090143/Twelve%20Moons%20and%20a.html?updated_at=1646530487">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Mature/works">Mature</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Choose%20Not%20To%20Use%20Archive%20Warnings/works">Creator Chose Not To Use Archive Warnings</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Categories:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Gen/works">Gen</a></li><li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/%E9%99%88%E6%83%85%E4%BB%A4%20%7C%20The%20Untamed%20(TV)/works">陈情令 | The Untamed (TV)</a></li><li><a class="tag" href="/tags/%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88%20-%20%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%20%7C%20M%C3%B3d%C3%A0o%20Z%C7%94sh%C4%AB%20-%20M%C3%B2xi%C4%81ng%20T%C3%B3ngxi%C3%B9/works">魔道祖师 - 墨香铜臭 | Módào Zǔshī - Mòxiāng Tóngxiù</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/L%C3%A1n%20Zh%C3%A0n%20%7C%20L%C3%A1n%20W%C3%A0ngj%C4%AB*s*W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n/works">Lán Zhàn | Lán Wàngjī/Wèi Yīng | Wèi Wúxiàn</a></li><li><a class="tag" href="/tags/Ji%C4%81ng%20Ch%C3%A9ng%20%7C%20Ji%C4%81ng%20W%C7%8Eny%C3%ADn%20*a*%20W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n/works">Jiāng Chéng | Jiāng Wǎnyín &amp; Wèi Yīng | Wèi Wúxiàn</a></li><li><a class="tag" href="/tags/J%C4%ABn%20L%C3%ADng%20%7C%20J%C4%ABn%20R%C3%BAl%C3%A1n%20*a*%20L%C3%A1n%20J%C7%90ngy%C3%AD%20*a*%20L%C3%A1n%20Yu%C3%A0n%20%7C%20L%C3%A1n%20S%C4%ABzhu%C4%AB%20*a*%20%C5%8Cuy%C3%A1ng%20Z%C7%90zh%C4%93n/works">Jīn Líng | Jīn Rúlán &amp; Lán Jǐngyí &amp; Lán Yuàn | Lán Sīzhuī &amp; Ōuyáng Zǐzhēn</a></li><li><a class="tag" href="/tags/%C4%80-Q%C3%ACng*s*%C5%8Cuy%C3%A1ng%20Z%C7%90zh%C4%93n/works">Ā-Qìng/Ōuyáng Zǐzhēn</a></li><li><a class="tag" href="/tags/L%C3%A1n%20Hu%C3%A0n%20%7C%20L%C3%A1n%20X%C4%ABch%C3%A9n%20*a*%20L%C3%A1n%20Zh%C3%A0n%20%7C%20L%C3%A1n%20W%C3%A0ngj%C4%AB/works">Lán Huàn | Lán Xīchén &amp; Lán Zhàn | Lán Wàngjī</a></li><li><a class="tag" href="/tags/Ji%C4%81ng%20Ch%C3%A9ng%20%7C%20Ji%C4%81ng%20W%C7%8Eny%C3%ADn%20*a*%20J%C4%ABn%20L%C3%ADng%20%7C%20J%C4%ABn%20R%C3%BAl%C3%A1n/works">Jiāng Chéng | Jiāng Wǎnyín &amp; Jīn Líng | Jīn Rúlán</a></li><li><a class="tag" href="/tags/W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n%20*a*%20W%C4%93n%20N%C3%ADng%20%7C%20W%C4%93n%20Qi%C3%B3ngl%C3%ADn/works">Wèi Yīng | Wèi Wúxiàn &amp; Wēn Níng | Wēn Qiónglín</a></li><li><a class="tag" href="/tags/Ni%C3%A8%20Hu%C3%A1is%C4%81ng%20*a*%20W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n/works">Niè Huáisāng &amp; Wèi Yīng | Wèi Wúxiàn</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n/works">Wèi Yīng | Wèi Wúxiàn</a></li><li><a class="tag" href="/tags/L%C3%A1n%20Zh%C3%A0n%20%7C%20L%C3%A1n%20W%C3%A0ngj%C4%AB/works">Lán Zhàn | Lán Wàngjī</a></li><li><a class="tag" href="/tags/L%C3%A1n%20Hu%C3%A0n%20%7C%20L%C3%A1n%20X%C4%ABch%C3%A9n/works">Lán Huàn | Lán Xīchén</a></li><li><a class="tag" href="/tags/L%C3%A1n%20Yu%C3%A0n%20%7C%20L%C3%A1n%20S%C4%ABzhu%C4%AB/works">Lán Yuàn | Lán Sīzhuī</a></li><li><a class="tag" href="/tags/Ji%C4%81ng%20Ch%C3%A9ng%20%7C%20Ji%C4%81ng%20W%C7%8Eny%C3%ADn/works">Jiāng Chéng | Jiāng Wǎnyín</a></li><li><a class="tag" href="/tags/L%C3%A1n%20J%C7%90ngy%C3%AD/works">Lán Jǐngyí</a></li><li><a class="tag" href="/tags/J%C4%ABn%20L%C3%ADng%20%7C%20J%C4%ABn%20R%C3%BAl%C3%A1n/works">Jīn Líng | Jīn Rúlán</a></li><li><a class="tag" href="/tags/%C5%8Cuy%C3%A1ng%20Z%C7%90zh%C4%93n/works">Ōuyáng Zǐzhēn</a></li><li><a class="tag" href="/tags/Ni%C3%A8%20Hu%C3%A1is%C4%81ng/works">Niè Huáisāng</a></li><li><a class="tag" href="/tags/W%C4%93n%20N%C3%ADng%20%7C%20W%C4%93n%20Qi%C3%B3ngl%C3%ADn/works">Wēn Níng | Wēn Qiónglín</a></li><li><a class="tag" href="/tags/%C4%80-Q%C3%ACng/works">Ā-Qìng</a></li><li><a class="tag" href="/tags/Ni%C3%A8%20Z%C5%8Dnghu%C4%AB/works">Niè Zōnghuī</a></li><li><a class="tag" href="/tags/M%C3%B2%20Xu%C3%A1ny%C7%94/works">Mò Xuányǔ</a></li><li><a class="tag" href="/tags/Lu%C3%B3%20%22Mi%C3%A1n%20Mi%C3%A1n%22%20Q%C4%ABngy%C3%A1ng/works">Luó &quot;Mián Mián&quot; Qīngyáng</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Humor/works">Humor</a></li><li><a class="tag" href="/tags/Post-Canon%20Fix-It/works">Post-Canon Fix-It</a></li><li><a class="tag" href="/tags/Long-Distance%20Relationship/works">Long-Distance Relationship</a></li><li><a class="tag" href="/tags/Epistolary/works">Epistolary</a></li><li><a class="tag" href="/tags/Love%20Letters/works">Love Letters</a></li><li><a class="tag" href="/tags/Family%20Feels/works">Family Feels</a></li><li><a class="tag" href="/tags/ft*d*%20the%20yunmeng%20bros%20being%20bros/works">ft. the yunmeng bros being bros</a></li><li><a class="tag" href="/tags/and%20the%20junior%20ducklings%20being%20precious/works">and the junior ducklings being precious</a></li><li><a class="tag" href="/tags/No%20beta%20we%20die%20like%20wwx/works">No beta we die like wwx</a></li><li><a class="tag" href="/tags/a-qing%20lives/works">a-qing lives</a></li><li><a class="tag" href="/tags/teenage%20romance/works">teenage romance</a></li><li><a class="tag" href="/tags/Adoption/works">Adoption</a></li><li><a class="tag" href="/tags/Romantic%20Comedy/works">Romantic Comedy</a></li><li><a class="tag" href="/tags/Happy%20Ending/works">Happy Ending</a></li><li><a class="tag" href="/tags/Weddings/works">Weddings</a></li><li><a class="tag" href="/tags/Case%20Fic/works">Case Fic</a></li><li><a class="tag" href="/tags/Parenthood/works">Parenthood</a></li><li><a class="tag" href="/tags/Politics/works">Politics</a></li><li><a class="tag" href="/tags/gratuitious%20social%20reform/works">gratuitious social reform</a></li><li><a class="tag" href="/tags/as%20expected%20when%20wwx%20is%20left%20in%20charge%20of%20a%20government%20without%20supervision/works">as expected when wwx is left in charge of a government without supervision</a></li><li><a class="tag" href="/tags/Y%C3%BAnm%C3%A8ng%20Ji%C4%81ng%20Sect%20(M%C3%B3d%C3%A0o%20Z%C7%94sh%C4%AB)/works">Yúnmèng Jiāng Sect (Módào Zǔshī)</a></li><li><a class="tag" href="/tags/Slow%20Burn/works">Slow Burn</a></li><li><a class="tag" href="/tags/the%20burn%20is%20very%20fast%20actually%20wwx%20is%20just%20clueless/works">the burn is very fast actually wwx is just clueless</a></li><li><a class="tag" href="/tags/(slaps%20fic)%20this%20bad%20boy%20can%20fit%20so%20much%20worldbuilding%20in%20it/works">(slaps fic) this bad boy can fit so much worldbuilding in it</a></li><li><a class="tag" href="/tags/Sect%20Leader%20W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n/works">Sect Leader Wèi Yīng | Wèi Wúxiàn</a></li><li><a class="tag" href="/tags/Spanish%20Translation%20Available/works">Spanish Translation Available</a></li><li><a class="tag" href="/tags/now%20with%20added%20epilogue!/works">now with added epilogue!</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+      <dt class="series">
+        Series:
+      </dt>
+      <dd class="series">
+        <span class="series"><span class="position">Part 1 of the <a href="/series/1762018">Twelve Moons and a Fortnight Verse</a> series</span><span class="divider"> </span><a class="next" href="/works/24126211">Next Work &#8594;</a></span>
+      </dd>
+
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2020-03-10</dd><dt class="status">Completed:</dt><dd class="status">2021-05-07</dd><dt class="words">Words:</dt><dd class="words">290324</dd><dt class="chapters">Chapters:</dt><dd class="chapters">51/51</dd><dt class="comments">Comments:</dt><dd class="comments">10522</dd><dt class="kudos">Kudos:</dt><dd class="kudos">6693</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/23090143/bookmarks">1681</a></dd><dt class="hits">Hits:</dt><dd class="hits">294126</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Twelve Moons and a Fortnight
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/stiltonbasket/pseuds/stiltonbasket">stiltonbasket</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p><i>"Let me get this straight. You really want me to stand in for you while you help Jin Ling settle in at Koi Tower?"</i> </p><p>
+  <i>"Who else do I have?" Jiang Cheng returns. "Father trained you to serve as my deputy, didn't he? And don't say you don't remember, or I'll break your legs."</i>
+</p><p><i>"Well, yes," Wei Wuxian manages. "Uh. I'll just let Lan Zhan know I'll be at Lotus Pier until you're back at home, then."</i> </p><p>Or, the one where Wei Wuxian spends the year before his wedding as Yunmeng Jiang's acting sect leader, and the cultivation world's greatest love story finds its happy ending with the help of three juniors, a teenage romance, and one very involved (and exasperated) younger brother.</p><p> </p><p>(Now with a <a href="https://tvtropes.org/Fanfic/TwelveMoonsAndAFortnight" rel="nofollow">TV Tropes page</a>!)</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>This follows the CQL-verse and not the novel or donghua, so some differences are as follows:<br/>1) LWJ didn't kiss WWX at Phoenix Mountain.<br/>2) A-Qing was still alive when the juniors got to Yi City, and survived the stab wound from Xue Yang before being taken to the Cloud Recesses for treatment.<br/>3) WWX and LWJ aren't together. <i>Yet.</i><br/>4) WWX is back in his own body, not Mo Xuanyu's!</p><p>Edit as of 8/30/21: The rating has been changed from G to M for depictions of violence and injury in chapters 41-43. If this might upset you, please click away or skip those chapters entirely; and if you are reading this in full view mode, there are warnings in the beginning chapter notes to denote content warranting the M rating.</p>
+    </blockquote>
+
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/23090143/chapters/55240066">Chapter 1</a>
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+      <div id="notes" class="notes module">
+        <h3 class="heading">Notes:</h3>
+          <blockquote class="userstuff"><p>Edit 4/15/21:</p>
+<p>Now that this work is officially complete, reminder to new readers that there is some heavy content despite its general fluffiness! Please keep yourselves safe by paying attention to any chapter warnings in the beginning notes as you read.</p>
+<p>For anyone who would like to read in Spanish, an excellent translation by Agus_B26 is in progress <a href="https://www.wattpad.com/1023397720-%E1%B4%9B%E1%B4%A1%E1%B4%87%CA%9F%E1%B4%A0%E1%B4%87-%E1%B4%8D%E1%B4%8F%E1%B4%8F%C9%B4%EA%9C%B1-%E1%B4%80%C9%B4%E1%B4%85-%E1%B4%80-%EA%9C%B0%E1%B4%8F%CA%80%E1%B4%9B%C9%B4%C9%AA%C9%A2%CA%9C%E1%B4%9B-cap%C3%ADtulo-1/" rel="nofollow">here!</a></p></blockquote>
+      </div>
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p align="center">
+  <em> Just as surely as the sea washes up on the shore, you and I will meet again! </em>
+</p>
+<p align="center">*    *    *</p>
+<p>Wei Wuxian spends the first two months after Lan Zhan’s ascension as Chief Cultivator wandering through the towns and settlements of Gusu. </p>
+<p>He’s not ready to leave his best friend—<em> his soulmate, his heart’s companion— </em>behind: not yet, but somehow he isn’t quite ready to pack up and go to the Cloud Recesses, either. Something in him seems to whisper that it’s best he keeps away at least until the gossip surrounding Jin Guangyao’s death at the Guanyin temple and his own sudden exoneration dies down, so he settles for brief meetings with the Lan juniors in Caiyi now and then when they pass through on their way back from night hunts. Sizhui and Jingyi are both doing well, and through them he receives semi-regular news of Lan Zhan and Jin Ling, who has been writing to them both ever since they all parted at Yi City. </p>
+<p>“Hanguang-jun told us to pass this on if we saw you,” Jingyi tells him, holding out a qiankun pouch brimming with silver pieces and a package of what looks like new robes. “I’ve been carrying these around since last week, so hurry up and take them.”</p>
+<p>“So it’s the esteemed <em> Hanguang-jun’s </em> fault that you two can’t forget how poor I am, hm?” Wei Wuxian scolds, nudging a blushing Sizhui in the ribs. “What do you have, A-Yuan? More coin for your Brother Poor?” He <em> is </em>running out of money, though true to form he hasn’t really been worrying about it; his plans for what to do after the last of his silver is gone vaguely center around hunting game in the countryside, and dealing with low-level hauntings for a living now that he can use Chenqing without everyone in the vicinity running for cover.</p>
+<p>“<em>No, </em>Senior Wei,” Sizhui sighs, though he makes no move to wriggle out of Wei Wuxian’s arms as he reaches into his pack. “Here, it’s chili paste. Hanguang-jun said you would need it as long as you stayed here in Gusu.”</p>
+<p>Wei Wuxian feels his eyes mist over. </p>
+<p>“Ah, A-Yuan, he’s too good to me. What’s he been doing lately, now that he’s officially Chief Cultivator?”</p>
+<p>The boys launch into a lively retelling of the first official meeting of sect leaders that took place since Sizhui and Wen Ning came back from their trip to their ancestral city, and Wei Wuxian sits with them and laughs until he cries at Sizhui’s dry imitation of how Jiang Cheng had tried and miserably failed <em> not </em>to be awkward around Lan Zhan, all while keeping Jin Ling from falling asleep by sticking some of Wei Wuxian’s old talismans on his back to make him sit up straight. Jingyi seems more interested in telling him about the “weird, meaningful looks” Jin Ling had been giving them whenever Jiang Cheng was out of the room, which seem to have something to do with the fact that he was an acting sect leader now.</p>
+<p>“We all met up before the Jin cultivators flew back to Lanling, so he managed to talk to us without Sect Leader Jiang hearing us,” Sizhui frowns at last, putting more rice into Wei Wuxian’s bowl and topping it off with cabbage. “I’m not sure if we heard him properly, but Jin Ling <em> seemed </em>to be hinting that you should travel to Yunmeng as soon as you can.”</p>
+<p>“Yunmeng?” Wei Wuxian blinks. “Are you sure he wants me to come there and not to Lanling? Jin Ling isn’t even going to leave until someone deals with the council at Koi Tower and brings Jin Guangyao’s men to trial.”</p>
+<p>“That’s just it,” Jingyi pipes up. “Jin Ling can’t deal with it, and Hanguang-jun’s busy with Chief Cultivator things, and Sect Leader Nie—”</p>
+<p>
+  <em> —is much, much more capable than anyone but me, Lan Zhan, and Lan Xichen knows.  </em>
+</p>
+<p>“Huiasang-xiong has enough on his plate, so it can’t be him either,” Wei Wuxian says aloud. He doubts that Nie Huaisang will ever show his true cunning again now that Jin Guangyao is gone—he hadn’t even been particularly interested in getting rid of Su She and Xue Yang, even though disguising their downfalls as collateral damage was well within his capacity. “So who’s left?”</p>
+<p>“No one that doesn’t have a sect of their own to deal with. And there’s no point going to the minor sects. Jin Ling wouldn’t trust anyone from Moling Su or the Yao sect as far as he could throw them.”</p>
+<p>
+  <em> Ah.  </em>
+</p>
+<p>That leaves only a single option, then. </p>
+<p>“Then I’ll set off for Yunmeng tomorrow morning,” Wei Wuxian decides. “At ten. Sizhui, Jingyi, write Jin Ling when you get home and tell him I’m going to be at the inn closest to the Guanyin temple—and tell Hanguang-jun too, just so he knows.”</p>
+<p>“Why Yunping?” asks Sizhui. “Shouldn’t you go to Lotus Pier instead?”</p>
+<p>“I’ll end up there eventually,” he sighs, draining the last of his tea. “Get me another pot of wine, A-Yuan. I’m going to need it if Jin Ling wants what I think he does.”</p>
+<p>He goes to bed early that night, not long after waving Jingyi and A-Yuan goodbye at the door of the inn, and falls into a sleep so heavy that he almost snores straight through the crash of someone falling headlong into his room and stumbling over Suibian; he left his sword on the floor with the all the rest of his belongings, which proceed to trip up his mysterious guest three more times before he finally falls against Wei Wuxian’s bed.</p>
+<p>“Hello, Lan Zhan,” he smiles, heart aching from the inside out as a gentle hand brushes against his forehead. “This <em> has </em>to be the most graceless thing I’ve ever seen you do. What happened?”</p>
+<p>“Frightened the cook on my way up,” Lan Wangji says at last, lips twitching slightly at their corners as they used to sometimes when he and Wei Wuxian were still studying in the Cloud Recesses. “She tried to hit me with a broom.”</p>
+<p>Wei Wuxian throws his head back and laughs, burying his face in Lan Wangji’s chest as a pair of warm arms slip around his waist. “Why?”</p>
+<p>“Thought I was a ghost.”</p>
+<p>He laughs again. “Lan Zhan, my Lan Zhan, did you try to jump up to my window instead of using the door like the upstanding Chief Cultivator you are?”</p>
+<p>“...Perhaps.”</p>
+<p>“You’ve been spending too much time with Jingyi,” he teases, snuggling closer into his friend’s embrace. “Have you come to say goodbye? I’m off to Yunmeng tomorrow to do something for Jin Ling, but I’m not sure what he wants yet. He didn’t even send word directly, you know! He told A-Yuan about it, and A-Yuan told me today.”</p>
+<p>“Mn, at the meeting last week.” Lan Wangji folds their hands together and tucks the quilt back over Wei Wuxian’s toes. “But, Wei Ying—why Yunping and not Lotus Pier?”</p>
+<p>“I think I know what Jiang Cheng wants,” Wei Wuxian says. He isn’t quite sure if he knows or if he’s only hoping he does—but unless there’s something going on at Lotus Pier that Jin Ling can’t put in writing, there is only one reason why his presence might be needed there, and both he and Lan Zhan are fully aware of what it is. “But <em> he </em>isn’t going to come to me directly, and Jin Ling isn’t going to provoke him by sending me straight to Lotus Pier. But I can think of a hundred excuses for sneaking around the Guanyin temple, so now it’s up to Jin Ling to make sure Jiang Cheng finds me there.”</p>
+<p>“How long?” <em> How long will you be away from me, Wei Ying, </em>he hears—it has been both pain and comfort to them both, knowing they weren’t far apart even though they could only rarely see each other, but Wei Wuxian’s stay at Lotus Pier might go on for months if Jiang Cheng decides to remain that long in Lanling. </p>
+<p>“Until the trials are set and finished, at least. Will you miss me?”</p>
+<p>“Endlessly,” Lan Wangji whispers, pressing his cheek to the top of Wei Wuxian’s head. “But you know this, by now.”</p>
+<p>“I’ll come back as soon as I can,” he promises. “When Jin Ling is set at Koi Tower, and Jiang Cheng doesn’t have to run back and forth to keep an eye on him—I’ll come straight back to Caiyi, and you’ll see me then.”</p>
+<p>“Mn. I know.”</p>
+<p>What follows this exchange is possibly the most peaceful night Wei Wuxian has ever had; Lan Wangji does not <em> ask </em> to stay so much as he just <em> does </em>, since the only thing he does before getting under the blankets is stretch out his hand for Wei Wuxian’s second pillow. But despite never having shared a bed before the two of them drift straight off to sleep with Lan Wangji’s arm wrapped close around Wei Wuxian’s waist, and dream only of pleasant things before Lan Zhan departs at dawn. </p>
+<p align="center">*    *    *</p>
+<p>
+  <em> Jinlintai, Lanling Jin to the Cloud Recesses, Gusu Lan </em>
+</p>
+<p>
+  <em> To Sizhui (and Jingyi, since you’re probably reading this over Sizhui’s shoulder—go read your own letter, you snoop, I did send you one!) </em>
+</p>
+<p><em>     </em> <em> Thanks for passing on the message to Senior Wei; I wasn’t sure if you’d got it, but Uncle Jiang stormed out of Koi Tower last night because one of his spies sent word that Senior Wei was near the Guanyin temple in Yunping, so I suppose you must have. Was the Guanyin temple your idea, or did Senior Wei think of it all by himself?  Uncle Jiang would have been screaming about breaking his legs if he’d gone straight to Lotus Pier, so thank goodness he didn’t. </em></p>
+<p>
+  <em> All we have to do now is wait, I suppose. Senior Wei can take over running Yunmeng Jiang with Senior Yu to help him, and Uncle can stay here with me in Lanling until all the mess from—well, you know what I mean—is cleaned up. Ouyang Zizhen came over from Baling this morning to sit in on the monthly council, since Hanguang-jun wrote to me saying that me having strong personal ties to the heirs of the other sects will help me get on here, and he also invited me to come to the Cloud Recesses to see you and Jingyi once the lectures begin. I’ll bring Zizhen with me since he’s actually going to be studying there, but I can only stay a fortnight because of sect leader things. Ugh. The only good thing about being sect leader is that Jin Chan and his cronies don’t bother me now, but that might just be because Uncle Jiang follows me around everywhere.  </em>
+</p>
+<p>
+  <em> Looking forward to the lecture,  </em>
+</p>
+<p><em>     </em> <em> Sect Leader Jin Rulan.  </em></p>
+<p>
+  <em>    P.S. Ouyang Zizhen just came in and asked me to ask you how A-Qing’s doing. The hairpin and the second letter in the envelope are both for her from him; he wants you to read the letter to her, though I don’t know what good that’s supposed to do when she’s been asleep for the last three months. Does she look any better? Gusu Lan’s healing magic is supposed to be the best in the world, isn’t it? Why’s it taking so long?</em>
+</p>
+<p align="center"><em> * </em> <em>     </em> <em> * </em> <em>     </em> <em> * </em></p>
+<p>
+  <em> Cloud Recesses, Gusu Lan to the Jinlintai, Lanling Jin </em>
+</p>
+<p>
+  <em> Sect Leader Jin,  </em>
+</p>
+<p><em>     </em> <em> A-Qing hasn’t woken up, since the healing sleep hasn’t finished fixing her eyes yet. But you can tell Ouyang Zizhen that she’ll definitely be able to talk when her eyes are better, since Zewu-jun managed to fix her tongue three days ago!  He says the healing spell should be over by the time the lecture starts, and you and Zizhen can see her then. Hanguang-jun comes in every morning to play for her because her mind has to heal too, but both he and Zewu-jun say she’ll make a full recovery so I wouldn’t worry too much. Jingyi and I read Zizhen’s letter out loud to her as soon as it arrived, and I think she even moved her hand a little when we got to the part about Sect Leader Jiang falling into your mother’s lotus garden. </em></p>
+<p><em>     </em> <em> Regarding Senior Wei and your message, he decided to go to the temple in Yunping right after we told him. Of course you’ll be able to write him at Lotus Pier if everything goes well with Sect Leader Jiang, but until then you can keep writing to me and Jingyi. Senior Wei always seems to know everything we tell Hanguang-jun, so we can get word to him that way even though he’s not in Gusu anymore.  </em></p>
+<p><em>     </em> <em> Fond regards,  </em></p>
+<p><em>     </em> <em>     </em> <em> Lan Sizhui. </em></p>
+<p align="center"><em> * </em> <em>     </em> <em> * </em> <em>     </em> <em> * </em></p>
+<p>
+  <em> Cloud Recesses, Gusu Lan to the Jinlintai, Lanling Jin </em>
+</p>
+<p>
+  <em> Jin Ling,  </em>
+</p>
+<p><em>     </em> <em> Stop calling me a snoop! You know perfectly well all your letters to Sizhui are for me too, so what’s the point of pretending they’re not? But that isn’t the point of this letter, so forget about that. Can you send us a package of lotus seeds from your garden, or even the Lanling markets if you don’t have enough of your own? We can’t get them in the Gusu shops, and Sizhui and I want to make lotus seed cakes like Senior Wei’s for A-Qing to eat when she wakes up. Here is the money for the seeds, though you must tell us if it isn’t enough so we can pay you back next month. Neither me nor Sizhui know how much lotus seeds cost, so I just put in five silver pieces.  </em></p>
+<p><em>     </em> <em> See you at the lecture! </em></p>
+<p><em>     </em> <em>     </em> <em> Lan Jingyi.  </em></p>
+<p> </p>
+<p> </p>
+  </div>
+  <!--/main-->
+
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/23090143/chapters/55259695#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="o_VqDHWhjWOYIvqOrUtGNU8OWzC9-XZvQIcEZ3X8xFBcyUGxIdz-SGGQt3LudbeGS5m3q8ujD04O2L34obwXnA"/>
+          <input value="23090143" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=55240066">Comments (94)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/Crimsonqueen1979">Crimsonqueen1979</a>, <a href="/users/onagazame">onagazame</a>, <a href="/users/Daniela2007N">Daniela2007N</a>, <a href="/users/VitatoMorte">VitatoMorte</a>, <a href="/users/Lyricalia">Lyricalia</a>, <a href="/users/Moribayashi09">Moribayashi09</a>, <a href="/users/loveranime">loveranime</a>, <a href="/users/Gwenhata">Gwenhata</a>, <a href="/users/Kiraii">Kiraii</a>, <a href="/users/Simpingfor_LANSIZHUI_16">Simpingfor_LANSIZHUI_16</a>, <a href="/users/OhBoyItsUp">OhBoyItsUp</a>, <a href="/users/Elderwood">Elderwood</a>, <a href="/users/Reijade">Reijade</a>, <a href="/users/rosegoddess221">rosegoddess221</a>, <a href="/users/siriusblack">siriusblack</a>, <a href="/users/r_noona">r_noona</a>, <a href="/users/minsnuggles">minsnuggles</a>, <a href="/users/Ph4nt0m_Tr00p">Ph4nt0m_Tr00p</a>, <a href="/users/For_Midgard">For_Midgard</a>, <a href="/users/ineedcoffe239">ineedcoffe239</a>, <a href="/users/jo_lils">jo_lils</a>, <a href="/users/royal_purple">royal_purple</a>, <a href="/users/liv134340">liv134340</a>, <a href="/users/crimsonskiss">crimsonskiss</a>, <a href="/users/Sercsi">Sercsi</a>, <a href="/users/AkumaSpotted72">AkumaSpotted72</a>, <a href="/users/booksteaandsleep">booksteaandsleep</a>, <a href="/users/turquoisefluff_20">turquoisefluff_20</a>, <a href="/users/kronos_ra">kronos_ra</a>, <a href="/users/zerUwU">zerUwU</a>, <a href="/users/Reirha">Reirha</a>, <a href="/users/darkdarknights">darkdarknights</a>, <a href="/users/camellia_blooms">camellia_blooms</a>, <a href="/users/Nyxessa">Nyxessa</a>, <a href="/users/alate_feline">alate_feline</a>, <a href="/users/weiyingslotus">weiyingslotus</a>, <a href="/users/SharaFinan">SharaFinan</a>, <a href="/users/silrayn">silrayn</a>, <a href="/users/Kitoyuya26">Kitoyuya26</a>, <a href="/users/argenira">argenira</a>, <a href="/users/Dr_Yoongles7">Dr_Yoongles7</a>, <a href="/users/Monath97">Monath97</a>, <a href="/users/k3yb0aRdSMaCK">k3yb0aRdSMaCK</a>, <a href="/users/Jeymmi137">Jeymmi137</a>, <a href="/users/Skriva">Skriva</a>, <a href="/users/chellonihaoma">chellonihaoma</a>, <a href="/users/SadButRadMira">SadButRadMira</a>, <a href="/users/wingdance">wingdance</a>, <a href="/users/Teogli">Teogli</a>, <a href="/users/azurelunaria">azurelunaria</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/23090143/kudos?before=3838598053">3827 more users</a>
+             as well as 
+          2816 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_55240066">
+  <form class="new_comment" id="comment_for_55240066" action="/chapters/55240066/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="qC6-hPdkZ5VseHyrd7R0Eu5aQi4gNlO6yiFVv6chyNNXEpU5oxkUvpXKMVc0ioWh6s2utVZsKpuEfuwgc2EbHw"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_55240066">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_55240066" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_55240066=new LiveValidation('comment_name_for_55240066',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_55240066.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_55240066">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_55240066" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_55240066=new LiveValidation('comment_email_for_55240066',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_55240066.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_55240066" class="landmark">Comment</label>
+        <textarea id="comment_content_for_55240066" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_55240066" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_55240066_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_55240066">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_55240066=new LiveValidation('comment_content_for_55240066',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_55240066.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_55240066.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_55240066" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/23090143/hit_count.json")})</script>
+
+
+  </body>
+</html>

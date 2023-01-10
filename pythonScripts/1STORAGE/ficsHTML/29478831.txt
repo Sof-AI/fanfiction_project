@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"232243a405","applicationID":"129290979","transactionName":"cVtXEUpbWFxdQhkAW1NETQBKRxtDUF9B","queueTime":0,"applicationTime":147,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"232243a405",applicationID:"129290979"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(9),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=M.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+M.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+M.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,y="addEventListener",h="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1215.min.js"},T=w&&b&&b[y]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:T,userAgent:s,disabled:E};if(!E){t(1),t(7),g[y]?(g[y]("DOMContentLoaded",o,l(!1)),m[y]("load",r,l(!1))):(g[h]("onreadystatechange",i),m[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        an act too often neglected - Chapter 1 - Ariaste - 陈情令 | The Untamed (TV) [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="XEVldwr0L1oW2ouPIPHRzuEjdXHuRbTda5nisDsAqpfk9ZQFGJPGC6bgoEfTKcvs5pZDRWhhYrFP6DqpfdUN2Q"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="DN99iH6gkmvD1GxJ1JPNVmRM6IuDp9JOlwxzakSAk8y0b4z6bMd7OnPuR4EnS9d0Y_nevwWDBCKzfatzAlU0gg"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: lex m/m (mature OR explicit)</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/29478831?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/29478831/chapters/72557787#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/29478831/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/29478831/chapters/72412977" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="72412977">1. Chapter 1</option>
+<option value="72557787">2. Chapter 2</option>
+<option value="72718398">3. Chapter 3</option>
+<option value="74712360">4. Chapter 4</option>
+<option value="74746605">5. Chapter 5</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/29478831/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=72412977">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/29478831/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/29478831/an%20act%20too%20often.azw3?updated_at=1632238047">AZW3</a></li>
+          <li><a href="/downloads/29478831/an%20act%20too%20often.epub?updated_at=1632238047">EPUB</a></li>
+          <li><a href="/downloads/29478831/an%20act%20too%20often.mobi?updated_at=1632238047">MOBI</a></li>
+          <li><a href="/downloads/29478831/an%20act%20too%20often.pdf?updated_at=1632238047">PDF</a></li>
+          <li><a href="/downloads/29478831/an%20act%20too%20often.html?updated_at=1632238047">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Explicit/works">Explicit</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/%E9%99%88%E6%83%85%E4%BB%A4%20%7C%20The%20Untamed%20(TV)/works">陈情令 | The Untamed (TV)</a></li><li><a class="tag" href="/tags/%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88%20-%20%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%20%7C%20M%C3%B3d%C3%A0o%20Z%C7%94sh%C4%AB%20-%20M%C3%B2xi%C4%81ng%20T%C3%B3ngxi%C3%B9/works">魔道祖师 - 墨香铜臭 | Módào Zǔshī - Mòxiāng Tóngxiù</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/L%C3%A1n%20Hu%C3%A0n%20%7C%20L%C3%A1n%20X%C4%ABch%C3%A9n*s*M%C3%A8ng%20Y%C3%A1o%20%7C%20J%C4%ABn%20Gu%C4%81ngy%C3%A1o/works">Lán Huàn | Lán Xīchén/Mèng Yáo | Jīn Guāngyáo</a></li><li><a class="tag" href="/tags/M%C3%A8ng%20Y%C3%A1o%20%7C%20J%C4%ABn%20Gu%C4%81ngy%C3%A1o%20*a*%20Ni%C3%A8%20Hu%C3%A1is%C4%81ng/works">Mèng Yáo | Jīn Guāngyáo &amp; Niè Huáisāng</a></li><li><a class="tag" href="/tags/Minor%20or%20Background%20Relationship(s)/works">Minor or Background Relationship(s)</a></li><li><a class="tag" href="/tags/L%C3%A1n%20Zh%C3%A0n%20%7C%20L%C3%A1n%20W%C3%A0ngj%C4%AB*s*W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n/works">Lán Zhàn | Lán Wàngjī/Wèi Yīng | Wèi Wúxiàn</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/L%C3%A1n%20Hu%C3%A0n%20%7C%20L%C3%A1n%20X%C4%ABch%C3%A9n/works">Lán Huàn | Lán Xīchén</a></li><li><a class="tag" href="/tags/M%C3%A8ng%20Y%C3%A1o%20%7C%20J%C4%ABn%20Gu%C4%81ngy%C3%A1o/works">Mèng Yáo | Jīn Guāngyáo</a></li><li><a class="tag" href="/tags/Ni%C3%A8%20Hu%C3%A1is%C4%81ng/works">Niè Huáisāng</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Alternate%20Universe%20-%20Modern%20Setting/works">Alternate Universe - Modern Setting</a></li><li><a class="tag" href="/tags/Happy%20Ending/works">Happy Ending</a></li><li><a class="tag" href="/tags/Porn%20With%20Plot/works">Porn With Plot</a></li><li><a class="tag" href="/tags/The%20Porn%20Is%20the%20Plot/works">The Porn Is the Plot</a></li><li><a class="tag" href="/tags/the%20Character%20Growth%20is%20also%20the%20plot/works">the Character Growth is also the plot</a></li><li><a class="tag" href="/tags/Light%20BDSM/works">Light BDSM</a></li><li><a class="tag" href="/tags/Service%20Top%20Lan%20Xichen/works">Service Top Lan Xichen</a></li><li><a class="tag" href="/tags/Bossy%20Bottom%20Meng%20Yao/works">Bossy Bottom Meng Yao</a></li><li><a class="tag" href="/tags/Size%20Kink/works">Size Kink</a></li><li><a class="tag" href="/tags/Falling%20In%20Love/works">Falling In Love</a></li><li><a class="tag" href="/tags/Orgasm%20Delay*s*Denial/works">Orgasm Delay/Denial</a></li><li><a class="tag" href="/tags/Phone%20Sex/works">Phone Sex</a></li><li><a class="tag" href="/tags/Rimming/works">Rimming</a></li><li><a class="tag" href="/tags/Anal%20Sex/works">Anal Sex</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2021-02-16</dd><dt class="status">Completed:</dt><dd class="status">2021-03-28</dd><dt class="words">Words:</dt><dd class="words">60699</dd><dt class="chapters">Chapters:</dt><dd class="chapters">5/5</dd><dt class="comments">Comments:</dt><dd class="comments">887</dd><dt class="kudos">Kudos:</dt><dd class="kudos">2926</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/29478831/bookmarks">851</a></dd><dt class="hits">Hits:</dt><dd class="hits">36740</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      an act too often neglected
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/Ariaste/pseuds/Ariaste">Ariaste</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>
+  <i>The single faceless, anonymous photograph on the profile that catches his eye is shot in elegant black-and-white, and there’s something about the crispness of the focus and the markedly off-center composition that says art, for once, rather than mugshot.</i>
+</p><p> </p><p>  <i>The caption below is equally sparse: “5’6. Demanding.” </i></p><p>(Or: Meng Yao gets wrecked by that Good Lan Dick. Lan Xichen gets wrecked by Meng Yao's Whole Deal.)</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>
+  <i>"I cannot play with you," the fox said. "I am not tamed."</i>
+</p><p> </p><p>  <i>"Ah! Please excuse me," said the little prince. But, after some thought, he added: "What does that mean--'tame'?" […]</i></p><p>  <i>"It is an act too often neglected," said the fox. “It means to establish ties."</i></p><p>  <i>"'To establish ties'?"</i></p><p>  <i>"Just that," said the fox. "To me, you are still nothing more than a little boy who is just like a hundred thousand other little boys. And I have no need of you. And you, on your part, have no need of me. To you, I am nothing more than a fox like a hundred thousand other foxes. But if you tame me, then we shall need each other. To me, you will be unique in all the world. To you, I shall be unique in all the world.”</i></p><p><i>--The Little Prince,</i> Chapter 21. Antoine de Saint-Exupéry</p>
+    </blockquote>
+
+    <p class="jump">(See the end of the work for <a href="/chapters/74746605#children">other works inspired by this one</a>.)</p>
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/29478831/chapters/72412977">Chapter 1</a>
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+      <div id="notes" class="notes module">
+        <h3 class="heading">Notes:</h3>
+          <p>
+          (See the end of the chapter for  <a href="/works/29478831/chapters/72412977#chapter_1_endnotes">notes</a>.)
+          </p>
+      </div>
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p>Lan Xichen likes sex because he likes people. Making them feel good makes him feel good too--in a mild, contented sort of way, like stepping back from a finished project and putting his hands on his hips and nodding in satisfaction at a job well done. He enjoys being a considerate, thoughtful lover in the same way that he enjoys picking up a stray piece of litter as he passes through the park on his way to work--it’s the warm, glowing feeling that in some small way, he’s left the world just a little bit better and nicer than he found it. </p><p>He tries not to indulge in this feeling too much, because that way lies arrogance.</p><p>He likes sex, and he has a reasonable amount of it. He’s aware that he could probably have more if he wanted. </p><p>He tries not to think about that either, because that way lies vanity, and it must be guarded against as firmly as arrogance. </p><p>There are a number of things that must be guarded against. </p><p>Promiscuity probably ought to be one of them, but Lan Xichen doesn’t see the harm of having sex--as long as he’s picking up the litter and leaving the park nicer than it was before, surely that’s a net positive for the world, isn’t it? Why does it matter how many different parks he walks through? Relationships just don’t seem to work for him--sometimes he’ll find some charming young man and spend a few months with him, but the initial spark never seems to kindle into a flame, and he’s never been able to figure out why. Eventually the time between their texts begins to grow longer, and weekly dates begin getting rescheduled, and then canceled, and suddenly he realizes one day that it’s been three or four weeks since either he or the young man of the moment initiated a conversation, and he understands with a soft wistfulness that he’s come to the end of that particular walk in that particular park. </p><p>Once, he wondered whether all those young men were leaving <em> him </em> better than they found him too. This was too troubling to think about, so he simply set it aside, like an ugly knickknack from a relative, placed on top of the bookshelf where an accidental glance won’t fall on it too easily. </p><p>He is not unhappy. He has his career, and his family, and his health, and his pastimes, and a more than sufficient amount of sex. He gets to make people feel good. He is content. </p><p>(Once, just once, one of his lovers had grown frustrated with him. “But what do you <em> want?” </em> the young man had demanded, nearly in tears. “Why won’t you <em> want </em>anything?” Lan Xichen hadn’t understood the question. That had been more upsetting than anything else. He set that ugly knickknack on top of the bookshelf too, but despite his best efforts, his mental eye still snags on it sometimes. He still doesn’t understand the question, and that is still upsetting. It disrupts his sense of contentment.)</p><p>*</p><p>There’s a kind of ritual to hookups, a dance of set steps. The initial assessment of attraction, a little flirtation, perhaps the exchange of a few personal anecdotes or a little discussion about preferences and kinks, and then the arrangement of the assignation. Once they’ve met and reassessed attraction, there’s a little more flirtation--or seduction, or flat-out foreplay--and then Lan Xichen makes his partner come however they prefer and as many times as they’re in the mood for, and he usually gets off himself somewhere in the process. With the nicer sort of hookup, there’s a bit of cuddling in the afterglow before Lan Xichen politely excuses himself to go home. If it was particularly good, he leaves his number and earnestly assures his lover that he would enjoy a repeat performance if they’re ever interested. Sometimes they call him, sometimes they don’t. </p><p>*</p><p>It begins the same way they always begin: Lan Xichen is lying in bed at the end of a long day, swiping through his favored dating app. </p><p>Well, it’s not quite how they <em>always </em>begin--the single faceless, anonymous photograph on the profile that catches his eye is shot in elegant black-and-white, and there’s something about the crispness of the focus and the markedly off-center composition that says <em>art, </em>for once, rather than <em>mugshot: </em>A bare male torso, suit pants slung low on narrow hips, one hand tucked behind his back as he leans against a wall, the other raised to presumably cup the back of his own neck. Xichen spends several long seconds staring at the one visible nipple in the photograph, the shadowed dip of navel, the slope of hipbone, the trim musculature--a swimmer, perhaps, or a dancer. There is little else to be gleaned from these few features. It is a nice body. A very nice body.</p><p>The caption below is equally sparse: “5’6. Demanding.” </p><p>Lan Xichen feels a low simmer of arousal kindle in the pit of his stomach, and he gazes at that word--<em> demanding </em>--for nearly as long as he’d stared at the photograph. He swipes right.</p><p>A few minutes later, a notification pops up: <em> &lt; Hm, the size of your hands is promising. </em></p><p>This is familiar. This is the flirtation stage. Lan Xichen knows the steps to the dance. </p><p>Or… he thought he did. There’s something unusual here, as unexpected as the artistry of the photograph, but Lan Xichen can’t quite put his finger on it. Perhaps it’s the way the man fires off questions at him--he feels a little like he’s being tested, but he’s not sure what the testing is <em> about </em> specifically. The man is… smart. Clever. That much is obvious. And, apparently, if it was a test, then Lan Xichen must pass. The man asks for (demands) some, ahem, intimate photographs, and then the strangeness passes and they’re back on solid, familiar ground. </p><p>Lan Xichen has a whole collection of, ahem, intimate photographs in different styles, which he picks from based on the individual man he’s talking to. Some really do want the dick mugshot and couldn't care less about composition or chiaroscuro; some find more artistic pictures actively a turn-off, as if Xichen is implying that he’s better than them, or that he’s presumptuous and full of himself for bothering to taking the time to light a shot nicely or frame his body as a desirable thing, rather than a neutral, valueless object. But this man, Lan Xichen knows instinctively, will want the best of the lot. </p><p>There’s a very long silence before the man replies, nearly two minutes.</p><p><em> &lt; Well</em>.<br/>
+<em>&lt; Someone’s blessed.<br/>
+&lt; And biddable, apparently. </em></p><p>Lan Xichen feels like--like being at the symphony, enraptured in the music and unconsciously leaning forward in his seat as the piece begins to rise to the climax. And rise. And rise. And rise, while his breath gets short and his focus narrows to exclude all else.</p><p><em>                </em>&gt; <em> Is that what you like?  </em></p><p>&lt; <em> Blessed and biddable? I certainly don’t hate it. </em></p><p>Usually the flirtation stage is at least a day or two, but the man invites (demands) him to come over within the hour. He gives Lan Xichen the address to a cafe with the sharp instruction to text when he arrives and then wait: &lt; <em> I don’t give my home address out to strangers, obviously.  </em></p><p>Lan Xichen finds himself almost fumbling as he gets his shoes, coat, and scarf on and stuffs his phone and wallet into his pockets. He feels… nervous. He hasn’t felt nervous to meet someone in ages, and for the <em> life </em>of him, he can’t figure out why tonight is any different. </p><p>He texts when he’s at the cafe, and then he waits. </p><p>And waits.</p><p>And waits. </p><p>His nervousness spikes into concern, and then worry, and then a little anxiety--perhaps he’d said something wrong. Perhaps he’d failed those tests after all. </p><p>Finally, after nearly twenty minutes: &lt; <em> Sorry, slightly delayed. What are you wearing? </em></p><p><em>                &gt; Beige coat, blue scarf, </em>Xichen replies, and suddenly he’s breathless with anticipation again.</p><p>He must live quite close, because it really does take only a minute or two before the cafe door opens, jangling the bell hung on the handle, and a young man bundled in a long coat comes in, lifts his eyes to look around, and locks almost immediately on Lan Xichen, who finds to his surprise that he is standing. </p><p>Lan Xichen had been picturing someone pretty, but <em> pretty </em> doesn’t really fucking cover it. The young man is surpassingly lovely, with elegantly handsome features, neither too strong nor too delicate. He also had a shuttered-off expression when he first entered the door, but as he stares at Lan Xichen, it all melts away to blank surprise. His eyes flick down to Lan Xichen’s scarf, his coat, back up to his face. Lan Xichen had noticed before, while they were talking, that the man was clever and sharp, but… </p><p><em> Why don’t you want anything? </em> that former lover had cried, and Lan Xichen hadn’t understood. For years, he’s failed to understand that question--he’s worried over it like a dog with a bone, he’s wrung his hands about it, he’s prodded that memory in his mind like an almost-faded bruise to feel it ache again.</p><p>Now, in between one breath and the next, he understands.</p><p>Now, in between one breath and the next, he learns what wanting is. This man--small and bright-eyed and imperious and <em> lovely--</em>Lan Xichen <em> wants </em> him. </p><p>He wants him, and failing that, he wants whatever he can get, even if that’s just half an hour of conversation. Xichen is helpless to do anything but smile at him, transfixed.</p><p>The man collects himself, comes forward, gives his name (Meng Yao, his name is Meng Yao; Lan Xichen is dying to ask which <em> yáo </em>it is, just in case he needs to write it down on a piece of paper surrounded by hearts and stars, a thing that he has never done with anyone’s name before but suddenly needs very badly to do with Meng Yao’s), and graciously accepts Lan Xichen’s offer to buy him a cup of tea and some pastries to share. </p><p>Lan Xichen feels a little like he’s dying. He’s light-headed and woozy, and his mouth keeps going dry every time he looks at Meng Yao. If it weren’t for the decade of etiquette and comportment lessons his uncle had forced on him, he’d be stumbling and stammering his way through the conversation. He stares at Meng Yao’s delicate little mouth. He stares at Meng Yao’s small, well-manicured hands. He feels like he is dying. </p><p>He keeps his hands on his lap below the edge of the table they’re sitting at so that Meng Yao won’t see that he’s clenched them both on the hem of his coat so hard that his knuckles are white.</p><p>He has no idea what they’re talking about. His mouth is moving, and apparently coherent words are coming out, because Meng Yao is looking at him attentively over the edge of the teacup and occasionally saying something in reply, but Lan Xichen is damned if he can remember any of it. It’s like a dream.</p><p>It’s also like a dream when Lan Xichen blinks and somehow finds himself following Meng Yao up a flight of stairs and standing behind him while he unlocks an apartment door. Another blink and his coat and shoes are off and Meng Yao is seizing him by the front of his shirt and shoving him onto the couch, climbing onto his lap, and <em> kissing </em> him.</p><p>He only really gets snapshots after that. The fierce little sounds Meng Yao makes; the smug hum of satisfaction, almost a purr, when he runs his hands over Lan Xichen’s chest and shoulders. The hitch of his breath when Lan Xichen bites his neck. His hands shoving into Lan Xichen’s pants and pulling out his cock, and how they’re slightly too small to wrap all the way around it--Lan Xichen has never been moved by that before, but now the very sight has his heart tripping in his chest, his blood rushing in his ears, and his cock straining and jerking against Meng Yao’s palm.</p><p>Snapshots: Meng Yao shoving him onto his back and biting his chest like something wild and feral.</p><p>His own hands clutching desperately at Meng Yao’s hips, trying to pull him closer. </p><p>Getting Meng Yao under him somehow, his shirt rucked up high enough for Lan Xichen to suck at his nipple--the one he’d stared at in the photograph--until it’s red and wet and Meng Yao is squirming and gasping and yanking at his hair. </p><p>Wrestling Meng Yao’s pants open, swallowing Meng Yao’s cock before he even has a chance to look at it.</p><p>The weight of him in Lan Xichen’s mouth. </p><p>The shape of his hips as Lan Xichen’s hands grip onto them like the only rock in a tempest. </p><p>The clean, warm scent of his skin. </p><p>The texture of the neatly-trimmed hair at the base of his cock brushing against Lan Xichen’s upper lip whenever he dips down that far. </p><p>His pulse. </p><p>His hands in Lan Xichen’s hair, guiding him, <em> demanding</em>.</p><p>The sharp pain in his scalp as Meng Yao pulls his hair hard and comes, some unknown amount of time later, curling over Lan Xichen’s head so far that his heaving breaths gust against the top of Lan Xichen’s head. The bitter taste of him on the back of Lan Xichen’s tongue as he shudders to pieces. </p><p>Time slows back down--Meng Yao groans and collapses onto his back, but Lan Xichen keeps mouthing gently at his cock, not withdrawing until he’s gone completely soft, a silk-slick and tender mouthful. </p><p>Breathless (or is it just that Meng Yao is breathtaking?), Lan Xichen sits back. He’s kneeling on the carpet--he doesn’t remember moving off the couch--and he notices first that Meng Yao’s cock is as pretty as the rest of him, as nice to look at as it had been to feel in his mouth. The second thing he notices is that he himself is as weak-limbed and languorous as if he too had just come. The third thing he notices is that he <em> has </em> come, all over the carpet and the side of Meng Yao’s nice leather couch. He doesn’t remember when that was--he doesn’t think he even touched himself. He’d been holding onto Meng Yao the whole time--he <em> still </em> is, thumbs rubbing over the twin juts of Meng Yao’s sharp hipbones.</p><p>“Give me a moment,” Meng Yao rasps. “I’ll--ah--be with you in just a moment, to return the favor.” </p><p>Lan Xichen swallows--he can still taste him. “No need,” he manages. “I, ah, already.” He swallows again. “Are there tissues anywhere convenient?”</p><p>Meng Yao raises his head and peers at him, then with a great effort shoves himself up on one elbow and peers down at Lan Xichen’s cock. After a long, pensive moment he says, “Huh.” He gestures vaguely somewhere behind Lan Xichen. “Table by the armchair.”  As Lan Xichen staggers to his feet and fetches the box of tissues, feeling as wobbly and ungainly as a colt, Meng Yao says in a wryly conversational tone, “Does that happen to you often?”</p><p>Lan Xichen hasn’t blushed in years. His ears feel hot as he kneels again. “Ah. What part, specifically?” </p><p>“Coming untouched. Getting off just because you got someone else off.” </p><p>He clears his throat, wiping up as much of the mess as he can. “Ah, no. I do enjoy pleasing my partners, but... No, never.”</p><p>“Hm.” He sounds smug. “Interesting.” Lan Xichen balls up the used tissues, sets them aside, and looks up to find Meng Yao glancing away, as if he’d just been watching him but didn’t want to be caught at it. Meng Yao sits up sharply and begins tidying himself, straightening his shirt and doing up his pants with quick, deft fingers. “Well! Thank you for coming over, that was very nice.” </p><p>Lan Xichen knows a cue for <em> Please leave now </em> when he sees one. He doesn’t want to leave. He wants to lay his head in Meng Yao’s lap and kiss his stomach and his hipbones and get his clothes off properly. He wants to run his hands over every inch of Meng Yao’s skin and find out what other places, when bitten or sucked or licked, will make his breath hitch again.</p><p>But overstaying one’s welcome is absolutely forbidden, so he begins getting himself in order as well. “If you would like to do this again,” he says, not quite able to tear his eyes away from Meng Yao, “then I would like that too.” He’s made that offer dozens of times. He’s never been so worried that the answer might be <em> no, thank you. </em> He’s never worried at all, even when that <em> was </em>the answer.</p><p>Meng Yao gives him a politely confused look. “Again?”</p><p>“Yes. Another day, I mean.”</p><p>A flicker of a frown between Meng Yao’s eyebrows before that shuttered-off expression comes over his face, the one he’d been wearing when he first walked into the cafe. “You’re welcome to send me a message on the app,” he says, his tone entirely pleasant.</p><p>“May I give you my phone number?”</p><p>Another politely confused expression, this one faintly incredulous. “What for?”</p><p>“So you can reach me, if you’d like to... do this again.”</p><p>“If <em> I’d </em>like to.”</p><p>“Yes. Or if you’d like to talk, or go for dinner.”</p><p>Very, very politely, Meng Yao says, “Surely someone like you is very busy. I’m sure there are many things vying for your attention--I wouldn’t want to become a nuisance.” </p><p>“You couldn’t be,” Lan Xichen’s mouth says, far too earnestly. The incredulous, confused expression has entirely vanished; Meng Yao looks only supremely polite. Lan Xichen’s heart quails in a way he has <em> never </em>experienced before. It feels like dying again, but in a much worse sort of way. “I apologize,” he says, tentative, trying to find his footing. “Now I’m afraid that I’m the one who’s being a nuisance.” </p><p>“Not at all,” Meng Yao says immediately, but it’s in that same frictionless, polite voice, so Lan Xichen doesn’t quite believe him.</p><p>Somehow, he musters up a smile. “Ah. Well. I’ll say goodnight, then.” He goes to the door and gets his shoes on; he hears Meng Yao follow him. He shrugs into his coat, wraps the scarf around his neck, and steadies his courage to look at Meng Yao once more. “It was truly lovely to meet you,” he says--his voice is softer than he intends. </p><p>Meng Yao’s polite facade flickers once more, but it’s too fast for Lan Xichen to catch whatever emotion that was. “Here, hold on,” he says, and he turns to the coat rack, digging through the pockets until he produces a pen. “Give me your hand.” Lan Xichen does, and Meng Yao writes a number across his palm. “It might get smudged before you can write it down,” Meng Yao murmurs, his eyelashes lowered. “A common misfortune.”</p><p>Lan Xichen has another moment of epiphany, another great <em> understanding </em> between one breath and the next: Meng Yao is giving him excuses. Lan Xichen has heard people make all manner of promises in the heat of the moment and the afterglow. Meng Yao has probably heard his fair share too--he must think Lan Xichen is saying something he’ll regret in the morning when all the endorphins have worn off. Meng Yao is trying to save him that embarrassment with this convenient little out. If Lan Xichen makes it home and thinks better of it, all he has to do is briefly forget the number on his hand and then… Oops, it was washed away, how sad. And Meng Yao would understand--it is, after all, a <em> common misfortune</em>. </p><p>Or perhaps Lan Xichen is simply indulging in wishful thinking, and Meng Yao really doesn’t care to see him again. </p><p>Another few polite exchanges of farewell, and then the apartment door clicks shut behind him and he’s standing in the hall with a phone number on his hand, a light ache of exertion in his jaw, the post-coital buzz still thrumming along his nerves, and a hurricane of wanting in his heart which he is somehow going to have to learn to live with now. </p><p>Right there on the welcome mat, he digs his phone out of his pocket and enters the number into his contacts list, copies it into his notes app, emails it to himself, and takes a photograph of his hand. </p><p>There. Four failsafes ought to be enough. </p><p>*</p><p>He manages to make it until noon the next day before he texts Meng Yao. <em> Hello, this is Lan Xichen. :) I meant it that I’d like to take you to dinner sometime. </em></p><p>The ‘read’ receipt pops up within ten seconds. </p><p>Hours pass without acknowledgement.</p><p>His heart quails again.</p><p>Lan Xichen… mopes. Yet another thing he has never done before in his life. </p><p>It isn’t even an elegant, wistful sort of moping, the sort of delicate melancholy that might move a scholar to poetry. It’s just a drudging, sore-hearted kind of moping. It feels like his emotions have a head cold. He can’t make it stop. He tries several times to make it stop, to simply set the feeling aside as he has done any other time an unpleasant emotion has become troublesome. </p><p>It does not work. </p><p>He finds this faintly horrifying. Has he gone mad? Did having sex with Meng Yao last night push him over some numeric threshold from “has had fair amount of sex” to “promiscuous”? Is this why promiscuity should be guarded against? Uncle had always warned that to indulge in one vice was to open the door to a host of others--perhaps all Lan Xichen’s chickens were coming home to roost now, and he would slowly begin to descend into debauchery, intemperance, and corruption. Was there anything to be done? Was there any way to fend off his imminent fall into dissolution? Should he take a vow of celibacy? Should he become a monk? Is this what was meant by “desire is the root of all suffering”?</p><p>So: Unable to <em> not </em>mope, he mopes. He drags himself through the rest of his day, drags himself home, doesn’t bother to straighten his shoes neatly when he takes them off, scuffles into his bedroom, changes into pajamas, and crawls directly into bed. Perhaps he will simply close his eyes and die here.</p><p>His phone pings with a text message alert.</p><p>He almost falls out of bed in his hurry to grab his discarded pants, lying in a pile on the floor with his other clothes, and feverishly fumble out his phone. </p><p>He sees Meng Yao’s name on the notification bar and his heart leaps into his throat; he sees the preview text, <em> I don’t think that’s a good idea[...], </em>and it plummets down to his feet. His hands almost shaking, he opens the text, desperately hoping that there’s anything more to the message. There isn’t. The words glare into his eyes, the screen too bright. </p><p>&lt; <em> I don’t think that’s a good idea. </em></p><p>He wants to ask why. He wants to beg for a reason. But Meng Yao doesn’t need a reason. He types a response slowly: &gt; <em> I understand. </em> But Meng Yao wouldn’t have given him his phone number if he wasn’t at least open to conversing a little, right? &gt; <em> If you prefer things casual, I also meant it when I said I’d like to repeat last night. </em></p><p>The message is read right away, but it still takes a few minutes to see the ‘typing’ bubble, and then a few minutes more for the message to appear.</p><p>
+  <em> &lt; I don’t think that would be wise either. </em>
+</p><p><em>                &gt; Wise? What do you mean?, </em> Lan Xichen sends before he can think better of it, and then winces. <em> &gt; I’m sorry. I shouldn’t press you like that. You don’t need to explain yourself to me. </em> And then, a third message, because he can’t stop his fingers: <em> &gt; I’m afraid that I must have made you uncomfortable or disappointed you somehow. If this is the case, then I cannot apologize enough. Would you prefer for me to delete your number? </em></p><p>This time the response is almost instantaneous: <em> &lt; You didn’t disappoint me. You didn’t do anything wrong. </em> The typing bubble appears again, and then: <em> &lt; You were a perfect gentleman. Your performance and behavior was exemplary. Please don’t concern yourself about that. </em> That’s some small relief, but it doesn’t do anything to quell the plaintive little voice in his head that cries out, <em> Then why? </em> </p><p>
+  <em>                </em>
+  <em>&gt; If you’re certain that I shouldn’t, then I will try not to. </em>
+</p><p><em> &lt; I am certain. It has nothing to do with anything you did. It’s just the situation, </em> Meng Yao says. <em> &lt; I just think it would be too complicated. </em></p><p>Lan Xichen’s heart falls even further. </p><p>
+  <em>                &gt; Ah. :( Well, if anything changes, please feel free to reach out again. I mean that. </em>
+</p><p>
+  <em> &lt; Thank you for a lovely evening.<br/>
+&lt; I mean that too.  </em>
+</p><p>Lan Xichen wants to reply again--he needs to tell Meng Yao how splendid he was, how Lan Xichen’s world shifted on its axis the moment he laid eyes on him. How Lan Xichen is never going to be able to forget him, how one dream-hazy half hour on a couch turned him upside down and shook him and how he doesn’t even recognize himself anymore. Words cannot capture the enormity of what has happened to him, and even if they could, telling Meng Yao what an effect he’d inadvertently had would be… too much, for too many reasons.</p><p>He turns off his phone, shoves his face into the pillows, and tries to learn to live with this vastness of feeling.</p><p>*</p><p>Perhaps this is how people feel when they’ve been dumped. </p><p>Lan Xichen has never been dumped. He has drifted into romantic connections, and then he has drifted back out of them, or they’ve drifted away from him, or it has come to a mutual and natural end. </p><p>He’s aware that he’s being excessive. Excesses of emotion are yet another moral weakness that his uncle had warned him about, growing up. He can’t help it. A week passes, and the moping doesn’t go away, and he can’t<em> make it </em> go away. He’s apparently moping loudly enough that it shows through his attempts to mask it when he’s around other people--at the office, his uncle’s secretary asks Lan Xichen if he is well, and notes with concern that he’s seemed “a little down”. He suspects even Wangji has noticed, judging by the amount of glances he’s caught Wangji giving him out of the corner of his eye, but of course Wangji would sooner cut out his own tongue than call attention to Lan Xichen’s unusual behavior. That said, his concern peaks midway through the second week: He sends Lan Xichen a picture of his rabbit, and then a short video of his rabbit being gently petted by a chubby-cheeked toddler that Lan Xichen doesn’t recognize--he’s not aware that Wangji knew anyone with children, but he doesn’t have the energy to be curious. </p><p>Two days after that, Lan Xichen tries to heave himself back onto the horse. He spends an hour flicking through dating apps and exchanges several half-hearted messages with a few people, but there’s nothing there.</p><p>Late on Friday night of that week as he is lying in bed and reading (or rather, staring blankly at a page of a book without being able to focus on or comprehend the content), his phone pings with the text message alert.</p><p>He sets the book aside and dully turns to the nightstand to pick it up and check the notification on the lock screen to see who it’s from, at least.</p><p>He sits bolt upright when he sees the name: Meng Yao. The preview: <em> hiiiiiiiiiiiii so ok  i should[...] </em></p><p>He scrambles to get the message open.</p><p><em> &lt; hiiiiiiiiiiiii so ok i shld say first of all this is meng yao’s friend huaisang </em>°˖✧◝(⁰▿⁰)◜✧˖°<br/>
+<em>&lt; we r DRUNK IN THE CLUB rn bc it’s BITCHES NIGHT OUT n he told me all abt u n i was like omg yaoyao u gotta text him u gotta say hi n he was like noooooo i can’t blah blah blah it was stupid n i stopped listening but anyhoo!!!!!!! i stole his phone!!!!!!!!!!!!!!!!!!!!!!!!!!!!! </em>☆*:.｡.o(≧▽≦)o.｡.:*☆<br/>
+<em>&lt; i have so many questions for u!!!!!!!!!! im ur biggest fan!!!!!!!!! </em>ヽ(°〇°)ﾉ<br/>
+<em>&lt; but yao-ge’s gonna come back from the bathroom any sec n then a-sang is gonna be<br/>
+&lt; M U RDER E D  </em>💃 💃 💃 💃 💃 💃 💃 💃<br/>
+<em>&lt; lmaoooooo<br/>
+&lt; ok so anywya i already got ur # so im gonna delete all this n text u from my phone ok!!!! dont text bakc here just b cool n wiat liek 2 secs ok!!!!!!!!!!!!! </em></p><p>Lan Xichen knows that he should not condone or comply with this. It is unethical. He should tell Meng Yao that his friend is going through his phone when his back is turned.</p><p>A new text from an unknown number:<br/>
+<em>&lt; OK HI ITS MEEEEE HUAISANG HIIIIII<br/>
+&lt; first of all can i have a pic of u plz, bc yao-ge said ur the handsomest man hes ever seen n a bunch of other </em> 😉<em>STUFF </em> 😉 <em>n now im picturing u as like the ULTIMATE SEX GOD so plzplzplzplzplz can i see ur face i swear im not gonna make it weird   </em>(ŐωŐ人)<br/>
+<em>&lt; number 2!!! so like are u on the dating app bc ur SINGLE N LOOKIN 2 MINGLE or just for the sex????????<br/>
+&lt; number 3!! yao-ge said u asked him to dinner????????? mr sir i need 2 kno wat ur intentions are towards my yao-ge!!!!!!!!!! LOLOLOLOL omg that sounds so scary LOLOLOL i sound like dage LOOOOOOOOL </em>（*/∇＼*）<br/>
+<em>&lt; N E WAY<br/>
+&lt; intentions like do u want 2 fuck him a couple times or do u want 2 marry him &amp; have his babies??????????????? </em>(ʃƪ ˘ ³˘)<br/>
+<em>&lt; number 4!!!!!! i told u i have lots of questions!!!!!!!! LOL! what r ur top 5 blowjob tips, laoshi plz give me ur wisdom!!!!!!!!! </em> 🙏🙏🙏🙏 <em> laoshi!!!!!!!!!<br/>
+</em><em> &lt; uhhhhh i feel like i had more questions </em>🤔 🤔 🤔 🤔<br/>
+<em>&lt; lolololol i’ve had six appletinis, idk why we go to this bar, it’s not even a club, it’s a bar<br/>
+&lt; i mean i kno why<br/>
+&lt; its bc this is where we go to hustle ppl at pool lmaoooooooo </em>🤣 🤣 🤣 🤣 🤣 🤣 🤣 🤣  🤣 🤣 🤣 🤣<br/>
+<em>&lt; but every time theyre like ‘wehhhh we dnt kno how 2 make appletinis, that’s a gross girl drink’ n im like ‘i teach u how EVERY TIME WE COME IN!!!!!!!!!!! do u expect me to drink beer!!!!!!!! im a paying member of the twink guild!!!!!’ </em>(ノಠ益ಠ)ノ彡┻━┻<br/>
+<em>&lt; im like ‘if they find out i drank BEER theyre gonna b like ‘dammit huaisang ur a loose cannon!!! u do good work but i, ur chief twink, cant have that in this department!!!! ur suspended!!!! turn in ur badge and buttplugs!!!!!!!!!’’<br/>
+&lt; laoshi i teach them how 2 make appletinis every time and we give em real good tips with our pool hustling winnings, y does oppression have 2 exist in this world huh </em>(;´༎ຶД༎ຶ`)<br/>
+<em>&lt; laoshi<br/>
+</em><em>&lt; laoshiiiiii</em> <b>🥺 🥺 🥺</b></p><p>Lan Xichen is a little dazed from the cascade of texts. </p><p>
+  <em>                &gt; I’m sorry, I don’t think it’s right for us to talk about Meng Yao behind his back. I don’t think he wants to hear from me, so please do the right thing and confess that you took my number from his phone. </em>
+</p><p>
+  <em> &lt; omg hot n dumb, that’s his favorite<br/>
+&lt; are u a himbo<br/>
+&lt; ive been telling him for years tht he needs 2 settle down w/ a nice himbo </em>
+</p><p>
+  <em>                &gt; I don’t know what a himbo is. </em>
+</p><p>He sees the typing bubble come up, but it disappears, and then there is silence for several minutes. </p><p>At length, another notification: A message from Meng Yao.</p><p>
+  <em> &lt; I apologize for my friend. He is ver ybad at boundaries. I made him delete your number, he won’t be botherign you again. </em>
+</p><p>Lan Xichen’s heart hurts a little.<em>    </em></p><p>
+  <em>                &gt; It’s no trouble. It sounds like you two are having a fun night :) Get him to drink some water, okay?  </em>
+</p><p>He expects that to be the end of the conversation, and part of him is pathetically, yearningly grateful to have even this brief exchange.</p><p>
+  <em> &lt; It woul dbe more fun if he wasn’t such a fukcing busybody.<br/>
+&lt; What did he ask you </em>
+</p><p>Lan Xichen hesitates, but his moping wins out. </p><p>
+  <em>                &gt; He asked to see a photograph of my face, why I was on the dating app, what my top 5 tips for oral sex are, and he demanded to know what my intentions are toward you. </em>
+</p><p>
+  <em> &lt; Oh fuckin ghell<br/>
+&lt; I’m going to put him in a sack with some bricks an d throw him off a bridge like how people drown kittens, be rightb ack<br/>
+&lt; Why did he want to see a picture of you </em>
+</p><p>Lan Xichen cannot bring himself to paraphrase it--it’s takes far too much vanity to type out “he said you said I was the handsomest man you’d ever seen”, let alone “ULTIMATE SEX GOD”, so he switches over to the other chat, takes a screenshot, and sends that instead. </p><p><em> &lt; Well, </em>says Meng Yao a moment later.<br/>
+<em>&lt; I will be putting myself in the kittne-drowning sack also.<br/>
+&lt; Please be assured taht i am an appropriate level of humiliated abuot all this. </em></p><p><em>                &gt; There’s no need to feel humiliated, </em>Lan Xichen sends as quickly as he can type. <br/>
+<em>                &gt; I’m flattered you were thinking of me. </em> And then, feeling terrified and daring and yearning for just a little more, <em> &gt; I was thinking of you too, actually. I haven’t been able to stop. </em></p><p>
+  <em> &lt; Don’t<br/>
+&lt; Please </em>
+</p><p>Lan Xichen shuts his eyes and breathes for a moment. </p><p>
+  <em>                &gt; I apologize. That was too much. Have fun and get home safe, alright? </em>
+</p><p>He turns his phone off, shuts his eyes, and mopes himself to sleep.</p><p>*</p><p>The next morning, he does half an hour of yoga, tries and fails to meditate, abandons this in favor of standing motionless in the shower with his forehead against the tiles as the water beats down on him, and finally shuffles morosely into the kitchen for breakfast. He turns his phone back on while the kettle heats for tea, and finds he has… <em> dozens </em>of messages from Meng Yao.</p><p><em> &lt; Ugh no I didn’t mean it like that </em>, reads the top one--the timestamp is only a minute after his own last message.<br/>
+<em>&lt; you don’t<br/>
+&lt; it’s<br/>
+&lt; fucking fuck goddammit shit fuck </em></p><p>A gap of nearly an hour. </p><p>
+  <em> &lt; Okya I am now muhc more drunk than I was befoer. All this is yuor fault. For bein gtoo beautiful to look at. And nice. Itr eally sucks hwo nice you are.<br/>
+&lt; It’s very hard for me adn i feel like yuou aren’t aware of taht.<br/>
+&lt; Justt a minute, huaisang is abuot to letsome bikers do body shots off him, hang on<br/>
+&lt; Alright anyway<br/>
+&lt; You’re ver y incomsiderate, going aroudn in public with your face like that.<br/>
+&lt; Why’d you have to come on my carpet? I was goign to ride your dick untily ou coudln’t see straight.<br/>
+&lt; But no, you had to go adn get off wihtout me even touching you and then I thoguht to mysefl<br/>
+&lt; ugh<br/>
+&lt; I sho uldn’t tell you waht I thought.<br/>
+&lt; I thought, “Okay, i can’t ever speakk to this man or see him ever agian, becaus then I’m going to get obsessed wih him and start planning our wdding and then he will find out I’m crazy and leave and i’ll have to change my identity and fake my own death.”<br/>
+&lt; You’re too nice to get saddledd with some one like me, ok? Im doing this to protect yoou.<br/>
+&lt; Even Huaisang dosn’t know how crazy I am, taht should tell yuo something.<br/>
+</em>
+  <em>&lt; God, your cock was pretty, thouhg. Fuck.<br/>
+&lt; I almost kept the tissues, that’s the kindof crazy I mean. It wuold have been disgustin g.<br/>
+&lt; I guess I techniclay did  keep thme ac tually, I havn’t emptied the trash bin by my desk yet, so they’re stil lthere.<br/>
+&lt; Why didn’t you text me? It’s been two weeks, if oyu were thinjking of me so muhc, why didn’t you text?<br/>
+&lt; Inconssiderate. Very rude.<br/>
+&lt; You knwo what would have been good? If you’d fucked me. Becuase then I could text you a week or so from now and say, “Oh no, I’m pregnant and it’s definiteley yours, we have to have a shotgun wedding”<br/>
+&lt; So inconsiderate of youo not to fuck me. Please explain yoursefl.  </em>
+</p><p>Another gap of an hour or so. </p><p>
+  <em>&lt; Nope, this wsa all a mistake. I’m deleting all these adn oyuou won’t even see tehm, serves you rgiht for not fucking me. Inconsiderate. </em>
+</p><p>The messages do, however, seem to still be there. Lan Xichen is not sure if this is because Meng Yao ended up not deleting them after all, or if it is because he was able to delete them on <em> his </em>end and, perhaps out of excessive inebriation, did not realize they wouldn’t be deleted on Lan Xichen’s. </p><p>He reads them over several more times. He feels lightheaded again, the same way he had when he was on Meng Yao’s couch. He spends far too long staring at the phrase “shotgun wedding”, and then an equal amount of time wondering wildly why the idea of Meng Yao keeping the tissues he’d used to wipe the come off the carpet and couch doesn’t disgust him as much as it probably ought to. He reads the messages again, and then he drifts back into his bedroom, buries his face in the pillow, and jerks off with no small amount of shame to the idea of “I was going to ride your dick until you couldn’t see straight”.</p><p>Dazed and sticky in the aftermath, he turns onto his back and stares at the ceiling. In a distant and scientifically fascinated sort of way, he marvels at the way his brain is currently incapable of even stringing two thoughts together. </p><p>He picks up his phone, opens his texts, goes to the conversation with Huaisang, and pulls himself together enough to type: <em> &gt; Good morning! :) I hope you’re not too hungover. Did you get home alright last night? </em></p><p><em> &lt; new phone who dis<br/>
+&lt; wait sorry is this the guy from last night who wanted to lick tequila out of my bellybutton<br/>
+&lt; i don’t remember giving u my number haha </em> (*ﾉωﾉ)<br/>
+<em>&lt; sorry abt my friend!!!!!!! hes rly protective, he’s like a big brother to me, we’re definitely not dating or anything if u were worried abt that lolllllll </em>｡ﾟ+.(^_&lt;)〜☆+.ﾟ<br/>
+<em>&lt; sweet of u to check on me tho omg  </em>(ﾟοﾟ人))<br/>
+<em>&lt; everyone’s like ‘chivalry is dead, ur never gonna meet a gentleman @ a dive bar like that, why dont u date my cousin whos an accountant’ but u kno what, my faith has been restored hahaha<br/>
+&lt; im a lil hungover but like. not super hungover, if u get me </em>😜 😘<br/>
+<em>&lt; like it’s probs a lil early in the day for tequila but idk idk how do u feel abt mimosas? i love brunch n i love being licked n it’s just TOO sweet that u texted to make sure i was okay, omg im all fluttery </em>(*ﾉωﾉ) </p><p>Lan Xichen is not accustomed to interrupting, but apparently one has to with Huaisang. <em> &gt; Ah, I apologize. No, this is Lan Xichen. </em></p><p>
+  <em> &lt; who?????? </em>
+</p><p>
+  <em>                &gt; You were interrogating me last night about what my intentions were with Meng Yao? You stole my number from his phone? </em>
+</p><p><em> &lt; O M F G!!!!!!!!!!!!!!!!!!!<br/>
+&lt; LAN!!! XI!!!!!! CHEN!!!!!<br/>
+&lt; I HAVE SUCH MIXED FEELINGS ABT U!!!!!!!!!!!!!!!!!!!<br/>
+&lt; yao-ge didnt actually tell me ur name lol<br/>
+&lt; holy shit </em>（○□○）<br/>
+<em>&lt; why are u texting me @ 8:43 on a saturday morning when u kno very well i was White Girl Wasted on appletinis last night my dude<br/>
+&lt; other than the STILL V SWEET IMPULSE to check on me, omg too cute </em>(*ﾉωﾉ)<br/>
+<em>&lt; i shld tell u now i do have a bros before hos policy tho<br/>
+&lt; like ur so so so so so so so sweet but im not gonna fuck u, k???? im not gonna do yaoyao dirty like that<br/>
+&lt; im sure ur mouth IS the best thing on the planet and proof of the existence of at least one god and possibly more, but like<br/>
+&lt; u get me?????? yah, u get me </em>(ﾉ^ヮ^)ﾉ *~:・ﾟ✧</p><p>The lightheaded, dazed sensation intensifies. </p><p>
+  <em>                &gt; Did he say that?  </em>
+</p><p>
+  <em> &lt; did who say what </em>
+</p><p>
+  <em>                &gt; Meng Yao. About my mouth. </em>
+</p><p>
+  <em> &lt; OH<br/>
+&lt; yeahhhhh he super did lmaooooooooo so embarrassing<br/>
+&lt; which brings us back 2 a v important topic: GOSH GOLLY GEE WHIZ I HAVE *SUCH* MIXED FEELINGS ABT U </em>
+</p><p>
+  <em>                &gt; I’m sorry to hear that, may I ask what changed? Last night you claimed you were my biggest fan. </em>
+</p><p><em> &lt; dont ever listen 2 drunk huaisang, ok, he has terrible taste in men </em>ヽ(ﾟДﾟ)ﾉ<br/>
+<em>&lt; just the worst </em> .・゜゜・（／。＼）・゜゜・． <br/>
+<em>&lt; </em><em>sober huaisang is as shocked @ his behavior as every1 else is, trust me </em> </p><p>Lan Xichen momentarily reflects on the fact that Sober Huaisang had been prepared to invite a man over to lick mimosas out of his navel at 8:43 on a Saturday morning. He decides not to comment on this.</p><p><em> &lt; anyway MIXED FEELINGS ooooooooo such mixed feelings omfg<br/>
+&lt; like on 1 hand im VERY FUCKIN IMPRESSED w u </em>☆*･゜ﾟ･*(^O^)/*･゜ﾟ･*☆<br/>
+<em>&lt; yao-ge has like SUPER high standards, hes like the pickiest bitch i kno, n then u come along like ‘hey’<br/>
+&lt; like nice goddamn job laoshi, lets get u a nobel peace prize for ur mouth work APPARENTLY </em> ೕ(•̀ㅂ•́ )<br/>
+<em>&lt; and like on the other hand I would happily spit in ur drink if i had the chance </em> (ᗒᗜᗕ)՛̵̖ <em> LOLOLOLOLOL <br/>
+</em><em>&lt; like i dont picture u in my head as the sort of man who goes to laundromats but if i saw u @ a laundromat id wait til u went next door to buy snacks from the gas station n then id dump bleach on all ur clothes lmfao<br/>
+&lt; like if i saw u putting on sunscreen @ a beach, id kick sand on u  </em></p><p>
+  <em>                &gt; I feel like I have missed something. </em>
+</p><p><em> &lt; U SNUBBED MY BOI  </em>(╬ Ò ‸ Ó)<br/>
+<em>&lt; MY BEST BRO!!! SNUBBED!!!!! BY U!!!!!!<br/>
+&lt; u practicly gave him the cut direct!!!!!!!!!!!! do u deny it!!!!!! </em>(ง •̀_•́)ง</p><p>
+  <em>                &gt; Yes, vehemently.  </em>
+</p><p>
+  <em> &lt; pfhhthfhfhfht<br/>
+&lt; lies n perfidy<br/>
+&lt; y r all men like this, nothing in ur mouth but lies n deception, n sometimes a dick<br/>
+&lt; u were like ‘let me take u to dinner’ n he was like ‘no’ n u like ghosted him basically????<br/>
+&lt; ur like “its my way or the highway” n u shld of been like groveling @ his feet<br/>
+&lt; HE!!!! DESERVES!!! THAT!!!!<br/>
+&lt; HE DESERVES IT!!!!!!!!!!!!! </em>
+</p><p>
+  <em>                &gt; He said he didn’t think dinner was a good idea, and when I asked if he preferred casual arrangements, he said he didn’t think that was wise. He said the situation was too complicated. So I said I understood, and I told him to reach out if anything changed.<br/>
+               &gt; I was not going to pressure him when he’d made his boundaries clear. </em>
+</p><p>
+  <em> &lt; oh hm<br/>
+&lt; ok some things are beginning to come back to me<br/>
+&lt; ok yah he’s basically a feral cat living behind a dumpster<br/>
+&lt; but 2 be fair 2 him its very rude of u to come along w/ ur pockets full of chicken scraps like u did </em>
+</p><p>Lan Xichen wonders if this is what having a stroke feels like. He had meant to--to ask something, or to get an outside perspective, but getting anything useful out of Huaisang is a fool’s errand, and besides that, his brain has rebooted enough that his ethics are starting to come back online.</p><p>
+  <em> &lt; idk why i’m giving u free advice<br/>
+&lt; u shld venmo me like $20 for this consultation lmao </em>
+</p><p>Lan Xichen pinches the bridge of his nose for a long moment. </p><p>
+  <em>                &gt; Alright. What’s your username? </em>
+</p><p>
+  <em> &lt; holy shit i was sort of kidding<br/>
+&lt; but uhhhhhh i mean if ur rly down to give me $20 im not gonna say no lol it’s @hu4154ng </em>
+</p><p>Lan Xichen sends him $30, just to be passive aggressive. He mutes the conversation with Huaisang and flicks back over to Meng Yao’s. Slowly and very carefully, he types: <em> &gt; Good morning! I just texted Huaisang to check that he made it home safely last night, and I hope it’s not overstepping to do the same for you. Are you well? </em></p><p>It takes a minute to get a reply.  </p><p>
+  <em>&lt; Did you get any weird messages from me last night? </em>
+</p><p>In Lan Xichen’s family, lying was absolutely forbidden. Lan Xichen never, ever lies. However, he does occasionally evade the truth. </p><p>
+  <em>                &gt; Weird? In what sense? </em>
+</p><p>
+  <em> &lt; In whatever sense. Any sense. </em>
+</p><p>
+  <em>                &gt; Hm, in the sense of “unusual”, then I suppose the whole conversation qualifies. In the sense of “unsettling or uncomfortable”, though, no, not at all. I wasn’t expecting to hear from you, but it wasn’t unwelcome. The weirdest messages I got were the ones from Huaisang. </em>
+</p><p>
+  <em> &lt; And then you *voluntarily* texted him again this morning?<br/>
+&lt; You might want to preemptively block his number. Now he has yours again, I can’t make him delete it. He’ll have written it down or memorized it, and you will never be able to get rid of him. Congratulations, you have a Huaisang now. </em>
+</p><p><em>                &gt; He seems like a good friend to have. :) He cares about you a great deal, and you’re both clearly protective of each other, </em>Lan Xichen says, making a mental note to allocate more patience to Huaisang and revise his initial impression of him. (Lan Xichen’s brain, entirely without his consent, cheerfully points out that Huaisang will probably be Meng Yao’s best man at their shotgun wedding and so it would behoove Lan Xichen to be on good terms with-- He shoves the thought away, embarrassed.)</p><p>The read receipt flicks on, but Meng Yao does not immediately reply.</p><p><em>                &gt; Speaking of being protective</em>, <em> you might want to follow up with him about the man who wanted to do body shots off him. When I texted, he initially thought that’s who I was, and before I could clarify, he had already gotten halfway through inviting me to his place for… well, that, but with mimosas. </em></p><p>
+  <em> &lt; Oh fucking hell. I’m never letting him go anywhere unchaperoned ever again.<br/>
+&lt; Thank you for the heads up.  </em>
+</p><p>
+  <em>                &gt; Of course. :) I have a little brother too--they do take a great deal of worrying about, don’t they! </em>
+</p><p>
+  <em> &lt; What’s yours like? </em>
+</p><p>Lan Xichen wasn’t expecting questions, open invitations to continue the conversation. It gives him a little bloom of pleasure in his heart. </p><p>
+  <em>                &gt; He is the polar opposite of Huaisang in every conceivable way, based on my admittedly brief impressions. If Huaisang is the sun, the embodiment of exuberance, then my little brother is a black hole--the total absence thereof. He is a very quiet, serious, and profound person. </em>
+</p><p>
+  <em> &lt; What in the world do you have to worry about with him, then? </em>
+</p><p>
+  <em>                &gt; He is… a little inflexible. Once he forms a habit or an opinion, he doesn’t change it, so I worry that he misses out on experiencing the world. He is a little insular, so I worry that he is lonely. He is very possessive of the people he cares about, and I have seen him get deeply hurt because of that. There are not many people who are capable of seeing the deepest parts of him, and those are the best parts of him. </em>
+</p><p>
+  <em> &lt; Hm.<br/>
+&lt; Would you lend him to me? I would like to handcuff him to Huaisang for a week or so and see if they balance each other out. </em>
+</p><p><em>                &gt; Haha! </em> 😊 <em> Aren’t you worried that they would kill each other? </em></p><p>
+  <em> &lt; Two fewer little brothers to worry about, then. It’s a win/win situation. </em>
+</p><p>
+  <em>                &gt; It would be a shame to let Huaisang die after you’ve gone to all the trouble of saving him from so many terrible men in bars, wouldn’t it? </em>
+</p><p>
+  <em> &lt; I suppose. </em>
+</p><p>That seems to be the end of the conversation--Lan Xichen can’t think of any other ways to continue it, and Meng Yao doesn’t say anything else either. </p><p>He stares at the ceiling for a while and bites his lip and thinks, very tentatively, of misbehaving a little. </p>
+  </div>
+  <!--/main-->
+
+    <div class="chapter preface group">
+      <div class="end notes module" id="chapter_1_endnotes" role="complementary">
+        <h3 class="heading">Notes:</h3>
+        <blockquote class="userstuff">
+          <p>Thank you to my cheerleading squad as always for your encouragement and extremely good advice: Holly and Amelia, Vorvayne, weiyikes, varnes, CwythanWind, and Shiome. &lt;3 I've had a rough few months of being entirely burned out and I was unable to write a word of anything for like six weeks, so I'm very grateful to them for bringing me tea and gently covering me in blankets while I recovered enough to start scratching at this. </p><p>For anyone who has been woefully waiting for more HOAverse, do not fear, I am definitely going back to it, I just needed some time to reset my brain! :D </p><p>Next chapter of this should be up probably within the week, we shall see! I only have the latter half of the third chapter left to write so fingers crossed it goes smoothly.</p>
+        </blockquote>
+      </div>
+    </div>
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/29478831/chapters/72557787#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="NfmmzinPvThY9YvtRmGb911XUMdVQdHzJksiZCbkIY-NSVe8O6hUaejPoCW1uYHVWuJm89NlB58COvp9YDGGwQ"/>
+          <input value="29478831" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=72412977">Comments (229)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/marihadalittleann">marihadalittleann</a>, <a href="/users/lumiiao">lumiiao</a>, <a href="/users/kheu">kheu</a>, <a href="/users/esarity">esarity</a>, <a href="/users/bibophilophile">bibophilophile</a>, <a href="/users/prussianpanda">prussianpanda</a>, <a href="/users/elleskandal">elleskandal</a>, <a href="/users/grendelity">grendelity</a>, <a href="/users/OhMyFreddy">OhMyFreddy</a>, <a href="/users/eightofcups">eightofcups</a>, <a href="/users/Rongqiuqiu">Rongqiuqiu</a>, <a href="/users/Gakifang">Gakifang</a>, <a href="/users/morganivy">morganivy</a>, <a href="/users/CatherQ">CatherQ</a>, <a href="/users/Violetsuu">Violetsuu</a>, <a href="/users/Nekenja">Nekenja</a>, <a href="/users/magpiesbones">magpiesbones</a>, <a href="/users/heiseigrey">heiseigrey</a>, <a href="/users/kittyee">kittyee</a>, <a href="/users/DictionaryWrites">DictionaryWrites</a>, <a href="/users/gryphonfeather">gryphonfeather</a>, <a href="/users/somevariationofgay">somevariationofgay</a>, <a href="/users/lwtma">lwtma</a>, <a href="/users/Yamaskii">Yamaskii</a>, <a href="/users/just_elian">just_elian</a>, <a href="/users/ransomofmercy">ransomofmercy</a>, <a href="/users/HannahRedBunns">HannahRedBunns</a>, <a href="/users/Elucreh">Elucreh</a>, <a href="/users/noaehg">noaehg</a>, <a href="/users/waisk">waisk</a>, <a href="/users/AwakeningSerenity">AwakeningSerenity</a>, <a href="/users/Lumau">Lumau</a>, <a href="/users/Belen_Cruz94">Belen_Cruz94</a>, <a href="/users/nsfwmalfoy">nsfwmalfoy</a>, <a href="/users/Crochetispretty">Crochetispretty</a>, <a href="/users/Starfish">Starfish</a>, <a href="/users/SarcasticHamlet">SarcasticHamlet</a>, <a href="/users/Bright_Youkai">Bright_Youkai</a>, <a href="/users/mercedesgc">mercedesgc</a>, <a href="/users/YaTozheProstoHochuSebeAkk">YaTozheProstoHochuSebeAkk</a>, <a href="/users/PannyKitsunere">PannyKitsunere</a>, <a href="/users/Birdiegirliebird">Birdiegirliebird</a>, <a href="/users/Eugene55">Eugene55</a>, <a href="/users/Erynnsilver">Erynnsilver</a>, <a href="/users/LoveNewFantasy">LoveNewFantasy</a>, <a href="/users/Valkyrja">Valkyrja</a>, <a href="/users/yoonmintie">yoonmintie</a>, <a href="/users/vlevxn">vlevxn</a>, <a href="/users/distracted_dragon">distracted_dragon</a>, <a href="/users/eshnunna">eshnunna</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/29478831/kudos?before=3851120989">2239 more users</a>
+             as well as 
+          637 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_72412977">
+  <form class="new_comment" id="comment_for_72412977" action="/chapters/72412977/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="7ygfFPcSWhP51kZN5WsKIGOIK5uzBQtJ2dddVzXldtRXmO5m5XWzQknsbYUWsxACZD0drzUh3SX9poVOczDRmg"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_72412977">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_72412977" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_72412977=new LiveValidation('comment_name_for_72412977',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_72412977.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_72412977">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_72412977" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_72412977=new LiveValidation('comment_email_for_72412977',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_72412977.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_72412977" class="landmark">Comment</label>
+        <textarea id="comment_content_for_72412977" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_72412977" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_72412977_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_72412977">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_72412977=new LiveValidation('comment_content_for_72412977',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_72412977.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_72412977.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_72412977" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/29478831/hit_count.json")})</script>
+
+
+  </body>
+</html>

@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"232243a405","applicationID":"129290979","transactionName":"cVtXEUpbWFxdQhkAW1NETQBKRxtDUF9B","queueTime":0,"applicationTime":86,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"232243a405",applicationID:"129290979"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(9),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=M.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+M.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+M.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,y="addEventListener",h="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1215.min.js"},T=w&&b&&b[y]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:T,userAgent:s,disabled:E};if(!E){t(1),t(7),g[y]?(g[y]("DOMContentLoaded",o,l(!1)),m[y]("load",r,l(!1))):(g[h]("onreadystatechange",i),m[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        With Nothing On My Tongue - Chapter 1 - sunshine_sparrow - Naruto [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="ZrB-vwz6F7z601pfz4uWo2Kmt_q4LIaLFYRW52gDZ7mqKp2JeODUNr1FFP_3n6tSv8jdgjBZsj5hiN0ZylrpGg"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="WMPcF9edqdfx0Y4AHBv7fDkkvlq0kwexrCR_rFhT3ZGUWT8ho4dqXbZHwKAkD8aN5ErUIjzmMwTYKPRS-gpTMg"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: &quot;sherlock (tv)&quot; m/m NOT &quot;sherlock holmes/john watson&quot;</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/11252559?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/11252559/chapters/25305585#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/11252559/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/11252559/chapters/25155336" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="25155336">1. In Which Naruto Learns a Thing</option>
+<option value="25305585">2. In Which Team Seven Is Formed</option>
+<option value="25493778">3. In Which There is a Great Deal of Character Buil...</option>
+<option value="25685247">4. In Which Team Seven Learns Some Things</option>
+<option value="25877439">5. In Which Team Seven Kicks Some Butt</option>
+<option value="26065308">6. In Which There is a Lot of Training</option>
+<option value="27317964">7. In Which Kakashi is Actually a Pretty Decent Tea...</option>
+<option value="29187432">8. In Which Sakura Begins Her Epic Road Toward Bein...</option>
+<option value="30393051">9. In Which Team 7 Leaves the Village, And Shit Get...</option>
+<option value="31727979">10. In Which We Meet Some More Familiar Faces</option>
+<option value="32192892">11. In Which This Stupid Arc Comes to an End</option>
+<option value="33305553">12. In Which We Get Started on Something New</option>
+<option value="33597567">13. In Which The Forest of Death Explodes a Little ...</option>
+<option value="35086556">14. In Which The Final Exam Finally Happens</option>
+<option value="36267123">15. In Which Naruto Has Several Very Important Conv...</option>
+<option value="38514041">16. In Which the Sandaime Makes Some Decisions</option>
+<option value="48125095">17. In Which There is Even More Divergence from Can...</option>
+<option value="62599906">18. In Which We Say Goodbye to Canon Entirely</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/11252559/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=25155336">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/11252559/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/11252559/With%20Nothing%20On%20My.azw3?updated_at=1646851066">AZW3</a></li>
+          <li><a href="/downloads/11252559/With%20Nothing%20On%20My.epub?updated_at=1646851066">EPUB</a></li>
+          <li><a href="/downloads/11252559/With%20Nothing%20On%20My.mobi?updated_at=1646851066">MOBI</a></li>
+          <li><a href="/downloads/11252559/With%20Nothing%20On%20My.pdf?updated_at=1646851066">PDF</a></li>
+          <li><a href="/downloads/11252559/With%20Nothing%20On%20My.html?updated_at=1646851066">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Mature/works">Mature</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Graphic%20Depictions%20Of%20Violence/works">Graphic Depictions Of Violence</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Categories:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/F*s*F/works">F/F</a></li><li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandom:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Naruto/works">Naruto</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Hatake%20Kakashi*s*Uzumaki%20Naruto/works">Hatake Kakashi/Uzumaki Naruto</a></li><li><a class="tag" href="/tags/Haruno%20Sakura*s*Yamanaka%20Ino/works">Haruno Sakura/Yamanaka Ino</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Uzumaki%20Naruto/works">Uzumaki Naruto</a></li><li><a class="tag" href="/tags/Hatake%20Kakashi/works">Hatake Kakashi</a></li><li><a class="tag" href="/tags/Haruno%20Sakura/works">Haruno Sakura</a></li><li><a class="tag" href="/tags/Uchiha%20Sasuke/works">Uchiha Sasuke</a></li><li><a class="tag" href="/tags/Umino%20Iruka/works">Umino Iruka</a></li><li><a class="tag" href="/tags/Shiranui%20Genma/works">Shiranui Genma</a></li><li><a class="tag" href="/tags/Mitarashi%20Anko/works">Mitarashi Anko</a></li><li><a class="tag" href="/tags/Yamanaka%20Ino/works">Yamanaka Ino</a></li><li><a class="tag" href="/tags/Nara%20Shikamaru/works">Nara Shikamaru</a></li><li><a class="tag" href="/tags/Akimichi%20Chouji/works">Akimichi Chouji</a></li><li><a class="tag" href="/tags/Inuzuka%20Kiba/works">Inuzuka Kiba</a></li><li><a class="tag" href="/tags/Hyuuga%20Hinata/works">Hyuuga Hinata</a></li><li><a class="tag" href="/tags/Aburame%20Shino/works">Aburame Shino</a></li><li><a class="tag" href="/tags/Rookie%20Nine%20(Naruto)/works">Rookie Nine (Naruto)</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Worldbuilding/works">Worldbuilding</a></li><li><a class="tag" href="/tags/What-If/works">What-If</a></li><li><a class="tag" href="/tags/Smart%20Uzumaki%20Naruto/works">Smart Uzumaki Naruto</a></li><li><a class="tag" href="/tags/BAMF%20Dai-nana-han%20%7C%20Team%207%20(Naruto)/works">BAMF Dai-nana-han | Team 7 (Naruto)</a></li><li><a class="tag" href="/tags/Tank%20Team/works">Tank Team</a></li><li><a class="tag" href="/tags/Team%20as%20Family/works">Team as Family</a></li><li><a class="tag" href="/tags/Baby%20Badasses/works">Baby Badasses</a></li><li><a class="tag" href="/tags/Shameless%20clich%C3%A9s/works">Shameless clichés</a></li><li><a class="tag" href="/tags/Age%20Difference/works">Age Difference</a></li><li><a class="tag" href="/tags/Slow%20Burn/works">Slow Burn</a></li><li><a class="tag" href="/tags/Kakashi%20has%20a%20PhD%20in%20Guilt/works">Kakashi has a PhD in Guilt</a></li><li><a class="tag" href="/tags/Fix-It/works">Fix-It</a></li><li><a class="tag" href="/tags/Plothole%20Repair!%20Available%20for%20all%20of%20your%20Plothole%20Needs!/works">Plothole Repair! Available for all of your Plothole Needs!</a></li><li><a class="tag" href="/tags/Team%20Dynamics/works">Team Dynamics</a></li><li><a class="tag" href="/tags/Team%20Bonding/works">Team Bonding</a></li><li><a class="tag" href="/tags/Badass%20Haruno%20Sakura/works">Badass Haruno Sakura</a></li><li><a class="tag" href="/tags/Badass%20Umino%20Iruka/works">Badass Umino Iruka</a></li><li><a class="tag" href="/tags/Kage%20Bunshin%20no%20Jutsu%20%7C%20Shadow%20Clone%20Technique/works">Kage Bunshin no Jutsu | Shadow Clone Technique</a></li><li><a class="tag" href="/tags/I%20Thought%20Once%20was%20Enough%20but%20I%20Guess%20I%20Have%20to%20Say%20it%20Again/works">I Thought Once was Enough but I Guess I Have to Say it Again</a></li><li><a class="tag" href="/tags/Sloooow%20burn/works">Sloooow burn</a></li><li><a class="tag" href="/tags/Like%20epically%20slow/works">Like epically slow</a></li><li><a class="tag" href="/tags/Think%20Glaciers%20and%20100K%20Words%20Before%20Confessing%20and%20You&#39;re%20on%20the%20Right%20Track/works">Think Glaciers and 100K Words Before Confessing and You&#39;re on the Right Track</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/Narutostuff">Naruto Fanfics</a>, <a href="/collections/Emmikus_reread">Emmikus best finds on ao3</a>, <a href="/collections/KakashiActuallyTeaches">In Which Kakashi Actually Teaches</a>, <a href="/collections/A_Labyrinth_of_Fics">A Labyrinth of Fics</a>, <a href="/collections/Naruto_Wonderland">Naruto Wonderland</a>, <a href="/collections/myheartadores">My Heart Adores</a>, <a href="/collections/vlibrary">Purrsonal Picks</a>, <a href="/collections/Teamwork">Teamwork</a>, <a href="/collections/SIOC_Insert_Collection">A Collection of Beloved Inserts</a>, <a href="/collections/StorycatchersBestofNarutopile">Storycatchers Best of Naruto pile</a>, <a href="/collections/zeinahs_favorite_fics">I Sorted Through Shit And Found Gold</a>, <a href="/collections/Konoha_Collection">✧ Konoha Collection ✧</a>, <a href="/collections/Ashes_Library">Ashes' Library</a>, <a href="/collections/Naruto_Faves">Shady Naruto Faves</a>, <a href="/collections/Library_of_Literary_Magic">🌌 The Witch's Library</a>, <a href="/collections/Japanese_Approved">Japanese Approved</a>, <a href="/collections/There_are_no_words_for_this_beauty">There are no words for this beauty</a>, <a href="/collections/deservemore">Stories That Deserve More</a>, <a href="/collections/Worldbuilding_AUs">Fics with Fantastic Worldbuilding</a>, <a href="/collections/Read_this_instead_of_sleeping">I Read This Instead of Sleeping</a>, <a href="/collections/My_Favorite_Naruto_Fics">My Favorite Naruto Fics</a>, <a href="/collections/ReReadWorthy">Fics Adored and Loved 💕</a>, <a href="/collections/Biju">Naruto ナルト</a>, <a href="/collections/Narulovefics">Narulovefics</a>, <a href="/collections/Awakeat3chaos">Awakeat3chaos</a>, <a href="/collections/MyFinishedBooksorWaitingForUpdates">Jose's Addicted and ready for more</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2017-06-20</dd><dt class="status">Updated:</dt><dd class="status">2020-08-07</dd><dt class="words">Words:</dt><dd class="words">79367</dd><dt class="chapters">Chapters:</dt><dd class="chapters">18/?</dd><dt class="comments">Comments:</dt><dd class="comments">1886</dd><dt class="kudos">Kudos:</dt><dd class="kudos">11236</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/11252559/bookmarks">4520</a></dd><dt class="hits">Hits:</dt><dd class="hits">216965</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      With Nothing On My Tongue
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/sunshine_sparrow/pseuds/sunshine_sparrow">sunshine_sparrow</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>Naruto realizes the ability of the Kage Bunshin the night after being attacked by Mizuki. At first he just wants to use them to help him train; then the true usefulness of the jutsu begins to reveal itself.</p>
+<p>Featuring baby badasses, Tank Team Seven, snarky dogs, a special guest appearance by Kakashi's Guilt Complex, and many, many fix-it cliches.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>I love Naruto. Really, I do. The worldbuilding, the characters, the sheer richness and depth of the franchise thrills me on a daily basis. That being said, there are some incredibly huge plotholes in the canon, which is only to be expected when writing a 700-chapter behemoth over the course of more than a decade.</p>
+<p>Usually, I can deal with plotholes. I am very good at suspending disbelief and merely enjoying the story as it comes. But sometimes they are so egregious that they really get my back up, and one of the biggest is the 'Oh Shit' plothole that is Naruto's use of kage bunshin. By 'Oh Shit', I mean that Kishimoto-sensei and his creative team went 'Oh shit!' halfway through Part II when they realized that they had to figure out a way for Naruto to train really quickly and learn a ton of stuff in a short period of time. To do this, they tried to sell us the idea that Naruto was so stupid that he <i>didn't realize up until this point that he was receiving the memories of his dispersed clones.</i></p>
+<p>I understand why they did this. It was a quick, easy fix, and developed the world of Naruto a little more. But I've never bought into the idea that Naruto is stupid, or oblivious, or unobservant. Yes, he doesn't understand a lot of the stuff around him; I attribute this to him being an extremely kinesthetic learner, as well as having an absolutely shit upbringing with zero parental influence. I've studied childhood development, and there are empirical reasons to why children with supportive, educated parents do better in school than children whose parents spend less time with them and can't support them in their studies (not necessarily through any fault of their own). Naruto had zero support in his education growing up; that does not make him stupid.</p>
+<p>Tl;dr I really wanted to address the massive plothole of Naruto not realizing the kage bunshin's abilities until halfway through the series. Also, I wanted to write a self-indulgent fix-it. I have like three more of these sitting in my google docs waiting for me to finish them. OTL</p>
+<p>WARNING! WARNING!<br/>There will be yaoi, and yuri, and graphic sex (probably of both). However, that Slow Burn tag is there for a v. v. good reason. We will not be earning our Mature rating for anything other than violence for a loooong time.</p>
+<p>Also, I speak Japanese. I use Japanese polite suffixes and will probably use Japanese words and terms in the future. If you ever have any questions as to why I'm using something in a specific way, drop me a line and I'll explain it to you. If I use anything that is not in common use in the fandom already, I'll leave translations at the bottom of the chapter.</p>
+    </blockquote>
+
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/11252559/chapters/25155336">Chapter 1</a>: In Which Naruto Learns a Thing
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+        <div id="summary" class="summary module">
+          <h3 class="heading">Summary:</h3>
+          <blockquote class="userstuff">
+            <p>Naruto figures shit out, and gets Iruka to help him.</p>
+          </blockquote>
+        </div>
+
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p>Naruto scowled thoughtfully up at his darkened ceiling, mind running frantically over the events of the past day. He had failed the Academy exit exam for the third time, been tricked into stealing a Forbidden Scroll, been told about the Demon Fox, nearly gotten his teacher killed, beaten up a traitor, and finally, <em> finally </em>, won his right to wear a Konoha hitai-ate.</p>
+<p>And <em> then, </em> as if that wasn't enough, he'd been snatched up by the scruff of his neck by Boar-san and carted off to the Hokage’s office like a sack of rice, despite his loudly voiced protests. He'd barely had time to see Deer-san and Crane-san bend over Iruka-sensei before he was taken away!</p>
+<p>Then Hokage-jijii had asked him a lot of weird, serious questions, and then he'd been hustled off back to his apartment by Boar-san, who, although usually pretty willing to answer Naruto's questions, hadn't spoken a word except to order Naruto to stay inside.</p>
+<p>All in all, it had been a very stressful day.</p>
+<p>Naruto groaned miserably and rolled onto his front, burying his face into his pillow and wiggling around in embarrassment. He couldn’t believe he’d fallen for something so <em> stupid</em>! In what universe does stealing a <em> Forbidden Scroll </em> make sense as a special graduation exam?</p>
+<p><em> I guess I just wanted to graduate so badly, </em> he thought despondently. <em> And Mizuki-sensei always just ignored me before, he never actually treated me badly like some of the other teachers. Because of the Nine-tailed Fox. </em></p>
+<p>Reminded of his unwanted tenant, Naruto rolled back onto his back and wiggled up into a half-reclining position against his pillow, pulling his shirt up to bare his belly button. He’d seen the seal before, of course; twelve years of living on his own and getting into stressful situations had certainly activated it several times. But he’d never known what it was, and he’d never had anyone to ask, and so he’d assumed it was just something normal, nothing to worry about.</p>
+<p>When he’d been younger and especially lonely, sometimes he pretended it was a protection from his parents, something that proved he’d been loved by <em> someone </em> at some point.</p>
+<p>And now he knew that it was actually containing the creature who had killed his parents in the first place.</p>
+<p>Realizing that he was absently tracing his fingers in a circle over the place where the seal appeared, Naruto frowned and clenched his hand into a fist, letting it fall with a soft <em> flump </em> onto the bed next to him.</p>
+<p>“Iruka-sensei was right,” he told the empty room, injecting his voice with as much surety and confidence as he could. “Just because I contain the Fox doesn’t mean I <em> am </em> the Fox. I mean, I didn’t even know about him until today! If I was gonna hate the village and wanna destroy it, I would <em> feel </em> something like that, right? Right.”</p>
+<p>But he should probably learn more about the seal, and what it meant for him. He really didn’t want the demon getting out, after all!</p>
+<p>Which brought him to his next point of confusion for the evening: the forbidden jutsu he’d learned. In school Naruto had always been quite good at ninjutsu, memorizing hand seals and patterns quickly and easily, although for some reason he’d always struggled with the actual execution, as though his chakra was uncooperative and didn’t want to do what he told it to do. But he’d mastered the Kage Bunshin in a matter of hours, the seals coming to him almost effortlessly and his chakra moving through his body like a river. He’d felt a little drag on his energy when he’d created the horde that had pummeled Mizuki-sensei, but he’d been too focused on protecting Iruka at the time to really give it much thought, and he felt fine now, so whatever.</p>
+<p>Now, though, Naruto really wished he’d tried to decipher more than just the seals needed to create the jutsu, and actually read the description of what it <em> did</em>, because he had some very weird sense memories that should be impossible for him to have. For example, the crunch Mizuki-sensei’s nose had made as his fist connected with it.</p>
+<p>But Naruto hadn’t punched Mizuki-sensei in the nose. One of his clones had.</p>
+<p>He also seemed to remember <em> every </em> angle of that fight, as though he’d seen it through multiple pairs of eyes.</p>
+<p>Brow knitted in concentration, Naruto brought his hands up into Tiger. With a puff of white smoke, a carbon copy of himself appeared, right down to the stocking cap on his head and the sleepy look in his eyes.</p>
+<p>“Can’t we sleep already?” the clone complained.</p>
+<p>Naruto scowled at his double. “Not yet,” he told himself. “Go into the kitchen and do something where I can’t see you, then dispel yourself.”</p>
+<p>“Like what?” the clone whined.</p>
+<p>Naruto sighed, frustrated. “I dunno! Anything! It doesn’t really matter what you do as long as I can’t see you do it!”</p>
+<p>Grumbling, his clone slouched off into the kitchen, and Naruto waited impatiently for something to happen. Then he jolted, eyes going wide, and covered his eyes with a moan of embarrassment. Of course. Of <em> course </em> his clone would strip naked and do a silly dance in the kitchen before dispelling. Well, he had told him to do <em> anything</em>…</p>
+<p>On the other hand, this definitely confirmed that he received his clone’s memories and feelings when they disappeared.</p>
+<p align="center">—</p>
+<p>Naruto woke the next morning as soon as the sun touched the windowsill of his apartment, opening his eyes and rolling out of bed as if he’d gotten far more than four or five hours of sleep last night. He had so many ideas rolling around in his head, as if his mind had been thinking about nothing else other than how he could use his new skill while he slept.</p>
+<p>“I learned a forbidden jutsu in a couple of hours,” Naruto declared to his empty apartment, one fist propped on his hip while the other raised in a victory pose, “so if I use my clones, I can learn <em> anything </em> in a couple hours! I’m gonna get strong so fast, they’ll <em> have </em> to make me Hokage, dattebayo!”</p>
+<p>And, he thought smugly as he moved to his kitchen to look for something to eat for breakfast, he could use his clones to do all of the boring things that he never normally liked to do, like practice reading and do laundry and clean his apartment!</p>
+<p>Naruto paused, staring blankly into his open refrigerator as a thought suddenly struck him with all the force of a chakra-powered kick.</p>
+<p><em> I can be in multiple places at once, </em> he thought slowly. <em> I can do multiple things at once. That means I can train and go to school—well, there’s no more class now but I </em> could <em> have—and learn new jutsus and research my seal, all at the same time! And when my clones poof away, I’ll have all of those memories without having to do the work myself! </em></p>
+<p>For a young boy with a notorious dislike for sitting still, Naruto’s new jutsu was increasingly sounding like the best thing ever.</p>
+<p><em> I can learn taijutsu! </em> He thought suddenly, closing the door to his empty fridge and moving to the sink to get himself a glass of water. <em> It doesn’t matter if nobody will spar with me now, I can spar with </em> myself<em>! And it doesn’t matter if I dunno how to read, I can put a coupla clones on it and I’ll be better in a few hours! </em></p>
+<p>Because no one had taught Naruto how to read. He’d picked up the basics in class, of course, but with no one at home to help him practice, no books of his own to practice <em> with</em>, and not even any writing utensils to practice that either, all combined with his natural energy and short attention span, writing and reading had fallen far to the wayside. His chicken-scratch writing and stumbling attempts to read the textbook had soon cemented his image in the eyes of his peers and teachers as the dead last of the class, too dumb to study properly and with no motivation.</p>
+<p>Naruto downed the last of his water and scowled, setting his chipped glass down carefully in the sink. <em> Well, I’ll show them, </em> he decided, heading back to his bedroom to get dressed. <em> I’ll learn everything so fast, it’ll blow their minds! </em></p>
+<p>Then he winced as his stomach, unhappy with its meager breakfast of a single glass of water, growled. <em> But maybe first I should go shopping. </em> Then he perked up. <em> Is there a way for my shadow clones to help me get more food? </em></p>
+<p align="center">—</p>
+<p>Naruto spent all day practicing with his clones. He’d left five in his apartment, studying hastily-borrowed books about reading from the library and practicing his writing as well. Then he’d sent a couple off to do shopping, and popped into a bakery for some breakfast of his own. The owner had sneered but taken his money, and Naruto had bounced along to the training grounds energetically, munching on his curry bread as he went.</p>
+<p>When he found an empty training ground, one of the basic ones with no special terrain, he brushed the last crumbs from his hands and placed them into Tiger. “Right!” he said determinedly. “<em>Kage Bunshin no Jutsu</em>!”</p>
+<p>And with a multitude of <em> pop-pop-pops</em>, twenty clones poofed into existence around him.</p>
+<p>Naruto blinked, momentarily taken aback by just how much <em> orange </em> was surrounding him. “Huh,” he said, cocking his head to the side. “Has my jumpsuit always been that bright?” Then he shrugged, disregarding it. “Well, whatever! Training time!” He turned to his clones and began barking out orders.</p>
+<p>In short order, the field was filled with shouts and grunts and the sounds of flesh hitting flesh as some clones practiced the Academy taijutsu katas, some clones sparred against each other, and other clones practiced throwing kunai and shuriken into the posts at one end of the field. Naruto observed it all happily, fists propped on his hips and a grin on his face.</p>
+<p>“I’m gonna be the best ninja in the village! Believe it!” he declared, and then dove in.</p>
+<p align="center">—</p>
+<p>Any shinobi passing by Training Grounds 1 - 14 that day were drawn to stop by Training Ground 5, attracted by the burning chakra and the sounds of what seemed like an entire platoon of ninja practicing. Many of them blinked and watched with mild interest for a while before moving on, but some stayed longer than others, observing the flowing mass of orange with analytical eyes. One bandanna-wearing shinobi, a senbon clenched between his teeth, watched for almost an hour, dark eyes darting around the field, clearly wanting to say something. But even he too left after a while, giving up and ambling off into the maze of streets.</p>
+<p>Naruto didn’t particularly care about his observers. He’d actually not even noticed them at first, focused as he was on training, until one of his clones had brought it to his attention. Then he’d shrugged and redoubled his efforts, determined to show them how serious he was about becoming a ninja.</p>
+<p>It wasn’t until someone shouted his name over the noise that Naruto stopped, panting and sweating, and turned to look along with all of his clones.</p>
+<p>Iruka-sensei was standing at the edge of the field, pale-faced and clearly in pain, leaning on a cane with one hand. “Iruka-sensei!” Twenty voices bellowed, and all of the Narutos converged on their beloved teacher, hovering around him and asking questions, tripping over each other to make sure he was all right.</p>
+<p>“Naruto—” Iruka said, voice lost in the din. “Naruto! NARUTO!” he shouted, and the clones immediately cringed, recognizing that tone of I-am-<em>this</em>-close-to-losing-my-patience in his sensei’s voice. Silence fell, and Iruka said calmly, “I can’t understand you when you all talk at once. Where’s the real Naruto?”</p>
+<p>“Ahahaha,” Naruto chuckled sheepishly, and dismissed his clones. He had just enough time to see Iruka’s concerned face before a sledgehammer slammed itself into his skull, and he passed out.</p>
+<p align="center">—</p>
+<p>“Oooh…” Naruto groaned, lifting a hand to his pounding skull. That had <em> hurt</em>. He cracked his eyes open carefully, squinting against the sun. It seemed like he was lying on the grass in the training field, where he had passed out.</p>
+<p>“Awake?” a voice asked, and Naruto turned his head gingerly to see Iruka sitting next to him, looking worried. “You were only out for a few seconds. Any longer and I would have taken you to the hospital. Are you okay, Naruto?”</p>
+<p>“Yeah,” Naruto grunted, sitting up slowly. His headache was already receding, his brain busily rearranging the load of information he’d just received. “Sorry, Iruka-sensei. I guess I wasn’t prepared to get all of that information at once. Next time I’ll let them go in groups or something.”</p>
+<p>“That would probably be for the best,” Iruka-sensei said dryly. “So, you’ve been practicing?”</p>
+<p>Naruto perked up instantly. “Yeah! I figured out that when I let the Kage Bunshin go, I get all of their memories! So I can use it to train and stuff, and I don’t need anybody to practice with!”</p>
+<p>Iruka chewed on his lower lip, gaze considering. “Well, Naruto, you certainly <em> can</em>, but it’s also a good idea to have a variety of opponents, otherwise you’ll only get good at beating one style.”</p>
+<p>Naruto scowled, playing with the grass and not looking at his sensei. “Well, nobody wants to train with me, so I’ll just do it myself.”</p>
+<p>Iruka let out a sigh. “And also, Naruto, it’s good to have somebody there to watch you, otherwise if you have a mistake in your form or something, you’ll just keep on making that same mistake over and over again, until you’ve memorized it.”</p>
+<p>Naruto scowled harder, hunching his shoulders down sadly. “Nothin’ I can do about that,” he said quietly. “Don’t have a teacher, do I.”</p>
+<p>“Yes, it’s not like you know any <em> teachers </em> who would be <em> willing to help you</em>,” Iruka said pointedly, and rapped Naruto gently on the head with his knuckles. “Silly.”</p>
+<p>“Hey!” Naruto pouted, reaching up to rub his head. Then the penny dropped, and he stared at Iruka, mouth falling open. “Iruka-sensei, would you—would <em> you </em> teach me?”</p>
+<p>“Well,” Iruka said, “I don’t have any classes now, but I am busy with the team assignments. We’ve got a week until you get your jounin sensei, and frankly, Naruto, you’re <em> way </em> behind the other students. You’ll have to work really hard if you don’t want to hinder your team.”</p>
+<p>“I won’t!” Naruto shouted, bouncing in his seat. “I won’t hinder them, believe it!” He paused, and then asked sheepishly, “What does ‘hinder’ mean, sensei?”</p>
+<p>“Silly,” Iruka said again, but it was fond. “It means to hold back or to make something difficult. If you hinder your team, it means you cause them problems and hold them back, rather than helping them.”</p>
+<p>“I <em> definitely </em> won’t,” Naruto vowed, eyes alight. “So will you help me, sensei? Huh?”</p>
+<p>“All right,” Iruka said, the corners of his eyes crinkling as he smiled. “I can’t spar with you, because I’m not healed yet, and I have to go to school in the morning—”</p>
+<p>“That’s right!” Naruto shouted, aghast. He couldn’t believe he <em> forgot</em>! “Iruka-sensei, are you okay? Why are you out of the hospital—ow!” He rubbed his head again sulkily.</p>
+<p>“Don’t interrupt people when they’re talking, Naruto,” Iruka told him sternly. “I’m fine, I was released this morning, I just have to take it easy for a couple days. As I was saying, I have to go into school in the mornings, but I should be free after lunch. Can you study by yourself in the morning, and then meet me in the afternoon?”</p>
+<p>“Sure!” Naruto beamed. This was <em> awesome</em>! He was going to get Iruka-sensei all to himself!</p>
+<p>“I’m going to work you really hard, Naruto,” Iruka-sensei said ominously. “You don’t know a lot of the stuff genin are supposed to know, so it’s a really good thing you know the Kage Bunshin, because you’re going to have to do a lot of catching up on theory too. Do you still have your textbooks?”</p>
+<p>“Ah…” Naruto ducked his head. “Some of ‘em,” he mumbled.</p>
+<p>“What do you mean?”</p>
+<p>“Well. Well, some of ‘em kinda got destroyed, and I kinda…never had some?” Naruto stared determinedly at the grass, digging a little hole with one finger.</p>
+<p>“What do you <em> mean</em>?” Iruka asked again, and his tone of voice promised Very Bad Things. Naruto cringed. “Some of them got <em> destroyed</em>?”</p>
+<p>“It’s no big deal, sensei,” Naruto said quickly, as if saying it faster meant that maybe Iruka-sensei wouldn’t understand him and he wouldn’t get in trouble. “Sometimes people take my stuff, or they’d write on my textbooks and tear pages out but I learned real quick to hide ‘em better so I still have the ones from the last couple years but just, uh, the first few years at the Academy I don’t really know what we learned—”</p>
+<p>“<em> What</em>,” Iruka said calmly. Naruto carefully edged back a few feet.</p>
+<p>“—And sometimes I don’t really understand the words and stuff but I’m practicing, sensei, I promise, I got five clones in my apartment right now working on reading so please don’t say you won’t train me!” he begged. “I promise I’ll work really hard! Just—”</p>
+<p>“Naruto,” Iruka said gently, “I’m not mad at you. Just slow down and tell me what happened.”</p>
+<p>Naruto took a deep breath. “I don’t have anybody at home to help me, so sometimes I don’t…really understand the homework. And sometimes people take my stuff and I don’t always get it back, so I couldn’t always do the homework anyway. But it’s okay, sensei, I usually figured it out—”</p>
+<p>Iruka held up a hand, and Naruto fell silent. “I will give you new copies of the textbooks,” Iruka said quietly. “And if anyone <em> ever </em> takes your things maliciously again, Naruto, I want you to beat them up. You’re a ninja, nobody should be taking your things. Now. What is this about having clones practicing reading?”</p>
+<p>Naruto flushed a dull red, and immediately looked back down at the ground. “I told you,” he muttered, a hot swell of shame rising in his chest, “I don’t have anybody at home to help me practice.”</p>
+<p>“So you’ve been struggling with reading this <em> whole time</em>?” Naruto couldn’t tell if Iruka-sensei was mad at him, or at someone else, but he was definitely mad about <em> something</em>. “Naruto, why didn't you tell someone?”</p>
+<p>Naruto shrugged. “Didn't think it'd make a difference,” he said honestly.</p>
+<p>Iruka’s lips thinned. “Well, now you have me,” he declared.</p>
+<p align="center">—</p>
+<p>True to his word, Iruka drove Naruto hard over the next three days, assigning massive amounts of reading for the genin’s mornings and then quizzing him on what he’d read during their training in the afternoons. He didn’t stint on the praise either, congratulating Naruto on his improvements, of which there were many.</p>
+<p>In the first day, Naruto managed to finish all of the material from the first year at the Academy and improved his taijutsu and weapons-throwing remarkably. The second day, he finished all of the second-year material and progressed to practicing ninjutsu along with taijutsu. The third day, he finished all of the third-year readings, but they didn’t get through all of the material because Naruto begged Iruka to start teaching him the basics of sealing, which had finally been mentioned in his textbooks.</p>
+<p>Iruka caved after a brief resistance, and allowed Naruto to check out several scrolls on the basics of sealing from the library. Naruto set a few clones to study them as he and the rest of his small army began working on stealth and trap-laying…</p>
+<p>…And got completely <em> schooled </em> by Iruka-sensei, who was apparently some kind of trap-laying, stealth-master expert!</p>
+<p>“Iruka-sensei, it’s not fair,” Naruto whined, flopped over the trunk of a fallen tree where he’d landed after triggering a mild explosion trap. He was sweaty, panting, exhausted, and covered in brightly colored powders of all shades from where he’d triggered other traps. Most of the clones who were helping him had poofed out of existence, destroyed by various other traps spread throughout the training ground, and he just wanted to lie there for a little while and assimilate all of his memories. “How are you so good at this?”</p>
+<p>Iruka chuckled lightly, landing silently next to Naruto’s prone form and squatting down next to him. “I am a chuunin, you know,” he said reasonably. “And I’ve been doing this for a lot longer than you have. Besides, you’re quite good, too, Naruto. You’ve evaded top jounin and even some ANBU squads before. You just need more practice, and you’ll be as good or better than I am soon.”</p>
+<p>“Not if I keep wearing this,” Naruto sighed, plucking at his orange jumpsuit morosely, sending up a puff of purple powder. “I just make a <em> bigger </em> target of myself. I guess I should go buy some stealthier clothes, huh.”</p>
+<p>Iruka blinked, surprised. That was a surprisingly mature and self-aware thing for Naruto to say. And it was completely unexpected. Was this the effect of the shadow clones already, making Naruto smarter and more aware? Iruka <em> had </em> noticed a decrease in the time it took the young blond to assimilate the information he received, just over the past couple of days. Where he used to glaze over and stare into space for a while, clearly conveying that something was going on, now Naruto just looked off into the distance for a little bit, sometimes frowning or grimacing depending on the memories he was receiving. Iruka had no doubt that with more practice, Naruto would be able to receive and organize vast amounts of information very quickly and almost unnoticeably.</p>
+<p>And what, precisely, did that mean for Naruto’s brain development? Iruka thought suddenly. He was effectively experiencing exponentially more hours in the day than usual. Did that mean that all of that experience, all of the decision-making and critical thinking and mental processing, was making him mature faster?</p>
+<p>It was definitely something to keep his eye on. If it was true, Naruto could potentially learn in a year what it took other shinobi ten years to learn, but he could mature too fast, learn too much, and not learn the other important lessons that went along with it, such as teamwork and relying on others and how to make the hard decisions that shinobi were inevitably forced to make.</p>
+<p>“Iruka-sensei?” Naruto asked, and Iruka blinked, looking down at where Naruto had craned his neck around to look up at his teacher, brow furrowed. “You okay? You went really quiet all of a sudden.”</p>
+<p>Iruka shook himself out of his thoughts and smiled, ruffling Naruto’s hair and ignoring the puff of green powder and the squawk this elicited. “I’m fine, Naruto, just thinking about some stuff. We’re about done for today; do you want some help shopping? I can give you advice on good shinobi wear.”</p>
+<p>“Yeah!” Naruto cheered, getting eagerly to his feet and grinning brightly. “And can we get ramen afterward, Iruka-sensei? Pleeease?”</p>
+<p>“I suppose,” Iruka chuckled fondly. “Why don’t you start dispelling your study clones while we walk, and I’m going to give you your homework.”</p>
+<p>“Aw, <em> maaan</em>—”</p>
+<p>“This is fun homework,” Iruka interrupted, giving Naruto a stern look that shut his mouth on the complaints ready to spring forth. “I want you to make three, four, or at max five clones, and send them out into the village. Their job is to find a jounin or elite chuunin, and then follow them unnoticed for as long as they can. They can use any methods they can think of, but they <em> cannot </em> be caught. If they are caught, the game is over and they should dispel. Observe their habits, observe their training, and if they manage to do so unseen until nine o’clock tonight, they win and can come back to you and dispel. Any questions?”</p>
+<p>“No,” Naruto breathed worshipfully, eyes wide with adoration. “Iruka-sensei, that’s the best homework assignment <em> ever</em>.”</p>
+<p>Iruka smiled. “I’m glad you think so. We’re not in a hurry; dispel your study clones first, take some time to organize their information, and then send out the homework clones when you’re ready. Now, let’s go buy you some proper ninja gear!”</p>
+  </div>
+  <!--/main-->
+
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/11252559/chapters/25305585#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="tQcw8Ge3F6an7sgCD6oRgKRY6VA_aN_ewrcqiMWOlcl5ndPGE63ULOB4hqI3vixxeTaDKLcd62u2u6F2Z9cbag"/>
+          <input value="11252559" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=25155336">Comments (69)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/AistyBerry">AistyBerry</a>, <a href="/users/cas1065">cas1065</a>, <a href="/users/Exilious">Exilious</a>, <a href="/users/Constance96">Constance96</a>, <a href="/users/Lucky_Guard">Lucky_Guard</a>, <a href="/users/IAmAMotherFuckingLion">IAmAMotherFuckingLion</a>, <a href="/users/kind_of_heart">kind_of_heart</a>, <a href="/users/ZBlade04">ZBlade04</a>, <a href="/users/SadisticShadowDemon">SadisticShadowDemon</a>, <a href="/users/alirakeiron">alirakeiron</a>, <a href="/users/Star_Shank">Star_Shank</a>, <a href="/users/Caraland">Caraland</a>, <a href="/users/grungedynamyght">grungedynamyght</a>, <a href="/users/Hela_Themisdottir">Hela_Themisdottir</a>, <a href="/users/HadassahElrond">HadassahElrond</a>, <a href="/users/Quinn77777777">Quinn77777777</a>, <a href="/users/LumpyPotato">LumpyPotato</a>, <a href="/users/LiXenn">LiXenn</a>, <a href="/users/RenoOfTheTroika">RenoOfTheTroika</a>, <a href="/users/Coffee295">Coffee295</a>, <a href="/users/kyoren18">kyoren18</a>, <a href="/users/unknownreader93">unknownreader93</a>, <a href="/users/WeebbutalsoHarryPotterfan">WeebbutalsoHarryPotterfan</a>, <a href="/users/GhostQueen24">GhostQueen24</a>, <a href="/users/SirenWolf">SirenWolf</a>, <a href="/users/ZombieSquirrel225855">ZombieSquirrel225855</a>, <a href="/users/Riahotto">Riahotto</a>, <a href="/users/gwendolin23">gwendolin23</a>, <a href="/users/just_peach_tea">just_peach_tea</a>, <a href="/users/NaevusMelanocytaire">NaevusMelanocytaire</a>, <a href="/users/BunnyBoopSassy">BunnyBoopSassy</a>, <a href="/users/WarriorofGroot">WarriorofGroot</a>, <a href="/users/Firewolf_Jess">Firewolf_Jess</a>, <a href="/users/MacrosRK">MacrosRK</a>, <a href="/users/naiika">naiika</a>, <a href="/users/Jam_chan">Jam_chan</a>, <a href="/users/IckyNyki">IckyNyki</a>, <a href="/users/Slashreader">Slashreader</a>, <a href="/users/Eueeuu">Eueeuu</a>, <a href="/users/lunarshores">lunarshores</a>, <a href="/users/YellowFiasco">YellowFiasco</a>, <a href="/users/Notrus">Notrus</a>, <a href="/users/MephistoPheles101">MephistoPheles101</a>, <a href="/users/Alice_Hell">Alice_Hell</a>, <a href="/users/benT0">benT0</a>, <a href="/users/Tegu1365">Tegu1365</a>, <a href="/users/Venatrix94">Venatrix94</a>, <a href="/users/KaylaCahil">KaylaCahil</a>, <a href="/users/MercyBlack">MercyBlack</a>, <a href="/users/sadgayshit">sadgayshit</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/11252559/kudos?before=3863855944">6897 more users</a>
+             as well as 
+          4289 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_25155336">
+  <form class="new_comment" id="comment_for_25155336" action="/chapters/25155336/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="sjhediO4koCNjWTiUEJTFVq967DBNfnGFJ2lsyjFBMB-or1AV6JRCsobKkJoVm7kh9OByElAzXNgkS5NipyKYw"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_25155336">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_25155336" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_25155336=new LiveValidation('comment_name_for_25155336',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_25155336.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_25155336">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_25155336" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_25155336=new LiveValidation('comment_email_for_25155336',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_25155336.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_25155336" class="landmark">Comment</label>
+        <textarea id="comment_content_for_25155336" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_25155336" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_25155336_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_25155336">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_25155336=new LiveValidation('comment_content_for_25155336',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_25155336.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_25155336.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_25155336" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/11252559/hit_count.json")})</script>
+
+
+  </body>
+</html>

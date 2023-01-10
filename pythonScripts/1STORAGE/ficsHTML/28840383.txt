@@ -1,0 +1,943 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        won't you open up the sunroof (in my head) - ghostbandaids - Minecraft (Video Game) [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="ebiTeUFSnExV9vA7Q7giqMutw_TdELTt21yzITVRxvqgiMJz2tvdzqUJujzE_LEmv-1xLpQKYMeeHUZi1KWSzA"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="2deGBGevAd5LBPcYFPKfGrkthYdDMp6UlnFWTuDApccA59cO_CZAXLv7vR-TtgyUzW03XQooSr7TMKMNATTx8Q"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: katekyou &quot;alternate universe&quot; sort:&gt;words</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="works-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<ul class="landmark skip">
+  <li><a name="top">&nbsp;</a></li>
+  <li><a href="#work">Skip header</a></li>
+</ul>
+
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+<!-- BEGIN revealed -->
+<!-- BEGIN work -->
+<!--work description, metadata, notes and messages-->
+    <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?work_id=28840383">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/28840383/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/28840383/wont%20you%20open%20up%20the.azw3?updated_at=1646397667">AZW3</a></li>
+          <li><a href="/downloads/28840383/wont%20you%20open%20up%20the.epub?updated_at=1646397667">EPUB</a></li>
+          <li><a href="/downloads/28840383/wont%20you%20open%20up%20the.mobi?updated_at=1646397667">MOBI</a></li>
+          <li><a href="/downloads/28840383/wont%20you%20open%20up%20the.pdf?updated_at=1646397667">PDF</a></li>
+          <li><a href="/downloads/28840383/wont%20you%20open%20up%20the.html?updated_at=1646397667">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Teen%20And%20Up%20Audiences/works">Teen And Up Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Gen/works">Gen</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Minecraft%20(Video%20Game)/works">Minecraft (Video Game)</a></li><li><a class="tag" href="/tags/Video%20Blogging%20RPF/works">Video Blogging RPF</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Wilbur%20Soot%20*a*%20Technoblade%20*a*%20TommyInnit%20*a*%20Phil%20Watson/works">Wilbur Soot &amp; Technoblade &amp; TommyInnit &amp; Phil Watson</a></li><li><a class="tag" href="/tags/No%20Romantic%20Relationship(s)/works">No Romantic Relationship(s)</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/TommyInnit%20(Video%20Blogging%20RPF)/works">TommyInnit (Video Blogging RPF)</a></li><li><a class="tag" href="/tags/Technoblade%20(Video%20Blogging%20RPF)/works">Technoblade (Video Blogging RPF)</a></li><li><a class="tag" href="/tags/Wilbur%20Soot/works">Wilbur Soot</a></li><li><a class="tag" href="/tags/Phil%20Watson%20(Video%20Blogging%20RPF)/works">Phil Watson (Video Blogging RPF)</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Platonic%20Soulmates/works">Platonic Soulmates</a></li><li><a class="tag" href="/tags/Alternate%20Universe%20-%20Soulmates/works">Alternate Universe - Soulmates</a></li><li><a class="tag" href="/tags/no%20romance%20here/works">no romance here</a></li><li><a class="tag" href="/tags/they%20are%20best%20friends%20your%20honour/works">they are best friends your honour</a></li><li><a class="tag" href="/tags/Fluff/works">Fluff</a></li><li><a class="tag" href="/tags/Family%20Feels/works">Family Feels</a></li><li><a class="tag" href="/tags/Family%20Fluff/works">Family Fluff</a></li><li><a class="tag" href="/tags/IRL%20Fic/works">IRL Fic</a></li><li><a class="tag" href="/tags/Family%20Dynamics/works">Family Dynamics</a></li><li><a class="tag" href="/tags/sbi/works">sbi</a></li><li><a class="tag" href="/tags/Dadza/works">Dadza</a></li><li><a class="tag" href="/tags/and%20mumza%20cameo!!/works">and mumza cameo!!</a></li><li><a class="tag" href="/tags/Texting/works">Texting</a></li><li><a class="tag" href="/tags/Humor/works">Humor</a></li><li><a class="tag" href="/tags/i%20would%20say%20tooth-rotting%20but%20their%20love%20language%20is%20insults/works">i would say tooth-rotting but their love language is insults</a></li><li><a class="tag" href="/tags/5+1%20Things/works">5+1 Things</a></li><li><a class="tag" href="/tags/Music/works">Music</a></li><li><a class="tag" href="/tags/this%20one%20is%20hard%20to%20tag/works">this one is hard to tag</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/KiwiRens_completed_stories">Completed stories I've read</a>, <a href="/collections/vlibrary">Purrsonal Picks</a>, <a href="/collections/Three_Course_Meals">Fanfics I’d eat again at 3 am and already have</a>, <a href="/collections/things_i_like">oh YES</a>, <a href="/collections/Hatzuialltimefavs">10\10 would recommend</a>, <a href="/collections/ficsthatmakemybraingobrr">i have a crippling fanfiction obsession</a>, <a href="/collections/veereadsmcyt">my aetwt addiction</a>, <a href="/collections/agentontarioficrecs">agent_ontario's fic recs</a>, <a href="/collections/Foundfamuwu">Found family to make me feel something</a>, <a href="/collections/SBI_Soulmates">SBI Soulmate Fics (Platonic!)</a>, <a href="/collections/general_sbi">feels like home</a>, <a href="/collections/RecommendedFicLibraryPart2">Late Night Reads For Restless Spirits</a>, <a href="/collections/TMMYNNT_VerirrtStreet">tommy tommy tommy tommyinnit</a>, <a href="/collections/thingsivereadonstream">Twitch Fanfiction Night recs</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2021-01-18</dd><dt class="words">Words:</dt><dd class="words">1870</dd><dt class="chapters">Chapters:</dt><dd class="chapters">1/1</dd><dt class="comments">Comments:</dt><dd class="comments">117</dd><dt class="kudos">Kudos:</dt><dd class="kudos">4198</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/28840383/bookmarks">580</a></dd><dt class="hits">Hits:</dt><dd class="hits">22765</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      won't you open up the sunroof (in my head)
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/ghostbandaids/pseuds/ghostbandaids">ghostbandaids</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>In a world where you can hear whatever your soulmate sings, it can be pretty hard to get work done. Or focus. Or fall asleep.</p><p>But it’s not all bad.</p><p>Aka: 5 times that the sbi soulmates were annoyed and one time they weren’t (except the entire fic is horrendously fluffy and on the verge of a crackfic)</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>if ccs are uncomfortable with this kind of work, it will be removed. title from <i>sunroof</i> by courtship</p><p>this is an interruption of my regularly-scheduled angst for some fluff!! </p><p>hopefully the premise makes sense -- basically, regardless of where you are, you can hear it when your soulmate(s) are singing</p>
+    </blockquote>
+
+    <p class="jump">(See the end of the work for <a href="#work_endnotes">more notes</a> and <a href="#children">other works inspired by this one</a>.)</p>
+</div>
+
+
+  </div>
+
+
+<!--/descriptions-->
+
+<!--chapter content-->
+    <div id="chapters" role="article">
+        <h3 class="landmark heading" id="work">Work Text:</h3>
+          <div class="userstuff"><p>
+  <b>1.</b>
+</p><p>
+  <span>Techno had just started in on editing his next video when the familiar off-key humming of animal crossing at full volume filled his head. He groaned and dropped his head into his hands </span>
+</p><p>
+  <span>It just had to be when he was trying to concentrate. </span>
+</p><p>
+  <span>“Tommy,” he hummed in a monotone voice so that the other boy would hear it as he opened Twitch. “I support your streaming but please, please be quiet.”</span>
+</p><p>
+  <span>“What?” Tommy yelled as the stream buffered and started to play on Techno’s monitor. “Technoblade just messaged me saying that he likes my singing?”</span>
+</p><p>
+  <span>The waterfall of chat messages streamed past the video -- </span>
+  <em>
+    <span>awww</span>
+  </em>
+  <span>, they said.</span>
+</p><p>
+  <span>“Well chat, I have good news for you and Techno! This has just become the Tommyinnit singing special!”</span>
+</p><p>
+  <span>“Please,” Techno said to the computer, though he knew Tommy couldn’t hear him. “Don’t do this to me.” </span>
+</p><p>
+  <em>
+    <span>Yes!</span>
+  </em>
+  <span> said the chat. </span>
+  <em>
+    <span>YESSS. Sing!</span>
+  </em>
+</p><p>
+  <span>He joined the server and sent: </span>
+</p><p>
+  <em>
+    <span>please shut up, Tommy.</span>
+  </em>
+</p><p>
+  <em>
+    <span>HE’S LYING CHAT</span>
+  </em>
+</p><p>
+  <span>And because he couldn’t resist: </span>
+  <em>
+    <span>subscribe to technoblade</span>
+  </em>
+</p><p>
+  <span>It only made Tommy sing louder and the chat stream faster and </span>
+  <em>
+    <span>goddamn </span>
+  </em>
+  <span>this kid had some lungs. The delay between Tommy’s singing on the stream and in his head was echoey and headache-inducing so he closed Twitch and did his best to cut clips and edit some audio. </span>
+</p><p>
+  <span>Keyword: did his best. Tommy’s voice permeated his head and made it impossible to focus on his work but he really did need to get it done.</span>
+</p><p>
+  <span>Desperate times called for desperate measures. He pulled up Tommy’s stream and his Blitz parody, singing the latter at full volume and smirking as he watched Tommy struggle to keep up his own singing. </span>
+</p><p>
+  <em>
+    <span>Sorry Phil, </span>
+  </em>
+  <span>he thought. </span>
+  <em>
+    <span>And Wilbur. Couldn’t be helped. </span>
+  </em>
+</p><p>
+  <span>“Well, I think that concludes our singing portion of the stream!” Tommy stammered, doing his best to string together coherent sentences while Techno drowned out his thoughts with full-volume lyrics about his ending 9-month regime.</span>
+</p><p>
+  <span>Finally, Tommy went back to talking instead of singing and Techno sighed in relief. </span>
+</p><p>
+  <span>He returned to editing, a smile still present on his face. </span>
+</p><p> </p><p>
+  <b>2.</b>
+</p><p>
+  <span>It was midnight, and Phil stared up at the ceiling in despair, trying desperately to clear his mind and go to sleep. </span>
+</p><p>
+  <span>He knew that he was probably the most well-adjusted of their group so it came as no surprise that while he laid in bed next to Kristen, Wilbur was practicing the chorus for his newest song over and over again. </span>
+</p><p>
+  <span>Usually Wil played quieter songs at night, but this one -- something being a soft boy -- was cocky and loud. </span>
+</p><p>
+  <em>
+    <span>It’s fine</span>
+  </em>
+  <span>, he told himself. </span>
+  <em>
+    <span>He’s doing a good job. Don’t discourage him. </span>
+  </em>
+  <span>He rolled over and put a pillow over his head as if he could block out the noise. </span>
+  <em>
+    <span> </span>
+  </em>
+</p><p>
+  <span>After listening to the line, “It’s not an ahegao hoodie it’s a work of art,” three times in a row, his frustration and curiosity overcame his need for sleep and he rolled out of bed, ignoring Kristen’s mumbled protest. The computer screen threw a white tint over his face and he blinked tiredly as his eyes adjusted. </span>
+</p><p>
+  <em>
+    <span>ahegao hoodie, </span>
+  </em>
+  <span>he typed into the search bar. The computer loaded images with reluctance.</span>
+</p><p>
+  <span>The pictures that followed were not what Phil had wanted to see that night and he jolted backwards in the chair. “Wilbur,” he groaned. “You made me get out of bed for </span>
+  <em>
+    <span>this</span>
+  </em>
+  <span>?”</span>
+</p><p>
+  <span>“Phil!” Kristen yelled from behind him, looking over his shoulder at the screen. He hadn’t even noticed her come into the room and it was his second heart attack of the night. “Am I not enough for you? Are you going to replace me?”</span>
+</p><p>
+  <span>“It’s Wilbur’s fault!” he yelled, followed by a series of excuses. </span>
+</p><p>
+  <span>“Sure,” she said, winking and turning to go back to bed. </span>
+</p><p>
+  <em>
+    <span>If your song lyrics are the end of my happy marriage I don’t know what I’ll do, </span>
+  </em>
+  <span>he messaged Wilbur without explanation. </span>
+</p><p>
+  <span>Wilbur typed several messages but didn’t appear to send them.</span>
+</p><p>
+  <em>
+    <span>I looked up ahegao hoodie, Wil. While Kristen watched. </span>
+  </em>
+  <span>Phil continued, sighing in defeat.</span>
+</p><p>
+  <em>
+    <span>gotta keep up with the times, old man, </span>
+  </em>
+  <span>Wilbur replied. </span>
+</p><p>
+  <span>Phil laughed and typed out a simple, </span>
+  <em>
+    <span>Goodnight and good luck.</span>
+  </em>
+</p><p>
+  <span>Wilbur stopped singing shortly after and Phil fell asleep next to Kristen, who had only joked about going to sleep on the couch instead of their bed and not actually done it. </span>
+</p><p> </p><p>
+  <b>3.</b>
+</p><p>
+  <span>“I’m just sayin’ that we’re being too nice by trying to wake him up. His team’ll have to forfeit if he doesn’t show,” Techno said.</span>
+</p><p>
+  <span>“You know how excited he was for this one,” Wilbur cut in.</span>
+</p><p>
+  <span>“He forced me to practice with him for hours,” Phil said. “I’m not about to let that go to waste.”</span>
+</p><p>
+  <span>“Fine,” Techno grumbled. “Everyone mute now.” The Minecraft Championship was set to start in 15 minutes and there was no sign that Tommy was ready for it or even awake. </span>
+</p><p>
+  <span>He heard Wilbur start to sing </span>
+  <em>
+    <span>Your New Boyfriend </span>
+  </em>
+  <span>with the cadence of a heavy-metal artist and Phil join in enthusiastically. </span>
+</p><p>
+  <span>Techno wasn’t one for effort or musicality so he just yelled, in a sing-song voice, “Tommy, get up! Tommy, I want you to stay asleep so that your team loses but they’re not letting me and I don’t want to keep singing so please just wake up now! Tommy! Wake! Up!”</span>
+</p><p>
+  <span>He had to take a break from singing to laugh when Wilbur switched to a rock rendition of </span>
+  <em>
+    <span>Twinkle Twinkle Little Star</span>
+  </em>
+  <span> and Phil started beat-boxing. </span>
+</p><p>
+  <span>Tommy’s icon popped up in the chat. </span>
+</p><p>
+  <em>
+    <span>shut the fuck up, </span>
+  </em>
+  <span>he typed. </span>
+  <em>
+    <span>I was taking a nap.</span>
+  </em>
+</p><p>
+  <em>
+    <span>Check the time, bud, </span>
+  </em>
+  <span>Phil sent. </span>
+</p><p>
+  <span>“Shit,” Tommy said, joining the vc. “Shit, shit, shit.” He sounded mildly panicked, voice scratchy with sleep.</span>
+</p><p>
+  <span>“You’ve got time,” Phil reassured him. “Just grab your coke and get back here. I know that you’re ready.”</span>
+</p><p>
+  <span>“Okay,” Tommy said. “Yeah, okay. I’m fine. I got this.”</span>
+</p><p>
+  <span>“You got this,” Wilbur repeated encouragingly. “And Tech, I never knew that you were a songwriter.”</span>
+</p><p>
+  <span>“I couldn’t think of any songs!”</span>
+</p><p>
+  <span>“I think that we should find you a label.”</span>
+</p><p>
+  <span>Wilbur’s right,” Phil said. “It was very good.” Techno glared at his computer, pretending that he was actually mad. </span>
+</p><p>
+  <span>Tommy rejoined the call. “I’ve gotta go get ready now!” he yelled. “But thanks, guys. Don’t know what I would do without you!” A chime marked his exit. </span>
+</p><p>
+  <span>“Huh,” said Techno. “That sounded kinda genuine if you ask me.”</span>
+</p><p>
+  <span>“Maybe he doesn’t actually hate us,” Wilbur mused. </span>
+</p><p>
+  <span>Their feelings toward Tommy were slightly less positive when hours later, the tournament scoreboard adjusted for the last time and his team took first place. </span>
+</p><p>
+  <span>“Still think we should’ve let him sleep through it,” Techno grumbled. But Tommy's cheers of joy were infectious and even if he didn’t want to admit it, he was proud.</span>
+</p><p> </p><p>
+  <b>4.</b>
+</p><p>
+  <b>From Tommyinnit:</b>
+</p><p>
+  <em>
+    <span>Phil</span>
+  </em>
+</p><p>
+  <em>
+    <span>Big man</span>
+  </em>
+</p><p>
+  <em>
+    <span>I love you but do you understand the position it puts me in when I start laughing during english and the teacher says “tommy why are you laughing”</span>
+  </em>
+</p><p>
+  <em>
+    <span>And i say “oh, mrs teacher lady, one of my soulmates is singing a song”</span>
+  </em>
+</p><p>
+  <em>
+    <span>And she says “what song?”</span>
+  </em>
+</p><p>
+  <em>
+    <span>And i say “I can’t tell you”</span>
+  </em>
+</p><p>
+  <em>
+    <span>And she says “tommy you are so cool i want to be just like you please tell me what song you are listening to because you are the best”</span>
+  </em>
+</p><p>
+  <em>
+    <span>But you, phil, are singing snoop dog smoke weed everyday and i dont want my teacher to think that i have bad soulmates who watch anime snoop dog sing about weed </span>
+  </em>
+</p><p>
+  <em>
+    <span>even though you do that all the time LMAO</span>
+  </em>
+</p><p>
+  <em>
+    <span>So i told her that you are just a bad singer</span>
+  </em>
+</p><p>
+  <b>From Philza:</b>
+</p><p>
+  <em>
+    <span>How else am I supposed to weed out the weak?</span>
+  </em>
+</p><p>
+  <em>
+    <span>I am not ashamed.</span>
+  </em>
+</p><p> </p><p>
+  <b>5.</b>
+</p><p> </p><p>
+  <span>“Where’s Tommy?” George asked, glancing at the time displayed on his phone and shifting from foot to foot. “You did tell him what time we were meeting, right?” It was the first time that most of them had met up in person; even Techno was there, blinking at the bright, midday sun like  it had offended him.</span>
+</p><p>
+  <span>“Only every day for the past week,” Phil sighed. “He’s coming though, I’m sure.”</span>
+</p><p>
+  <span>“I’ll send him a message,” Wilbur said.</span>
+</p><p>
+  <em>
+    <span>Where are you? </span>
+  </em>
+  <span>he typed. </span>
+  <em>
+    <span>We’re waiting.</span>
+  </em>
+</p><p>
+  <span>He could tell that Tommy was online and had read it but he didn’t respond. </span>
+</p><p>
+  <span>Instead, Wilbur’s head filled with the sound of someone singing speedrunning music. </span>
+</p><p>
+  <span>“Duuduududu!” Tommy sang, sounding out of breath. “Duududuuduu!”</span>
+</p><p>
+  <span>Phil let out a quiet chuckle. </span>
+</p><p>
+  <span>“Is he coming?” Fundy asked. </span>
+</p><p>
+  <span>“Oh, he’s definitely coming. I think he’s running,” said Wilbur, laughing. Even Techno smirked. </span>
+</p><p>
+  <span>“Any second now.”</span>
+</p><p>
+  <span>Then Tommy was rounding the corner and running up to the group on the corner of the group, still humming. </span>
+</p><p>
+  <span>“Sorry!” he yelled, leaning forward with his hands on his knees and panting. “Fatherinnit dropped me off on the wrong street!”</span>
+</p><p>
+  <span>They went to the arcade and to the beach and everyone was tired, happy, and sunburnt by the end of it. </span>
+</p><p>
+  <span>“Dudududuu,” Techno hummed on the walk back  to their cars, before he even realized that he was doing it. </span>
+</p><p>
+  <span>Tommy glanced up and smiled. </span>
+</p><p>
+  <span>“It’s all your fault!” Techno hissed. “You got it stuck in my head.”</span>
+</p><p> </p><p>
+  <b>+1</b>
+</p><p>
+  <span>Tommy threw himself on the bed and let out a long sigh. Thank goodness today wasn’t a streaming day because he would have been tempted to cancel if it was. </span>
+</p><p>
+  <span>The day had been one bad thing after another; a stubbed toe, no milk for his usual cereal, a forgotten assignment, an ice-cold wind that had whipped his hair around and chilled his face and hands while he rode his bike home.</span>
+</p><p>
+  <span>Nothing terrible. But nothing good either.</span>
+</p><p>
+  <em>
+    <span>How was everyone’s day? </span>
+  </em>
+  <span>Phil asked in their group chat. Tommy was tempted to leave it unanswered but typed, </span>
+  <em>
+    <span>not poggers </span>
+  </em>
+  <span>before pulling a hoodie on and wrapping himself in a blanket</span>
+  <em>
+    <span>,</span>
+  </em>
+  <span> still cold from outside.</span>
+</p><p>
+  <span>Unusually enough, Techno read it and didn’t even answer.</span>
+</p><p>
+  <em>
+    <span>Want to talk about it? </span>
+  </em>
+  <span>Phil sent him in a separate chat.</span>
+</p><p>
+  <em>
+    <span>No, </span>
+  </em>
+  <span>he answered. He wanted to go to sleep and try again tomorrow.</span>
+</p><p>
+  <span>He was twisted in the blankets, trying to rub feeling back into his fingers when he heard Wilbur’s soft voice.</span>
+</p><p>
+  <span>“Here comes the sun,” Wilbur sang. “Here comes the sun.” His voice was unaccompanied but Tommy could picture him, perched on a sofa arm or his bed, strumming cheerily on a guitar.  </span>
+</p><p>
+  <span>A smile tugged on his lips. </span>
+</p><p>
+  <em>
+    <span>Cmon, I’m trying to be moody right now, </span>
+  </em>
+  <span>Techno messaged the group.</span>
+</p><p>
+  <em>
+    <span>Someone sing the do parts! </span>
+  </em>
+  <span>Wilbur sent, ignoring Techno.</span>
+</p><p>
+  <span>On the next chorus, Tommy and Phil jumped in to sing the “Do do do do’s.”  </span>
+</p><p>
+  <em>
+    <span>You’re coming in late, </span>
+  </em>
+  <span>Phil said.</span>
+</p><p>
+  <em>
+    <span>Pretty sure youre coming in early big man, i never mess up! </span>
+  </em>
+  <span>Tommy answered.</span>
+</p><p>
+  <span>“And I say, it’s alright,” sang Wilbur. </span>
+</p><p>
+  <em>
+    <span>You both have terrible timing, </span>
+  </em>
+  <span>Techno said, joining them in the next chorus. They sang the whole song. And then they sang it again for good measure.</span>
+</p><p>
+  <em>
+    <span>Thanks, Wil, </span>
+  </em>
+  <span>Techno said.</span>
+</p><p>
+  <em>
+    <span>Anytime, </span>
+  </em>
+  <span>Wilbur answered.</span>
+</p><p>
+  <em>
+    <span>Love you guys, </span>
+  </em>
+  <span>Tommy said. </span>
+  <em>
+    <span>The day has been upgraded to poggers.</span>
+  </em>
+</p><p> </p><p>
+  <span>Maybe the soulmate thing wasn’t so bad. </span>
+</p></div>
+        <!-- end cache -->
+    </div>
+<!--/chapter-->
+
+    <!--afterword-->
+    <div class="afterword preface group" role="complementary">
+        <!--work endnotes-->
+<div id="work_endnotes" class="end notes module">
+  <h3 class="heading">Notes:</h3>
+  <blockquote class="userstuff"><p>hope you liked it and thanks for reading!!</p><p>here's my <a href="https://twitter.com/ghostbandaids" rel="nofollow">twitter</a> if you want to yell at me on there (:</p><p>if you have the time, let me know what you thought with a comment! &lt;3</p></blockquote>
+</div>
+<!--/work endnotes-->
+        <!--approved children-->
+
+<div id="children" class="children module">
+  <h3 class="heading">Works inspired by this one:</h3>
+  <ul>
+    <li>
+        A [Restricted Work] by <a rel="author" href="/users/fensandmarshes/pseuds/fensandpodfic">fensandpodfic (fensandmarshes)</a>
+ Log in to view.
+    </li>
+  </ul>
+</div>
+
+    </div>
+    <!--/afterword-->
+
+  </div>
+  <!-- END work skin -->
+<!-- END work -->
+
+<!-- BEGIN comment section -->
+<!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="czyI4U2cmvK2nkewWYQEci8SYrEekE9LxaQ_LBkMBuyqDNnr1hXbcEZhDbfewJf8W1LQa1eKm2GA5cpv-PhS2g"/>
+          <input value="28840383" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?work_id=28840383">Comments (117)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/Sun_Dust">Sun_Dust</a>, <a href="/users/Chiera99">Chiera99</a>, <a href="/users/Xanadu_Lives">Xanadu_Lives</a>, <a href="/users/AlltheFandoms101">AlltheFandoms101</a>, <a href="/users/PrivateMiauw">PrivateMiauw</a>, <a href="/users/Saphirien">Saphirien</a>, <a href="/users/CrazyComments">CrazyComments</a>, <a href="/users/i_love_the_green_baby">i_love_the_green_baby</a>, <a href="/users/A_Rat_Vibin">A_Rat_Vibin</a>, <a href="/users/RowanChild6115">RowanChild6115</a>, <a href="/users/Nickname038">Nickname038</a>, <a href="/users/Chloeeatsbees">Chloeeatsbees</a>, <a href="/users/Skybluetree">Skybluetree</a>, <a href="/users/Kbelle75">Kbelle75</a>, <a href="/users/Jewel58b">Jewel58b</a>, <a href="/users/LavenderLiquorice">LavenderLiquorice</a>, <a href="/users/Alvaplesner">Alvaplesner</a>, <a href="/users/fireflystars">fireflystars</a>, <a href="/users/stormsandskies">stormsandskies</a>, <a href="/users/Anachr0">Anachr0</a>, <a href="/users/NancyCoral">NancyCoral</a>, <a href="/users/CrimsonComputer">CrimsonComputer</a>, <a href="/users/Chocolateskins">Chocolateskins</a>, <a href="/users/ILynx">ILynx</a>, <a href="/users/LadyGrey_03">LadyGrey_03</a>, <a href="/users/Sofia_Soll888">Sofia_Soll888</a>, <a href="/users/silver_heart07">silver_heart07</a>, <a href="/users/justawolfstarshipper">justawolfstarshipper</a>, <a href="/users/dekiruwu">dekiruwu</a>, <a href="/users/harms">harms</a>, <a href="/users/WolfKiddAl">WolfKiddAl</a>, <a href="/users/Kakkuna">Kakkuna</a>, <a href="/users/KerTheBeloved">KerTheBeloved</a>, <a href="/users/universear">universear</a>, <a href="/users/ImjustvibingXD">ImjustvibingXD</a>, <a href="/users/comets_in_motion">comets_in_motion</a>, <a href="/users/Bethw22">Bethw22</a>, <a href="/users/modge_podge">modge_podge</a>, <a href="/users/Goat1744">Goat1744</a>, <a href="/users/Hyacinth72">Hyacinth72</a>, <a href="/users/SkeleSinner101">SkeleSinner101</a>, <a href="/users/KiaRatoo">KiaRatoo</a>, <a href="/users/armycabbage">armycabbage</a>, <a href="/users/DoomedVulpini">DoomedVulpini</a>, <a href="/users/TheSeenandUnseenGodsofDeath66">TheSeenandUnseenGodsofDeath66</a>, <a href="/users/Na0_Ale">Na0_Ale</a>, <a href="/users/ImperialKatwala">ImperialKatwala</a>, <a href="/users/P1nk_L3m0n3d">P1nk_L3m0n3d</a>, <a href="/users/Chrissy_LR05">Chrissy_LR05</a>, <a href="/users/Foxclu">Foxclu</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/28840383/kudos?before=3892775662">3080 more users</a>
+             as well as 
+          1068 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_28840383">
+  <form class="new_comment" id="comment_for_28840383" action="/works/28840383/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="AfDctI6rIj2Po5T0WZuyUbiiFVqorjkzuGc3E7ZIx2jYwI2-FSJjv39c3vPe3yHfzOKngOG07Rn9JsJQV7yTXg"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_28840383">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_28840383" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_28840383=new LiveValidation('comment_name_for_28840383',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_28840383.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_28840383">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_28840383" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_28840383=new LiveValidation('comment_email_for_28840383',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_28840383.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_28840383" class="landmark">Comment</label>
+        <textarea id="comment_content_for_28840383" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_28840383" name="controller_name" value="works"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_28840383_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_28840383">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_28840383=new LiveValidation('comment_content_for_28840383',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_28840383.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_28840383.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_28840383" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+<!-- END comment section -->
+<!-- END revealed -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/28840383/hit_count.json")})</script>
+
+
+  </body>
+</html>

@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        The Hero with a Thousand Faces - orphan_account - Star Wars - All Media Types [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="C40InYRIoEWgbR3GslSc79wbGCmZwpsOrN-NO-rF4DAmwvD_Xi75Ny_rL7bpS6jH91pMD60Q9iAmptoCk4nlcw"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="LCYh6an8t1hMSFpg1BaKyP2ucTerGaJowKLadbxyp-IBadmLc5ruKsPOaBCPCb7g1u8lEZ_Lz0ZK241MxT6ioQ"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: &quot;uchiha sasuke/uzumaki naruto&quot; angst kudos&gt;10</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="works-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<ul class="landmark skip">
+  <li><a name="top">&nbsp;</a></li>
+  <li><a href="#work">Skip header</a></li>
+</ul>
+
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+<!-- BEGIN revealed -->
+<!-- BEGIN work -->
+<!--work description, metadata, notes and messages-->
+    <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?work_id=23043574">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/23043574/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/23043574/The%20Hero%20with%20a%20Thousand.azw3?updated_at=1643265715">AZW3</a></li>
+          <li><a href="/downloads/23043574/The%20Hero%20with%20a%20Thousand.epub?updated_at=1643265715">EPUB</a></li>
+          <li><a href="/downloads/23043574/The%20Hero%20with%20a%20Thousand.mobi?updated_at=1643265715">MOBI</a></li>
+          <li><a href="/downloads/23043574/The%20Hero%20with%20a%20Thousand.pdf?updated_at=1643265715">PDF</a></li>
+          <li><a href="/downloads/23043574/The%20Hero%20with%20a%20Thousand.html?updated_at=1643265715">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Teen%20And%20Up%20Audiences/works">Teen And Up Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Choose%20Not%20To%20Use%20Archive%20Warnings/works">Creator Chose Not To Use Archive Warnings</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Star%20Wars%20-%20All%20Media%20Types/works">Star Wars - All Media Types</a></li><li><a class="tag" href="/tags/Star%20Wars:%20The%20Clone%20Wars%20(2008)%20-%20All%20Media%20Types/works">Star Wars: The Clone Wars (2008) - All Media Types</a></li><li><a class="tag" href="/tags/Star%20Wars:%20Clone%20Wars%20(2003)%20-%20All%20Media%20Types/works">Star Wars: Clone Wars (2003) - All Media Types</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationship:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Jango%20Fett*s*Obi-Wan%20Kenobi/works">Jango Fett/Obi-Wan Kenobi</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Anakin%20Skywalker/works">Anakin Skywalker</a></li><li><a class="tag" href="/tags/Ahsoka%20Tano/works">Ahsoka Tano</a></li><li><a class="tag" href="/tags/Obi-Wan%20Kenobi/works">Obi-Wan Kenobi</a></li><li><a class="tag" href="/tags/CT-7567%20%7C%20Rex/works">CT-7567 | Rex</a></li><li><a class="tag" href="/tags/CC-2224%20%7C%20Cody/works">CC-2224 | Cody</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/past%20Obi-Wan*s*Jango%20Fett/works">past Obi-Wan/Jango Fett</a></li><li><a class="tag" href="/tags/Obi-Wan%20Feels/works">Obi-Wan Feels</a></li><li><a class="tag" href="/tags/Human%20Disaster%20Anakin%20Skywalker/works">Human Disaster Anakin Skywalker</a></li><li><a class="tag" href="/tags/Reluctant%20Celebrity%20Obi-Wan/works">Reluctant Celebrity Obi-Wan</a></li><li><a class="tag" href="/tags/Alternate%20Universe%20-%20Canon%20Divergence/works">Alternate Universe - Canon Divergence</a></li><li><a class="tag" href="/tags/Past%20Violence/works">Past Violence</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+      <dt class="series">
+        Series:
+      </dt>
+      <dd class="series">
+        <span class="series"><span class="position">Part 1 of the <a href="/series/1703374">The Hero With a Thousand Faces</a> series</span><span class="divider"> </span><a class="next" href="/works/23657293">Next Work &#8594;</a></span>
+      </dd>
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/FunFarFarAway">Fun/Humour/Crack in a Galaxy Far Far Away</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2020-03-06</dd><dt class="words">Words:</dt><dd class="words">2105</dd><dt class="chapters">Chapters:</dt><dd class="chapters">1/1</dd><dt class="comments">Comments:</dt><dd class="comments">81</dd><dt class="kudos">Kudos:</dt><dd class="kudos">4497</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/23043574/bookmarks">428</a></dd><dt class="hits">Hits:</dt><dd class="hits">35447</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      The Hero with a Thousand Faces
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/orphan_account/pseuds/orphan_account">orphan_account</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>During the course of the war, an old image makes its way onto the holonet. </p><p>Obi-Wan, thankfully, is oblivious to its existence.</p><p>Anakin knows because it's his mission in life to find ways to drive his old Master crazy. </p><p>Ahsoka knows because Anakin apparently lacks the emotional maturity to deal with things like this alone, and because she’s even more of a gossip than he is.</p><p>Cody knows because he’s Cody, and Rex knows because Cody nearly has a heart attack when he first sees it.</p><p>And the rest of the GAR know because if there’s one thing more efficient than Cody’s drills, it’s the gossip mill.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>I don't know what this is. Something a bit silly? Something a bit sad? ¯\_(ツ)_/¯</p>
+    </blockquote>
+
+</div>
+
+
+  </div>
+
+
+<!--/descriptions-->
+
+<!--chapter content-->
+    <div id="chapters" role="article">
+        <h3 class="landmark heading" id="work">Work Text:</h3>
+          <div class="userstuff"><p>It’s not that Obi-Wan has never smiled before - he has, of course he has, he smiles at <em>teapots</em> if the mood strikes him - just that he never smiles like <em>that</em>. Like he’s truly, completely, overwhelmingly happy. Like his world is complete. Anakin’s known his Master for years, they’re closer than brothers, but this is something beyond his frame of reference. It’s a mystery, and like all good mysteries, it demands Anakin drop everything he’s doing to get to the bottom of it.</p><p> </p>
+<hr/><p> </p><p>It’s not a new holo, at least a good fifteen years old, and no one knows where it comes from, just that it pops up on one of the trashier news outlets right after a slew of anti-war propaganda posts. It’s mistaken for something new, a not-candid-candid released to combat the wave of negativity that’s been pouring from the general public the past few months.</p><p>Then someone points out that General Kenobi, arguably the most famous face of the war efforts, still has his Padawan braid and can’t be much more than eighteen.</p><p>Which is about the time everyone loses their collective shit.</p><p> </p>
+<hr/><p> </p><p>
+  <em>“I mean, it is him, right?”</em>
+</p><p>
+  <em>“Has to be.”</em>
+</p><p>
+  <em>“Yeah but how?”</em>
+</p><p>
+  <em>“Well see, when two people like each other very much-”</em>
+</p><p>
+  <em>“Oh shut your face, you know what I mean!”</em>
+</p><p>
+  <em>“You knew him, sir, is it Jango?”</em>
+</p><p>
+  <em>“No more gossip. Get back to work.”</em>
+</p><p>
+  <em>“Sir!”</em>
+</p><p> </p>
+<hr/><p> </p><p>Obi-Wan remains blissfully ignorant of the image’s existance, far too preoccupied with fighting a war to pay attention to the trivialities of public media. If something credible shows up on the holonet, GAR Intelligence will let him know. Anakin knows because his Master has a habit of attracting unwanted attention from complete strangers, and because he’s perfectly capable of doing his job <em>and</em> finding ways to torment his Master - or protect him <em>from</em> would-be tormentors. And by this point he’s pretty sure Obi-Wan worries if he <em>isn’t </em>up to something.</p><p>Ahsoka knows because Anakin apparently lacks the emotional maturity to deal with things like this alone and because she’s even more of a gossip than he is.</p><p>Cody knows because he’s Cody, and Rex knows because Cody nearly has a heart attack when he first sees it.</p><p>And the rest of the GAR know because if there’s one thing more efficient than Cody’s drills, it’s the gossip mill.</p><p> </p>
+<hr/><p> </p><p>“Far be it from me to expect everyone to pay attention, but is something troubling you, Ahsoka?”</p><p>Anakin is trying - and failing - to hold crisis talks with Cody and Rex before the game is up and Obi-Wan realizes they know about...</p><p>Well, he doesn’t know what they know about, just that they now know it. And Obi-Wan will know it too very soon.</p><p>The sound of Obi-Wan’s arrival is masked by Cody’s hushed threats to find whoever released the image and have them killed painfully, and Rex’s enthusiastic volunteering for the job. Ahsoka, who is staring at the image with the wide-eyed gaze of someone who still can’t believe what they are seeing, jumps and drops her holodisk onto the floor.</p><p>Obi-Wan, ever chivalrous, bends to collect if for her. “My apologies, Ahsoka, I did not mean to startle y-” his eyes widen as they skim across the surface of the holo. “Where in the Force did you find this?” he asks, a tentative hand reaching for the digital faces in front of him, then falling, unfulfilled, to his side.</p><p>Ahsoka looks pointedly at Anakin. Far more pointedly than is probably right for a Padawan to look at their Master. Obi-Wan might say it’s the Force providing the world with some much-needed balance but Anakin <em>knows</em> he wasn’t that much of a brat when he was Ahsoka’s...</p><p>Obi-Wan might have a point.</p><p>“Who took it?” he asks instead of answering. He does remember some of the diplomatic training his poor Master tried so very hard to spoon-feed him. Some. And if you don’t want to answer something, you ask a question of your own.</p><p>Obi-Wan raises an eyebrow, a sidelong look making it clear Anakin has failed in an attempt to be sly about the shift in subject.</p><p>Still, he allows it. Which... weird.</p><p>“Satine. Not that I knew it at the time.”</p><p>“And that’s-” Anakin can’t help but look at Rex and Cody, who are both making attempts to <em>not</em> look like they are clinging to every word Obi-Wan is saying. Cody’s managing it far better than Rex.</p><p>Obi-Wan looks up from the image, his expression <em>so soft</em>. “Jango Fett? Yes.”</p><p>Okay! So that’s an actual thing! More than a thing because yeah that’s Obi-Wan, eighteen if he’s a day, short, spikey red hair and <em>freckles</em> and a smile wider than anything Anakin has ever seen on him before.</p><p>And that <em>is</em> Jango Fett, barely any older, his dark hair long and curly, a softness to him that’s not physical, but -</p><p>And Obi-Wan isn’t wearing Jedi robes! He’s wearing <em>armor.</em> <em>Mandalorian</em> armor.</p><p>And! And this is the real kicker; Jango has his arm draped possessively across Obi-Wan’s shoulder, his hand tucked around his chest. Their heads are pressed together in a way that speaks of far more intimacy than Obi-Wan’s likely capable of expressing. And though their attention is caught by something off to one side, Jango is pressing a kiss to the side of Obi-Wan’s brow.</p><p>Jango Fett, bounty hunter and notorious Jedi hater, is <em>cuddling</em> Anakin’s teenage Master, and... and...</p><p>Obi-Wan looks so happy.</p><p>“Breathe, Anakin,” Obi-Wan says mildly. He spares Anakin that attention, but he’s mostly fixed on Rex and Cody. “Are you alright?”</p><p>Neither of them seems to know how to answer.</p><p>“How? When? <em>How</em>?!” Anakin splutters.</p><p>“I’m positive I don’t need to explain the mechanics of it to you, Anakin,” Obi-Wan says dryly. “As for when, well, you do know that I spent a year on Mandalore in my youth.”</p><p>“Protecting Duchess Satine,” Ahsoka says brightly. Snips has a soft spot for Obi-Wan’s... not girlfriend?</p><p>“That’s right,” Obi-Wan nods. He touches Cody’s elbow, worry turning his usual exasperation into softhearted concern. “Jango was the sole survivor of Galidraan, betrayed by Death Watch and sold into slavery. During our extensive and exhaustive tour of Mandalore-”</p><p>“Where everyone tried to kill you,” Anakin adds helpfully. Obi-Wan leaves all the best parts out of his stories.</p><p>His Master’s lip curls. “Yes, precisely. Well, I ran into a spot of bother with one of the clans, and, well, long story short is that Jango and I ended up chained together in one of the mining facilities on Concordia. He was, as I’m sure you can understand, not entirely thrilled to be shackled to a Jedi, but we found common ground in our mutual desire to escape.”</p><p>That’s a very tactful and delicate way of describing what was likely a deeply traumatic experience, but leave it to Obi-Wan to make the plot of a bad holomovie sound boring and uneventful.</p><p>A Mandalorian outcast, chained to a Jedi Padawan? Forced to overcome their differences in order to find their freedom?</p><p>Anakin <em>knows</em> he’s read exactly this kind of trashy pulp fiction before.</p><p>“That’s so romantic,” Ahsoka sighs dreamily.</p><p>“He did try to strangle me in my sleep a few times,” Obi-Wan says with an insanely inappropriate amount of fondness, “but I suppose it was.”</p><p>“Wait,” something in Obi-Wan’s far away gaze flips the mood from a curiously gleeful fact-finding mission to something... <em>more</em>. “Did you <em>love</em> him?”</p><p>Cody and Rex, who have been silent and stone-faced this whole time, both flinch.</p><p>The exasperation seeps back into Obi-Wan’s voice, but it’s not enough to rob him of that soft, wistful look in his eyes. “I was eighteen, he was very handsome, and would pick a fight with me about everything,” he says, “of course I did.” A weary sigh chases away the youthful joy in his expression, replacing it with something heavy and laced with regret. “Satine took great delight in setting us off and I am certain Master Qui-Gon added fuel to the fire every chance he got. This,” he gestures at the holo, “was taken shortly before Satine’s coronation. She and Jango had wildly opposing ideas of how a future Mandalore would look, and while he was able to ignore my position as a Jedi when we were running for our lives, it became much harder to do so when I returned to my role as a peacekeeper.”</p><p>Anakin looks at the image of Obi-Wan’s smiling, happy face and moves his attention up towards Jango’s. It’s not hard to imagine those adoring eyes turning to hate. Not when he knows what Jango went on to do. It’s not even hard to imagine how they might’ve looked when Obi-Wan picked the Jedi over whatever it was they had, but -</p><p>But Obi-Wan said he <em>loved</em> him.</p><p>“He lost his people, his whole way of life, and spent years suffering for the mistakes that Jedi made,” Obi-Wan’s voice holds no hint of blame or recrimination. “I couldn’t be what he wanted, nor could I give him what he needed.” That fond expression falls on Cody and Rex. “I’ll admit to being surprised by the direction he chose to go in, but it certainly gave him the family he so desperately wanted.”</p><p>“He was going to watch you die,” Cody growls. “I read the report.” Cody’s one of the oldest clones, one of the very early batches, one of the ones who spent the most time learning from Jango. One of the ones who might, perhaps, think of the mercenary as his father.</p><p>“He had Boba to think about,” Obi-Wan shakes his head, brushing away Cody’s concern. “I would never begrudge him for putting his son first. Besides, I like to think he would have stepped in at the last minute and saved the day, just to hold it over me.”</p><p>Anakin doubts it, he doubts it a lot. But he can’t bring himself to steal that smile from Obi-Wan’s face, not when it is a mere shadow of what it could be. Not now he understands <em>why</em>.</p><p>If Jango had asked, would Obi-Wan have left the Order?</p><p>It’s a question that comes with consequences stretching far beyond the fate of Mandalore and the creation of the clone army.</p><p>Could he really have loved someone enough to leave the Jedi behind? Could he understand the ways Anakin’s heart is torn between love and duty? Maybe? Maybe...</p><p>He’s terrified of asking. Terrified of the answer.</p><p>“I’m sorry,” Rex says gruffly. He doesn’t seem to know where to look, a desolate, lost expression on his face that doesn’t belong anywhere near Anakin’s fearless Captain.</p><p>This isn’t funny anymore.</p><p>Obi-Wan startles. “For what?”</p><p>Rex’s swallow is audible. “It must be... difficult, for you. Seeing us.”</p><p>And Anakin hadn’t even <em>thought</em> of that. How would he cope if he had to work with an army of Padme’s clones?</p><p>He wouldn’t. He wouldn’t cope. He’d certainly not be able to send them into battle. He’d not be able to keep his sanity and his heart intact watching beings with her face die over and over on <em>his</em> orders.</p><p>To his surprise, Obi-Wan chuckles. “Not at all. You and your brothers bring me great joy. And besides,” his smile grows, just a little, “you might have Jango’s face but you’re all very different people. Although you <em>do</em> have his reckless streak,” he lays a hand on Rex’s shoulder, then looks at Cody, “and you, dear Commander, are possibly even more stubborn.”</p><p>“More stubborn than I am?” Anakin asks, unable to help himself from pulling Ahsoka just that little bit closer.</p><p>“No one is more stubborn than you, Anakin,” Obi-Wan says with a very put-upon sigh, the kind that makes it sound like he’s both eternally grateful and a little sad that Anakin and Jango never met.</p><p>“I could try,” Ahsoka offers earnestly.</p><p>“Thank you, Ahsoka, but there is no need. We need to let Anakin have something at which he excels.”</p><p>He knows Obi-Wan is teasing him, but that doesn’t make his spluttering any less real. “Laugh it up, Master, but you’ve basically just outed yourself as step-father to the entire GAR.”</p><p>He can’t decide if Rex’s wide eyes or Cody’s undisguised panic is funnier. Then Obi-Wan says, “Oh dear, Master Plo <em>will</em> be upset,” and he can’t help but laugh.</p><p>“Good luck explaining that one to the Council, Master,” he says dryly. Mace’s face is probably going to crack.</p><p>“What makes you think they don’t already know?”</p><p>That their poster boy golden child was... involved... with a Jedi hating bounty hunter who cloned himself a few million times? No way. No way!</p><p>“Wait, what?”</p></div>
+        <!-- end cache -->
+    </div>
+<!--/chapter-->
+
+    <!--afterword-->
+    <div class="afterword preface group" role="complementary">
+        <!--series links, backwards and forwards-->
+<div id="series" class="series module">
+  <h3 class="heading">Series this work belongs to:</h3>
+  <ul>
+      <li><span class="series"><span class="position">Part 1 of the <a href="/series/1703374">The Hero With a Thousand Faces</a> series</span><span class="divider"> </span><a class="next" href="/works/23657293">Next Work &#8594;</a></span></li>
+  </ul>
+</div>
+<!--/series links-->
+    </div>
+    <!--/afterword-->
+
+  </div>
+  <!-- END work skin -->
+<!-- END work -->
+
+<!-- BEGIN comment section -->
+<!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="c__Gp57vNDzekVlmhVtcsLp_MFkslm0I57E8EGStqw5esD7FRIltTlEXaxbeRGiYkT5kfxhEACZtyGspHeGuTQ"/>
+          <input value="23043574" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?work_id=23043574">Comments (81)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/confused_alot">confused_alot</a>, <a href="/users/UnderAGatheringStorm">UnderAGatheringStorm</a>, <a href="/users/RonneeM">RonneeM</a>, <a href="/users/sheik55">sheik55</a>, <a href="/users/Library_Bug11">Library_Bug11</a>, <a href="/users/AThousandMasks">AThousandMasks</a>, <a href="/users/Marsuvees">Marsuvees</a>, <a href="/users/DreamingOfAzure">DreamingOfAzure</a>, <a href="/users/IICherryColaII">IICherryColaII</a>, <a href="/users/Queens_Gardener">Queens_Gardener</a>, <a href="/users/urlocalasshole">urlocalasshole</a>, <a href="/users/malcontentCrow">malcontentCrow</a>, <a href="/users/erismalfoy">erismalfoy</a>, <a href="/users/Manna_from_711">Manna_from_711</a>, <a href="/users/Morrigan13">Morrigan13</a>, <a href="/users/Blue_Umbrella">Blue_Umbrella</a>, <a href="/users/jujuberry136">jujuberry136</a>, <a href="/users/Phantom_Fireside">Phantom_Fireside</a>, <a href="/users/Bioluminescent">Bioluminescent</a>, <a href="/users/introverti_44">introverti_44</a>, <a href="/users/Cadme">Cadme</a>, <a href="/users/Dedlain">Dedlain</a>, <a href="/users/Keyanna">Keyanna</a>, <a href="/users/Squirrel806">Squirrel806</a>, <a href="/users/Mistborn7">Mistborn7</a>, <a href="/users/InnogenRenz">InnogenRenz</a>, <a href="/users/Angwen">Angwen</a>, <a href="/users/PrettyRacing">PrettyRacing</a>, <a href="/users/SparkyScout">SparkyScout</a>, <a href="/users/RedIxora">RedIxora</a>, <a href="/users/theknightwithinthedamsel">theknightwithinthedamsel</a>, <a href="/users/LunaHedy">LunaHedy</a>, <a href="/users/Mortis_Avis">Mortis_Avis</a>, <a href="/users/greedo6">greedo6</a>, <a href="/users/aadarshinah">aadarshinah</a>, <a href="/users/Luna1236">Luna1236</a>, <a href="/users/Mushishi_of_Eco">Mushishi_of_Eco</a>, <a href="/users/Deris666">Deris666</a>, <a href="/users/toomanybookmarks">toomanybookmarks</a>, <a href="/users/Yvonne_evenstar">Yvonne_evenstar</a>, <a href="/users/Reptilesarelit">Reptilesarelit</a>, <a href="/users/Fraus_Shafiq">Fraus_Shafiq</a>, <a href="/users/EllieWK">EllieWK</a>, <a href="/users/Ais1005">Ais1005</a>, <a href="/users/Genshin_Simps">Genshin_Simps</a>, <a href="/users/DragonEshia">DragonEshia</a>, <a href="/users/Froggy01">Froggy01</a>, <a href="/users/rudeminnesotan">rudeminnesotan</a>, <a href="/users/CaptainOfRed">CaptainOfRed</a>, <a href="/users/Veraven">Veraven</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/23043574/kudos?before=3867134029">3153 more users</a>
+             as well as 
+          1294 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_23043574">
+  <form class="new_comment" id="comment_for_23043574" action="/works/23043574/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="dZ_Zj9HWA4Uf8aN74Q9fFqZT-yL2s8PVU3YtsHMLRWVY0CHtC7Ba95B3kQu6EGs-jRKvBMJhrvvZD3qJCkdAJg"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_23043574">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_23043574" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_23043574=new LiveValidation('comment_name_for_23043574',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_23043574.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_23043574">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_23043574" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_23043574=new LiveValidation('comment_email_for_23043574',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_23043574.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_23043574" class="landmark">Comment</label>
+        <textarea id="comment_content_for_23043574" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_23043574" name="controller_name" value="works"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_23043574_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_23043574">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_23043574=new LiveValidation('comment_content_for_23043574',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_23043574.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_23043574.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_23043574" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+<!-- END comment section -->
+<!-- END revealed -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/23043574/hit_count.json")})</script>
+
+
+  </body>
+</html>

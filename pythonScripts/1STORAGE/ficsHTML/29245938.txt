@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Unfinished Business - Chapter 1 - kitsunealyc - 人渣反派自救系统 - 墨香铜臭 | The Scum Villain&#39;s Self-Saving System - Mòxiāng Tóngxiù [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="UMGEHELJUwXATXBgSCbgDBFnfg9kO8P7LjHHQsNwQ1GwWF4MECAZ01UWJHGxiYBmBG81feq7GXJTFk6rwcVjXA"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="9xBG5LPmT15JyBtDWk1Ycngc9s3u2a1OA163cuFRdHAXiZz04Q8FiNyTT1Kj4jgYbRS9v2BZd8d-eT6b4-RUfQ"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: words:100</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/29245938?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/29245938/chapters/71945961#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/29245938/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/29245938/chapters/71813001" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="71813001">1. A New Life</option>
+<option value="71945961">2. An Old Life, Anew</option>
+<option value="72240174">3. An Old Grudge</option>
+<option value="72699972">4. Begrudging Acceptance</option>
+<option value="73826790">5. Unacceptable Consequences</option>
+<option value="74030337">6. The Consequence of Pride</option>
+<option value="74524281">7. Pride Before the Fall</option>
+<option value="74969901">8. The Hammer Falls</option>
+<option value="75828959">9. Hard Truths</option>
+<option value="76987817">10. Here Lies the Abyss</option>
+<option value="78052754">11. Falling for You</option>
+<option value="79228924">12. The You That Lives in Me</option>
+<option value="85081891">13. Being Alive</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/29245938/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=71813001">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/29245938/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/29245938/Unfinished%20Business.azw3?updated_at=1644357104">AZW3</a></li>
+          <li><a href="/downloads/29245938/Unfinished%20Business.epub?updated_at=1644357104">EPUB</a></li>
+          <li><a href="/downloads/29245938/Unfinished%20Business.mobi?updated_at=1644357104">MOBI</a></li>
+          <li><a href="/downloads/29245938/Unfinished%20Business.pdf?updated_at=1644357104">PDF</a></li>
+          <li><a href="/downloads/29245938/Unfinished%20Business.html?updated_at=1644357104">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Explicit/works">Explicit</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Choose%20Not%20To%20Use%20Archive%20Warnings/works">Creator Chose Not To Use Archive Warnings</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandom:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/%E4%BA%BA%E6%B8%A3%E5%8F%8D%E6%B4%BE%E8%87%AA%E6%95%91%E7%B3%BB%E7%BB%9F%20-%20%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%20%7C%20The%20Scum%20Villain&#39;s%20Self-Saving%20System%20-%20M%C3%B2xi%C4%81ng%20T%C3%B3ngxi%C3%B9/works">人渣反派自救系统 - 墨香铜臭 | The Scum Villain&#39;s Self-Saving System - Mòxiāng Tóngxiù</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Original%20Lu%C3%B2%20B%C4%ABngh%C3%A9*s*Sh%C4%9Bn%20Yu%C3%A1n%20%7C%20Sh%C4%9Bn%20Q%C4%ABngqi%C5%AB/works">Original Luò Bīnghé/Shěn Yuán | Shěn Qīngqiū</a></li><li><a class="tag" href="/tags/Lu%C3%B2%20B%C4%ABngh%C3%A9*s*Sh%C4%9Bn%20Yu%C3%A1n%20%7C%20Sh%C4%9Bn%20Q%C4%ABngqi%C5%AB/works">Luò Bīnghé/Shěn Yuán | Shěn Qīngqiū</a></li><li><a class="tag" href="/tags/Original%20Lu%C3%B2%20B%C4%ABngh%C3%A9*s*Original%20Sh%C4%9Bn%20Q%C4%ABngqi%C5%AB/works">Original Luò Bīnghé/Original Shěn Qīngqiū</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Original%20Sh%C4%9Bn%20Q%C4%ABngqi%C5%AB/works">Original Shěn Qīngqiū</a></li><li><a class="tag" href="/tags/Original%20Lu%C3%B2%20B%C4%ABngh%C3%A9/works">Original Luò Bīnghé</a></li><li><a class="tag" href="/tags/Sh%C4%9Bn%20Yu%C3%A1n%20%7C%20Sh%C4%9Bn%20Q%C4%ABngqi%C5%AB/works">Shěn Yuán | Shěn Qīngqiū</a></li><li><a class="tag" href="/tags/Sh%C3%A0ng%20Q%C4%ABnghu%C3%A1/works">Shàng Qīnghuá</a></li><li><a class="tag" href="/tags/Yu%C3%A8%20Q%C4%ABngyu%C3%A1n/works">Yuè Qīngyuán</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Reincarnator%20vs*d*%20Transmigrator/works">Reincarnator vs. Transmigrator</a></li><li><a class="tag" href="/tags/Sort%20of*q*%20-%20Freeform/works">Sort of? - Freeform</a></li><li><a class="tag" href="/tags/I&#39;m%20honestly%20not%20certain%20how%20to%20tag%20the%20relationships%20in%20this%20one/works">I&#39;m honestly not certain how to tag the relationships in this one</a></li><li><a class="tag" href="/tags/Reincarnated%20Original%20Lu%C3%B2%20B%C4%ABngh%C3%A9/works">Reincarnated Original Luò Bīnghé</a></li><li><a class="tag" href="/tags/Reincarnated%20Original%20Sh%C4%9Bn%20Q%C4%ABngqi%C5%AB%20but%20he%20was%20Shen%20Yuan%20and%20got%20therapy%20in%20the%20interim/works">Reincarnated Original Shěn Qīngqiū but he was Shen Yuan and got therapy in the interim</a></li><li><a class="tag" href="/tags/Therapy%20works%20wonders/works">Therapy works wonders</a></li><li><a class="tag" href="/tags/But%20it%20doesn&#39;t%20solve%20all%20the%20problems/works">But it doesn&#39;t solve all the problems</a></li><li><a class="tag" href="/tags/Emotional%20Growth/works">Emotional Growth</a></li><li><a class="tag" href="/tags/Forgiveness/works">Forgiveness</a></li><li><a class="tag" href="/tags/Protecting%20each%20other&#39;s%20backs/works">Protecting each other&#39;s backs</a></li><li><a class="tag" href="/tags/Swords%20into%20Ploughshares/works">Swords into Ploughshares</a></li><li><a class="tag" href="/tags/Fix-It%20of%20Sorts/works">Fix-It of Sorts</a></li><li><a class="tag" href="/tags/Really%20more%20of%20a%20do-over/works">Really more of a do-over</a></li><li><a class="tag" href="/tags/Hurt*s*Comfort/works">Hurt/Comfort</a></li><li><a class="tag" href="/tags/And%20a%20whole%20lot%20of%20knives%20in%20between/works">And a whole lot of knives in between</a></li><li><a class="tag" href="/tags/Slow%20Burn/works">Slow Burn</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/AsianDramas">AsianDramas</a>, <a href="/collections/Rain_Recs">Rain Recs</a>, <a href="/collections/Foreknowledge">Foreknowledge</a>, <a href="/collections/Tuestreasure">Collection of treasures that I've cried river if it ever got delete :))</a>, <a href="/collections/heart_pain">sob</a>, <a href="/collections/Ayun">Hanya Fic yang Aku Sukai</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2021-02-06</dd><dt class="status">Updated:</dt><dd class="status">2021-10-01</dd><dt class="words">Words:</dt><dd class="words">96708</dd><dt class="chapters">Chapters:</dt><dd class="chapters">13/15</dd><dt class="comments">Comments:</dt><dd class="comments">1044</dd><dt class="kudos">Kudos:</dt><dd class="kudos">3896</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/29245938/bookmarks">1283</a></dd><dt class="hits">Hits:</dt><dd class="hits">67788</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Unfinished Business
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/kitsunealyc/pseuds/kitsunealyc">kitsunealyc</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>When he dies as a human stick, Shen Qingqiu is reborn in a strange new world – a world without cultivation – but with all his memories of his previous life. After years of loving support from his new family and the best therapy money can buy, Shen Yuan is able to put the trauma and strange memories of his past life behind him.</p><p>Then he dies again, and Shen Yuan is given a choice – pass on to a new turn of the karmic wheel, or return to fix the mistakes of his previous life. He chooses the latter, but no matter how hard he tries to change things, the boy who is destined to destroy the world watches him with resentful eyes as though he also knows the conflict that is to come.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>Just a note that while this fic will feature LBH's adult soul in his teenage body, nothing romantic or sexual will happen until he's physically an adult and no longer under SQQ's authority.</p><p>Now with a <a href="https://tvtropes.org/pmwiki/pmwiki.php/Fanfic/KitsunealycsUnfinishedBusiness" rel="nofollow">TV Tropes page!</a><br/></p>
+    </blockquote>
+
+    <p class="jump">(See the end of the work for <a href="/chapters/85081891#work_endnotes">more notes</a>.)</p>
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/29245938/chapters/71813001">Chapter 1</a>: A New Life
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p> </p><p> </p><p></p><blockquote>
+  <p>“Now I know what a ghost is. Unfinished business, that's what.” ― Salman Rushdie, <em>The Satanic Verses</em></p>
+</blockquote><p> </p><p>They were making a web series of &lt;&lt;Proud Immortal Demon Way&gt;&gt;. Shen Yuan stared at the forum topic header on his phone, at the tens of thousands of comments that had racked up even though the announcement had been made only a few hours ago. This was a nightmare. Even more than discovering that trash novel. Even more than wading through millions of words because, despite the warnings of his own furious heart, he <em>had</em> to know what happened.</p><p>Reading that trash had been even more awful than he expected, and he’d used his scathing forum critiques as a form of therapy, until the post where he called for the scum villain’s castration caused his heart to seize and put him in the hospital for a week. That’s when he told Meimei. Not about his past life; she’d known that since they were kids and Shen Yuan’s mind and memories hadn’t formed enough to lend him caution. No, he told her about Shen Jiu’s misdeeds and failings spread out for the world to see in one of the most popular web novels on the platform.</p><p><em>Oh, Yuan-ge</em>, she’d said, and climbed into his hospital bed to wrap him in a comforting hug. <em>Promise me you’ll stop reading that trash. That’s not you anymore.</em></p><p>He’d nodded, but he didn’t voice the promise. It was one he knew he wouldn’t keep. He did resume therapy, though. God knew it had helped him deal with his past before, when he was an angry child with memories too big and traumatic for his weak body to deal with. And it had helped this time, too. He was at peace with the divide between his past life and this one. Meimei was right. He wasn’t that person anymore.</p><p>A finger hooked over his phone, dragging the screen down. “Xiao-di isn’t allowed to play on his phone during lunch,” his da-ge said, a scowl pinching his brows. Looking at him was always strange, like looking in a mirror to the past. Da-ge could have been Shen Qingqiu’s twin, to the point where Shen Yuan sometimes wondered why he’d been born the third son instead of the first. Shen Yuan still resembled his da-ge, enough that nobody would doubt they were brothers, but in a more delicate mode. It was another reminder that he wasn’t that person from before.</p><p>Shen Yuan might no longer wear that face, but he’d worn that scowl often enough to recognize the affection it hid. Da-ge might get impatient with them, but he was never cruel. He’d never had reason to be; he’d had a good life.</p><p>“I didn’t reschedule my shareholder meeting to look at that atrocious case of yours,” he said, tapping the &lt;&lt;Proud Immortal Demon Way&gt;&gt; shell that Shen Yuan had bought in a bout of graveyard irony.</p><p>“Yes, we’d rather see your atrocious face,” Er-ge said, laughing. Where their eldest brother was sharp and serious, Er-ge was frothy light. In some ways, <em>he</em> was the changeling of the family and not Shen Yuan – a fitness nut who was always courting political trouble of one stripe or another. Da-ge had to fish him out of the soup more than a few times. But Shen Yuan loved him even more for being so outside anything he knew. Er-ge had no trouble smiling. No trouble laughing. He was like a strange and fascinating creature from an old bestiary.</p><p>“It’s hard to remember what you look like when we only see you once a month.” Er-ge peered closely at Shen Yuan’s face. “You look paler than last time. You haven’t been eating right, have you? Here, try some of this.”</p><p>Several choice bits of roast pork and steamed vegetables were dished up over Shen Yuan’s rice, like his brother was a doting wife. “You know, I’ve been doing this new cleanse that—”</p><p>“Come on, Yuan-ge,” Meimei said, nudging him and distracting Er-ge before he could share his newest dietary obsession. She was the sweetheart. Their queen. All three brothers doted on her, and she received it as her due and reflected it back at them. “What can be more important than our monthly lunch?”</p><p>And of his three siblings, Shen Yuan was closest to his meimei. The age gap meant his older brothers were stepping out into the world while Shen Yuan was struggling to understand it. But Meimei was only a year and change younger than him. They’d been together throughout their childhood. She knew his secrets. She knew <em>him</em>.</p><p>So she understood all that it meant when he said, “They’re making a live-action web series out of &lt;&lt;Proud Immortal Demon Way&gt;&gt;.</p><p>“The web novel?” Er-ge clicked his chopsticks, looking intrigued. “A friend of mine has been obsessed with it. Says the chapters are like lotus seeds; even when you run into a terrible one, you can’t stop devouring them. Maybe I’ll give it a read to see what all the fuss is about.”</p><p>“Do you know which production company?” Da-ge asked, pulling out his own phone – the hypocrite! – so he could take notes. “If it takes off like that last novel-inspired cultivator show did, I might want to see about investing in it.”</p><p>“The fuck you will!”</p><p>All three brothers gaped at their meimei for her outburst.</p><p>“Sorry,” she yelped, blushing and clapping her hands over her mouth. And that alone was enough to break Shen Yuan out of his shock. He laughed, hard enough to make his head hurt, but his heart feel less like it was about to shatter.</p><p>Meimei endured the scolding she got for her language. The glare she shot Shen Yuan said he’d be paying her back for the change of topic, for her self-sacrifice, and for his laughter. Soon the conversation moved on to how Meimei was doing in her pre-med program, how Shen Yuan was taking care of – or <em>not</em> taking care of – his health and wasting his days as a book critic for an online literary journal, and what new cause Er-ge was championing that Da-ge was going to have to use his party connections to bail him out of.</p><p>They said farewell to Er-ge at the restaurant, but Da-ge insisted on having his driver drop them off as usual. Meimei got out with Shen Yuan at his apartment.</p><p>“I can take a Didi home. And I’ll text all three of you when I get there,” she told their brother. “I just want to make certain San-ge has food, and that there isn’t anything expired for him to make himself sick on.”</p><p>“Meimei!” Shen Yuan groaned. Really, you end up in the hospital for eating expired yogurt <em>one time</em>!</p><p>But Da-ge drove off satisfied, and Meimei shepherded Shen Yuan into the building, the elevator, and his apartment high above B City, with the kind of view only rich parents and a trust fund could buy.</p><p>Shen Yuan had never known privation in this life. Never known anything but love – exasperated love at times, overprotective and worried at others, but always there – from his family. Even his poor health could be said to be no worse than the regular qi deviations that overtook him in the past.</p><p>He was lucky, and he had the memories to make him appreciate how lucky he was. Gone were the days when he lashed out to strike the lie of kindness from other people’s faces, or to drive them away before they could abandon him. His family was well-off enough to afford a competent and discreet therapist. And since therapy was actually a thing in this world without cultivation, it helped more than Shen Yuan would have expected.</p><p>So why was he sitting on his couch in a curled-up ball, his head in his sister’s lap as she stroked his hair and murmured soothing words?</p><p>“It’s going to be awful,” he finally said.</p><p>“Of course it is,” Meimei said. “Low budget wuxia web series are always awful.”</p><p>“Everybody’s going to hate me.”</p><p>“En. Maybe not. They’ll probably get someone established to play you. Someone handsome and a little older who can actually act. Like Wang Duo. Or Zhu Yilong. Oh my god, Zhu Yilong would be <em>perfect!</em>”</p><p>“You’re not allowed to perv over the actor playing my previous life,” Shen Yuan muttered, nudging her hand like a cat who hadn’t gotten enough pettings. But… Zhu Yilong? He could live if he was played by someone like that. Someone who could bring nuance to the role.</p><p>Who the fuck was he kidding? He didn’t deserve nuance. He’d lived an awful life and been an awful person. He’d died an even more awful death, and dragged his colleagues and his sect down with him. The whole mess was commemorated in an awful web novel, and now it was going to be distributed throughout China – throughout the <em>world</em> – in an awful live action web series.</p><p>“They’re more likely to get someone good at playing smarmy characters. Like… like Shen Xiaohai.” He shuddered, as though saying it made it true.</p><p>Meimei sighed. “Is there any point in talking you out of reading all the forum discussions about this?”</p><p>He wished he could take her excellent advice, but… “Probably not,” he mumbled.</p><p>Flicking his forehead, she dislodged him and started puttering around his apartment – throwing out most of the food in the refrigerator, disposing various cans of soda and empty ramen cups, hanging his coat over the back of a chair instead of leaving it on the floor where he’d dropped it. “Then promise me you’ll make some extra therapy appointments. Maybe your doctor can talk you out of this self-destructive behavior.</p><p>His doctor, who knew Shen Yuan’s history but only as a framing metaphor for the ‘real’ things he struggled with. Not everyone was as accepting as Shen Yuan’s meimei.</p><p>He was sitting up by the time she crossed to him. She laid her hand on his head and smoothed his mussed hair, a benediction he didn’t deserve. “You have to forgive yourself, gege. You’re the only one who can, and you won’t really be able to move on until you do. But… you already know that.”</p><p>He nodded, unable to force the words of agreement. Most of the time, he was fine. It was only when reminders like this arose that regret threatened to swamp him and drag him back into the miserable misanthrope he used to be and… honestly, mostly still was. But he wasn’t cruel. And he was loved. He wrapped himself in that knowledge to ward off the cold.</p><p>“I’ll try, Meimei.”</p><p>“I know you will.” With a final pat, she gathered up the bags and left him in his slightly neater apartment.</p><p>Shen Yuan resisted for ten minutes before he gave in, knocking his coat to the floor in his rush for his laptop.</p><p>He wasn’t going to read anything. He was just going to write to the great god Airplane Shooting Towards the Sky and tell him that the only way to save this web series from being as irredeemable trash as the novel it was based on was if he developed the wives and villains a little more. He had to turn them into fully rounded characters with understandable motivations and goals of their own. Backstories, too. It was purely in service to improving the literary landscape of wuxia web series as a whole.</p><p>And really, the show wasn’t going to have room for three thousand wives. Whoever they cast as the three female leads wouldn’t stand for so much competition for screen time. And without all the extra wives, there went all the additional unnecessary villains. So Airplane would <em>have</em> to develop the characters more fully. Maybe with that development would come a little kindness – for Yingying, who was a sweet girl and didn’t deserve to exchange the boy who loved her for an abusive asshole who didn’t. For Liu Mingyan, who was so strong and cool and could have been so much better than an accessory and prize. For Sha Hualing, who…</p><p>Well. No. Sha Hualing was a petty bitch. Shen Yuan hadn’t liked her then, and he didn’t see any reason to change that assessment.</p><p>And maybe… maybe he could give some insight into the history behind Shen Qingqiu’s inexplicable cruelty. Show the man who’d been broken long before he broke the boy who would become the protagonist. Even if events and actions couldn’t be changed, maybe Luo Binghe could learn about what drove Shen Qingqiu. Maybe he could learn <em>from</em> it, and become a better person than the monster Shen Qingqiu had made him into. Maybe he’d limit his revenge to the man who’d hurt him, rather than destroying an entire sect. Mu-shidi. Ming Fan. Qi-ge.</p><p>Shen Yuan was crying by the time he hit send, his heart beating and hands trembling. But he felt better. Spilling his vitriol in digital ink turned out to be much more effective than spitting up black blood for getting rid of the darkness building up inside of him.</p><p>And if he was feeling better, well… maybe he’d look at the forums a little bit. Just to see who was trending in the casting discussions.</p><p>He was three paragraphs into a screed about why a particular idol known for two things – his good looks and his affability – would make a <em>terrible</em> Luo Binghe and would never agree to play such a blackened character anyway, when he got the ping of a private message. A response. From the writer himself!</p><p>
+  <em>Cucumber Bro,</em>
+</p><p><em>You think </em>you<em> have regrets?! I’d go back and write the story I meant to write if I could, but it’s out of my hands at this point. Writers don’t have any say the script once the rights are sold.</em></p><p>
+  <em>At least the fight sequences will be cool. And I’ll always be able to afford ramen.</em>
+</p><p>
+  <em>Airplane Bro.</em>
+</p><p><em>Airplane, you cheap sellout! You vice-peddling, fan-pandering…</em> Shen Yuan planted his fists on his desk and drifted to his feet like a lantern rising on the flame of fury. A wave of vertigo made him sway and almost fall back into his chair. That’s when he realized that the rapid beating of his heart was from more than just anger, and the blackness at the edge of his vision was only partly from the contrast between the bright pixels of his screen and the twilight darkness of his apartment.</p><p>His heart. It had always been his weakness, like not having one in his past life meant the one in this life had to be atrophied and weak – an improvement, but not by much.</p><p>He had pills for this. Where were his pills? His eyes swept across the jumble on his desk, his hand following, but his sister had cleaned away most of the empty yogurt cups and cake wrappers. It was easy to see what wasn’t there.</p><p>Where then? By his bed, maybe? When was the last time he’d had to take one?</p><p>Too long, clearly. Pain shot through his chest like it was trying to crack out through his sternum. Lurching from his chair, Shen Yuan made it halfway to his bedroom before his feet tangled with the coat that had slipped to the floor. His lurch became a fall, head coming down against the bedroom door frame, and the pain in his chest was nothing compared to the pain that burst from inside his skull.</p><p>The world went dark, and there was no more pain.</p><p>***</p><p>The world was flooded with light.</p><p>At least, Shen Yuan thought it was. The darkness was gone, to be sure, and he could think again. What was that, if not light?</p><p>But he couldn’t see anything, sense anything. He knew he was himself, and he knew that knowing himself meant there had to be something not himself.</p><p>Just as the existential crisis of what that something might be began to darken Shen Yuan’s thoughts again, an oddly flat Google translate voice broke in and gave him something to cling to.</p><p>【Hello, lucky user. You have been selected for a unique opportunity to join the closed beta for the upcoming expansion feature, ‘Unfinished Business.’ In this expansion, you’ll get the chance to revisit your past with your current knowledge and memories to put right what once went wrong. Would you like to sign up for this exclusive beta, or would you rather miss this once-in-many-lifetimes chance and move on to the next cycle?】</p><p>【Sign Up//Give Up】</p><p>Wait, what?! Was this some kind of isekai thing? Hadn’t Shen Yuan already been playing a bugged game, living what should have been a cushy millennial life haunted by memories of his past as Shen Jiu?</p><p>Wait.</p><p>Did this mean…</p><p>
+  <em>Am I dead?</em>
+</p><p>【Thank you for asking! Our FAQ states: In this infinite universe, who can really be said to be alive or dead? These are ephemeral states and arbitrary categories that—】</p><p><em>Okay. Nevermind. Sounds like the answer is yes</em>. People only used euphemisms to talk around bad news.</p><p>Shen Yuan’s thoughts felt like they’d been shoved into a French press, darkness brewing and sadness seeping out. He was dead. Somewhere in the material world, his body was growing cold, probably blood pooling around his head from where he’d hit it. That would be the sight his meimei would walk in on, when his family eventually realized he wasn’t just avoiding their texts. The only question was, how long it would take her to find him? Would it smell? Would there be other fluids from decay…</p><p>Oh god, he couldn’t do that to her! Please let someone else find him. His landlord, or…</p><p>He wrenched away from those thoughts before panic could overtake him. In this null space he didn’t have breath to count, didn’t have five things he could see and list to ground himself. All the coping tools he’d developed were useless here.</p><p>But he did have questions, and something that seemed willing to answer them, even if those answers were next to useless.</p><p>
+  <em>What’s this closed beta? And why me?</em>
+</p><p>【The ‘Unfinished Business’ feature is a chance for potentially reformed villains to prove their growth by returning them to the scene of their crimes. Currently, the closed beta is only available to those users who encountered mapping errors during reincarnation that left them with fragmented memories of their previous life.】</p><p><em>Fragmented? Whose memories are fragmented?!</em> Shen Yuan could recall with painful clarity how his <em>body</em> had been fragmented before he finally managed to will himself into death.</p><p>The Google voice continued as though it hadn’t been interrupted. 【You can hop back on the spinning wheel of destiny and see where fate takes you, or you can sign up for this exclusive opportunity to resume your former life at a point of your choosing and make better choices to improve the outcome and your total score. Sometimes going back is the only way to go forward on the path to enlightenment!!】</p><p>If Shen Yuan had a body, he would have shuddered. He wasn’t in <em>that</em> great a rush to reach enlightenment. And why would he ever choose to relive his terrible past? It was done, and all he wanted to do was forget it.</p><p>Maybe that was the catch. <em>If I move on, will I still remember these lives in my next one?</em></p><p>【Retained memories are usually caused by great pain or evil. User has had a happy life this time around and generally been a decent person. It is unlikely that User will suffer another mapping glitch during transition.】</p><p>So, even less of a reason to go back. If the past had already happened, and Shen Yuan wouldn’t remember it if he moved on, then why put himself through that again?</p><p>Except… regrets. They haunted him like ghosts – all the people he’d hurt, all the people he’d failed. He’d laid them all out in that email he’d sent to Airplane Shooting Towards the Sky, suggested ways the story could be fixed to save people so much pain. He could do even more now. He could stop the pain from happening. From ever having had happened. Didn’t he owe it to the people who’d been hurt? Ning Yingying, Ming Fan, Yue Qingyuan?</p><p>And the person he’d hurt so badly it had been paid back a hundredfold. If Shen Yuan now turned his back on the suffering he’d caused, could it be said to be any different to all the times he’d turned his back then? He could rationalize that it had already happened, but it was really more like Schrodinger’s abuse. It both had and hadn’t happened. Shen Yuan’s choice would be the thing that decided the quantum state of Luo Binghe’s suffering.</p><p>Fucking physics. If choosing to move on meant the abuse had occurred, that meant he was choosing to let it occur.</p><p>If he chose that, had he really changed or grown at all?</p><p><em>You said I can choose my point of insertion. Can I make other customizations?</em> Shen Yuan asked. If he was doing this, he was going to be smart about it.</p><p>【Limited customization is possible. What elements would the user like to customize?】</p><p>
+  <em>No System. No locks on my behavior. No quests. No points. No having to fulfil required plot points. I want a sandbox – a completely open world where I’m free to do as I see fit. </em>
+</p><p>Yeah, he’d read his share of isekai novels, enough to be wary of the pitfalls put in place to trip up the poor protagonist. Fuck that. If he was forced to beat his head against an interfering System, he’d lash out at the nearest person and undo any improvements he’d managed to make. That, or die of a qi deviation before anyone had a chance to tear off his limbs.</p><p>【… Sandbox mode is possible in the closed beta. Is the User certain?】 the voice asked, sounding small and sad like it had been rejected. If anything, that only made Shen Yuan more certain.</p><p>
+  <em>Yes.</em>
+</p><p>【But this System offers many benefits and informational advantages in exchange for a small level of guided—】</p><p><em>I’m certain</em>. Shen Yuan had lived this life already, and he’d read the story past his death, all of it from Luo Binghe’s perspective. What more could a System tell him that he couldn’t figure out on his own?</p><p>【Very well. Provisioning custom sandbox instance of &lt;&lt;Proud Immortal Demon Way&gt;&gt;. Please input desired moment of intersection.】</p><p>Where to pick up... Shen Yuan thought of his misery of a childhood on the streets. Qi-ge’s abandonment, the abuse in the Qiu household and the murder he couldn’t bring himself to regret even now. He thought of the unscrupulous cultivator who’d been his first master – crueler than he’d ever been, and another death he didn’t regret. He thought of the years in Qing Jing Peak, slogging through daily humiliation to catch up with peers far ahead of him, struggling against the poor early formation of his core. He thought of his years as head disciple that brought even more work before he finally ascended and could shuffle all those tasks off onto someone else’s shoulders. Those days when he could finally, <em>finally</em> enjoy the position he’d clawed his way into.</p><p>Not that he had enjoyed it. By the time he became Peak Lord, he’d been too hard, resentful, bitter, wounded. He’d spent all his time growling and hissing like a feral cat at anyone who seemed like a threat, who seemed like they might question his right to his patch of sun.</p><p>He could start there, try to enjoy the halcyon years this time around, but there’d be no pleasure. Each day would bring more anxiety as he waited for the sword to fall.</p><p>Better to get started right away with the day he selected Luo Binghe to spite his shidi.</p><p>Maybe he wouldn’t this time. Maybe he’d let Liu Qingge take the brat. Or just discourage anyone from selecting him and let him find his own way in the world.</p><p>No, that wouldn’t serve. If anything, Liu Qingge had been even harder on his disciples than Shen Qingqiu, the only difference being that his treatment was nothing personal. Was ‘training.’ He’d beat all of them up equally. And once he’d died, Bai Zhan Peak devolved into something out of Lord of the Flies, everyone scrabbling and bullying for power. No, that was not the way to give the future Demon Emperor a better life. Nor was sending a child away for the world to devour.</p><p>Shen Yuan had to take responsibility.</p><p>
+  <em>The day before Luo Binghe’s trials. The day before I brought him into Qing Jing Peak as a disciple.</em>
+</p><p>【Intersection point parameters logged. Launching provisioned sandbox. Please enjoy your ‘Unfinished Business’ experience. Don’t forget to give us a five-star rating in the Circle of Life play store!】</p><p>It was just as well Shen Yuan didn’t have a body, or he would have spit blood at that thought.</p><p>And then thought slid away and everything was darkness once more.</p>
+  </div>
+  <!--/main-->
+
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/29245938/chapters/71945961#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="pMqDwGnH1G1vrPCNLwKLOmgJsyg-Njlx91k1WpNoXctEU1nQOy6eu_r3pJzWretQfQH4WrC24_iKfryzkd19xg"/>
+          <input value="29245938" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=71813001">Comments (44)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/geneticus">geneticus</a>, <a href="/users/michigangeek14">michigangeek14</a>, <a href="/users/Leedie">Leedie</a>, <a href="/users/xlediea">xlediea</a>, <a href="/users/rantingprince">rantingprince</a>, <a href="/users/excessiveParanoia">excessiveParanoia</a>, <a href="/users/some_randomhoe">some_randomhoe</a>, <a href="/users/rivermorvyn">rivermorvyn</a>, <a href="/users/tinyRam">tinyRam</a>, <a href="/users/Dragonesse">Dragonesse</a>, <a href="/users/ManzanitaLae">ManzanitaLae</a>, <a href="/users/batman_is_silenced">batman_is_silenced</a>, <a href="/users/Nieida">Nieida</a>, <a href="/users/reading_fiction">reading_fiction</a>, <a href="/users/cloudy_skies121">cloudy_skies121</a>, <a href="/users/Blue_Tea">Blue_Tea</a>, <a href="/users/JustACoffeeCup">JustACoffeeCup</a>, <a href="/users/annabella_lector">annabella_lector</a>, <a href="/users/TuerShen">TuerShen</a>, <a href="/users/corekurta">corekurta</a>, <a href="/users/KiannaCat">KiannaCat</a>, <a href="/users/Nubivaet">Nubivaet</a>, <a href="/users/Mayrin">Mayrin</a>, <a href="/users/Lazy_Hitoshi">Lazy_Hitoshi</a>, <a href="/users/Swh_www">Swh_www</a>, <a href="/users/Scarlet456">Scarlet456</a>, <a href="/users/lalatina79">lalatina79</a>, <a href="/users/Blutregen">Blutregen</a>, <a href="/users/Defender_of_hidden_realms2">Defender_of_hidden_realms2</a>, <a href="/users/WenWen_08">WenWen_08</a>, <a href="/users/Marin_loves_to_write">Marin_loves_to_write</a>, <a href="/users/Omgplsletmehaveusername">Omgplsletmehaveusername</a>, <a href="/users/ahhhehe">ahhhehe</a>, <a href="/users/arcaladiwoompa">arcaladiwoompa</a>, <a href="/users/SupahJapah">SupahJapah</a>, <a href="/users/AidenAzeri">AidenAzeri</a>, <a href="/users/harlynne">harlynne</a>, <a href="/users/Moonyone">Moonyone</a>, <a href="/users/Gakifang">Gakifang</a>, <a href="/users/sant18">sant18</a>, <a href="/users/PeiminGswaifu">PeiminGswaifu</a>, <a href="/users/Manikarnika">Manikarnika</a>, <a href="/users/SunflowerCat22">SunflowerCat22</a>, <a href="/users/heresie_irisee">heresie_irisee</a>, <a href="/users/TinyBookLover">TinyBookLover</a>, <a href="/users/Miyuki_Way">Miyuki_Way</a>, <a href="/users/losershit">losershit</a>, <a href="/users/Hella_0">Hella_0</a>, <a href="/users/Karaeir">Karaeir</a>, <a href="/users/jjpie246">jjpie246</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/29245938/kudos?before=3866148055">2408 more users</a>
+             as well as 
+          1437 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_71813001">
+  <form class="new_comment" id="comment_for_71813001" action="/chapters/71813001/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="pukT58Z29nU7bH9VKQdWcg3ocNhH_Hp82KusOzmnF5xGcMn3lJ-8o643K0TQqDYYGOA7qsl8oPWljCXSOxI3kQ"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_71813001">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_71813001" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_71813001=new LiveValidation('comment_name_for_71813001',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_71813001.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_71813001">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_71813001" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_71813001=new LiveValidation('comment_email_for_71813001',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_71813001.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_71813001" class="landmark">Comment</label>
+        <textarea id="comment_content_for_71813001" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_71813001" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_71813001_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_71813001">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_71813001=new LiveValidation('comment_content_for_71813001',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_71813001.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_71813001.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_71813001" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/29245938/hit_count.json")})</script>
+
+
+  </body>
+</html>

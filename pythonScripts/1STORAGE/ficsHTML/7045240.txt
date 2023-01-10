@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Guilt For Dreaming - Chapter 1 - Vetinari - Multifandom [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="vQYAPFFrUtgQkpuVw5BWOGUelxkbINEp3hNFb-j9xC8DlCXApdslHfh9YZ1GXCe-qe-WWZnX78B0QffJmhNMjg"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="IURaCLTcG2sPoBjBH9bJY9Vk5YuRCLpFNvqEbC6c7V-f1n_0QGxsrudP4smaGrjlGZXkyxP_hKycqDbKXHJl_g"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: &quot;uchiha sasuke/uzumaki naruto&quot; angst kudos&gt;10</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/7045240?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/7045240/chapters/16149679#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/7045240/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/7045240/chapters/16023775" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="16023775">1. The End</option>
+<option value="16149679">2. I'm Not Quite Right At All, Am I?</option>
+<option value="16260623">3. Smiling Through This Darkness</option>
+<option value="16647727">4. Draw The Blinds On Yesterday, It's Oh So Much Sc...</option>
+<option value="17035848">5. Time May Change Me, But I Can't Trace Time</option>
+<option value="17404465">6. Will You See, That I'm Scared and I'm Lonely?</option>
+<option value="18901130">7. I Feel Like A Group Of One</option>
+<option value="22731653">8. Because You're Young</option>
+<option value="24648792">9. If the homework brings you down then we'll throw...</option>
+<option value="29058144">10. Get Me Off The Streets (Get Some Protection)</option>
+<option value="30688029">11. Time, In Quaaludes and Red Wine</option>
+<option value="35670414">12. Chapter 11: Although I wasn’t there, he said I ...</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/7045240/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=16023775">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/7045240/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/7045240/Guilt%20For%20Dreaming.azw3?updated_at=1646598901">AZW3</a></li>
+          <li><a href="/downloads/7045240/Guilt%20For%20Dreaming.epub?updated_at=1646598901">EPUB</a></li>
+          <li><a href="/downloads/7045240/Guilt%20For%20Dreaming.mobi?updated_at=1646598901">MOBI</a></li>
+          <li><a href="/downloads/7045240/Guilt%20For%20Dreaming.pdf?updated_at=1646598901">PDF</a></li>
+          <li><a href="/downloads/7045240/Guilt%20For%20Dreaming.html?updated_at=1646598901">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Not%20Rated/works">Not Rated</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warnings</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Choose%20Not%20To%20Use%20Archive%20Warnings/works">Creator Chose Not To Use Archive Warnings</a></li><li><a class="tag" href="/tags/Graphic%20Depictions%20Of%20Violence/works">Graphic Depictions Of Violence</a></li><li><a class="tag" href="/tags/Rape*s*Non-Con/works">Rape/Non-Con</a></li><li><a class="tag" href="/tags/Underage/works">Underage</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Categories:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/F*s*M/works">F/M</a></li><li><a class="tag" href="/tags/Gen/works">Gen</a></li><li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Marvel%20Cinematic%20Universe/works">Marvel Cinematic Universe</a></li><li><a class="tag" href="/tags/The%20Avengers%20(Marvel%20Movies)/works">The Avengers (Marvel Movies)</a></li><li><a class="tag" href="/tags/The%20Avengers%20(Marvel)%20-%20All%20Media%20Types/works">The Avengers (Marvel) - All Media Types</a></li><li><a class="tag" href="/tags/The%20Avengers%20-%20Ambiguous%20Fandom/works">The Avengers - Ambiguous Fandom</a></li><li><a class="tag" href="/tags/Iron%20Man%20(Movies)/works">Iron Man (Movies)</a></li><li><a class="tag" href="/tags/Iron%20Man%20-%20All%20Media%20Types/works">Iron Man - All Media Types</a></li><li><a class="tag" href="/tags/X-Men%20(Movieverse)/works">X-Men (Movieverse)</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Howard%20Stark*s*Maria%20Stark/works">Howard Stark/Maria Stark</a></li><li><a class="tag" href="/tags/Ana%20Jarvis*s*Edwin%20Jarvis/works">Ana Jarvis/Edwin Jarvis</a></li><li><a class="tag" href="/tags/Tony%20Stark*s*Other(s)/works">Tony Stark/Other(s)</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Tony%20Stark/works">Tony Stark</a></li><li><a class="tag" href="/tags/Edwin%20Jarvis/works">Edwin Jarvis</a></li><li><a class="tag" href="/tags/Tiberius%20Stone/works">Tiberius Stone</a></li><li><a class="tag" href="/tags/Justin%20Hammer/works">Justin Hammer</a></li><li><a class="tag" href="/tags/Ana%20Jarvis/works">Ana Jarvis</a></li><li><a class="tag" href="/tags/Howard%20Stark/works">Howard Stark</a></li><li><a class="tag" href="/tags/Maria%20Stark/works">Maria Stark</a></li><li><a class="tag" href="/tags/Peggy%20Carter/works">Peggy Carter</a></li><li><a class="tag" href="/tags/Steve%20Rogers/works">Steve Rogers</a></li><li><a class="tag" href="/tags/Nick%20Fury/works">Nick Fury</a></li><li><a class="tag" href="/tags/James%20%22Bucky%22%20Barnes/works">James &quot;Bucky&quot; Barnes</a></li><li><a class="tag" href="/tags/Ancient%20One%20(Marvel)/works">Ancient One (Marvel)</a></li><li><a class="tag" href="/tags/Obadiah%20Stane/works">Obadiah Stane</a></li><li><a class="tag" href="/tags/Charles%20Xavier/works">Charles Xavier</a></li><li><a class="tag" href="/tags/Erik%20Lehnsherr/works">Erik Lehnsherr</a></li><li><a class="tag" href="/tags/Methos/works">Methos</a></li><li><a class="tag" href="/tags/Hank%20McCoy/works">Hank McCoy</a></li><li><a class="tag" href="/tags/Raven%20%7C%20Mystique/works">Raven | Mystique</a></li><li><a class="tag" href="/tags/Pietro%20Maximoff/works">Pietro Maximoff</a></li><li><a class="tag" href="/tags/Victor%20von%20Doom/works">Victor von Doom</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Tony%20Stark%20Hates%20Magic/works">Tony Stark Hates Magic</a></li><li><a class="tag" href="/tags/Tony%20Stark%20Has%20A%20Heart/works">Tony Stark Has A Heart</a></li><li><a class="tag" href="/tags/Tony%20Stark%20Needs%20a%20Hug/works">Tony Stark Needs a Hug</a></li><li><a class="tag" href="/tags/Time%20Travel/works">Time Travel</a></li><li><a class="tag" href="/tags/Extremis/works">Extremis</a></li><li><a class="tag" href="/tags/Infinity%20Gems/works">Infinity Gems</a></li><li><a class="tag" href="/tags/Howard%20Stark&#39;s%20A+%20Parenting/works">Howard Stark&#39;s A+ Parenting</a></li><li><a class="tag" href="/tags/Implied*s*Referenced%20Child%20Abuse/works">Implied/Referenced Child Abuse</a></li><li><a class="tag" href="/tags/Methos%20Does%20What%20He%20Wants/works">Methos Does What He Wants</a></li><li><a class="tag" href="/tags/Not%20Avery/works">Not Avery</a></li><li><a class="tag" href="/tags/Period-Typical%20Homophobia/works">Period-Typical Homophobia</a></li><li><a class="tag" href="/tags/Comic%20Book%20Science/works">Comic Book Science</a></li><li><a class="tag" href="/tags/Magic%20and%20Science/works">Magic and Science</a></li><li><a class="tag" href="/tags/Tony%20Stark-centric/works">Tony Stark-centric</a></li><li><a class="tag" href="/tags/Tony%20Stark%20Has%20Issues/works">Tony Stark Has Issues</a></li><li><a class="tag" href="/tags/Vaguely%20Realistic%20Science/works">Vaguely Realistic Science</a></li><li><a class="tag" href="/tags/Methos%20has%20a%20questionable%20sense%20of%20humour/works">Methos has a questionable sense of humour</a></li><li><a class="tag" href="/tags/References%20to%20David%20Bowie/works">References to David Bowie</a></li><li><a class="tag" href="/tags/Non-Consensual%20Drug%20Use/works">Non-Consensual Drug Use</a></li><li><a class="tag" href="/tags/Past%20Drug%20Addiction/works">Past Drug Addiction</a></li><li><a class="tag" href="/tags/1977%2025%20Hour%20Blackout/works">1977 25 Hour Blackout</a></li><li><a class="tag" href="/tags/Pedophilia/works">Pedophilia</a></li><li><a class="tag" href="/tags/!kcor%20s&#39;teL/works">!kcor s&#39;teL</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/Marvel_Verse_FanFiction">Marvel Verse FF</a>, <a href="/collections/gammily">Gammily’s Bookshelf</a>, <a href="/collections/myheartadores">My Heart Adores</a>, <a href="/collections/timetravelfics">GOOD time travel fics</a>, <a href="/collections/Favorite_reads">Favorites to read again</a>, <a href="/collections/Top_Ten_Percent">Top 10%</a>, <a href="/collections/goodfanfic">fanfics that i keep coming back to read</a>, <a href="/collections/Read_Again_clayrin">Read Again They Were Good (clayrin)</a>, <a href="/collections/Fanfiction_That_Grips_My_Heart_and_Soul">Lady Bibliophile's Collection of Incredible Fanfiction</a>, <a href="/collections/IFDRecs">International Fanworks Day 2022 - Classic Fic Recs</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2016-05-31</dd><dt class="status">Updated:</dt><dd class="status">2019-02-15</dd><dt class="words">Words:</dt><dd class="words">235726</dd><dt class="chapters">Chapters:</dt><dd class="chapters">12/?</dd><dt class="comments">Comments:</dt><dd class="comments">981</dd><dt class="kudos">Kudos:</dt><dd class="kudos">2928</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/7045240/bookmarks">1030</a></dd><dt class="hits">Hits:</dt><dd class="hits">73848</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Guilt For Dreaming
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/Vetinari/pseuds/Vetinari">Vetinari</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>Tony Stark unexpectedly wakes up after making the ultimate sacrifice during the final battle of the Infinity War. </p><p>Now he's stuck in 1976, with no plan, no future and no clue.  </p><p>Of course it would help if he could work out if he'd actually achieved his goal when he'd killed himself.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+
+    <p class="jump">(See the end of the work for <a href="/chapters/35670414#work_endnotes">notes</a>.)</p>
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/7045240/chapters/16023775">Chapter 1</a>: The End
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p>Pushing down the agony to the deepest corners of his mind, Tony focussed on making his way through the waves of reality warping chaos towards the Infinity Gauntlet. FRIDAY’s voice guttered and died in his ear as the more complex systems gave up on him, HUD fading to darkness, Tony was left alone in the claustrophobic confines of his armour. The suit was silently shredding to pieces around him; the precious synthesised vibranium titanium alloys flaking away like so much rust, its complex pseudo-crystalline structures breaking down into simple molecules, the very atoms disintegrating into subatomic debris, photons floating away like starlight.</p><p> </p><p>Even given the meagre protection the suit provided, progress was torture. He was shedding pieces of himself as he marched onwards, he knew it. He could feel his skin dissolving away in great patches, despite extremis’ frantic efforts at keeping him whole; there simply wasn’t enough material left to effect repairs. He dreaded to think what he’d see in a mirror right then, perhaps his flesh would finally match the horror of his soul.</p><p> </p><p>Vision was dea- <em>gone</em>, torn asunder when The Mad Titan’s forces had burst through their last desperate barricade less than an hour ago and ripped the mind gem from his core. He choked back that thought, still too raw at the loss of his, his <em>son</em>, and reran the mission specs for the umpteenth time.</p><p> </p><p>The other Avengers had still been shooting him hateful glares even as he’d volunteered for this last ditch suicide mission; they still blamed him for everything. Had been ever since Sokovia, and The Accords, perhaps even before then. A tiny part of him knew it wasn’t true, but the rest of him was resigned to the inevitability. Everything was always his fault regardless of whether or not he’d been involved in the situation in any way shape or form. He’d learnt that harsh lesson decades ago. Steve’s look of pure derision, not even hate, had hurt though. </p><p> Their previous last-ditch plan had failed miserably and Park-<em>Peter</em> was dead as a result. Tony was under no illusions that he was worthy enough to have even a smidgen of a sip of omniscient power, but he could do this at least.</p><p> </p><p>With a great effort of will Tony refocused on his mission, hit the gauntlet with a carefully calibrated mystical and temporal energy beam from The Device. (There hadn’t been time to come up with a name; the beam had been an utter bitch to prepare as it was. Working with Strange and Richards simultaneously was an …experience. Prying rudimentary magical theory past Strange’s tight lips had been an effort in futility, thankfully Doom had proven surprisingly helpful, here at the end of all things.) The gems would scatter to the four corners of the universe, the backlash would wipe Thanos from existence and they’d be free of his threat. The universe would be rewritten. Simple. Of course being at the epicentre of events, the backlash would erase Tony too, but that didn’t matter much in the scheme of things. The universe was far more important than even the great Tony Fucking Stark, hell poor Peter’s dead dog was more important.</p><p> </p><p>The other Avengers were fighting and dying around him as he staggered doggedly forward, providing the distraction he needed to get close enough. He winced when he spotted Hulk’s normally invulnerable form stumble in the distance, vivid red blood pouring heavily from a terrible wound. Richards' elongated form lay shattered in pieces across the field of battle, forming a morbid tableau, Rocket hadn’t hesitated to use his frozen limbs as crude projectile weapons, too caught up in his grief at the loss of Starlord and Groot to mind what his actions were doing to his comrades.</p><p> </p><p>Gritting his teeth around the metallic taste of blood Tony pushed forward in a great burst of effort, ignoring the strange tearing sensation as he felt something, fabric, no the undersuit wasn’t that thick, fall down his leg inside the armour. His left arm was hanging useless and ignored at his side, skin and muscle long since dissolved away. All of the extra protective plating they could scrounge from the sorry remains of Asgard had gone into shielding The Device from the devastating reality rewriting radiation. Sweat and other fluids running down his face beneath the somehow still intact faceplate Tony finally, finally, dragged his rotten carcass in range.</p><p> </p><p>Aiming his uru and magic enhanced repulsor through blurry eyes Tony targeted the gauntlet and miraculously managed a hit. Three of the six gems apparently shattered on impact, Tony blinked in surprise; he honestly hadn’t expected this to work at all. Absently he noted that he’d fried his good arm when the device fired, all of the shielding had been directed outwards after all.</p><p> </p><p>Thanos and Iron Man stared stupidly at one another for a moment that stretched to infinity. The pair caught in the epicentre of a storm that engulfed the universe, and large swathes of the multiverse. The Infinity Gauntlet seemed to crumple in on itself, Thanos cried out in agony doubling over clutching his left arm to his chest. Tony bitterly thought it served the bastard right, Loki hadn’t deserved his fate. The remaining gems lit up haphazardly in a blinding lightshow of orange, blue and green. The flashes increasing in speed to epileptic fit inducing intensity.</p><p> </p><p>The void of darkness edged Nothingness that formed between them was pants wettingly unexpected, it wasn’t just darkness, people too often assumed that darkness was the opposite of light rather than the absence. This was something more, something malevolent and somehow self-aware. It immediately began sucking inwards, as if noticing the attention. Tony felt sick satisfaction at Thanos’ strangled cry of pain as it touched him, the purple titan immediately began to wither, the arm nearest the void actually vanishing to dust before his eyes. The rest of the Mad Titan vanished as if he never was a mere moment later, the crippled Infinity Gauntlet vanishing with a surreal and cartoonish pop.</p><p> </p><p>Tony could almost feel the fabric of reality ripple around him, the carnage seeming to fade away. He slumped in relief, it was done, he didn’t even attempt to resist the pull of the Nothing it was his due. He’d done his duty. Perhaps saving the universe would be enough to cleanse him of his ocean’s worth of blood.</p><p> </p><p>As he felt himself fading Tony noticed a hooded female figure out of the corner of his eye, nodding at him approvingly - it couldn’t be could it? Surely she was courting Thanos, had resurrected him several times, which was why the utter annihilation from existence had been so painfully necessary. He was left utterly mystified when he she lowered her hood, revealing a young …goth rather than the anticipated skeleton.</p><p> </p><p>Then the overdue shockwave finally deigned to kick in, wiping out the rapidly fading evidence of the battle and sucking Tony the final length into Nothing. He had a split second to notice that the colours of the remaining gems brightly outshone the rainbow like effect – brilliant blue and orange mixing disturbingly followed by a high crest of vivid green.</p><p> </p><p>As reality faded to Nothing he heard the beating of her wings.</p>
+  </div>
+  <!--/main-->
+
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/7045240/chapters/16149679#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="aIA-pdQU5U7R5RACGJaGjxtA0KVH-5kvMU98LeWKgmjWEhtZIKSSizkK6gqdWvcJ17HR5cUMp8abHc6Ll2QKyQ"/>
+          <input value="7045240" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=16023775">Comments (31)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/LAVEDEN_ZGV">LAVEDEN_ZGV</a>, <a href="/users/jadeantar">jadeantar</a>, <a href="/users/AfricaAlaska90">AfricaAlaska90</a>, <a href="/users/Silberfederling">Silberfederling</a>, <a href="/users/sorrel_forbes">sorrel_forbes</a>, <a href="/users/SerenStone">SerenStone</a>, <a href="/users/OtherWorldlyCosmicEntity">OtherWorldlyCosmicEntity</a>, <a href="/users/Annwyn">Annwyn</a>, <a href="/users/vienna_salvatori">vienna_salvatori</a>, <a href="/users/Loki_Winters">Loki_Winters</a>, <a href="/users/Roman_fucking_Reigns">Roman_fucking_Reigns</a>, <a href="/users/Unsanctioned_nightmare">Unsanctioned_nightmare</a>, <a href="/users/AliceRose95">AliceRose95</a>, <a href="/users/p0tato_q">p0tato_q</a>, <a href="/users/saavik13">saavik13</a>, <a href="/users/legacy40">legacy40</a>, <a href="/users/Uranxxi">Uranxxi</a>, <a href="/users/kitty_writings">kitty_writings</a>, <a href="/users/Loveandcarforall">Loveandcarforall</a>, <a href="/users/OrangeCupcake">OrangeCupcake</a>, <a href="/users/ajarha">ajarha</a>, <a href="/users/Obskurus">Obskurus</a>, <a href="/users/Rougue_legacy_of_Mars">Rougue_legacy_of_Mars</a>, <a href="/users/Fandom_mayham">Fandom_mayham</a>, <a href="/users/kuhekabir">kuhekabir</a>, <a href="/users/Sunnystar">Sunnystar</a>, <a href="/users/Nandor">Nandor</a>, <a href="/users/Zhenyao">Zhenyao</a>, <a href="/users/Alice_03">Alice_03</a>, <a href="/users/SelKar">SelKar</a>, <a href="/users/LadyBibliophile">LadyBibliophile</a>, <a href="/users/8847majo">8847majo</a>, <a href="/users/Aelin01">Aelin01</a>, <a href="/users/Xzeria">Xzeria</a>, <a href="/users/Cloudyflower">Cloudyflower</a>, <a href="/users/Waldgott">Waldgott</a>, <a href="/users/Overworkedshippinginc">Overworkedshippinginc</a>, <a href="/users/ShenYuan_did_not_transmigrate_for_this">ShenYuan_did_not_transmigrate_for_this</a>, <a href="/users/Shizue_Tukusama">Shizue_Tukusama</a>, <a href="/users/SakiSiemore">SakiSiemore</a>, <a href="/users/clayrin">clayrin</a>, <a href="/users/FairyPeak123">FairyPeak123</a>, <a href="/users/oyote">oyote</a>, <a href="/users/Shardra">Shardra</a>, <a href="/users/Deaffy">Deaffy</a>, <a href="/users/c_doves">c_doves</a>, <a href="/users/MinecraHD">MinecraHD</a>, <a href="/users/margali">margali</a>, <a href="/users/CHYE">CHYE</a>, <a href="/users/Kayana123">Kayana123</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/7045240/kudos?before=3350898673">1341 more users</a>
+             as well as 
+          1537 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_16023775">
+  <form class="new_comment" id="comment_for_16023775" action="/chapters/16023775/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="7htKyDqK4ZU-ljXjgIWskiejUIaGsibPhOJ4VTtqi8dQiW80zjqWUNZ5z-sFSd0U61JRxgRFGCYusMrzSYQDZg"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_16023775">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_16023775" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_16023775=new LiveValidation('comment_name_for_16023775',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_16023775.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_16023775">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_16023775" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_16023775=new LiveValidation('comment_email_for_16023775',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_16023775.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_16023775" class="landmark">Comment</label>
+        <textarea id="comment_content_for_16023775" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_16023775" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_16023775_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_16023775">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_16023775=new LiveValidation('comment_content_for_16023775',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_16023775.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_16023775.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_16023775" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/7045240/hit_count.json")})</script>
+
+
+  </body>
+</html>

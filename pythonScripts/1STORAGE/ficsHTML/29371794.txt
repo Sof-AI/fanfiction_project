@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Nice Try! - Kealpos - Ouran High School Host Club - All Media Types [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="ODdbzmahjLAp2XO32dj9xrXDUntivAhRwAj6yRy0h04os3kfWbW_v7QsqlZZUeEunXt9QWYTPJpjpxX065tioA"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="g72oC24ym9QiVHiT6xYFPGpPBXjH1hRb0Qw2SSMuhLiTOYraUSao27-hoXJrnxnUQvcqQsN5IJByo9l01AFhVg"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: arthur merlin words&gt;1000 sort:hits</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="works-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<ul class="landmark skip">
+  <li><a name="top">&nbsp;</a></li>
+  <li><a href="#work">Skip header</a></li>
+</ul>
+
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+<!-- BEGIN revealed -->
+<!-- BEGIN work -->
+<!--work description, metadata, notes and messages-->
+    <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?work_id=29371794">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/29371794/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/29371794/Nice%20Try.azw3?updated_at=1614009101">AZW3</a></li>
+          <li><a href="/downloads/29371794/Nice%20Try.epub?updated_at=1614009101">EPUB</a></li>
+          <li><a href="/downloads/29371794/Nice%20Try.mobi?updated_at=1614009101">MOBI</a></li>
+          <li><a href="/downloads/29371794/Nice%20Try.pdf?updated_at=1614009101">PDF</a></li>
+          <li><a href="/downloads/29371794/Nice%20Try.html?updated_at=1614009101">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/General%20Audiences/works">General Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Gen/works">Gen</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandom:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Ouran%20High%20School%20Host%20Club%20-%20All%20Media%20Types/works">Ouran High School Host Club - All Media Types</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationship:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Fujioka%20Haruhi%20*a*%20Ootori%20Kyouya/works">Fujioka Haruhi &amp; Ootori Kyouya</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Fujioka%20Haruhi/works">Fujioka Haruhi</a></li><li><a class="tag" href="/tags/Ootori%20Kyouya/works">Ootori Kyouya</a></li><li><a class="tag" href="/tags/Minor%20Original%20Character%20-%20Character/works">Minor Original Character - Character</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Beards%20(Relationships)/works">Beards (Relationships)</a></li><li><a class="tag" href="/tags/Platonic%20Relationships/works">Platonic Relationships</a></li><li><a class="tag" href="/tags/Fake*s*Pretend%20Relationship/works">Fake/Pretend Relationship</a></li><li><a class="tag" href="/tags/They*s*Them%20Pronouns%20For%20Fujioka%20Haruhi/works">They/Them Pronouns For Fujioka Haruhi</a></li><li><a class="tag" href="/tags/Gay%20Ootori%20Kyouya/works">Gay Ootori Kyouya</a></li><li><a class="tag" href="/tags/female%20terms%20are%20occasionally%20used%20for%20haruhi%20but%20only%20in%20dialogue/works">female terms are occasionally used for haruhi but only in dialogue</a></li><li><a class="tag" href="/tags/mentioned%20tamaharu/works">mentioned tamaharu</a></li><li><a class="tag" href="/tags/making%20a%20whole%20ohshcfest%20series%20is%20gonna%20be%20rlly%20embarrassing%20if%20i%20only%20post%20this*d*%20fingers%20crossed!/works">making a whole ohshcfest series is gonna be rlly embarrassing if i only post this. fingers crossed!</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+      <dt class="series">
+        Series:
+      </dt>
+      <dd class="series">
+        <span class="series"><span class="position">Part 1 of the <a href="/series/2176653">OHSHC Fest 2021</a> series</span><span class="divider"> </span><a class="next" href="/works/29685099">Next Work &#8594;</a></span>
+      </dd>
+
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2021-02-22</dd><dt class="words">Words:</dt><dd class="words">2413</dd><dt class="chapters">Chapters:</dt><dd class="chapters">1/1</dd><dt class="comments">Comments:</dt><dd class="comments">2</dd><dt class="kudos">Kudos:</dt><dd class="kudos">72</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/29371794/bookmarks">8</a></dd><dt class="hits">Hits:</dt><dd class="hits">666</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Nice Try!
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/Kealpos/pseuds/Kealpos">Kealpos</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>“You know,” Haruhi started, sipping at their drink, “this is somehow not the worst party I’ve been to.”</p><p>Kyoya gave them a slit-eyed look. “No?”</p><p>“No. The Christmas party in high school was arguably worse.”</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>Fic for OHSHC Fest 2021, day one: 02.21.21: soulmates or <b>found family/platonic dynamics</b><br/>are they a little ooc? perhaps. but the siren call of stupid dumb platonic relationships called to me. also writing something and not inadvertently spending six months working on it is agony. how will i know if its good if i dont trick myself into it!?</p>
+    </blockquote>
+
+    <p class="jump">(See the end of the work for <a href="#work_endnotes">more notes</a>.)</p>
+</div>
+
+
+  </div>
+
+
+<!--/descriptions-->
+
+<!--chapter content-->
+    <div id="chapters" role="article">
+        <h3 class="landmark heading" id="work">Work Text:</h3>
+          <div class="userstuff"><p>“You know,” Haruhi started, sipping at their drink, “this is somehow not the worst party I’ve been to.”</p><p>Kyoya gave them a slit-eyed look. “No?”</p><p>“No. The Christmas party in high school was arguably worse.” He laughed at that, quietly into his glass. “I certainly haven’t sprained my ankle tonight.”</p><p>“Never say never.”</p><p>It was cold in the hotel ballroom. Haruhi shivered, rubbing their arm almost unconsciously in an attempt to warm themself up. It didn’t help that they were in a short-sleeved dress, something they hadn’t worn in ages. When Haruhi complained about holding nomikai in a place where there wasn’t even any seating, Kyoya told them to suck it up.</p><p>“Not everybody is a lawyer at such a cozy company like you,” he had reminded them as he adjusted his tie earlier that evening, his eyebrow raising in the mirror, and they had rolled their eyes at him.</p><p>Still, for the night, Haruhi would indeed be sucking it up. They could complain more tomorrow, but for the time being, they had a much more important, much more difficult job to do: they had to pretend to be Kyoya’s girlfriend.</p><p>As time had passed, Kyoya had begun the arduous process of all-but-removing himself from his father’s company. He was no longer aiming to surpass his brothers through normal means, but through a quieter, more personal approach. Going to an American university rather than Ouran’s university tract had caused ripples within the immediate family, and sent a message that his brothers would have to start taking him more seriously.</p><p>Regardless, for all the work he had been doing, he was still primarily in the pockets of his family and the company. Haruhi had no idea if he even wanted to be named successor anymore, but either way, there was no definite choice, and there likely wouldn’t be for some time. So, Kyoya, in his attempt to stay in the good eye of the media, only caused ripples where he decided it would help him rather than hinder.</p><p>Which is why he had needed a girlfriend.</p><p>“All of my siblings -- even Fuyumi -- were either dating or engaged when they were in their twenties. The more time that passes without me being seen with a woman, the more rumors there are,” he had explained to them.</p><p>“Um,” Haruhi had said, because he had jumped them while curled up in the middle of planning out a rather important case, and also because it was the Suoh Mansion’s Library, and Haruhi was quite definitely engaged to Tamaki.</p><p>“It’s just for the night,” he had continued, and they had waved him down from launching into another, more detailed explanation.</p><p>“Yes, I know, I know. I heard you the first time,” they said, marking their place in their books before turning attention solely onto the man, who looked like he was about to have an aneurysm. “There are so many things wrong with your plan, I can’t even begin to explain.”</p><p>“Humor me.”</p><p>Haruhi had given him an unimpressed look, but Kyoya hadn’t cowed. Fine. If it was truly that important… “Well, for starters, you’re gay, and I’m engaged to your best friend.”</p><p>“I’d watch a movie with that plot.” Haruhi had grinned, and he cracked a smile back before falling back into business mode. “You and Tamaki haven’t made a public announcement because you don’t want to be swarmed with the press, isn’t that right?”</p><p>“I suppose?”</p><p>“Then it’s just a moral issue.” Ah. Of course. Kyoya had no morals, so it wasn’t a problem.</p><p>“You’re desperate,” Haruhi had pointed out. They didn’t have an issue with it, not really. As long as Kyoya was the one to explain to and comfort Tamaki, they were perfectly willing to go along with his asinine plan. The only thing that really intrigued them was how far Kyoya was willing to cave. “What will you give me in exchange?”</p><p>“My charming company and the chance to network.”</p><p>“Nice try. You couldn’t be charming if your life depended on it, and also I know full well that I would just be there as arm candy.”</p><p>Kyoya, to their ultimate satisfaction, buckled. “I’ll fund you and Tamaki a nice vacation after you finish up your case. Somewhere warm. And I’ll make sure the others don’t follow.”</p><p>Haruhi had softened. He really was desperate. They would’ve agreed anyways, but promising to keep the rest of their friends from being nosey was a high bar, one Kyoya often didn’t rely on. It must’ve been important. “Deal.”</p><p>So, there Haruhi was. Their ring was left at home, their dress was impossible to walk in, they were wearing a wig for the first time in years, and they had to pretend to find Kyoya attractive. They put up with so much for their friends’ sake.</p><p>“This party would be much more enjoyable if there was anyone our age here,” they remarked, staring out at the sea of business officials. A few people they recognized very, very vaguely, but everyone seemed to blend together into old men with a much more attractive -- and oftentimes younger -- woman gliding alongside them.</p><p>“It would, but don’t let the bigwigs hear you say that.” Haruhi rolled their eyes at him and muttered, “You’re a bigwig too, y’know.” They knew perfectly well how to compose themself around company.</p><p>“If it makes you feel better,” Kyoya allowed, holding his champagne up in an approximation of a toast, “I’m just about ready to go. I believe I’ve been seen by everyone I wanted to see me. We just have to say goodbye to my father, and then I’ll take you back to the hotel room.”</p><p>“You better.” It had been nearly two hours already, and the food they set out was terrible, so even that wasn’t enough to distract Haruhi. </p><p>There had been a few conversations between Kyoya and colleagues where they were simply expected to look pretty and laugh at the right time, as they had so aptly predicted. While Haruhi was a fundamentally boring person, the conversations he engaged with were downright tedious. The only fun they had had was when they managed to shock a particularly sweaty businessman by adding to a conversation they were holding about a legal suit his company was undergoing with their own legal know-how. </p><p>Just as the two of them began to peel off of the wall they had been hugging the entire night, they were approached from six o’clock. A sharply dressed woman accompanied by a similarly dressed man came over to them, wielding a glass like she was about to knock it against someone’s head. Her hair was graying attractively, and Haruhi would’ve told Kyoya this to torment him, if it hadn’t been for the fact that they had to pretend to be having a witty conversation. Something about not being engaged in a prior discussion made you look sad? Ugh, conversational rules were stupid. Or perhaps Kyoya was just an anxious control freak.</p><p>“Ootori?” The woman asked, her voice clipped as she side-stepped into the conversation with practiced ease. She handed her glass to the man with her, some sort of worker perhaps? She barely gave Haruhi a second look, but Haruhi was absolutely watching her. It was fun to psychoanalyze rich strangers. They always had the most things wrong with them. “Ootori Kyoya?”</p><p>Kyoya looked over at her, as if he was faintly surprised to see her. The bastard. “That’s correct, I am he. I don’t believe we’ve met before. You must be…?”</p><p>“Tagame Hoshi.” She held out a hand for him to shake, elegant and slightly wrinkled with age. Her lips were downturned into a frown, clearly miffed at not being recognized by such a youngster, yet unable to show it. Haruhi ought to have been writing such stuff down. “I am a business associate of your father’s; my company works in the building and distribution of medical equipment. I wanted to make my introductions to all of his sons.”</p><p>“Ah, of course, madam. My utmost apologies for not recognizing you sooner.” He took her hand gratefully, and Haruhi only barely stopped themself from groaning, swirling their glass a little bit. Every conversational partner that Kyoya had spent the longest with were friends of his father. They could <i>see</i> when Kyoya turned into a hosting robot. Tagame’s companion, a gentleman who appeared to be only several years older than themself, had the same expression of repressed boredom. “Have you already spoken to my brothers?”</p><p>“Only Yuichi so far, but he was more preoccupied.” Tagame gave a tight, wry smile, irritated at the memory. “Something about a trip to Africa, something about his wife. Ah, congratulations on becoming an uncle, Ootori. You must be quite happy for your brother.”</p><p>“Yes,” Kyoya agreed, smiling. “The topic of my brothers and their lives always brings me great joy.” Haruhi laughed but managed to cover it up with a cough when the pair looked over at them. Kyoya glared - thought his smile was unrelenting, he had a deadly look in his eyes. So cruel! Haruhi was not easily swayed.</p><p>“Is this your… wife?” Tagamae asked, holding out a hand for them as well.</p><p>“Fujioka Haruhi. I’m Kyoya’s adoring girlfriend,” Haruhi said cheerfully, shaking her hand and delighting in watching Kyoya signal to kill the conversation. They would… In a minute. “Though every day I ask when exactly we’re going to be wed. He’s so cold to me, haha.”</p><p>“Is that so?” She gave Kyoya a look, Kyoya jumping back into a relaxed mode when she caught him. “It’s not polite to leave a lady waiting.”</p><p>“Ha, no, no. Haruhi is only making a joke. There are no plans for us to get married anytime soon.” He was very close to accidentally shattering his glass under his hand. “After all, both of us are very busy with our work.”</p><p>“Mhm. What’s your work, Fujioka?”</p><p>“I work as a lawyer under ‘Anderson Mōri &amp; Tomotsune.’ I have for around a year and a half now.”</p><p>“Impressive!” Tagame appraised them for a moment. “It’s good work that you do. We don’t see enough female lawyers. Female businesswomen in general, honestly. I hope Ootori can keep up with you.” Kyoya made an offended sound, just managing to abort it in time and compose his expression, but Haruhi smiled.</p><p>“Oh, he never could,” they replied, before slipping back into Kyoya’s orbit. Alright, time to be nice. “But he is truly a very decent man. He works harder than anyone I know. He’d make a fine successor to the Ootori corporation, I tell him this all the time.”</p><p>“You’re too kind, Haruhi,” Kyoya said through gritted teeth. “But surely there’s no need to give your opinion on who ought to be heir, especially to such a hardworking woman such as Tagame.”</p><p>“On the contrary, Ootori,” Tagame said, and the two of them blinked, looking over at her. She was smiling. She had reclaimed her glass of champagne, and she held it up delicately. Tagame looked sophisticated, and important, and pleased. “I’m always so interested to find out who will be running the Ootori corporation next, and if your girlfriend’s word is anything to go by, then you would make a strong candidate.” She tilted her head, looking him over, as if trying to find something interesting there.</p><p>Kyoya, for his part, took this in stride. He bowed slightly, and told her, “I appreciate your confidence in me, madame. I too hope that I can live up to what those I care for think of me as. It would ease my heart to know a person such as you is cheering me on.”</p><p>Haruhi rolled their eyes. Tagame’s silent little helper boy rolled his eyes. Tagame just looked flattered. “Of course, Ootori,” she assured. “I apologize for taking up so much of your time, I ought to greet your third brother.”</p><p>“Of course. It was lovely speaking to you.” Kyoya looked up, straightened, and smiled. It looked more genuine than it had in the beginning. “Do send my best wishes to Akito if you can find him.”</p><p>Tagame nodded, and with one signal to her boy-toy, the pair were off, gliding across the floor of the hotel room. Kyoya and Haruhi watched them go, silent, until Kyoya turned to them and said, simply, “You are frightfully embarrassing, and I wish you were as quiet as you always were.”</p><p>“You appreciated it,” Haruhi argued, exasperated.</p><p>Kyoya smiled, ducking his head. “Time will see if it will pay off. Only then will I appreciate it.” Haruhi sighed. What a jerk.</p><p>Haruhi held their coats while Kyoya had a short conversation with his father, watching from what felt like miles away. Even in just the light chattering, Haruhi couldn’t hear what Kyoya and his father were saying. They hoped they did good for Kyoya, in some way or another. When Haruhi had told their mother about Kyoya’s plan, Ranka had shaken her head and said, “That boy will come into his own sooner or later. We just have to help him along.” Haruhi wanted to do all they could to do so.</p><p>Eventually, Kyoya came back. Haruhi handed him his coat, and they left together, not saying anything at all.</p><p>It wasn’t until they reached the elevator, blessedly empty, that either of them broke the distance. Haruhi leaned against him, resting their head against his arm. He in turn wrapped it around their shoulders. “Rich people are exhausting,” Haruhi complained, clinging onto Kyoya as the elevator rocked steadily, taking them up to their floor.</p><p>Kyoya didn't take offense, he just smiled slightly, the majority of the tension that made up his face throughout the party having left. “Agreed. We have a nice room, at least. We can have a slumber party. We’ll order room service, talk about guys.”</p><p>Haruhi squinted up at him. “You watched too many terrible American movies while we were over there.” </p><p>Kyoya spread his hands out helplessly and teased, “You love me.” Haruhi smiled, giving into laughter. Kyoya was very different from how he was in high school, the party only cementing the idea further in their head. They had nearly forgotten how scared they were of him, in the very beginning, but Kyoya was a good man.</p><p>“I do love you,” Haruhi agreed, and then pulled him down by his tie. They kissed his forehead very gently, and Kyoya didn’t resist. The elevator dinged open, and together, they went to their room.</p></div>
+        <!-- end cache -->
+    </div>
+<!--/chapter-->
+
+    <!--afterword-->
+    <div class="afterword preface group" role="complementary">
+        <!--work endnotes-->
+<div id="work_endnotes" class="end notes module">
+  <h3 class="heading">Notes:</h3>
+  <blockquote class="userstuff"><p>haruhi and kyoya:<br/><img src="https://i.pinimg.com/736x/99/7c/73/997c739afa52e028aa81c04d1b0c5cdc.jpg"/></p><p>thanks to eurydicees on tumblr for planning this whole thing!<br/>speaking of <a href="http://www.selkiecoded.tumblr.com" rel="nofollow">tumblr</a></p></blockquote>
+</div>
+<!--/work endnotes-->
+        <!--series links, backwards and forwards-->
+<div id="series" class="series module">
+  <h3 class="heading">Series this work belongs to:</h3>
+  <ul>
+      <li><span class="series"><span class="position">Part 1 of the <a href="/series/2176653">OHSHC Fest 2021</a> series</span><span class="divider"> </span><a class="next" href="/works/29685099">Next Work &#8594;</a></span></li>
+  </ul>
+</div>
+<!--/series links-->
+    </div>
+    <!--/afterword-->
+
+  </div>
+  <!-- END work skin -->
+<!-- END work -->
+
+<!-- BEGIN comment section -->
+<!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="8S-UOcClQNBVqUbotWTqu9-SXLanbHPzlDlr1o-zcDThq7bo_7Fz38hcnwk17fZT9ypzjKPDRzg3loTreJyV2g"/>
+          <input value="29371794" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?work_id=29371794">Comments (2)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/atlas_lunedesaturne">atlas_lunedesaturne</a>, <a href="/users/x_supernova">x_supernova</a>, <a href="/users/macademilk">macademilk</a>, <a href="/users/aelbereth">aelbereth</a>, <a href="/users/LT329">LT329</a>, <a href="/users/maccarooni">maccarooni</a>, <a href="/users/RainbowKeepers7711">RainbowKeepers7711</a>, <a href="/users/ScarletAlexia">ScarletAlexia</a>, <a href="/users/thelowlysatsuma">thelowlysatsuma</a>, <a href="/users/MossLesbian">MossLesbian</a>, <a href="/users/blender_bros">blender_bros</a>, <a href="/users/confidential_artist">confidential_artist</a>, <a href="/users/InADaze4ever">InADaze4ever</a>, <a href="/users/numberonetrashcan">numberonetrashcan</a>, <a href="/users/sleepyclouds">sleepyclouds</a>, <a href="/users/Certified_Hot_Mess">Certified_Hot_Mess</a>, <a href="/users/Pencil_for_President">Pencil_for_President</a>, <a href="/users/QuinnyQuin">QuinnyQuin</a>, <a href="/users/whosebeeisthis">whosebeeisthis</a>, <a href="/users/Daytona_the_Fander">Daytona_the_Fander</a>, <a href="/users/Zykout">Zykout</a>, <a href="/users/Hello39">Hello39</a>, <a href="/users/meihua_xing">meihua_xing</a>, <a href="/users/Ronan_Writes">Ronan_Writes</a>, <a href="/users/animalcrusher">animalcrusher</a>, <a href="/users/blqckkcqlb">blqckkcqlb</a>, <a href="/users/Antanomally">Antanomally</a>, <a href="/users/tenderpining">tenderpining</a>, <a href="/users/KVBFord">KVBFord</a>, <a href="/users/KitKatErudita">KitKatErudita</a>, <a href="/users/rebbstablook">rebbstablook</a>, <a href="/users/ZiaBlue">ZiaBlue</a>, <a href="/users/CelestinaSwitch15">CelestinaSwitch15</a>, <a href="/users/turtlehoffmann2251">turtlehoffmann2251</a>, <a href="/users/HoneyHoneyyy">HoneyHoneyyy</a>, <a href="/users/TheImpossibleZoe">TheImpossibleZoe</a>, <a href="/users/TrashWithAnxiety">TrashWithAnxiety</a>, <a href="/users/Indigo_Ashes">Indigo_Ashes</a>, <a href="/users/taraiel">taraiel</a>, <a href="/users/cruisercrusher">cruisercrusher</a>, <a href="/users/livepoultryfreshkilled">livepoultryfreshkilled</a>, <a href="/users/if_lost_please_return_to_anime">if_lost_please_return_to_anime</a>, <a href="/users/Sonic_Rider">Sonic_Rider</a>, <a href="/users/HiraitaKigai">HiraitaKigai</a>, <a href="/users/doublejoint">doublejoint</a>, <a href="/users/WhimsicalKookie">WhimsicalKookie</a>, <a href="/users/mistakes_lol">mistakes_lol</a>, and <a href="/users/DarkElectron">DarkElectron</a>
+             as well as 
+          24 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_29371794">
+  <form class="new_comment" id="comment_for_29371794" action="/works/29371794/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="wYM4NAyQXJiQazz6deZQIxc8nFiVLsI2UGTf4n3nvs3RBxrlM4Rvlw2e5Rv1b0zLP4SzYpGB9v3zyzDfishbIw"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_29371794">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_29371794" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_29371794=new LiveValidation('comment_name_for_29371794',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_29371794.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_29371794">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_29371794" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_29371794=new LiveValidation('comment_email_for_29371794',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_29371794.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_29371794" class="landmark">Comment</label>
+        <textarea id="comment_content_for_29371794" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_29371794" name="controller_name" value="works"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_29371794_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_29371794">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_29371794=new LiveValidation('comment_content_for_29371794',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_29371794.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_29371794.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_29371794" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+<!-- END comment section -->
+<!-- END revealed -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/29371794/hit_count.json")})</script>
+
+
+  </body>
+</html>

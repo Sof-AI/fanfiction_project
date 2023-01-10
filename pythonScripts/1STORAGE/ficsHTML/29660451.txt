@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        try a little tenderness - ilip13 - 魔道祖师 - 墨香铜臭 | Módào Zǔshī - Mòxiāng Tóngxiù [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="VzMHE9nBfprmsAKFYjPdRELghzBlA079fjFNadpXAb75z0dR14s4cXPFisx2nYuBI5X9q0f0z7vphILA3jcj9g"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="peJG5kIeb0Ga16GaJXxli06o6rVNNO3JrVR9w5PXOxQLHgakTFQpqg-iKdMx0jNOL92QLm_DbI864bJql7cZXA"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: buffy gen teen AND &quot;no archive warnings apply&quot;</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="works-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<ul class="landmark skip">
+  <li><a name="top">&nbsp;</a></li>
+  <li><a href="#work">Skip header</a></li>
+</ul>
+
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+<!-- BEGIN revealed -->
+<!-- BEGIN work -->
+<!--work description, metadata, notes and messages-->
+    <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?work_id=29660451">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/29660451/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/29660451/try%20a%20little%20tenderness.azw3?updated_at=1645783527">AZW3</a></li>
+          <li><a href="/downloads/29660451/try%20a%20little%20tenderness.epub?updated_at=1645783527">EPUB</a></li>
+          <li><a href="/downloads/29660451/try%20a%20little%20tenderness.mobi?updated_at=1645783527">MOBI</a></li>
+          <li><a href="/downloads/29660451/try%20a%20little%20tenderness.pdf?updated_at=1645783527">PDF</a></li>
+          <li><a href="/downloads/29660451/try%20a%20little%20tenderness.html?updated_at=1645783527">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Explicit/works">Explicit</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88%20-%20%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%20%7C%20M%C3%B3d%C3%A0o%20Z%C7%94sh%C4%AB%20-%20M%C3%B2xi%C4%81ng%20T%C3%B3ngxi%C3%B9/works">魔道祖师 - 墨香铜臭 | Módào Zǔshī - Mòxiāng Tóngxiù</a></li><li><a class="tag" href="/tags/%E9%99%88%E6%83%85%E4%BB%A4%20%7C%20The%20Untamed%20(TV)/works">陈情令 | The Untamed (TV)</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationship:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/L%C3%A1n%20Zh%C3%A0n%20%7C%20L%C3%A1n%20W%C3%A0ngj%C4%AB*s*W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n/works">Lán Zhàn | Lán Wàngjī/Wèi Yīng | Wèi Wúxiàn</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/L%C3%A1n%20Zh%C3%A0n%20%7C%20L%C3%A1n%20W%C3%A0ngj%C4%AB/works">Lán Zhàn | Lán Wàngjī</a></li><li><a class="tag" href="/tags/W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n/works">Wèi Yīng | Wèi Wúxiàn</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Alternate%20Universe%20-%20Modern%20Setting/works">Alternate Universe - Modern Setting</a></li><li><a class="tag" href="/tags/BDSM/works">BDSM</a></li><li><a class="tag" href="/tags/Dom*s*sub/works">Dom/sub</a></li><li><a class="tag" href="/tags/Aftercare/works">Aftercare</a></li><li><a class="tag" href="/tags/Subdrop/works">Subdrop</a></li><li><a class="tag" href="/tags/Reference%20to%20bad%20BDSM%20etiquette%20in%20wwx&#39;s%20past/works">Reference to bad BDSM etiquette in wwx&#39;s past</a></li><li><a class="tag" href="/tags/Reference%20to%20wwx&#39;s%20self-worth%20issues/works">Reference to wwx&#39;s self-worth issues</a></li><li><a class="tag" href="/tags/Cuddling%20*a*%20Snuggling/works">Cuddling &amp; Snuggling</a></li><li><a class="tag" href="/tags/Getting%20Together/works">Getting Together</a></li><li><a class="tag" href="/tags/Little%20bit%20of%20miscommunication%20in%20the%20beginning%20but%20they%20get%20better%20at%20it/works">Little bit of miscommunication in the beginning but they get better at it</a></li><li><a class="tag" href="/tags/Blow%20Jobs/works">Blow Jobs</a></li><li><a class="tag" href="/tags/Masturbation/works">Masturbation</a></li><li><a class="tag" href="/tags/Reference%20to%20BDSM%20scenes/works">Reference to BDSM scenes</a></li><li><a class="tag" href="/tags/this%20contains%20very%20little%20actual%20explicit%20content/works">this contains very little actual explicit content</a></li><li><a class="tag" href="/tags/and%20is%20mostly%2010k%20of%20wwx%20learning%20he%20deserves%20tender%20aftercare%20and%20wangxian%20snuggling/works">and is mostly 10k of wwx learning he deserves tender aftercare and wangxian snuggling</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/mo_dao_zu_shi_kink_meme_2020">Mó Dào Zǔ Shī | The Untamed Kink Meme 2020</a>, <a href="/collections/MDZSfortheheart">Lotus Pork Rib Soup for the Soul</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2021-02-23</dd><dt class="words">Words:</dt><dd class="words">11598</dd><dt class="chapters">Chapters:</dt><dd class="chapters">1/1</dd><dt class="comments">Comments:</dt><dd class="comments">271</dd><dt class="kudos">Kudos:</dt><dd class="kudos">2822</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/29660451/bookmarks">573</a></dd><dt class="hits">Hits:</dt><dd class="hits">19332</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      try a little tenderness
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/ilip13/pseuds/ilip13">ilip13</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>"Wei Ying, have you never heard of aftercare?"<br/> <br/>Mutely, Wei Ying shakes his head. He has learned of many things, from all his guys. The word care has never been included. </p><p>*</p><p>In response to a kink meme prompt: sub wwx who hasn't had a good dom before meets dom lwj. The story of three nights and a morning.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+    <ul class="associations">
+
+
+
+        <li>In response to a <a href="/collections/mo_dao_zu_shi_kink_meme_2020/prompts/1789492">prompt</a> by
+            Anonymous in the <a href="/collections/mo_dao_zu_shi_kink_meme_2020">mo_dao_zu_shi_kink_meme_2020</a>
+          collection.
+        </li>
+    </ul>
+
+    <blockquote class="userstuff">
+      <p><strong>Prompt:</strong> sub wwx who hasn't had a good dom before; he thinks it's normal to focus on getting the other person off, to have to wash up, pack up and leave quickly etc etc </p><p>he meets dom lwj one night who treats him so so well and focuses on how he feels and it's so different it makes him a little disoriented; after they've finished, when lwj leaves to get a cup of water and maybe some cream, he comes back to find wwx dressing up and packing up, a little wobbly and teary but trying to hurry</p><p>it's up to you to write things from here!! some things i'd love to see: touch-starved wwx, a healthy dose of wwx's Issues, overprotective lwj (!!), size difference!!, aftercare of course, some snuggling (spooning?!!) , overall a good helping of angst and fluff :D</p><p>any verse is okay!!</p><p>*</p><p>Dear prompter, this is possibly the softest thing I have ever written and has brought me many hours of comfort - thank you for your wonderful prompt, I hope that you enjoy!</p><p>My deepest thanks to <a href="https://archiveofourown.org/users/typefortydeductions/" rel="nofollow">typefortydeductions</a> for reading this over. Mods, de-anon please!</p>
+    </blockquote>
+
+    <p class="jump">(See the end of the work for <a href="#work_endnotes">more notes</a>.)</p>
+</div>
+
+
+  </div>
+
+
+<!--/descriptions-->
+
+<!--chapter content-->
+    <div id="chapters" role="article">
+        <h3 class="landmark heading" id="work">Work Text:</h3>
+          <div class="userstuff"><p>The thing is, this man was nice.</p><p>Well, not <i>nice</i>-nice. He was brutal, a savage, actually, thank you very much, he took Wei Ying apart more easily than any of the others had, but then, he also— </p><p>He was also nice.</p><p>He hurt Wei Ying with his hands. Wei Ying likes it the most, when they use their hands. </p><p>And he noticed things. Wei Ying always gives his doms their choice when they do pain and impact play. Sure, he has his hard limits and he makes them known, but other than that he can’t really afford to be choosy, it’s not his place. His place is to submit. To serve. That’s the whole point. He is fine with mostly everything, anyway, so that always works out. But this guy — it was barely even a flinch, when Wei Ying saw the whip in his closet, just the tiniest, subtlest shift, he is <i>fine</i> with the whip, he can take it — and already this guy was closing the door, saying, "Maybe I could start with just my hands, would you like that?"</p><p>As if this is at all about what Wei Ying would like. </p><p>But then, when Wei Ying said airily, "I would like whatever you like best", this guy didn’t let up, only told him — <i>commanded</i> him — to answer his question. So Wei Ying did, and the guy hummed, satisfied, as if Wei Ying had passed some test. As if he had done well.</p><p>It was… confusing. But also sort of nice.</p><p>Later, after they got into it, after Wei Ying felt the familiar thrill of the pain and then the even better thrill of giving up all control, after he did exactly what was asked of him and been told that he was good, so good, later after that when Wei Ying was coming untouched and sobbing quietly against the floor, this man knelt beside him and— he wiped his tears. With his thumb.</p><p>Not to smear them on his face and remark on what a fragile sub he was, not to lick at the saltiness and then force Wei Ying to taste his submission himself. Just — to wipe the tears off Wei Ying’s face. He had the gentlest touch.</p><p>So, not only was this guy the best sex Wei Ying has ever had, but he was also somehow the kindest dom he’s ever had. Funny how Wei Ying got lucky with a stranger like that.</p><p>And now Wei Ying has to leave, because— because he doesn't do second rounds. Because otherwise Wei Ying might get attached, and then he might start having expectations, and those would lead to—</p><p>To nothing good.</p><p>Turns out no one likes to see him beg once the scene is over and they are back in real life. Wei Ying can beg beautifully when he is tied up and messed up but, outside of that, he's basically just a clingy brat who’s too desperate for his own good, and no one really likes someone like that. He never really minded, before, ever since he stopped trying to date and started doing only this. The others he did this with — they gave him what he needed, and he gave them what they wanted, and it ended with that, and that was for the best.</p><p>He kinda doesn’t want it to end with that, this time.</p><p>Pathetic. Wei Ying should definitely know better by now.</p><p>Besides, Wen Qing is waiting up for him, as she always does, and he still has her yelling to get through with, her stomping on the ground and saying, "Wei Ying, when will you start being <i>careful</i>", and then she’ll make him tea and insist on sitting with him until he drinks it all, and he has an early morning shift tomorrow, so.</p><p>So he really should leave. Even though that man was really nice.</p><p>It takes him longer than usual to get dressed, his fingers unusually cold and his skin chafed and burning with every layer that he adds. His throat is constricted, and he’s maybe got some tears in his eyes, maybe nice-guy’s thumbs didn’t get every drop after all, and shouldn’t Wei Ying be thankful that he has been left alone in the room to get dressed and quietly leave? It’s so much easier than when they lie back in bed and watch him fumble for his clothes.</p><p>He manages to put on his shirt, underpants, jeans, and then he realizes that at some point — probably when Wei Ying was still blindfolded, waiting on the floor — the guy had picked up his socks from the two random corners Wei Ying had thrown them to, and placed them together at the foot of the bed.</p><p>Wei Ying stares at the socks. The socks are still lying there, neatly folded. He bites back a sob.</p><p>The guy appears in the doorframe, a glass of water in his hand, and something — Wei Ying doesn’t recognize, maybe a tube of cream? He takes Wei Ying in with a worried look. "Wei Ying." This guy even bothered to remember Wei Ying's name. "Is everything alright?"</p><p>Wei Ying begins to shiver. Usually this happens after he's out the door, and then he has his coat, he has this whole process of curling into his coat and sticking his hands deep into the pockets and huddling in between his shoulders so that his face is barely glimpsing above the lapels.</p><p>This guy is ruining his process. Wei Ying shivers harder. The guy puts the glass and the tube of cream down.</p><p>"You are cold. May I…?" He steps towards the bed and hesitantly takes Wei Ying’s hand, and when Wei Ying doesn’t resist he pulls him up and puts his arms around him, drawing him into a tight embrace.</p><p>The guy’s chest is unnaturally warm. All of him is warm, which is really unfair considering Wei Ying is the one who is almost fully dressed and this guy — well, this guy didn’t even bother to put on a robe. The guy’s hand comes up to gently hold the back of Wei Ying’s head. There is so much strength to his hands — Wei Ying knows that fully well — but his fingers are also the tenderest touch on the nape of Wei Ying’s neck, on the baby hairs curling at the base of his head. </p><p>"Are you in a hurry to leave? You didn’t say anything, so I thought—" The guy pauses. "I apologize if we took too long."</p><p>"No!" Wei Ying can’t stand his apology. All this kindness, and <i>he</i> is the one who feels like he should apologize? With difficulty, he breaks away from where he burrowed into the guy’s shoulder — he knows he shouldn’t have, he’s supposed to <i>leave</i>, but it was just so comforting and warm and Wei Ying isn’t the one who initiated the hug, so that’s okay, probably, right?</p><p>The guy looks down at him with querying eyes.</p><p>"I mean, I’m not really in a hurry, I just thought—" Wei Ying mumbles. "Never mind. Please don’t apologize."</p><p>Once again those thumbs brush below his eyes. A soft kiss is placed on his forehead. "Come with me."</p><p>Wei Ying follows in a daze. </p><p>The guy takes him to the shower. His bathroom is spacious, modern, he’s got a nice walk-in shower and a bathtub that is currently filled with tiles. "I apologize for the tub being in this state," he says while leading Wei Ying to stand in front of the shower, and then he gently takes off Wei Ying’s clothes.</p><p>Why should he apologize for renovating? Are they gonna go for a second time? Wei Ying stares, uncomprehending, when the guy folds Wei Ying’s clothes and places them to the side. "Come here." The guy tugs at him gently until he follows him into the shower, and then he turns on the water stream and Wei Ying is treated to another enveloping hug.</p><p>Maybe Wei Ying could let this one slide, because the guy was so nice, and his skin is so warm. Wei Ying is good at shower sex, he does temperature play and he can blow with his knees on tile like a pro, he knows. But then this guy only sort of... continues to hold him. </p><p>It’s… unnerving. </p><p>It also feels really good.</p><p>When he finally lets him go, it’s only to reach for the world’s softest sponge, and then he is pouring body wash and scrubbing Wei Ying’s hands and chest and back with attentive motions. </p><p>The water is just the right temperature. It’s the kind of shower with an enormous rain shower head where the water is falling down in tiny droplets and caressing every square centimeter of Wei Ying’s skin like velvet, the barest touch. The guy is careful over Wei Ying’s bruises and marks, and whenever he reaches a particularly ugly one he presses his lips to it, not quite a kiss, only a small, lingering touch before running the sponge over the blemished skin, hovering, not making it hurt.</p><p>He drops down to his knees and Wei Ying blushes furiously. This is not the way this should go, what is he doing, he is getting closer to Wei Ying’s soft cock—</p><p>And then he washes that part of him too, just like any other body part. Cups him with his large hands and cleans him up and then slides the sponge over both his legs.</p><p>Wei Ying isn’t shivering anymore, he realizes. He is soaped up and his skin is pleasantly tingling and there is a fresh smell in the air, and the water stream is making tiny dripping sounds, like a thousand tiny bells.</p><p>The man rises to his feet and switches the water stream to the smaller detachable shower head. "Would you like me to wash your hair?" He asks.</p><p>Wei Ying can feel his eyes widen minutely. What is going on? Mutely, he shakes his head.</p><p>The guy touches his cheek, then lowers Wei Ying’s head to kiss his forehead. Wei Ying leans into it, imperceptibly, and the guy wraps his arms around him again while his lips are doing something funny against Wei Ying’s brow. It can’t be — it probably isn’t. He doesn’t look like the kind of guy who smiles. </p><p>"You are so beautiful," he moves to whisper into Wei Ying’s ear. "You were so good. The best."</p><p>Wei Ying preens at the praise, and finds himself emitting small noises of content. Instantly, he pulls away. He shouldn’t do this. He shouldn’t be <i>needy</i> like this, just because the guy has — the guy has a thing for getting him cleaned? And he was also kind of nice?</p><p>Whatever those lips were doing before, it is faltering now, and there’s a moment of awkwardness before the man detaches himself from Wei Ying completely and starts washing him down. He runs his fingers through Wei Ying’s hair, small scratches against his scalp, and Wei Ying has to bite down on his lip to prevent more sounds from coming out.</p><p>The guy thumbs at where he bites. "I like hearing you," he tells Wei Ying, and he sounds… shy? Except this guy wasn’t shy, he was appetite and lust on two legs, he gave Wei Ying so many good bruises, left so many marks. Wei Ying must be hallucinating. Maybe this is one long hallucination and he is still lying blindfolded and crying, on the guy’s bedroom floor.</p><p>Said guy’s face grows serious. "Wei Ying?"</p><p>Wei Ying thinks he may be shivering again.</p><p>Through the haze, he dimly notices the guy turning off the water, wrapping them in large, soft towels, wiping Wei Ying dry until his shivering slowly subsides. He bundles him up in the towel again and Wei Ying follows when he takes his hand and leads him back to the bed. </p><p>Leaving the shower has made his mouth dry. Wei Ying is licking his lips, swallowing, and the guy notices and hands him the glass of water that he brought earlier and that was waiting on the nightstand. </p><p>This is… kind. Wei Ying isn’t sure what to do with this guy’s kindness.</p><p>"Wei Ying, what is wrong?" They are sitting side by side on the bed. Wei Ying has drank nearly the entire glass. What if it was water the guy brought for himself, and he only meant for Wei Ying to take a sip— but, no, he doesn’t sound angry, he only sounds… concerned.</p><p>Wei Ying places the glass back on the nightstand. Turns to look at this person — usually this long after, the face of the person he slept with is starting to blur. This long after he’s already on his way back home, or if he was lucky and traffic was light then at home, shedding off his layers, whining at Wen Qing that again she left the heat on too strong.</p><p>He really is very beautiful, this guy. Very sweet, even, though Wei Ying isn’t used to thinking in those terms. He licks his lips again, considering.</p><p>"Are you hungry?" The man asks suddenly. "I could—" He halts when Wei Ying violently shakes his head. He can’t — his stomach is always churning for hours afterwards, he can barely swallow Wen Qing’s tea down. He doesn’t feel it right now, but that doesn’t mean — Wei Ying shouldn’t push his luck.</p><p>Silence sits between them, thick, suffocating. The man is watching him attentively, like he is on the verge of moving, but both of them are still.</p><p>Finally, Wei Ying decides to ask. Even after the water, he has to clear his throat a couple of times until sound comes out. "What was that?"</p><p>The guy looks taken aback. "What was…?" His face does something that barely constitutes moving and yet still translates clearly to panic in Wei Ying’s mind. "Was there anything we did that was over the line? You did not safeword, I apologize, I thought that—"</p><p>Wei Ying places a finger on his lips without thinking. "No apologies. No, not <i>that</i>, that was," he lowers his eyes, self-conscious. "That was really good. <i>You’re</i> really good. I meant, after, with the shower, and the… the hugs?"</p><p>To himself, he feels laughable. Any moment now the guy will probably kick him out.</p><p>Soft lips press a kiss to his finger before his hand is gently lowered down. "Wei Ying," the guy asks seriously. "Have you never been taken care of before?"</p><p>That’s… that’s… Wei Ying swats at his chest, faking a laugh. "Did I hear right? Silly, I’m here to take care of <i>you</i>." That’s just how it works.</p><p>The guy captures his hand between his palms. "During, perhaps, if that’s the agreed upon dynamic. But after, after you’ve been good, when the scene is over, has no one ever taken care of you in return?"</p><p>Wei Ying has only been doing this for a few months. The first time wasn’t planned, it wasn’t even the right kind of club, but then the guy asked if Wei Ying was into him using force, and Wei Ying thought about it and he was into it, and it all… just kinda went on from there. The third guy told him about domination and submission, the one after that initiated impact play, and after that point they all started to blur together, giving him all the good pain, an orgasm if he deserved it, and then — he went home. Until the next guy. There wasn’t anything like this, it has never been this complicated before.</p><p>It was never this good.</p><p>Wei Ying’s shoulders droop and he curls in on himself. The guy brings his hand forward as if to touch him — maybe his cheek, maybe his lips — but then he drops it back down.</p><p>"Wei Ying, have you never heard of aftercare?"</p><p>Mutely, Wei Ying shakes his head. He has learned of many things, from all his guys. The word care has never been included.</p><p>"May I demonstrate?" This guy — aftercare-guy — asks, and there it is again, what feels like a hint of shyness.</p><p>Wei Ying nods.</p><p>The towel is gently removed from around his shoulders. He is lowered down to the mattress — "But my hair is wet!" He tries to protest, and the guy makes an adorable shushing sound — and then Wei Ying is lying on his side surrounded by a warm body, arms wrapping securely around his waist, lips mouthing at his neck.</p><p>Fuck, that’s just so much skin on skin, and none of it hurts, and it even feels… earned. </p><p>Wei Ying clears his throat again. "Aftercare is hugging?"</p><p>The guy’s arms tighten around him. "Among other things."</p><p>"Like the shower. And…" Wei Ying hazards a guess. "The water? And the cream?"</p><p>"Arnica. For your bruises." One of which now receives a hovering kiss. "Yes. These are all ways in which one takes care of their submissive partner, after they’ve been good."</p><p>And here Wei Ying thought…</p><p>"I think you’re a very special kind of dom," he says decisively. Because otherwise, that would mean… Despite the warmth surrounding him in all directions, despite feeling cared for and coddled and appreciated, the tears spring unbidden to the corners of his eyes. If that’s how a sub is treated when they’ve been good, but Wei Ying has never been treated like this before, then that would mean…</p><p>"Wei Ying." That thumb is there <i>again</i> to wipe all his tears, and it’s not fair, it’s not right, this guy is doing <i>everything</i> for him and Wei Ying can’t even manage to remember his name. "It sounds like you have been mistreated in the past."</p><p>"No," Wei Ying immediately says, and those eyes are too piercing, he turns his head into the pillow. "Maybe I just… Maybe I didn’t deserve it, before." His voice is mumbled.</p><p>The guy’s voice is quiet. "Everyone deserves to be taken care of."</p><p>Wei Ying can’t stand it. He turns his head to look up at him. His eyes are so warm. It slowly sinks into him, the dichotomy settling. This guy really was his preferred kind of mean but also nice. That’s… "Even you?" He asks, to break the sudden onslaught of emotion.</p><p>A nod. "Usually in such scenarios the sub requires more attention, and it is the dom’s responsibility to provide proper care. But yes. Even me."</p><p>Oh. Wei Ying shuffles closer and wraps his arm around him in return. Their faces are very close. "Like this?"</p><p>This time it can’t be mistaken, a tiny, pretty smile. It lights up his entire face. Wei Ying is momentarily breathless. "For example."</p><p>"What else?"</p><p>"You can let me take care of you."</p><p>"You’ve already done so much." Wei Ying protests. </p><p>"You would be helping me," the guy explains patiently and Wei Ying can feel himself blush. "To ascertain your well-being. It’s important to me."</p><p>"Oh." Wei Ying doesn’t want to let go of the hug just yet, though. "Soon?"</p><p>"Mm. As you wish."</p><p>He tucks his head in the crook of the other guy’s neck. He really should have bothered to learn his name. Maybe Wei Ying could…</p><p>"Relax." The guy whispers, and rubs his hand in soothing motions up and down Wei Ying’s back. Wei Ying melts into his touch, his thoughts going fuzzy at the edges.</p><p>He dozes off in the guy’s embrace. It’s so nice. It’s so warm. Usually it’s only when he gets home, when he takes off his clothes in front of the bathroom mirror and runs his hands over his skin, only then does the shaking subside and the warmth settle in. </p><p>At some point he is gently nudged over to lie on his belly, and then the guy applies cream to each and every one of his bruises, fingers gently massaging into his skin. It’s a blissful sort of feeling, and Wei Ying wishes… </p><p>"Would you like to stay the night?" The guy presses one final kiss to his cheek, then lies by his side.</p><p>Wei Ying blinks his eyes wide open, shaking out of the selfish dream-come-to-life in a stranger’s words. "I can’t." He says. The regret is shamefully obvious in his tone. "I have an early shift tomorrow, I should get home soon."</p><p>The guy nods.</p><p>This time when Wei Ying gets dressed he doesn’t mind the eyes on him so much. </p><p>He gathers his courage while the other guy puts on a pair of soft pajama pants, places his hand at the small of Wei Ying’s back, walks him to the door.</p><p>"I had a very good time," the guy tells him when they’re standing by the door and Wei Ying puts on his shoes. His eyes linger on Wei Ying’s face when he looks up at him, weirdly greedy. "You were wonderful."</p><p>Wei Ying is warm to the tips of his ears. "You too," he says, and he darts forward for a brief kiss on the guy’s lips. Then he takes in a deep breath, and before he can think better of it he blurts, "I would like to do that again. With you. If that’s okay."</p><p>It’s just for a second, there and gone, but Wei Ying is incandescently happy to witness that smile again.</p><p>"I would like that too."</p><p>"Okay. Good." Wei Ying shoves his phone into the guy’s hand without looking. "Give me your number then."</p><p>He worries his lip while the other guy types. Behind them, somewhere on a table, a phone buzzes.</p><p>"It’s me," the guy explains. Wei Ying stifles a giggle. He really is so cute. And kind. And hot and sexy and mean and…</p><p>And Wei Ying has his number now.</p><p>"Take care, Wei Ying." </p><p>They kiss one last time and it lingers on his lips even after they part. Once the door closes behind him, Wei Ying finally allows himself to glance at the phone.</p><p>Lan Zhan.</p><p>The guy’s name is Lan Zhan.</p><p>He holds the phone close to his chest, just for a brief moment before going on his way.</p><p>*</p><p>When they set a date and time for their second meeting, Wei Ying finds himself — giddy. Excited. It has been a while since he slept with the same person more than once. Since it seemed like it would be a good idea. And this guy — Lan Zhan — Wei Ying really liked him. He thinks of that sweet little smile, and dares to believe that maybe Lan Zhan even liked him back. At least a little.</p><p>Certainly wanted him back. Wanted Wei Ying, even after he saw Wei Ying crying in his bed.</p><p>It makes electric currents run through his body, his fingertips prickling, and when Lan Zhan opens the door of his apartment Wei Ying falls right into his arms, and they find themselves making out for a some time until Lan Zhan remembers they can do that even better if the door is closed.</p><p>Lan Zhan proceeds to demolish him. Wei Ying shouts himself hoarse. His entire body ends up covered with bites. </p><p>Lan Zhan asks, beforehand. Wei Ying thought it was a given but they’d somehow not covered that specifically the last time, and last time — last time ended up being all about Lan Zhan’s hands. For days after, Wei Ying enjoyed putting his own hand over the bruise marks, trying to stretch his fingers as far as he could to cover any one of the handprints Lan Zhan had left. He never got to cover them fully. Lan Zhan’s hands had been too big, and the thought made Wei Ying shudder, press into those bruises, count the days until they could finally meet again.</p><p>Wen Qing gave him a weird look whenever he came out of the bathroom after a session like that. Wei Ying ignored her. It was his own business, and she would just tell him how irresponsible he was always being, and that he deserved better than that.</p><p>He couldn’t tell her about Lan Zhan. He didn’t want to end up disappointing her again.</p><p>So Lan Zhan asks, "Is biting okay?", and when he finds out that Wei Ying is more than okay with biting, Lan Zhan more than takes advantage. It makes Wei Ying wonder if Lan Zhan took it as a challenge, to leave no stretch of skin unmarred.</p><p>If he did, then he has done a very good job. Wei Ying’s nipples alone are going to be sensitive for <i>days</i>.</p><p>When it is over and Lan Zhan gets up to leave the bed, Wei Ying — for the first time in a long time — allows himself to just stay. Loll around in the covers, instead of tearing himself forcefully away and starting the process of getting dressed, of making himself scarce. It feels good. Even more so now that Lan Zhan has come back, made him sip water and eat tiny pieces of chocolate that melted on his tongue, and then helped him carefully lie back in bed. Now Lan Zhan is above him, covering each and every bite mark he’s left with a kiss.</p><p>His hand is splayed over Wei Ying’s hip, not forceful, just holding him in place. He murmurs soft little sounds into every kiss he gives, "You were so good", and "Beautiful", and "Wei Ying".</p><p>Wei Ying feels blissful. He never thought that it could be like this. Everyone else — well, of everyone else there were those that were too soft with him, which Wei Ying did not like at all, who made him feel self-conscious and undeserving and never quite fulfilled. And then there were the others, the opposite kind, who had — how did Lan Zhan phrase it — "been mistreating him". </p><p>Apparently.</p><p>Wei Ying has done some reading after the previous time. The urge to track down every one of those guys and ask if they intentionally left him cold or if he just didn’t deserve to be cared for — Wei Ying tries very hard to shove that urge away. </p><p>Nothing good will come of that. Nor from asking too hard why Wei Ying hadn’t done any reading of the kind before, even when he got back home limping and shaking and feeling detached for days afterwards.</p><p>"Wei Ying?"</p><p>Only now he notices that Lan Zhan has stopped his kissing and is looking up at him in concern.</p><p>"Don’t stop." Wei Ying pouts.</p><p>Lan Zhan lowers his head down, but then he starts making his way up while trailing kisses over Wei Ying’s body, thigh to abdomen to chest, until they are lying side by side.</p><p>"You seem troubled." He touches his hand to Wei Ying’s cheek. "Are you uncomfortable? Would you like to be doing something else?"</p><p>Wei Ying leans into his touch. He would like to close his eyes, to really lose himself to this, but a part of him still feels like he should be careful. Like he is only allowed to take so much.</p><p>"Wei Ying?" How could this guy sound so dispassionate when he was forbidding Wei Ying from coming and then, now, sound so gentle. Even… worried. And not the kind of exasperated worry Wei Ying has learned to avoid, and not Wen Qing’s kind of worry which he honestly prefers to deflect. Just as if — he cares what Wei Ying feels. Like he won’t force him to do anything but he wants to know, just in case he can somehow help him.</p><p>Wei Ying feels ridiculous.</p><p>"Do you always —" what was the word… Practice? Offer? "Do you always provide aftercare? With everyone?"</p><p>Lan Zhan’s arm wraps around his waist. Snug. He presses a kiss to Wei Ying’s shoulder before answering. "I do."</p><p>"Even if… the sex was vanilla?" Strangely enough, Wei Ying was not familiar with that word before. He has learned so many words and yet gotten only the smallest glimpse — an inaccurate glimpse, he thinks Lan Zhan would probably say, and it makes him warm in his belly, to think he knows what Lan Zhan would say. </p><p>He still has so much to learn.</p><p>He thought there was regular sex, the boring, unexciting kind, and there was… this.</p><p>This was easy. This made sense. This could be communicated in simple, straightforward sentences. "I want you to hurt me." If it did not hurt, then it wasn’t good. And, "I want to be told what to do." If he did what he was told, then he was worthy of the hurt.</p><p>At his question, Lan Zhan draws back and gives Wei Ying a blank stare. "I wouldn’t know."</p><p>Oh. <i>Oh</i>. Isn’t that interesting. </p><p>"What, like, never?" Wei Ying turns to his side and reaches out to touch Lan Zhan’s smooth chest, the toned pecs, his nipples, all that expanse of skin that— </p><p>He pulls back. Just because Lan Zhan is taking care of him now doesn’t mean Wei Ying is suddenly allowed.</p><p>Lan Zhan picks up Wei Ying’s hand, places it back against his breastbone. Wei Ying looks at him questioningly. "I like it when you do this." He tells him seriously. "You’re allowed to touch as much as you want." And then continues, unperturbed, "Yes. Never. I know what I want, and anything beyond has never come up."</p><p>That’s… Wei Ying skims his hand over all that skin. Slips it around Lan Zhan’s neck. Darts forward to press a peck to his lips.</p><p>"That’s incredibly sexy of you," he tells him, and then lowers his eyes when he feels his cheeks heat.</p><p>Lan Zhan doesn’t answer. He just wraps himself more tightly around Wei Ying. His fingers find their way into Wei Ying’s hair. Wei Ying settles into his arms.</p><p>"Would you prefer to be treated differently?" Lan Zhan suddenly asks into the quiet.</p><p>Wei Ying nuzzles into him, distracted still from Lan Zhan’s "you’re allowed to touch as much as you want". He can hear Lan Zhan’s heart beating when he presses his ear to his chest. Lan Zhan envelops him so fully. He could easily fall asleep like this, sated and protected, to the steady staccato rhythm of Lan Zhan’s heartbeats.</p><p>"Wei Ying?" There’s a thread of worry in Lan Zhan’s voice. Wei Ying kisses the hollow of his throat.</p><p>"Do you want to wash me again?" He asks. He isn’t sure what Lan Zhan means. </p><p>"Only if you would like that."</p><p>Wei Ying contemplates seriously, drawing small heart shapes on Lan Zhan’s skin. "Can we stay here a while longer instead? I’m not very sticky." Wei Ying took Lan Zhan in his mouth the first time around, and the second time he kinda blacked out for a minute when he came, exhausted and screaming. He suspects that Lan Zhan cleaned him up before he carried him to the bed.</p><p>It would be like Lan Zhan, Wei Ying thinks.</p><p>Lan Zhan finds his lips for a soft kiss. "Of course."</p><p>"But you wanted to do things differently?" Wei Ying has to make sure.</p><p>Lan Zhan rolls over onto his back, so that Wei Ying is lying on top of him, still held closely in Lan Zhan’s arms. Wei Ying likes this a lot, and he hums happily when Lan Zhan brushes a hand through his hair.</p><p>"I only asked if that was something you wanted."</p><p>"Lan Zhan, Lan Zhan, you’re already giving me so much." His kisses, his bites, his lust. And also this — a gentle hand in his hair. A loving touch over all the places where he hurts. Warmth and skin to touch freely and the knowledge that he is cared for. It’s… Wei Ying has to hide his face away in Lan Zhan’s chest.</p><p>"I like being able to give Wei Ying anything he wants."</p><p>Wei Ying. Specifically, what Wei Ying wants.</p><p>He nibbles on Lan Zhan’s skin, small, sloppy bites. Lan Zhan makes him want to push, to tease him, but also at the same time be and do everything that Lan Zhan wants him to. He dares to tease, a little. "What if I want to stay here forever and have you fuck me so many times I just drip nonstop, all over you and your fancy sheets?"</p><p>Lan Zhan’s hands tighten around his waist. His breath hitches. "Then that would be acceptable."</p><p>Wei Ying laughs. There’s little else he can do in the face of that.</p><p>"Wei Ying?" Lan Zhan gently lowers him down to the mattress, reaching out for the familiar tube of arnica. Wei Ying’s toes curl at the thought of having those hands spreading lotion on his body, massaging into his thighs, sliding over his nipples… Only when Lan Zhan’s hands are hovering above him, waiting, does Wei Ying realize that an answer is expected of him.</p><p>"Hm? Lan Zhan, what is it?"</p><p>"Did you have a good time, today?" Lan Zhan starts spreading the arnica over his skin. It’s cooling, and Wei Ying feels the bruises and bite marks under Lan Zhan’s touch. So good.</p><p>"I did," he answers with an unintentional sigh, and then asks, "And you, Lan Zhan? Was I good for you? Should I take care of you, after?" He has to leave in a while — an early shift again, Mianmian begged him to switch with her and he couldn’t tell her no — but as much as they had already cuddled, Wei Ying likes the thought of giving back to Lan Zhan, of covering him with kisses and telling him how great he was.</p><p>"You were wonderful." Lan Zhan says. There’s a hungry edge to it, and Wei Ying thinks — maybe staying forever and making good on Lan Zhan’s promise is something that he would like. He would like to see how many times Lan Zhan can break him and build him back up, can make Wei Ying blind with pain and then wrap him up with his body. What it would be like to wake up safe and in Lan Zhan’s bed and having all that <i>time</i>.</p><p>Wei Ying relaxes into the sensation and makes small, satisfied sounds.</p><p>"And there is no need," Lan Zhan finally adds in a whisper, hand a fleeting touch over the last stretch of skin. </p><p>"Hmm." Wei Ying closes his eyes. "If you say so."</p><p>"I do." Lan Zhan presses a kiss to Wei Ying’s now-soft cock before coming back to lie beside him, fingers tangling in Wei Ying’s own. "Taking care of you is enough for me today."</p><p>"You take very good care of me," Wei Ying says dreamily. "Best dom. Best Lan Zhan."</p><p>"You could stay the night," Lan Zhan says deliberately. "You seem tired."</p><p>Wei Ying slowly stretches out his arms. "I am." He draws the syllables out, a high-pitched whine. "But I have an early shift again tomorrow, which means I have to go."</p><p>"That is fine," Lan Zhan says.</p><p>Wei Ying turns his head to him, taking in Lan Zhan’s scorching golden gaze. </p><p>"Next time," he promises. "Next time I’ll stay."</p><p>Lan Zhan keeps touching him when he finally surrenders to the cruel whims of time and starts getting dressed, a hand on his thigh, on the small of his back, knuckles brushing against his cheek when Wei Ying puts on his socks. When they are by the door Wei Ying feels the inexplicable need to hug him, to rise up on tiptoes and whisper into his ear, "You were so good to me, I’ll be thinking of you for days."</p><p>He thinks Lan Zhan shivers a little, when he says that. He blows him a kiss and closes the door before he can regret his decision and do something dumb, like decide to stay over only to have to wake up at five to make sure he reaches his shift on time. Lan Zhan probably wouldn’t want to ever see him again if he woke him up that early.</p><p>When he’s back home Wen Qing gives him a sharp look and says, "You look a lot less miserable than usual."</p><p>It’s still so early, they’ve only seen each other twice, Wei Ying really can’t know where this will be going, maybe Lan Zhan will get bored of him after they do this a couple more times, but — his lips stretch into a shy smile on their own accord, and underneath his clothes he is beautifully marked up and cared for and owned, and he tells her, "Yeah, I… I met someone."</p><p>Someone who’s actually really kinda great.</p><p>Wei Ying can’t wait to see him again.</p><p>*</p><p>Their second time together was even better than the first, and Wei Ying is certain that the third time won’t disappoint, is eager to see what Lan Zhan will come up with this time. So far he has been very precise about figuring out what Wei Ying wants, giving it to him and taking everything Wei Ying has got in return.</p><p>Even when he takes Wei Ying apart, Lan Zhan is somehow so generous with him. It’s very unlike the way all of Wei Ying’s previous encounters have gone.</p><p>It’s addictive.</p><p>Wei Ying is really looking forward to spending the night this time.</p><p>It ends up being completely different to what Wei Ying has imagined. Lan Zhan ties him up, holds him down, slaps his face whenever Wei Ying speaks out of turn, and at some point Wei Ying just — fades. The world becomes hazy, pain and desire and pleasure all mingling into a single, perfect blur, and he does what Lan Zhan tells him, and he makes Lan Zhan feel good. There is no time anymore, only the gifts that Lan Zhan bestows on him, sharp or dull or burning on his skin. There’s the distinct taste of blood from where he bit his lips. Wei Ying thinks he has been shouting, at some point, and when he comes he shudders so hard he begins to cry, but even that is distant, a floating sort of sensation, a happy, delicious kind of detachment.</p><p>When Wei Ying resurfaces from his collapsed and boneless state, Lan Zhan peppers small kisses over his face and unties his hands. While Lan Zhan unties the rest of the restraints, Wei Ying absently notes the red marks around his wrists. He does not remember struggling — only the pleasant pull, flex and stretch of his muscles as he tested the feel of the ties around him over and over again, until it felt a part of him, until all his existence came down to Lan Zhan’s weight on his body and his ownership around Wei Ying’s hands.</p><p>He feels like he is waking up from a dream.</p><p>When he is untied, Lan Zhan gathers him closely in his arms, Wei Ying’s back against Lan Zhan’s chest. Lan Zhan is rubbing small circles into Wei Ying’s wrists, soothing, as if he is trying to smooth the marks back into unblemished skin. Wei Ying likes that the marks are there. He snuggles back into Lan Zhan and hums contentedly.</p><p>They drift. Lan Zhan’s breath is warm on Wei Ying’s ear. </p><p>Finally something shifts and Wei Ying smacks his lips together, too cozy in their entanglement to move just yet, but restless, stirring, a question waiting for an answer.</p><p>"Would you like a bath?" Lan Zhan whispers in his ear, and Wei Ying blinks one eye open to turn at him and nod.</p><p>"Only if you carry me though. I don’t think I can walk." His words come out slurred.</p><p>He opens his other eye in order to properly take in Lan Zhan’s answering smile. It makes his belly flutter, a sweet and sticky glide, not unlike his pleasure from before, but also different, more settled, unhurried.</p><p>Lan Zhan kisses his shoulder. "Do not move. I will be back."</p><p>"Promise?" Wei Ying turns on his back to watch as he gets up, the ripple of his muscles when he stands. Dimly Wei Ying is aware that he sounds — clingy, he would’ve called it once. But Lan Zhan welcomes this part of him as he welcomes every other part, and Lan Zhan has been warming him, and without him the bed is going cold.</p><p>Lan Zhan leans down to kiss the tip of his nose. "Promise. Three minutes."</p><p>He disappears and Wei Ying allows himself to swim in the dip that Lan Zhan’s body left on the bed, wrapping the covers around him luxuriously, his own tiny cocoon smelling of Lan Zhan, sandalwood and sweat and sex, keeping him safe until Lan Zhan returns. He can hear doors open and close, the sound of a faucet being turned on, the clink of water over tile and then the happy gurgling of a tub being filled. Lan Zhan must have finished his renovating. Wei Ying thinks about that majestic tub, about being cold and confused and not allowed to have what he has now.</p><p>"Lan Zhan," he says when Lan Zhan walks back into the room, a glass of water in his hand. Wei Ying could spend the entire night roaming with his gaze up and down Lan Zhan’s body, the sheer strength of him, the grace embodied in every move. </p><p>Lan Zhan hums and slides a hand under his back, helping him prop himself up and offering him the glass to drink, sitting down next to him.</p><p>"Lan Zhan," Wei Ying says again after he wets his throat and the glass is put away. "Lan Zhan, Lan Zhan, you’re so great."</p><p>The tips of Lan Zhan’s ears turn pink. He is adorable, Wei Ying thinks. Force and tenderness, steel and silk. And, maybe, hopefully, improbably, Wei Ying’s. </p><p>"You were so good today," Lan Zhan tells him and touches his thumb to Wei Ying’s lip. Wei Ying takes it in his mouth, sucking gently. He can hear the hitch in Lan Zhan’s breath when he gasps and Wei Ying smiles at him, warmed by the answering spark in Lan Zhan’s eyes.</p><p>Lan Zhan takes out his thumb and leans forward to capture Wei Ying’s lips into a kiss. Wei Ying loops his arm behind Lan Zhan’s neck, pulling him closer, seeking the heat of his mouth. He feels light, he realizes. Small bubbles of joy carrying him up, threatening to burst out into giggles, into shameless acts like Wei Ying running his fingers through Lan Zhan’s hair and climbing into his lap.</p><p>Wei Ying runs his fingers through Lan Zhan’s hair. When Lan Zhan moans into him, Wei Ying climbs into his lap.</p><p>"I thought you could not move." Lan Zhan rudely interrupts the kiss to murmur against his lips. There’s amusement coloring his tone, a playful underlay to that deep and enchanting voice.</p><p>"Mm," Wei Ying agrees. He really is very sore. "Gege should carry me everywhere, and help me wash, and then put me to bed."</p><p>He watches with fascination as the blush deepens, ears turning from pink to a darker red, a subtle flush starting to bloom down Lan Zhan’s neck.</p><p>"Does this mean Wei Ying would like to stay here tonight?" Lan Zhan asks, and the plain way in which he <i>isn’t</i> hopeful is taking Wei Ying’s breath away.</p><p>"I promised, didn’t I?" Wei Ying grins at him. "Lan Zhan, you’re really… you’re really so wonderful."</p><p>He greedily files away the next smile he receives, tucking it into his growing collection. He wonders how many more times he can get Lan Zhan to smile until they go to bed. Wonders if Lan Zhan will smile at him in the morning, when they wake up together and Wei Ying climbs over him and kisses him silly. </p><p>The bubbles are threatening to burst out once again. Wei Ying tightens his arms around Lan Zhan’s neck and exaggeratedly pouts. "Except you promised me a bath."</p><p>"Hm." Lan Zhan wraps one arm around his waist and grips Wei Ying’s ass with the other, sliding his feet to the floor and then effortlessly lifting them off the bed. Wei Ying yelps and wraps his legs around him. Lan Zhan’s fingers dig into his sensitive flesh.</p><p>"Ow, gege, mean." Wei Ying grinds in small motions against him. "Do it again."</p><p>Lan Zhan shamelessly gropes him all the way to the bathtub.</p><p>By this time the bath is almost filled, and Wei Ying is ready to be laid down into the water directly, but Lan Zhan insists on sitting him down on the closed toilet lid so he can check the water temperature beforehand.</p><p>Wei Ying feels like swinging his legs back and forth. He doesn’t — the risk of hitting his foot on something is too great — but he feels like doing it, and he wriggles his toes at Lan Zhan instead when Lan Zhan turns to give him the all clear.</p><p>"Take me then." Wei Ying raises his arms above his head. Lan Zhan’s eyes glint at this, but then he does as Wei Ying says, grabs around him from the armpit and below his knees and then lowers him down into the tub — gently, slowly, so slowly there are no ripples, a tender kiss of skin against water and then Wei Ying is submerged.</p><p>"May I join you?"</p><p>Wei Ying smiles up at him. "It is required." He bunches himself up to the middle of the tub, and Lan Zhan takes his cue, raises one long, muscular leg and then the other, until he can slide comfortably behind Wei Ying. </p><p>Wei Ying may just never leave this place.</p><p>Lan Zhan locates his magical cloud-like sponge, and he runs it over the front of Wei Ying’s body, his chest, his abdomen, his arms. It is not so much about cleaning him, Wei Ying thinks, as it is about the repetitions of the movements, of pampering him for the sake of his joy and nothing else.</p><p>"Lan Zhan," he whispers, when Lan Zhan’s motions continue wordlessly, making him squirm with the decadence of it.</p><p>"Mn." Lan Zhan sweeps away Wei Ying’s hair from where it stuck to the nape of his neck, and presses a kiss at the hairline, behind his ear.</p><p>"Lan Zhan, what are you thinking?"</p><p>There’s a low rumble against Wei Ying’s back and a breath of air against the nape of his neck. Lan Zhan laughing softly. Wei Ying decides that counts as a smile. </p><p>"I am thinking of what we did earlier."</p><p>Wei Ying gasps. "So shameless. And here I thought you were all about taking care of me."</p><p>He bites his lip after it comes out. It seems there is a limit to how thick his face is. He’s glad Lan Zhan can’t see his expression from behind.</p><p>"I am." The sponge abandoned, for now, Lan Zhan wraps his arms around Wei Ying. Wei Ying leans back into him, the shell of his ear grazing the outline of Lan Zhan’s jaw. "I was wondering which parts of it you liked." He can feel it when Lan Zhan smiles, hear the smirk in his words. "I was under the impression that you liked it very much."</p><p>Wei Ying wiggles his ass against him on purpose, rubbing against Lan Zhan’s dick until he can hear the stutter in his breath. Not so smug anymore.</p><p>"I did," Wei Ying says, satisfied. "What about you?"</p><p>"I had a very good time." Lan Zhan’s breath is hot on his ear. "You are very pretty when you try hard not to scream."</p><p>Wei Ying shivers, a sweet, delicious shudder through his spine. Lan Zhan tightens his arms around him, and Wei Ying hears it when he holds his breath, then lets it out, and the next time he speaks his voice is hesitant, low.</p><p>"Would you like me to talk more, the next time? I realize I am not the most... Generous, with words. I try to make up for it through nonverbal cues." Wei Ying twists in his hold to send him a confused look and at this Lan Zhan clarifies, "Touch. I’ve found that it was easier for me. During, and after."</p><p>It makes Wei Ying’s heart flutter in a funny way. "No, that’s fine." More than fine, in fact. Wei Ying snuggles back into him, twists his head further to press a kiss into the hollow of Lan Zhan’s throat. </p><p>"You were very vocal, until I told you to stop." Lan Zhan says. Wei Ying can feel himself blushing, becoming warm. "I thought perhaps —"</p><p>Wei Ying interrupts him. "I liked it when you told me to be quiet. A lot."</p><p>Lan Zhan brings his hand to Wei Ying’s face, cupping his flushed cheek. Wei Ying tries to turn in his grasp, to kiss his palm, but Lan Zhan holds him firmly in place, stroking his cheek, his lips, his chin. Wei Ying wants to have those large hands around him, all over him, caressing and holding and bruising and… </p><p>"What else did you like?"</p><p>Wei Ying scrunches up his nose at him and Lan Zhan finally relents, lets him nibble at the calloused skin of his palm. His mouth isn’t moving but Wei Ying can see it in his eyes, a kind of mirth dancing in those golden pupils.</p><p>"I liked being tied up," Wei Ying answers decisively against Lan Zhan’s palm. He rubs one of his wrists with the other hand, reveling in the evidence, red marks on tanned skin. "And how you made me — this is the first time, I think, when I was…" He wants to say lost, but lost is not the right word. He was right where he should’ve been, only not quite lucid. Present and not present at the same time.</p><p>"You went under." Lan Zhan says. He takes away his hand and Wei Ying whines but then he leans forward for a kiss, soft and tender on Wei Ying’s lips. Wei Ying’s heels slide closer on the floor of the bathtub, wanting to curl into himself and back into Lan Zhan’s hold, to meld himself into Lan Zhan’s body, to take that kiss, and the next one, and the next. He doesn’t mind if their hands and feet will get all wrinkled and pruny, he likes being like that. He likes being here.</p><p>A couple of minutes later Lan Zhan’s words finally register in his mind. His eyes open wide.</p><p>"Oh."</p><p>Lan Zhan smiles at him like a pleased cat, smug and content.</p><p>"W-well," Wei Ying suddenly stutters. "You said it yourself, I enjoyed what we did very much. And also, um. You’re really good. You… It’s never been this good for me, before."</p><p>Lan Zhan’s eyes warm Wei Ying like sunshine from within.</p><p>"Was there anything you did not like?"</p><p>Wei Ying shakes his head. They are naked together in a bathtub, and they have been intimate together — incredibly filthy together — three times by now, and yet he feels the shyness creeping in, making his voice hushed. "You are a very attentive dom." It’s like he can read Wei Ying inside out, target his softest spots, hurt him where he needs him the most.</p><p>And he always asked, when he did something new. He always made Wei Ying tell him the truth. How could anything they’ve been doing not be good?</p><p>Lan Zhan smiles at him softly, and Wei Ying marks it down in the dedicated corner of his heart. "I am happy to hear that. Do you promise to tell me if there ever is?"</p><p>"If there ever is…?" Wei Ying has lost himself in Lan Zhan’s smile a little bit too much.</p><p>"Something that we do that you do not like." Lan Zhan sounds so tentative. Wei Ying’s brow creases, a niggling offense despite himself.</p><p>"I know how to use safewords."</p><p>"I meant…" Lan Zhan stumbles on his words and it makes worry rise in Wei Ying’s throat. Was there something that he missed again? Another crucial piece of information that Lan Zhan expected him to know and Wei Ying didn’t?</p><p>Lan Zhan’s arms tug him closer, sensing his disquiet. </p><p>"Did I do something wrong?" Wei Ying asks in a whisper. The old fear is looming again, threatening to envelop him. But it was good, it was <i>different</i>, Wei Ying even <i>went under</i> just like he read about, and he—</p><p>"You were perfect." Lan Zhan murmurs. "Are perfect. I only meant — if we do this again, that I would want you to tell me. Like now, when we talk. If something wasn’t enough to make you safeword, but you liked it less."</p><p>"Oh." Wei Ying blinks at him stupidly. He never thought…</p><p>He never had the chance before to admit what was fun and what was... A necessary cost. Something he'd liked less. Probably that’s what Lan Zhan means.</p><p>"I’ll tell you, I promise." He brings his hand to Lan Zhan’s heart. "When we do it again, if anything like that comes up."</p><p>The smile that flashes on Lan Zhan’s face is prettier than all the ones that have come before.</p><p>*</p><p>After Lan Zhan carries him back to bed, wrapped in one of his ridiculously soft and giant towels, Wei Ying isn’t quite tired yet, his movement languid, his limbs buzzing in a pleasantly lazy sort of way.</p><p>He pulls Lan Zhan down with him and hangs on his neck until Lan Zhan lowers himself for a kiss, and they lose themselves in the sensations, the towel plush against Wei Ying’s back, their tongues sliding together in a sweet velvety touch, the warm expanse of Lan Zhan’s skin covering Wei Ying’s entire body, first sloppily and then with more intent as their kisses get heated and Lan Zhan organizes their bodies flush together on the bed.</p><p>Lan Zhan is hard again, Wei Ying registers between tiny, breathy moans, sounds he didn’t think were coming from him until suddenly he realizes that they are, that he is panting in rhythm with the tantalizing slide of Lan Zhan’s erection against his thigh. For a moment his heart seizes up in fear, because Lan Zhan said the last time that he wasn’t into vanilla, and Wei Ying — he wants so much, he would give this to Lan Zhan always if he could, every day, all the time, but he is mostly feeling like jelly right now and if Lan Zhan expects him to do this again, now—</p><p>Lan Zhan detaches himself from Wei Ying’s mouth. "We don’t have to do anything." The burning amber in his eyes is going out, and his expression is uncomfortably similar to the one he wore on their first night together, when he felt the need to apologize. To Wei Ying. For being kind. "Wei Ying, we don’t have to do anything that you don’t want."</p><p>Wei Ying closes his eyes and surges upwards into him, pushing his shoulder until Lan Zhan responds and rolls over onto his back. Wei Ying opens his eyes then, climbs over him, slides down between his thighs. "What if I want this?" He says, challenging, before he opens his mouth and takes Lan Zhan inside.</p><p>The stretch is familiar by now, but Lan Zhan’s guttural groan is not. Wei Ying hums, ridiculously pleased with himself, and sucks the head of Lan Zhan’s cock studiously, straining his ears to catch every sound. Lan Zhan’s body reacts to his efforts, his hips thrusting shallowly into him while the rest of him relaxes, sinks into the mattress. Lan Zhan’s hand comes to card at Wei Ying’s hair, very different from the way he kept Wei Ying in place earlier. Wei Ying doubles his efforts, hollowing his cheeks and taking Lan Zhan deeper inside. The familiar saltiness is already there, and Wei Ying marvels at his unusually quick recovery, and then he realizes that he, too, is hard, grinding into the mattress with each bob of his head.</p><p>Maybe they just bring that out of each other. Wei Ying sucks harder around Lan Zhan’s cock, his pleased hum resonating through him, all around Lan Zhan and inside his throat.</p><p>Lan Zhan moans.</p><p>Wei Ying increases his speed, grasps the base of Lan Zhan’s cock with his hand for a better angle and reaches down with his other hand to stroke himself, going up on his knees. The touch of his own fingers on his dick is so good, and Wei Ying lets himself go, moaning enthusiastically around Lan Zhan’s cock, feeling him pulse in his mouth, growing, leaking, and then spilling inside him while Lan Zhan shouts, incoherent, hand still so gentle and soft in Wei Ying’s hair.</p><p>Wei Ying drinks him greedily, swallows his come, not bothering to tamp down any of his pleased sounds. Lan Zhan’s eyes are half-lidded when he looks down at him, hazy and dark, and he looks like he knows — like he knows how much Wei Ying wants this, enjoys this, gets off on this — and then Wei Ying closes his eyes when he bucks into his fist and comes, Lan Zhan’s cock finally slipping from between his lips, and he finds himself laughing, joyful, breathy, his whole body alight, relaxed and satiated. </p><p>When he opens his eyes Lan Zhan is watching him, enraptured, a small, sleepy smile hovering on his lips.</p><p>Finally Wei Ying comes to, giggles simmering into a quieter joy. He grabs the towel, pulling on it until Lan Zhan tilts his body and releases the captured edge. He wipes himself down, and uses another corner to clean Lan Zhan up — mostly from Wei Ying’s spit, Wei Ying has been very thorough in his swallowing — and then he throws the towel aside and climbs to lie on top of Lan Zhan.</p><p>Lan Zhan’s arms immediately come around him, holding him safely in place. Wei Ying nuzzles into the skin of his chest until his head rests safely in the nook between Lan Zhan’s shoulder and neck.</p><p>"Was this okay?" Wei Ying’s breath is still coming a little short, exertion and laughter all mingling into happy palpitations in his ribcage, reverberating in his chest.</p><p>"Perfect." Lan Zhan kisses his brow.</p><p>Wei Ying nestles closer into him, wrapped up perfectly in Lan Zhan and in warmth. "I’m so glad that I’m staying here." He grazes his fingernail around Lan Zhan’s nipple and then, feeling compelled, he adds, "I mean, if you’re still sure it’s alright."</p><p>No early shift for him tomorrow. No shift tomorrow at all, in fact. He could stay here for as long as Lan Zhan likes. </p><p>Maybe Lan Zhan will keep Wei Ying tied in his bed all day. </p><p>Wei Ying revels in the luxury of it, imagines being surrounded by these sheets and the scent of sandalwood and sex all day long. Being used, the way Lan Zhan knows how to use him, dirty and unrelenting and so good, and then being nursed back into reality, into happiness, Lan Zhan’s promise of safety and closeness a certain thing, glowing bright.</p><p>When his eyes focus, he realizes that Lan Zhan is staring at him, wide-eyed and disbelieving.</p><p>"Lan Zhan?" Wei Ying peers at him worriedly. "If I overstepped I can—"</p><p>Lan Zhan kisses him, slots their mouths together so forcefully that Wei Ying can barely breathe, captures Wei Ying’s question while it is still on his lips and licks it away, kisses him and kisses him and kisses him.</p><p>"<i>Stay</i>." Lan Zhan breathes when they finally come up for air. "Wei Ying, of course it’s alright, I already said, it’s…" A blush is creeping in on his cheeks, the tips of his ears. </p><p>His Lan Zhan is so handsome. Wei Ying will stay every time, every night, if it means he can make him ethereally happy like this.</p><p>Lan Zhan hides his face at the side of Wei Ying’s head, nosing into his soft hair, his voice trembling when he speaks. "I really like you, Wei Ying. I’m really happy that you are really staying."</p><p>"Hm. Me too." Wei Ying smiles against Lan Zhan’s hair. "But you have to cuddle me, gege." His face heats from his own shamelessness, but he continues. "Otherwise I might not be able to fall asleep."</p><p>"Mn." Lan Zhan agrees. "All the cuddles for Wei Ying."</p><p>He’s so cute. Wei Ying likes him a lot.</p><p>*</p><p>Eventually they disentangle themselves enough to get ready for bed. Wei Ying brought his own toothbrush and sleeping clothes from home, but when Lan Zhan offers him his own clothes Wei Ying can’t refuse, accepting the slightly-too-large shirt that Lan Zhan has brought him and huddling up in it, pawing at the sleeves and wiggling his ass when he notices Lan Zhan staring at him.</p><p>Wei Ying doesn’t bother with the pants. The shirt is long enough.</p><p>Once they are both back in bed and Lan Zhan has turned off the light they find each other in the dark, lying on their sides so that Wei Ying is held tight with his back against Lan Zhan’s chest, Lan Zhan pressing his lips softly over the back of Wei Ying’s head, the shell of his ear, the nape of his neck, giving him all the cuddles that he promised and more.</p><p>Wei Ying could get used to something like this, maybe. If everything continues to go this well.</p><p>He almost doesn’t want to go to sleep, wants to draw the moment on for as long as it will go, but his body is by now the good kind of fatigued, and Lan Zhan’s breath is slow and steady, calming, hot puffs of air against Wei Ying’s ear. Wei Ying’s eyelids begin to droop. </p><p>"'Night, Lan Zhan," he finds himself mumbling while tugging Lan Zhan’s arms tighter around him, a compromise between the alluring call of sleep and his reluctance to let Lan Zhan go. "You were really great today. Always. You’re great."</p><p>"Mm." Lan Zhan’s chest is warm and reassuring against Wei Ying’s back. "I feel the same. Good night, my Wei Ying."</p><p>His Wei Ying. Even with his eyes closed, Wei Ying beams.</p><p>They settle. Wei Ying’s breath becomes slower, Lan Zhan’s arm around him becomes lax. He can feel the movement of Lan Zhan’s lungs, gently expanding and contracting, lulling him to sleep. Warm, like home, and sweet, like honey, like…</p><p>Wei Ying’s eyes spring wide open in the dark.</p><p>He forgot to tell Wen Qing he won’t be coming home tonight.</p><p>If he makes her wait up for him all night he will drive her mad with worry, and there’s no telling what she’ll do to him when he comes back.</p><p>Wei Ying mourns the loss of Lan Zhan’s heat even before he makes a move to get out of bed. </p><p>Gently, carefully, he lifts Lan Zhan’s arm away from his body and slides away, making sure to place it back down on the bed as softly as he can. After a moment’s consideration he reaches for his pillow, arranges it below Lan Zhan’s arm where Wei Ying’s body previously lay. A placeholder, so Lan Zhan won’t be uncomfortable, just until Wei Ying comes back. He can’t help himself from petting Lan Zhan’s arm in the dark, fingers caressing the solid shape of him. Maybe Lan Zhan can choke him one day, Wei Ying thinks. Not like what they’ve done before, fleetingly, with his fingers. Maybe Lan Zhan can incapacitate Wei Ying with his body and wrap this arm around his neck until Wei Ying is seeing stars, until everything fades out to black. He wonders if Lan Zhan would like that. He should ask him, the next time. Or maybe — in one of the next times, when Wei Ying feels like it.</p><p>He closes the bedroom door quietly behind him and tiptoes to the living room, where he left his phone in his jeans pocket hours, ages ago.</p><p>"Wei Ying!" Wen Qing sounds furious, even though Wei Ying has been coming back home hours later than this without notice. Not since he met Lan Zhan though. Funny how quick Wen Qing has gotten used to the new times he kept. </p><p>"I’m fine, I’m fine!" It’s chilly outside the bed, not cold enough for the heat to be left on but not warm enough for a guy whose only clothing item is his boyf— his dom’s pajama shirt. "Qing-jie, I’m staying over at Lan Zhan’s tonight, I’m sorry I forgot to tell you, please don’t be mad."</p><p>Miraculously, Wen Qing is placated. "You really like him, huh?"</p><p>At least his embarrassment warms him somewhat. "Yeah, I do, don’t make fun of me."</p><p>"Is he treating you well?" </p><p>He thinks she suspects something, after the previous two times, after so many times before when she needed to — be his caretaker, basically, Wei Ying thinks. He is so grateful for her. He should tell her, someday. "Very well," he whispers into the phone for now. "I gotta go, I gotta — I want to go back to bed soon."</p><p>She snorts at him.</p><p>"To sleep!" He hisses. Then, before his nerves desert him, he blurts, "We did <i>that</i> before. And don’t worry he treats me very well he’s wonderful sorry to have kept you waiting okay good night!"</p><p>He double checks that his phone is on silent and ignores the messages already starting to pour in. She’ll probably tire herself out soon enough, and he can deal with the rest tomorrow, in the morning or — whenever Lan Zhan chooses to let go of him.</p><p>When Wei Ying returns to bed he finds Lan Zhan unmistakably sleeping, now lying on his back. He tries to curb his disappointment. Maybe the pillow that Wei Ying used as a replacement wasn’t comfortable enough for him.</p><p>He climbs into the bed and throws his arm over Lan Zhan’s chest instead, placing his head on Lan Zhan’s shoulder, seeking the soft part of him.</p><p>It’s not as perfect as being spooned, but it is warm and reassuring and sweet, and Wei Ying drifts, falling asleep to the repeated sound of Lan Zhan’s words in his head, saying, "My Wei Ying."</p><p>*</p><p>Wei Ying wakes up to the feel of Lan Zhan’s hand in his hair. Awareness comes back gradually, mind and body slowly awakening.</p><p>Wei Ying is in Lan Zhan’s bed. Lying on Lan Zhan’s chest.</p><p>Last night, Lan Zhan called him <i>his</i>.</p><p>Wei Ying opens his eyes. He rubs his cheek against Lan Zhan’s bare skin, sighing contentedly.</p><p>"Wei Ying." A deep, echoing rumble against his ear. "I didn’t mean to wake you."</p><p>Wei Ying breathes him in, kisses his jaw, runs his hand over Lan Zhan’s pecs possessively, turns his head to kiss his shoulder as well. "I like waking up with you."</p><p>His senses are telling him that it’s early — too early, un-Wei Ying-like early, but Wei Ying feels like vibrating, awake, ready to jump up and down or laugh out loud or — be held. Most of all he would like to be held.</p><p>"I thought you might’ve left," Lan Zhan says quietly. "Last night."</p><p>Wei Ying props himself up on his forearms, leaning lightly on Lan Zhan. Lan Zhan’s eyes are shining, grateful, astonished, and there’s also something more, something else.</p><p>"I said I would stay, didn’t I?"</p><p>Lan Zhan still watches him, expression unreadable, and in a fit of inspiration Wei Ying places his hand gently over Lan Zhan's heart. It is beating rapidly and Wei Ying can feel its pumping against his fingers, thump-thump, thump-thump, thump-thump.</p><p>"Lan Zhan, are you —" Wei Ying has to stop and swallow, choked up from the affection that he suddenly feels. "Are you shy?"</p><p>"I like to think that I am courteous." Lan Zhan sounds stiff. Wei Ying pats him on the chest, kisses the edge of his jaw, trying to placate him.</p><p>"You are very courteous, Lan Zhan, but I mean — did you really not believe me? Why didn’t you say something?"</p><p>"No one has ever stayed, before. They must not have thought me very interesting, outside of…"</p><p>Wei Ying hugs him fiercely then, trying to encircle Lan Zhan with his arms, suffuse him with tenderness. "That’s ridiculous. You’re so wonderful, Lan Zhan, you’re the best."</p><p>"How would you know?" Lan Zhan is finally looking at him, vulnerable and ravenous, a crack in his facade.</p><p>"Because," Wei Ying says resolutely. When Lan Zhan quirks a brow Wei Ying continues, more seriously. "I can’t know for sure. <i>Yet</i>. But I know enough. I know I want to find out more."</p><p>Everything Lan Zhan can do to him, with him, can make him feel. But also — what does Lan Zhan like for breakfast, does he have any siblings, will he always pet Wei Ying’s hair before Wei Ying wakes up in the morning.</p><p>"You do?"</p><p>Wei Ying nods against his neck. "I like you so much, Lan Zhan. Everything — when you’re mean and when you’re tender. When you’re hot and when you’re cute, like now. I want to —" He takes a deep breath. None of this was planned, though now he wonders why. "I would like to see you more. Not just… not just for sex. But also that!" He continues hurriedly. "I don’t think I could take it if we stopped. I would simply die."</p><p>"Then I shall do my best," Lan Zhan says, deadpan, but when Wei Ying raises his gaze Lan Zhan’s ears are bright pink, and his mouth is smiling.</p><p>"And you’ll…" Wei Ying touches his forehead to Lan Zhan’s shoulder, hiding his face. "You’ll take good care of me even when we don’t scene? I’m asking for Wen Qing," Wei Ying hastens to add. "She’s my roommate, and she’ll interrogate me about you the moment I’m back so I should, I should have a good answer for her. Because… because of the way things have been, before."</p><p>He yelps when Lan Zhan flips them over without warning. </p><p>"Always." Lan Zhan promises, and proceeds to demonstrate thoroughly.</p></div>
+        <!-- end cache -->
+    </div>
+<!--/chapter-->
+
+    <!--afterword-->
+    <div class="afterword preface group" role="complementary">
+        <!--work endnotes-->
+<div id="work_endnotes" class="end notes module">
+  <h3 class="heading">Notes:</h3>
+  <blockquote class="userstuff"><p>Thank you for reading! Comments are love.</p><p>It would be remiss of me if I did not mention here some of the works that have helped shape the way I view and write Dom/sub relationships and in particular aftercare:</p><p>- the series <a href="https://archiveofourown.org/series/1970023" rel="nofollow">to dwell inside a body</a> by typefortydeductions<br/>- <a href="https://archiveofourown.org/works/26447485" rel="nofollow">In Case You Should Ever Ask</a> by phnelt<br/>- <a href="https://archiveofourown.org/works/27214966" rel="nofollow">like it's the only thing i'll ever do</a> by quoth_the_ravenclaw</p><p>All very recommended. I am sometimes on <a href="https://twitter.com/ilip_13/" rel="nofollow">twitter</a> and <a href="https://ilip13.tumblr.com/" rel="nofollow">tumblr</a>, feel free to come and say hi.</p></blockquote>
+</div>
+<!--/work endnotes-->
+    </div>
+    <!--/afterword-->
+
+  </div>
+  <!-- END work skin -->
+<!-- END work -->
+
+<!-- BEGIN comment section -->
+<!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="SBENylNjoqDsQsOBiPPRhlbUAf5XoEWrJr3-lq-pSsvm7U2IXSnkS3k3S8icXYdDN6F7ZXVXxO2xCDE_q8logw"/>
+          <input value="29660451" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?work_id=29660451">Comments (271)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/SofaCozy">SofaCozy</a>, <a href="/users/Primrosieeee">Primrosieeee</a>, <a href="/users/SleepyPandaNya">SleepyPandaNya</a>, <a href="/users/Hoshigawa_Ren">Hoshigawa_Ren</a>, <a href="/users/Autumn_Fey">Autumn_Fey</a>, <a href="/users/JuneSong13">JuneSong13</a>, <a href="/users/jekaterina31">jekaterina31</a>, <a href="/users/Dusk_Illusionist">Dusk_Illusionist</a>, <a href="/users/Annie_Blackhill">Annie_Blackhill</a>, <a href="/users/AnaWhite7">AnaWhite7</a>, <a href="/users/sillyciri">sillyciri</a>, <a href="/users/Celestitax3">Celestitax3</a>, <a href="/users/linzy">linzy</a>, <a href="/users/f_westkage">f_westkage</a>, <a href="/users/welllookwhoitis">welllookwhoitis</a>, <a href="/users/Darmhie">Darmhie</a>, <a href="/users/TheKingofKittyLand">TheKingofKittyLand</a>, <a href="/users/Thedoctorsdoorbell">Thedoctorsdoorbell</a>, <a href="/users/chocolatemilkkitty">chocolatemilkkitty</a>, <a href="/users/JulTtwny">JulTtwny</a>, <a href="/users/lindgrsl77">lindgrsl77</a>, <a href="/users/cassiopia">cassiopia</a>, <a href="/users/esarity">esarity</a>, <a href="/users/Veica_Ra">Veica_Ra</a>, <a href="/users/Jaylovesthings">Jaylovesthings</a>, <a href="/users/cutecobain">cutecobain</a>, <a href="/users/Amollygamation">Amollygamation</a>, <a href="/users/natewess">natewess</a>, <a href="/users/Kuroooi">Kuroooi</a>, <a href="/users/Nikkikannaaa">Nikkikannaaa</a>, <a href="/users/77steph">77steph</a>, <a href="/users/MirandaClank">MirandaClank</a>, <a href="/users/ananngel">ananngel</a>, <a href="/users/d_h">d_h</a>, <a href="/users/dream_waking">dream_waking</a>, <a href="/users/moonshout">moonshout</a>, <a href="/users/I_am_SCREEE">I_am_SCREEE</a>, <a href="/users/bisexualbard">bisexualbard</a>, <a href="/users/LemmingWithALocket">LemmingWithALocket</a>, <a href="/users/srlx">srlx</a>, <a href="/users/faelinie">faelinie</a>, <a href="/users/Ilovechaats">Ilovechaats</a>, <a href="/users/gracie">gracie</a>, <a href="/users/dragons_and_angels">dragons_and_angels</a>, <a href="/users/fluerdelis">fluerdelis</a>, <a href="/users/MistressKat">MistressKat</a>, <a href="/users/AnechkaSun01">AnechkaSun01</a>, <a href="/users/Secretchoki">Secretchoki</a>, <a href="/users/Wing_of_Ebony">Wing_of_Ebony</a>, <a href="/users/sabkkaebsong">sabkkaebsong</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/29660451/kudos?before=3870344251">2209 more users</a>
+             as well as 
+          563 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_29660451">
+  <form class="new_comment" id="comment_for_29660451" action="/works/29660451/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="ZJtvuYmaBz9E8-Dyl0O9mOnVBCPiNX3NJVLp-0NRgtnKZy_7h9BB1NGGaLuD7etdiKB-uMDC_Iuy5yZSRzGgkQ"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_29660451">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_29660451" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_29660451=new LiveValidation('comment_name_for_29660451',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_29660451.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_29660451">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_29660451" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_29660451=new LiveValidation('comment_email_for_29660451',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_29660451.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_29660451" class="landmark">Comment</label>
+        <textarea id="comment_content_for_29660451" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_29660451" name="controller_name" value="works"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_29660451_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_29660451">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_29660451=new LiveValidation('comment_content_for_29660451',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_29660451.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_29660451.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_29660451" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+<!-- END comment section -->
+<!-- END revealed -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/29660451/hit_count.json")})</script>
+
+
+  </body>
+</html>

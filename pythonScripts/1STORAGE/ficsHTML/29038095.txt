@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        If history is dead and gone - Chapter 1 - iregretallmydecisions - Minecraft (Video Game) [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="E5V69hYDZYts0la1_TxYvQhV7-_extjMCqImSHYx6e5kz0Cr7y-0XHxibsjZ_oYsnsG4Ahjfnfh1pxkmMIG1oA"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="xKD6QG1CeM6xOdfuOM5E5mi-GiB9O-2INfgKwgBlL7uz-sAdlG6pGaGJ75McDJp3_ipNzbsiqLxK_TWsRtVz9Q"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: arthur merlin words&gt;1000 sort:hits</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/29038095?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/29038095/chapters/71441412#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/29038095/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/29038095/chapters/71273013" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="71273013">1. daylight could be so violent</option>
+<option value="71441412">2. some sign of life</option>
+<option value="71620830">3. I feel like I might fade into the dawn</option>
+<option value="71677668">4. fire, help me forget</option>
+<option value="71847852">5. sacrifice is the price I pay</option>
+<option value="72077487">6. you can see it in my smile</option>
+<option value="72154980">7. i'm the story you don't speak of</option>
+<option value="72365463">8. can't slow down, can't hold back</option>
+<option value="72557574">9. look me in my eyes, tell me everything's not fin...</option>
+<option value="72766017">10. not where I belong</option>
+<option value="73288647">11. and it's and old scar</option>
+<option value="73411041">12. i remember the looks on their faces</option>
+<option value="73793274">13. some would scream and some would sing</option>
+<option value="73952397">14. don’t need no permission</option>
+<option value="74173191">15. try twice as hard, and i'm half as liked</option>
+<option value="74398959">16. though the truth may vary</option>
+<option value="74716503">17. who’s a heretic now?</option>
+<option value="75016038">18. i wish you could see the wicked truth</option>
+<option value="75447392">19. why don't you play nice?</option>
+<option value="75709763">20. why don't you stare back?</option>
+<option value="76089080">21. well how'd it get to be only me?</option>
+<option value="76226954">22. i know what it means to be on my own</option>
+<option value="76730384">23. my heart was never pure</option>
+<option value="76984211">24. it's for the best you didn't listen</option>
+<option value="77177819">25. with blood on it's wing</option>
+<option value="77562533">26. i turned 'round and there you go</option>
+<option value="78013013">27. i don't think i have a clue</option>
+<option value="78361034">28. i could use some friends for a change</option>
+<option value="78758950">29. are you stuck in your own ways?</option>
+<option value="78950344">30. Chapter 30</option>
+<option value="79358521">31. sittin pretty in the prime of life</option>
+<option value="80721154">32. the stairs creak as you sleep</option>
+<option value="82144534">33. rate yourself and rake yourself</option>
+<option value="83525605">34. ain't nothing in this world for free</option>
+<option value="85272400">35. everything you thought you knew</option>
+<option value="87476182">36. you'll never be what is in your heart</option>
+<option value="87615667">37. you held it like a mirror, showing me the life ...</option>
+<option value="88952860">38. my thoughts are closing in</option>
+<option value="89965909">39. the problem's in my chest</option>
+<option value="91609894">40. a revelation, some kind of resolution</option>
+<option value="93140251">41. i 'm hoping you'll come soon</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/29038095/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=71273013">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/29038095/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/29038095/If%20history%20is%20dead%20and.azw3?updated_at=1646700425">AZW3</a></li>
+          <li><a href="/downloads/29038095/If%20history%20is%20dead%20and.epub?updated_at=1646700425">EPUB</a></li>
+          <li><a href="/downloads/29038095/If%20history%20is%20dead%20and.mobi?updated_at=1646700425">MOBI</a></li>
+          <li><a href="/downloads/29038095/If%20history%20is%20dead%20and.pdf?updated_at=1646700425">PDF</a></li>
+          <li><a href="/downloads/29038095/If%20history%20is%20dead%20and.html?updated_at=1646700425">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Mature/works">Mature</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Choose%20Not%20To%20Use%20Archive%20Warnings/works">Creator Chose Not To Use Archive Warnings</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Gen/works">Gen</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Minecraft%20(Video%20Game)/works">Minecraft (Video Game)</a></li><li><a class="tag" href="/tags/Dream%20SMP%20-%20Fandom/works">Dream SMP - Fandom</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Wilbur%20Soot%20*a*%20Technoblade%20*a*%20TommyInnit%20*a*%20Phil%20Watson/works">Wilbur Soot &amp; Technoblade &amp; TommyInnit &amp; Phil Watson</a></li><li><a class="tag" href="/tags/Tommyinnit%20*a*%20Tubbo/works">Tommyinnit &amp; Tubbo</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/TommyInnit%20(Video%20Blogging%20RPF)/works">TommyInnit (Video Blogging RPF)</a></li><li><a class="tag" href="/tags/Technoblade%20(Video%20Blogging%20RPF)/works">Technoblade (Video Blogging RPF)</a></li><li><a class="tag" href="/tags/Phil%20Watson%20(Video%20Blogging%20RPF)/works">Phil Watson (Video Blogging RPF)</a></li><li><a class="tag" href="/tags/Wilbur%20Soot/works">Wilbur Soot</a></li><li><a class="tag" href="/tags/Toby%20Smith%20%7C%20Tubbo/works">Toby Smith | Tubbo</a></li><li><a class="tag" href="/tags/Karl%20Jacobs/works">Karl Jacobs</a></li><li><a class="tag" href="/tags/Eret%20(Video%20Blogging%20RPF)/works">Eret (Video Blogging RPF)</a></li><li><a class="tag" href="/tags/Captain%20Puffy/works">Captain Puffy</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Time%20Travel/works">Time Travel</a></li><li><a class="tag" href="/tags/Time%20Travel%20Fix-It/works">Time Travel Fix-It</a></li><li><a class="tag" href="/tags/Sleepy%20Bois%20Inc%20as%20Family/works">Sleepy Bois Inc as Family</a></li><li><a class="tag" href="/tags/Good%20Parent%20Phil%20Watson%20(Video%20Blogging%20RPF)/works">Good Parent Phil Watson (Video Blogging RPF)</a></li><li><a class="tag" href="/tags/Angst/works">Angst</a></li><li><a class="tag" href="/tags/Bad%20Parent%20Phil%20Watson%20(Video%20Blogging%20RPF)/works">Bad Parent Phil Watson (Video Blogging RPF)</a></li><li><a class="tag" href="/tags/Alternate%20Universe%20-%20Canon%20Divergence/works">Alternate Universe - Canon Divergence</a></li><li><a class="tag" href="/tags/Not%20Canon%20Compliant/works">Not Canon Compliant</a></li><li><a class="tag" href="/tags/Sleepy%20Bois%20Inc%20Angst/works">Sleepy Bois Inc Angst</a></li><li><a class="tag" href="/tags/Eventual%20Happy%20Ending/works">Eventual Happy Ending</a></li><li><a class="tag" href="/tags/Nightmares/works">Nightmares</a></li><li><a class="tag" href="/tags/Winged%20Phil%20Watson%20(Video%20Blogging%20RPF)/works">Winged Phil Watson (Video Blogging RPF)</a></li><li><a class="tag" href="/tags/Twins%20Wilbur%20Soot%20*a*%20Technoblade/works">Twins Wilbur Soot &amp; Technoblade</a></li><li><a class="tag" href="/tags/Canon-Typical%20Violence/works">Canon-Typical Violence</a></li><li><a class="tag" href="/tags/Unreliable%20Narrator/works">Unreliable Narrator</a></li><li><a class="tag" href="/tags/Sleepy%20Bois%20Inc-centric/works">Sleepy Bois Inc-centric</a></li><li><a class="tag" href="/tags/Wilbur%20Soot%20and%20Technoblade%20and%20TommyInnit%20are%20Siblings/works">Wilbur Soot and Technoblade and TommyInnit are Siblings</a></li><li><a class="tag" href="/tags/Character%20Death/works">Character Death</a></li><li><a class="tag" href="/tags/Character%20Undeath/works">Character Undeath</a></li><li><a class="tag" href="/tags/Angst%20with%20a%20Happy%20Ending/works">Angst with a Happy Ending</a></li><li><a class="tag" href="/tags/Trauma/works">Trauma</a></li><li><a class="tag" href="/tags/Attempt%20at%20Humor/works">Attempt at Humor</a></li><li><a class="tag" href="/tags/Swearing/works">Swearing</a></li><li><a class="tag" href="/tags/Minecraft%20Mechanics/works">Minecraft Mechanics</a></li><li><a class="tag" href="/tags/3%20death%20rule/works">3 death rule</a></li><li><a class="tag" href="/tags/no%20beta%20we%20die%20like%20l&#39;manburg/works">no beta we die like l&#39;manburg</a></li><li><a class="tag" href="/tags/Platonic%20Relationships/works">Platonic Relationships</a></li><li><a class="tag" href="/tags/Suicidal%20Thoughts/works">Suicidal Thoughts</a></li><li><a class="tag" href="/tags/Self-Esteem%20Issues/works">Self-Esteem Issues</a></li><li><a class="tag" href="/tags/Worldbuilding/works">Worldbuilding</a></li><li><a class="tag" href="/tags/Timeline%20What%20Timeline/works">Timeline What Timeline</a></li><li><a class="tag" href="/tags/War%20Crimes/works">War Crimes</a></li><li><a class="tag" href="/tags/Body%20Horror/works">Body Horror</a></li><li><a class="tag" href="/tags/Piglin%20Hybrid%20Technoblade%20(Video%20Blogging%20RPF)/works">Piglin Hybrid Technoblade (Video Blogging RPF)</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+      <dt class="series">
+        Series:
+      </dt>
+      <dd class="series">
+        <span class="series"><span class="position">Part 1 of the <a href="/series/2278199">how did we get here?</a> series</span><span class="divider"> </span><a class="next" href="/works/31395182">Next Work &#8594;</a></span>
+      </dd>
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/Mcytficrec">MCYT Fic Rec</a>, <a href="/collections/ThereAreOtherFicsDontWorry">Dream SMP Fics (Mainly Tommy (Yeah I'm That Bitch))</a>, <a href="/collections/Pog_Through_The_Pain">Pog MCYT Fics</a>, <a href="/collections/Time_Travel_Fics_That_Water_My_Crops">Time Travel Fics That Water My Crops</a>, <a href="/collections/DreamSMP_Fics_That_Butter_My_Bread">Dream SMP fics that butter my bread</a>, <a href="/collections/favficsdearsociety">sob i love these fics sm</a>, <a href="/collections/skippingclasswork">val's list of things to skip homework for ᕕ( ᐛ )ᕗ</a>, <a href="/collections/fic_recommendations">fics yes i love you</a>, <a href="/collections/SBIficsthatisjustdlvdjdbperfect">Im a c!tommy kinnie and a sucker for SBI so sue me</a>, <a href="/collections/Sbi_and_dsmp">Cross' Collection of DSMP/SBI fics (unfinished)</a>, <a href="/collections/b7eautiful_everything">great reads</a>, <a href="/collections/Amesfaves">Amesfaves</a>, <a href="/collections/Lesstraumabuthappy">Less trauma but still trauma but also happy?</a>, <a href="/collections/more_sbi_fics">sbi family fics to make me feel something</a>, <a href="/collections/IFDRecs">International Fanworks Day 2022 - Classic Fic Recs</a>, <a href="/collections/dsmpficsilikr">Dsmp fics I like (sprite)</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2021-01-28</dd><dt class="status">Updated:</dt><dd class="status">2022-02-23</dd><dt class="words">Words:</dt><dd class="words">238166</dd><dt class="chapters">Chapters:</dt><dd class="chapters">41/?</dd><dt class="comments">Comments:</dt><dd class="comments">1738</dd><dt class="kudos">Kudos:</dt><dd class="kudos">6145</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/29038095/bookmarks">1238</a></dd><dt class="hits">Hits:</dt><dd class="hits">206070</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      If history is dead and gone
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/iregretallmydecisions/pseuds/iregretallmydecisions">iregretallmydecisions</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>“Don’t come any fucking closer,” Tommy shouted, startling Phil into stepping back. Tommy was still looking around wildly, like a trapped animal “Don’t fucking do it.”<br/>----<br/>In which Tommy finds himself faced with his splintered family, while it was still mostly whole. The past is not an easy place to be when the future was not kind. His family is forced to deal with the fall out.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>I.... I cannot believe I'm writing this. Also this is 100% based on the characters within the SMP canon, nothing to do with the actual people. Also, I kinda just... handwaved the ages. Don't pay attention to them.</p>
+<p>//3.22.2021- updated and edited tags.//</p>
+    </blockquote>
+
+    <p class="jump">(See the end of the work for <a href="/chapters/93140251#children">other works inspired by this one</a>.)</p>
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/29038095/chapters/71273013">Chapter 1</a>: daylight could be so violent
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p>Philza was having a <em>normal</em> morning. Normal was a relative term, of course,when you were the father of a moody 20-year-old genius, his (adopted) piglin hybrid twin, and their younger brother, who was a (lovable) menace, not to mention his best friend who was practically a fourth kid.</p><p>With a family like that, the house was always loud. Of course, it had quieted in some in the last few years, as kids matured and moved on (and while quiet was nice, he would lie if he said he sometimes didn’t miss the noise). Technoblade was spending more and more time away from home- hell, Phil hadn’t seen his eldest son in almost a year, and he hadn’t written in almost a month. He was busy, off doing Ender knows what, though Phil thought he’d mentioned something about potato farming in his rare, brief letters. That was better than bloodshed, at least, he supposed.</p><p>He just hoped his son was safe. As much as he joked about Wilbur being an adult and still living at home, Phil was more than happy for his children to stay with him so that he knew they were safe and cared for. He hadn’t denied Technoblade’s request to leave, but he often wished his oldest hadn’t left the moment he turned 16. (part of him had wanted to follow, to care for his most unstable son, but Wilbur was still just sixteen at the time and Tommy only 10. Maybe one day, when Tommy was 15 or 16 himself…)</p><p>Regardless, he was having a normal morning, for him. Phil had already tended the cows and horses, ensuring they were fed. He cleared a few trees about a mile from the house, so that the fire would stay warm and cheery, and melt the freshly fallen snow from their boots.</p><p>He’d woken Wilbur when he came in, and sent him off to do his usual chores and had spent the last hour or so cutting up potatoes, carrots, and fresh beef for the stew he was making for lunch. It wasn’t much, but with the cold of early winter settling it, it would taste good and warm them up at midday, which was rapidly approaching.</p><p>Wilbur should have already been finished with his chores but was likely working on a song instead, singing to Maria, their oldest sheep. Phil didn’t care, as long as he cleaned up the barn at some point.</p><p>Tommy, on the other hand, was still sleeping. Normally Phil wouldn’t allow Tommy to sleep so far into the day. It was wasteful when there was always so much to do and see, but Phil felt a little guilty. He and Tommy had been out clearing trees a ways from their house the day before where they were planning to create a bee farm. Phil was lost in his work and Tommy was being helpful but was also having fun pretending to fight imaginary mobs with swords and Phil hadn’t been paying enough attention. It edged a little too close to dark before they started home and the real mobs came out.</p><p>Tommy could hold his own against zombies and creepers rather well, but an Enderman, of all things, had appeared. Phil could still remember the slight squawk of fear his youngest had made, causing Phil to turn from the baby zombie he’d just killed, only to Find an Enderman looming over his youngest, shaking with rage.</p><p>Phil didn’t remember much of what happened in the next few minutes. The next thing he knew, he was standing over the Enderman’s fading body, his trusty netherite sword glistening in his hand, wings thrown wide as Tommy cowered behind him.</p><p>Tommy was really too heavy to carry while flying, but Phil could see he was shaking, and damn it, his son had almost died, right in front of him, Phil wasn’t sure if his hands or Tommy’s were shaking worse as they clung to one another on the flight home.</p><p>The 14-year-old pretended he wasn’t scared when they got back. He told Wilbur that he was a ‘big man’ and that he’d almost had the Enderman down when Phil stole his kill. Phil hadn’t called him out on it and Wilbur hadn’t either after a stern look from Phil. They would play along, but Phil knew Tommy was far more shaken than he was willing to admit. Tommy hadn’t strayed more than a few feet from him or Wilbur the night before. Phil couldn’t help the cool guilt that pooled in his stomach at the idea that his son nearly died because of his own negligence. Tommy acted so brave Phil often forgot he was nearly 8 years younger than his siblings, with far less experience than them. So, he let Tommy sleep.</p><p>But, it was approaching noon and Tommy needed to get up, at least to eat. Perhaps Phil would send Wilbur over to fetch Tubbo- the boy was probably all alone in that house anyway. Tubbo’s father was dead and his mother hardly counted as such- Tubbo spent more time at their house than at his own. Phil didn’t mind, especially since the quiet boy could be such a good influence on Tommy. Well, when Tommy wasn’t being a bad influence on him.</p><p>So Phil allowed the soup to simmer over the fire as he rose up on his feet. His knees twinged a little, stiff after kneeling for so long. Phil certainly wasn’t old, by any means, especially not by hybrid standards, but his body had taken quite a bit of abuse over the last 20 years of fatherhood.</p><p>Phil trudged up the steps to the second floor where all of his son’s bedrooms were. Tommy’s was at the end of the hall and the door was cracked open just enough that Phil could see a small tuft of blonde hair peeking out from under the blankets. He smiled softly. Tommy looked peaceful like that, unlike he did any time he was awake. Phil loved his youngest, but Tommy could be a right menace, especially now that he’d just caught on to swear words. He just… needed a little guidance.</p><p>Tommy was usually a heavy sleep and it sometimes required Phil to practically drag him from bed. If he ever let Technoblade or Wilbur wake Tommy up, there was often water involved. He expected today to be much the same, especially since it had been on into the night before Tommy dozed off on the couch, and Wilbur had carried him up to his bed and tucked him in. Tommy would have protested if he hadn’t been so soundly asleep.</p><p>Phil, however, only had to open the door and take a single step in for Tommy to wake up. Tommy shot straight up in bed, looking around wildly before his eyes finally landed on Phil. The look on Tommy’s face froze Phil for a moment. Tommy’s bright blue eyes were wild and blown wide with what looked like sheer terror. His breathing was unsteady and gasping. Tommy was terrified. Phil’s heart wrenched.</p><p>“No,” Tommy murmured shaking his head slightly, though he had yet to look away from Phil, “oh fuck no. Oh no. Oh shit.”</p><p>That snapped Phil out of his trance. Tommy was terrified- probably still trapped in a nightmare about the Enderman. He couldn't be seeing his room and certainly wasn’t seeing Phil. Tommy was trapped in a nightmare and Phil was stuck watching on the outside. “Tommy,” Phil said softly, taking a step towards his son, hand out, ready to pull him into a hug “Tommy, it’s-”</p><p>Tommy flinched back violently, pressing against the wall “Don’t come any fucking closer.” Tommy shouted suddenly, startling Phil into stepping back. Tommy was still looking around wildly, like a trapped animal “Don’t fucking do it.”</p><p>Tommy had already started picking up curse words from Wilbur and Techno, but the absolute filth spilling from his mouth was unusual even for him. But Tommy was obviously scared, so Phil didn’t try to press closer.</p><p>“Tommy what-”</p><p>Tommy paled even further, completely ignoring Phil’s words as he started to ramble loudly “Oh Ender, if you’re here, Technoblade isn’t far behind. Or are you supposed to bring me to him? I’m not going. I-I won't let you take me Philza- I-I’ll fucking kill you.” Tommy’s eyes wandered back to Phil who was frozen on the spot. There was rage intermingled in that fear. What was his son seeing? What was his son thinking?</p><p>“ I won’t hesitate.” Tommy spat. He pulled his weak wooden sword out of his inventory- he must not have taken it out last night. Phil thought distantly, that he would normally admonish Tommy for that, because it could be dangerous, waking up and being able to pull out a weapon. But Tommy seemed to know exactly what he was doing, with that sword, pointed with an eerily steady hand at Phil “ I-I don’t want to but I will! I need to get out of here. Fuck I’m in deep shit. He is going to fucking kill me, he’s going to kill me or send me to-” Tommy made a choked noise that sounded like sheer panic, and Phil’s stomach twisted in fear for his son. Something was wrong.</p><p>Phil wasn't sure if Tommy was talking to him or just himself, but regardless, what he was saying made no sense. Tommy hadn’t seen his older brother in nearly a year, and not regularly for 4. They two had been close when Tommy was little but Techno couldn’t always handle him, especially not on bad days, when the chat was too loud. But nothing, nothing should have garnered this reaction. What sort of nightmare had he had?</p><p>“Tommy, please, calm-”</p><p>Tommy, however, didn’t seem to hear him, or maybe just didn’t care. Phil wasn’t sure what Tommy was even seeing. Before Phil could react Tommy was out of bed and vaulting across the small room. It took a moment to realize what he was doing, but by then it was too late. Phil dove for him, desperately trying to grab his son, but his hands only brushed the back of Tommy’s shirt. Phil gaped in horror as his son crashed through the glass panes of the window, breaking it with only his body. Phil scrambled to his feet, from where he’d crashed to the floor, and ran to the small window. “Tommy!” he shouted out into the cold morning air as ice spread up his spine, but he only caught a glimpse of blonde vanishing into the dense wood that sprawled around their house.</p><p>----</p><p>The window wasn’t big enough for Phil to fly out of and he cursed that design flaw as he ran down the steps. He paused only long enough to pull on his boots and stormed out the door. Every second wasted was a second that Tommy was doing Ender knows what. Every second was one more towards nightfall. Phil’s hands didn’t shake, but it was only years of fighting that kept them steady.</p><p>“Dad?” Wilbur was just outside the door, guitar in hand “I heard a crash. Is everything ok?”</p><p>“Tommy’s gone,” Phil said shortly, trying not to let the cold panic that clutched at his heart seep into his voice. He needed to keep a level head, for Tommy and for Wilbur. He needed Wilbur to keep it together. He needed his eyes. “I went to wake him up and he panicked, talking out of his head. He jumped out the window before I realized what he was even doing.”</p><p>“What? Out the window? Is he okay?” Wilbur asked, concern leaking into his tone “Why-”</p><p>“Will, I don’t know.” He snapped “I need you to help me find him. I’m taking to the sky, I need you on the ground. Tommy went north- try and follow his tracks. Take a sword and be careful. Signal me if you find him or if you need me.”</p><p>Wilbur looked panicked but Phil didn’t have time to coddle him, not now, not when it was cold, snowing, and inching towards nightfall. Tommy would never last all night against the mobs, not with only a wooden sword. . He simply clapped a hand on Will’s shoulder and said “Be careful, son.” Then he unfurled his dark wings and took off into the skies.</p><p>---<br/>
+Tommy was running. He had no fucking clue what else he could do. His weapons were gone. His armour was gone. Even his food, his meagre potatoes, and bread were taken. He had nothing but the stupid wooden sword that he didn’t even remember making, let alone why he would clear his inventory for it. Phil had probably fucking taken it.</p><p>All he knew was that he was in a strange room, with his dad, no Philza standing over him. And wasn’t that just fucking great? Phil was almost as bad as Technoblade, if not worse in the whole ‘hating his guts’ thing. He didn’t know if Phil would kill him or not, but the only reason that Phil would be anywhere near him these days would be if Technoblade asked him to. And after everything that happened, well, Techno would want nothing more than to run Tommy through with a sword. He made that clear the day he blew up L’Manburg. He knew that even before he’d betrayed Technoblade.</p><p>Tommy thought he was relatively safe where he was, despite 90% of the SMP hating him, he was almost certain Phil and Techno hadn’t been hunting him. But, apparently, he was wrong. He must’ve wandered too far into the woods, (though he couldn't really remember anything from the last few days) and wandered into Philza’s fucking hut.</p><p>He had vaguely recognized the house, but couldn’t place it. He hadn’t exactly studied it either, not when he woke up to Philza standing over him. No, there was only time to try and get the fuck out, like every instinct was screaming at him to do.</p><p>The landscape he wasn’t as far north as Techno’s farm, but there was still snow on the ground and a chill in the air. He thought he’d been there before but again-he only had time to run- he couldn't be bothered to study the fucking tress. Besides, Tommy couldn't focus. His head ached almost as much as his body and everything was… fuzzy. Wrong. He just needed to get away. He had to fucking hide, before Phil could find him. Tommy, despite what people thought, really didn’t want to die.</p><p>His inventory was pitiful, but he had a wooden sword and an old pickax. That would be enough to create a dugout and a few small torches. IT wasn’t much but it was enough to survive the night. It had to be.</p><p>Tommy wasn’t sure how far he’d gotten but it probably wasn't far enough, especially if Phil got desperate enough to take to the skies. He didn’t know if he would risk Dream’s wrath by flying though. But, his feet ached and despite how much he’d run recently, he was already winded. His sides ached and his legs struggled to keep under him. How was he so out of shape?</p><p>Tommy finally had to stop. He didn't want to. He would die if he did, at the hands of Phil or Techno, but if he kept going the snow would get him first. Maybe Techno Would make it quick? His aching body wouldn’t let him go another step as it stood- not if he wanted a shelter.</p><p>. Tommy forced himself to stay upright, as he stumbled against the side of a rock wall. Something about it was familiar, like everything else, but Tommy wasn’t sure what. He didn’t care. The area wasn’t ideal but he couldn’t bring himself to try and craft. He swung his pickaxe, forcing his shaking arms to dig a shallow dugout on the side of the rock wall. It was tiny, only a few blocks wide and two tall, but it was enough. It would keep the zombies out. He lit one of his torches and rebuilt the wall. He hated staring at the blank stone wall in front of him, too much like Pogtopia and all those weeks without sunlight, but he couldn’t afford to be caught. And he was tired. He was so fucking tired.</p><p>Tommy shivered against the cold stone rock wall. He needed to stay awake, just in case Phil managed to find his hideout, needed to be ready to fight, but he was cold. And tired, and everything felt wrong. Tommy was sure that he could figure it out if only he could focus, but everything was fuzzy and fading fast.</p><p>Maybe a nap would help, Tommy thought distantly, a nap sounded nice.</p>
+  </div>
+  <!--/main-->
+
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/29038095/chapters/71441412#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="Fjf5hLpu3SDk36E6BeuUIOXL1WscuVUhfzv4CAK0CZVhbcPZQ0IM9_RvmUchKUqxc1-ChtqgEBUAPsdmRARV2w"/>
+          <input value="29038095" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=71273013">Comments (26)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/Goat1744">Goat1744</a>, <a href="/users/ImaMonster">ImaMonster</a>, <a href="/users/SnazzyFish">SnazzyFish</a>, <a href="/users/DollsandTears">DollsandTears</a>, <a href="/users/5kullflow">5kullflow</a>, <a href="/users/ImmortalityAtItsFinest">ImmortalityAtItsFinest</a>, <a href="/users/ThisisJelly">ThisisJelly</a>, <a href="/users/B998">B998</a>, <a href="/users/esmy_aorel">esmy_aorel</a>, <a href="/users/Koomou">Koomou</a>, <a href="/users/Glayde">Glayde</a>, <a href="/users/grayscayl">grayscayl</a>, <a href="/users/katsukisangel">katsukisangel</a>, <a href="/users/TheUnknownAuthorAl">TheUnknownAuthorAl</a>, <a href="/users/Mitsuki_Yozora">Mitsuki_Yozora</a>, <a href="/users/One2three">One2three</a>, <a href="/users/aSpaceRat">aSpaceRat</a>, <a href="/users/eternalempires">eternalempires</a>, <a href="/users/with_starry_eyes">with_starry_eyes</a>, <a href="/users/Fru1tT3aa">Fru1tT3aa</a>, <a href="/users/notamangostan">notamangostan</a>, <a href="/users/dsmpangst">dsmpangst</a>, <a href="/users/Kyle1223">Kyle1223</a>, <a href="/users/Okimairu">Okimairu</a>, <a href="/users/PIKAAAbakibaki">PIKAAAbakibaki</a>, <a href="/users/RandomSleeper">RandomSleeper</a>, <a href="/users/ak531">ak531</a>, <a href="/users/panuramine">panuramine</a>, <a href="/users/Batmans_SharpShooter">Batmans_SharpShooter</a>, <a href="/users/shadelessxroyalty">shadelessxroyalty</a>, <a href="/users/Melodic_Storm">Melodic_Storm</a>, <a href="/users/Nicholasis">Nicholasis</a>, <a href="/users/RavenclawBay">RavenclawBay</a>, <a href="/users/Michael_is_Weird">Michael_is_Weird</a>, <a href="/users/ZetaEta87">ZetaEta87</a>, <a href="/users/Saden_Imet">Saden_Imet</a>, <a href="/users/trash_fire7056">trash_fire7056</a>, <a href="/users/burnedandbranded">burnedandbranded</a>, <a href="/users/sam_thebag">sam_thebag</a>, <a href="/users/Cbhv4321">Cbhv4321</a>, <a href="/users/SeasideOpal">SeasideOpal</a>, <a href="/users/Ataga">Ataga</a>, <a href="/users/22allikatt">22allikatt</a>, <a href="/users/Neon_Noodles">Neon_Noodles</a>, <a href="/users/that_weird_gay">that_weird_gay</a>, <a href="/users/Avello">Avello</a>, <a href="/users/Puddinggamo">Puddinggamo</a>, <a href="/users/AuroraRae">AuroraRae</a>, <a href="/users/skypatch">skypatch</a>, <a href="/users/Saphirien">Saphirien</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/29038095/kudos?before=3855520138">3409 more users</a>
+             as well as 
+          2686 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_71273013">
+  <form class="new_comment" id="comment_for_71273013" action="/chapters/71273013/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="GmM57T-dyTR3pzdrx0XAep9lz1qvhCWKqneZ-1pWzQ5tOQOwxrEY42cXDxbjhx7rCfGYt2mdYL7VcqaVHOaRQA"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_71273013">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_71273013" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_71273013=new LiveValidation('comment_name_for_71273013',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_71273013.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_71273013">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_71273013" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_71273013=new LiveValidation('comment_email_for_71273013',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_71273013.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_71273013" class="landmark">Comment</label>
+        <textarea id="comment_content_for_71273013" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_71273013" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_71273013_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_71273013">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_71273013=new LiveValidation('comment_content_for_71273013',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_71273013.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_71273013.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_71273013" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/29038095/hit_count.json")})</script>
+
+
+  </body>
+</html>

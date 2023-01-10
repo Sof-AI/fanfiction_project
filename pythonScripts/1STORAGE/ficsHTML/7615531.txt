@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Speechless - Chapter 1 - Tierfal - Fullmetal Alchemist - All Media Types [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="L5uJumSM8tUvxssuOYzvRSbhCrofn4_s_Q6f9ohzt_zS5ypXIRybqI4Xv-hAUYK8lWg3ugioXlqOIQzbAwEDqg"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="aa06K7fL9iJ4LTD7IjnkZBnY_Bw6fRVYhkLCH_F-MsGU0ZnG8lufX9n8RD1b5ImdqlHBHC1KxO71bVEyegyGlw"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: words:100</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/7615531?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/7615531/chapters/17405395#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/7615531/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/7615531/chapters/17335018" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="17335018">1. Chapter 1</option>
+<option value="17405395">2. Chapter 2</option>
+<option value="17562736">3. Chapter 3</option>
+<option value="17730412">4. Chapter 4</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/7615531/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=17335018">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/7615531/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/7615531/Speechless.azw3?updated_at=1645246883">AZW3</a></li>
+          <li><a href="/downloads/7615531/Speechless.epub?updated_at=1645246883">EPUB</a></li>
+          <li><a href="/downloads/7615531/Speechless.mobi?updated_at=1645246883">MOBI</a></li>
+          <li><a href="/downloads/7615531/Speechless.pdf?updated_at=1645246883">PDF</a></li>
+          <li><a href="/downloads/7615531/Speechless.html?updated_at=1645246883">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Mature/works">Mature</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandom:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Fullmetal%20Alchemist%20-%20All%20Media%20Types/works">Fullmetal Alchemist - All Media Types</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationship:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Edward%20Elric*s*Roy%20Mustang/works">Edward Elric/Roy Mustang</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Edward%20Elric/works">Edward Elric</a></li><li><a class="tag" href="/tags/Alphonse%20Elric/works">Alphonse Elric</a></li><li><a class="tag" href="/tags/Roy%20Mustang/works">Roy Mustang</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Canon:%20Fullmetal%20Alchemist:%20Brotherhood/works">Canon: Fullmetal Alchemist: Brotherhood</a></li><li><a class="tag" href="/tags/Soulmate-Identifying%20Marks/works">Soulmate-Identifying Marks</a></li><li><a class="tag" href="/tags/Drama/works">Drama</a></li><li><a class="tag" href="/tags/Hurt*s*Comfort/works">Hurt/Comfort</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/CompleteFicsNightowlsWantsToRead">Complete fics I want to read (Nightowls)</a>, <a href="/collections/rererere">fics i reread for FLAVOR</a>, <a href="/collections/TheUltimateBestStories">The Ultimate Best Stories</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2016-07-28</dd><dt class="status">Completed:</dt><dd class="status">2016-08-14</dd><dt class="words">Words:</dt><dd class="words">30063</dd><dt class="chapters">Chapters:</dt><dd class="chapters">4/4</dd><dt class="comments">Comments:</dt><dd class="comments">214</dd><dt class="kudos">Kudos:</dt><dd class="kudos">6739</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/7615531/bookmarks">1343</a></dd><dt class="hits">Hits:</dt><dd class="hits">73456</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Speechless
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/Tierfal/pseuds/Tierfal">Tierfal</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>Ed's stupid mark is long, long gone, but it's not like he has time to care.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>Written for the prompt "soulmarks on the wrist/arm that Ed lost" for <a href="http://royedweek.tumblr.com/">Roy/Ed Week</a>, which SUCKER-PUNCHED ME SO BAD, YOU GUYS.</p><p>As usual, I set out to write something quick and punchy and ended up with a 20K crime against fiction and humanity. I'm nearly done, so I will hopefully have, and be posting, the rest of it this weekend… -____-'  Bear with me!  <strike>Or don't, wtf even is this shit</strike></p>
+    </blockquote>
+
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/7615531/chapters/17335018">Chapter 1</a>
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p>Ed is not going to rub his arm.</p><p>He’s not.</p><p>If he has to sit on his left fucking hand—if he has to <i>remove it</i>—he’s not going to reach over and smudge his thumb at the curving groove that sits where his stupid fucking mark would be if the Gate hadn’t taken it along with the rest.</p><p>He’s stronger than that.</p><p>And if he doesn’t let himself think too much—if he doesn’t let himself dwell on it, or wonder, or dream—it barely even hurts.</p><p>“But that’s not right, is it?” Al is asking—beautiful, handsome, <i>whole</i> Al; Al in the flesh; Al with eyes that only glow metaphorically; Al with a grin full of teeth and two palms split with lines and a heart full of blood, not just benevolence.  “It’s not supposed to have <i>two</i> little… lock-things.  What are those called, anyway?  Why are you laughing at me?”</p><p>“Don’t laugh at Al,” Ed says.  He curls the fingers of the automail into the fabric of his slacks and folds his left arm on the table.  There.  “Or I’ll make sure he’s laughing last, and you aren’t gonna like it.”</p><p>He doesn’t remember exactly what twists and turns of conversation brought them to this topic, but he sure as hell wishes he could wind it back up—and hurl it in a box, and slam it shut, and hand them a completely different roadmap towards something else entirely.</p><p>Too late now.  It usually is.</p><p>“They’re commonly called ‘mouths’,” Roy says—to Al, but then he glances over at Ed, and the pit of Ed’s stomach prickles with that little angry tingle he gets half the time Roy deigns to look his way these days.  It’s totally stupid that he and Al see Roy and the team almost more now that they’re free of the whole military muddle than they did before, but Al’s got this thing about <i>‘loyalty’</i> and <i>‘companionship’</i> and <i>‘well, it’s not like we have any other friends in the city, Brother, and you don’t seem to be willing to move’</i>.  “Which is, I grant, a bit obscene, but—”</p><p>“So show us already,” Breda says, grabbing Al’s glass away and refilling it from the theoretically-communal pitcher of beer.  He shoves it back towards Al, like that’s somehow an equivalent exchange for potentially awkward personal information.  “Jean’s practically an expert on this crap; he can probably help.”</p><p>Havoc elbows him—not gently.  Ed himself is practically an expert on elbowing people, so he can tell just by looking.  “It’s important, okay?” Havoc says.  “This is how you find the person you’re supposed to be with forever!  I can’t believe you don’t even care.  It’s like you <i>want</i> to be sad and alone and unfulfilled and miserable for the rest of your life.”</p><p>Never mind. <i> </i>That hurts.</p><p>Breda doesn’t look like he’s hurting, though: he looks like his birthday just came early.</p><p>“You know where Jean’s mark is?” he asks the assembled company—that is, Al, Ed, and Roy.  His bright-eyed delight is so intense it’s kind of alarming.  “Guess.”</p><p>Roy puts an elbow on the table, rests his chin on the heel of his hand, and raises one eyebrow very slowly.  “Is it his ass?”</p><p>Breda’s face falls immediately.  “You are no fucking fun.”  He pauses, rather deliberately.  “…sir.”</p><p>Roy smiles thinly.  “This isn’t the first time I’ve heard that, and I’m sure it will not be the last.”</p><p>“You’re no fucking fun, Mustang,” Ed says.</p><p>To the man’s credit, Roy just gestures towards him, maintaining a completely straight face.  “I rest my case.”</p><p>“It makes it hard, though,” Havoc says, eyes hazy and expression wistful.  He startles out of it.  “I mean—difficult.  I mean—you know what I mean.  It’s tough, ’cause most of the time, just to find out, you have to get a girl all the way down to… And, y’know, by then, it’s like—you already like her, and everything, and you can’t quit there just ’cause hers doesn’t match.”</p><p>“Which is why,” Breda says, swilling his glass, “it’s ridiculous to spend so much time worrying about this crap when your ‘soulmate’ might live somewhere in rural Xing and not speak a word of Amestrian anyway.”</p><p>“Doesn’t matter,” Havoc says dreamily.  “Souls converse in a universal language.  Love finds a way.”</p><p>Roy looks like he might be sick, but he’s trying to hide it behind the rim of his pint glass.  “I’m glad Riza isn’t here; she might actually shoot you for that.”</p><p>“She’s threatened before,” Havoc says.  “Falman just starts rambling about the whole recorded history of it until I shut up, so it’s probably good he and Fuery went to that radio… thing.  Anyway—Al, where’d your mark show up?”</p><p>Al’s been turning his glass around and around really slowly, watching his fingertips slide through the condensation.  Ed can’t tell whether that’s because he’s still really enjoying sensations like cold water on his skin, or because he’s hit that point with the alcohol where physical movements require all of his concentration.  Maybe it’s a bit of both.  The slight flush in his perfect little cheeks isn’t very revealing; it’s a toss-up whether that’s from the beer or the embarrassing fucking attention.</p><p>“Um,” Al says, and by the lilt in his voice, there’s definitely some intoxication involved.  Ed swallows down the urge to wince.  It’s so fucking hard to tell when he should step in versus when it’s an overbearing dick move to go all big-brotherly—sometimes Al’s really having fun, but because it’s a situation Ed would <i>die</i> to get out of, he gets all freaked out, and…</p><p>And it’s too late now, because Al’s reaching up and tapping his perfect fingers on his perfect shoulder-blade.</p><p>Breda and Havoc both stare at him like a pair of predators waiting for the right time to strike.</p><p>“Take your shirt off,” Breda says.  “If nothing else, we’ll know if it’s any of the girls in this bar, ’cause they’re <i>all</i> gonna come over here and take a look-see.”</p><p>Al gazes thoughtfully into space as he wipes his wet fingers on a napkin and then starts unbuttoning his shirt.  “You know, purely mathematically speaking, the most efficient way to approach this would probably be just going around my daily business without <i>ever</i> wearing a sh—”</p><p>Ed lays his hand over both of Al’s, pinning them to Al’s chest to stop him in mid-unbutton.</p><p>“Stop prostituting my brother,” Ed says to the table at large, “or there’re gonna be <i>Consequences</i>.”</p><p>Al slips one hand free, the better to ruffle Ed’s hair like he’s fucking <i>four</i> or some shit.</p><p>“Your threats would be more intimidating if you ever followed through,” he says.</p><p>Rat bastard little traitor; see if <i>Ed</i> cares if he strips his shirt off and gets mobbed by desperate singles when he’s tipsy and vulnerable in this stupid bar—Ed’ll <i>let them</i> get their filthy, bacteria-crawling hands all over him.  Ed won’t do a goddamn thing.  He’ll just sit here, fold his arms, and glare while Al strips his stupid shirt off and swivels around in his chair so that Havoc and Breda can see the dark red design impressed on his shoulder like an inkless tattoo.</p><p>Ed doesn’t have to look.  Ed was the one who found it—there was too much dust and blood and tangled hair everywhere for anyone to recognize it in the first couple of hours, but Ed was helping Al get cleaned up in the hospital, and when he wiped a smear of soapsuds away, it didn’t clear that little shape.</p><p>It is an unusual one, as far as he can tell.  He’s deliberately avoided researching this shit, but if memory of having to listen to stupid kids squeal about how romantic it all is for as long as they’ve been unafraid of cooties serves right, the idea is that you’re supposed to have one ‘mouth’ thing and one ‘notch’.  Like a wrench head on one side and a bolt on the other.  And your fucking ‘soulmate’ is supposed to have the opposite pieces, so that it’d fit both ways.</p><p>Al’s is different, though.  Al’s is more like a square—like a block—with two mouths joined at the back, facing outward, and a notch on either side.  Which is confusing as fucking <i>hell</i>, actually, according to the stupid ‘rules’ of this bullshit game, because doesn’t that mean there are two people out there who have marks in exactly that spot on their shoulders, and both will fit with his?</p><p>Does that mean Al can’t be happy without them <i>both</i>?  Does that mean this stupid fucking task just got twice as hard, because they have to turn up <i>two</i> fucking soulmates before Al’ll be able to—</p><p>And what if those two people have already found each other, and they’re happy enough without him?</p><p>It just sort of figures, is all.  It just sort of figures that Al’s so fucking perfect he’d fulfill <i>two</i> people’s wildest dreams, and meanwhile…</p><p>Whatever.</p><p>Roy doesn’t move to look either—not that Ed’s paying attention, or anything; it’s just that he’s watching Breda and Havoc lean in, and he happens to notice out of the corner of his eye that Roy’s not following suit.</p><p>“That’s a cute spot for it,” Havoc says.  “I mean—not <i>cute</i>-cute, but—cute on a girl.  Plus you’d be able to see if if she wore a nice little summer dress, y’know?”</p><p>Ed has no idea what a ‘nice little summer dress’ is or looks like.</p><p>“It does have two mouths,” Breda says in no small amount of awe.  “That’s <i>got</i> to mean you’re supposed to shack up with two chicks at the same time, you lucky little <i>shit</i>.”</p><p>“Watch your language,” Roy says before Al can even finish turning around indignantly—admittedly, he’s moving slower than usual, presumably because of all the stupid beer.  He’s still extra-susceptible to that shit.  “Besides which, how do you know Alphonse is attracted to women at all, let alone exclusively?”</p><p>Havoc and Breda stare at Roy like he’s speaking total gibberish, and Al starts snickering and then does this weirdly adorable snort-thing, and Ed—</p><p>Ed’s heart fucking <i>drops</i> and just keeps falling.</p><p>“Statistics?” Breda says, at the same time Havoc volunteers, “Well, he didn’t <i>argue</i>.”</p><p>“I mean,” Al says, beaming, “I have been talking about girls for years, but—you’re right, Colonel.  There’s no reason to assume.  And there’d be nothing wrong with it if I was interested in men instead.”</p><p>And then—like a fucking train wreck in slow motion, which Ed can’t reach or touch or <i>stop</i>—Al turns towards Ed, smiles wider, and winks.</p><p>Because he knows.  Of course he fucking knows.</p><p>And now everyone else at this fucking table knows, too.</p><p>And Ed’s just going to have to get on a train that isn’t wrecked, head out to the western border, and hurl himself off of the highest mountain in the Spine.</p><p>There have been a lot of fucking excruciating silences in Ed’s life, so the fact that this one charts is pretty noteworthy to begin with.  The fact that it might make the top fucking five is better yet.</p><p>And then it gets fucking <i>worse</i>, because Roy fucking Mustang looks Ed right in the fucking <i>eyes</i> and says—</p><p>“You are absolutely right, Alphonse.”</p><p>Apparently Al’s swanned right on into the happy-go-lucky stage of being drunk; without putting his stupid fucking shirt back on—people are looking at him, with <i>Intentions</i>, and it’s making Ed’s skin crawl—he plants both elbows on the tabletop, rests his face in both of his hands, and smiles sunnily across the table.</p><p>“Where’s your mark, Second Lieutenant Breda?” he asks.  “I think everyone else has shared.”</p><p>Breda raises his eyebrows.  “Like hell they have.”  He jerks his head towards Ed and Roy, in that order.  “If they ’fess up, I will—how’s that?”</p><p>Al blinks, face all bright and open and hopeful, and then… remembers, by the look of it, because he hesitates.</p><p>“Well, fuckin’ gee,” Ed says.  He hefts his right arm up onto the table, makes sure it <i>clunk</i>s loud and solid against the wood, and sweeps his left hand downward along the whole thing to indicate it.  “I’d sure like to show you all my fuckin’ secrets, but I can’t.”</p><p>Havoc and Breda cringe so hard and so genuinely that he almost regrets it, because it looks like they really do care.</p><p>“Well, shit,” Breda says.  “Um—sorry.”</p><p>“That blows, Boss,” Havoc says.  “And not in the good way.  Not in—you know what I mean.”</p><p>The upshot of having the fucking automail accessible is that when Ed smacks it to his forehead, it sort of cools the hot, stupid blush rising all over his fucking face.</p><p>“I suppose that leaves me, then,” Roy says, garnering everyone’s attention again.  “Doesn’t it?”</p><p>Ed’s been noticing—not on <i>purpose</i>—how little things about Roy change after he’s been drinking for a while.  He sits differently.  His hands start to fidget sometimes.  He smiles more, with progressively less of the wise-ass fucking smirk in it as the night goes on.  The quality of his voice, too—it settles into a slightly lower register, and there isn’t an edge on every fucking syllable.  His eyes soften, subtly, until they’re less like steel vault doors and more like wrought iron gates, and occasionally something slips through.  The set of his shoulders relaxes a little—although maybe that’s just an optical illusion, because Ed’s not used to seeing him without the stuffy-ass uniform jacket.</p><p>It’s just—weird.  It’s not like anyone with a brain and a pair of eyes won’t have noticed that he’s constantly switching out different masks in front of other officers to try to keep them all guessing; and it’s not like Ed hasn’t gotten plenty of glimpses of the fucking weirdo-nerd when there was no one watching, and all of the overlapping layers fell away.  But it’s still unsettling to see him unguarded.</p><p>It’s unsettling to be trusted with the truth.</p><p>It’s not like Ed can’t keep a fucking secret, obviously, but it’s a little bit different to stop yourself from telling everybody and their uncle <i>Hey, so, Mustang’s kinks are bloodless coups and democracy</i> than it is to carry the weight of who he really is around with you all the time.</p><p>It’s just weird.  Is all.  It’s weird how people don’t change, but your perceptions of them do.  It’s weird how the chasms inside people are so much deeper than you ever dare to think.</p><p>Roy’s folding the cuff of his right sleeve back, and that’s bizarrely sort of… angry-tingly.  He’s got such showy fucking hands—the right one’s the worst; you can still see just the faintest impression of the flame array on the back, and right through the middle there’s this vicious snarl of scar tissue where the saber wound is still knitting up.  Absolutely fucking over-the-top.  Ed heard through the hospital grapevine that those stab wounds got infected, but he’s pretty sure Roy made it up to try to get sympathy from hot nurses or some shit.</p><p>He’s so busy being angry about Roy’s hands that he doesn’t think about the implications until Roy turns his obnoxiously nicely-shaped forearm over, and Al’s breath catches.</p><p>Roy’s mark is weird for two reasons—for one thing, it isn’t a dark sort of blood-like crimson color, like everybody else’s; it’s <i>white</i>, like just another scar.</p><p>The second problem is that it’s smack-dab in the center of his right fucking wrist.</p><p>“Whoa,” Breda says, and he and Havoc are both leaning in again, so fast and so precariously that Ed can’t believe none of the drinks get knocked over.  “What the hell is up with that color?”</p><p>Roy shrugs.  “It was red like everyone else’s for a long time.  Eight or nine years ago, I woke up one morning, and it looked like this.”</p><p>Everyone stares at it, and Ed manages not to shift in his seat.  His heart is so fucking loud; what the fuck?  It can’t possibly—it can’t <i>mean</i> anything; it’s just a statistical anomaly.  That’s the only explanation.</p><p>“From what I’ve read,” Havoc says, tearing little strips off of the corner of his cocktail napkin without even looking at it, “there’s only a couple’f situations where it changes color, and one of ’em is if your soulmate—if they—y’know—”</p><p>“If your person dies,” Roy says, too calmly, “it turns black.  This has to be something else.  There’s really nothing in the literature about it.  I’ve come across a few mentions of marks turning purple, but I think that’s an indicator of distance—speaking to your point about soulmates in other countries, Heymans.”</p><p>Breda nods, although it’s hard to tell if he’s really listening given how hard he’s staring at Roy’s mark.  “You ever take this to one of those so-called specialists or something?”</p><p>“My mother part-timed as a matchmaker,” Roy says, since apparently he’s not done shaking the entire fucking world around on its axis tonight.  “She’s always been extremely good at finding people, and there’s a lot of money in it.”  He rolls his shoulders fluidly into another shrug, and Ed wisely decides that glaring at the scratches on the tabletop is less likely to make his stomach roil with tingle-rage.  “She’d never heard of anything like this, either.”</p><p>Past his furious scrutiny of the table, Ed can just see Breda elbowing Havoc, giving back as good as he got earlier.  “You ever been to one of those?  Why don’t you put out one of the classified ads, if you’re so desperate to find your girl?”</p><p>“Are you kidding?” Havoc asks, sounding significantly more scandalized than this stupid situation really merits.  “You think they wouldn’t ban me from going out in public if I sent in a picture of my <i>ass</i>?”</p><p>Breda’s trying not to laugh, but you can hear it creeping into his voice.  “Well—just—frame the damn picture carefully.  It’s where your mark <i>is</i>; it’s not like you’re trying to be indecent or something.  You can’t be the only person who’s got one in a funny spot.”</p><p>“It’s not funny!” Havoc says.</p><p>“Couldn’t you sketch it for them?” Al asks.  He’s still not wearing his fucking shirt.  Ed picks it up from where it crumpled over the back of his chair and drapes it over his shoulders so that he’s a <i>little</i> less half-fucking-naked in a goddamn bar.  “You could send the drawing in with a description.”</p><p>“I don’t know,” Havoc says, chewing on his lip.  “I mean… there’s so little magic left in the world as it is, you know?  So little mystery.  Last thing I wanna do is suck it out of <i>love</i>.”</p><p>There’s a long pause.</p><p>Then Breda loses his shit laughing.</p><p>Ed starts shoving Al’s arms back into his shirt sleeves.</p><p>“Time to go,” he says.</p><p>Al is watching in wonder as Breda’s eyes start tearing up, and an indignantly-squawking Havoc goes six shades of red in succession.</p><p>“I think you’re right,” Al says.</p><p><br/>
+</p>
+<hr/><p><br/>
+</p><p>Ed’s so busy trying to fight Al’s shirt back on him—and struggling with the <i>stupid</i> fucking <i>buttons</i>, which are small and slippery and extremely stupid; and he’s had one too many fucking beers for this—that he doesn’t even notice that Roy came outside with them until the bastard’s hailing them a taxi.</p><p>“Fucker,” he says—in general, for once, rather than specifically as a synonym for Roy.  “How much do I owe you?”  He manages to extract his hands from button hell in order to start searching in his pockets.  “I think we had… what, seven or eight between the two of us?  And they’re a couple-hundred cens each?  So—”</p><p>“Don’t worry about it,” Roy says.  “My treat.”</p><p>“Fuck that,” Ed says.  “I don’t wanna owe you.”</p><p>…that came out wrong.</p><p>“Money,” he says.  “I don’t wanna owe you money.  <i>More</i> money.  You know.”</p><p>A cab pulls up, and the way Roy’s blinking at him is weird and tingle-annoying, so Ed turns around and opens the back door of the car and bundles Al into the backseat.  Al giggles.  His shirt’s still half-undone, and it’s flapping everywhere and shit.</p><p>“I’ll start a tab for you,” Roy says.  “How’s that?  You can pay it in full next time.”</p><p>Ed stands up as straight as he can and folds his arms.  It’s a stronger position to glower from.</p><p>“All right,” he says.  “I <i>guess</i>.”</p><p>That sounded way more cutting and incisive in his head.</p><p>He’s decided he fucking hates beer.  And pretty much everything else to do with bars and liquor, including the way he isn’t clever or aware enough to dodge out of the way before Roy reaches out and puts a too-warm hand on his left shoulder.</p><p><i>That</i> hand, no less.  That hand, on that arm, which includes that wrist.</p><p>“I hope you weren’t offended,” Roy says.  “They don’t know any better—not that that makes it acceptable, but it’s from a place of ignorance, not cruelty.  And I meant what I said.”  He squeezes gently.  “There’s nothing wrong.”</p><p>That’s some bullshit if Ed’s ever heard it—and he’s heard a lot—but it’d be fucking rude to say that, because Roy’s trying to make a nice generalization in reference to the whole not-into-girls thing, and throwing it back in his face would be shitty as hell.</p><p>“Okay,” Ed says.  “It doesn’t matter.  They were just saying stuff.”</p><p>He wants to say <i>It didn’t bother me</i>, but somehow it’s gotten really hard to lie to that bastard these days.</p><p>“They were,” Roy says.  His hand lifts off Ed’s shoulder, and his knuckles—</p><p>Brush—</p><p>Ed’s jaw, and his cheek—</p><p>And then Roy drops his arm.</p><p>“Take care,” he says.  “Goodnight.”</p><p>“Yeah,” Ed says—on fucking autopilot, because he’s pretty sure his brain just fritzed out and failed completely.  “You, too.”</p><p>He makes his bewildered body turn around and climb into the backseat of the cab, and Roy shuts the door behind him, and then Al is clambering over his lap to get onto his softer side in order to curl up with his left arm.</p><p>“Where to?” the cabbie says, and Ed tells him, and he <i>doesn’t</i> look out the window to watch Roy standing on the curb with both hands in his pockets, watching as they drive away.  He doesn’t.  At all.  He just assumes it happened.  Clearly.</p><p>He gets a grand total of about thirty seconds of peace and quiet before Al snuggles up to his shoulder and says, “What if it’s because of the Gate?”</p><p>Ed’s heart bangs in his throat.  Maybe, maybe, <i>maybe</i> Al’s drunk enough that he’ll forget this by tomorrow.</p><p>Maybe not.</p><p>“It’s just a coincidence,” he says.</p><p>“It’s the same spot, Brother,” Al says, and by the slurred-sleepy tone to his voice, luck might be on Ed’s fucking side for once in his life.</p><p>“Probably lots of people have it there,” Ed says.  “It’s just a freak probability thing.  It’s bound to happen eventually.  There’s a lot of people in the world.”</p><p>“That’s true,” Al says.  He sounds so content that Ed kind of wants to pet his hair, but the automail would probably snag and get stuck.  “Wouldn’t it be nice, though?  If it was him.”</p><p>“I dunno,” Ed says.  “Never thought about it.”</p><p>Lying to Al’s not easy, either, but sometimes it has to be done.</p>
+  </div>
+  <!--/main-->
+
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/7615531/chapters/17405395#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="iVgzexuXSIGb7ZQk3G4qpe5birxFN99e3DLftB1v_VJ0JJCWXgch_Do84OKls0dcXdK3vFIADuivHUyZlh1JBA"/>
+          <input value="7615531" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=17335018">Comments (37)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/Otaku_Dreamerz">Otaku_Dreamerz</a>, <a href="/users/linree">linree</a>, <a href="/users/Mob_A5158">Mob_A5158</a>, <a href="/users/Ghost0Silvers">Ghost0Silvers</a>, <a href="/users/Oscarian_Flame">Oscarian_Flame</a>, <a href="/users/ReginaKatrina">ReginaKatrina</a>, <a href="/users/jewelofmygarden">jewelofmygarden</a>, <a href="/users/Dauntlessofthesea">Dauntlessofthesea</a>, <a href="/users/Kefira">Kefira</a>, <a href="/users/HeliosKing24">HeliosKing24</a>, <a href="/users/Mouflette">Mouflette</a>, <a href="/users/Darkat333">Darkat333</a>, <a href="/users/HyliaGirl42">HyliaGirl42</a>, <a href="/users/Lidiruk">Lidiruk</a>, <a href="/users/Palomavazru">Palomavazru</a>, <a href="/users/anomalynerd">anomalynerd</a>, <a href="/users/moonlightress">moonlightress</a>, <a href="/users/Atheneeerva">Atheneeerva</a>, <a href="/users/Encorewrites">Encorewrites</a>, <a href="/users/zaochens">zaochens</a>, <a href="/users/FaiKazahaya">FaiKazahaya</a>, <a href="/users/Chainedheart977">Chainedheart977</a>, <a href="/users/mzeta">mzeta</a>, <a href="/users/zhanglynn">zhanglynn</a>, <a href="/users/MermaidInDisguise">MermaidInDisguise</a>, <a href="/users/Morphological">Morphological</a>, <a href="/users/OracleCrow">OracleCrow</a>, <a href="/users/Ms_George">Ms_George</a>, <a href="/users/Tayter22">Tayter22</a>, <a href="/users/aelwing">aelwing</a>, <a href="/users/Fabii_726049">Fabii_726049</a>, <a href="/users/sonzepoklonnyza">sonzepoklonnyza</a>, <a href="/users/Flutter210">Flutter210</a>, <a href="/users/Lutzz">Lutzz</a>, <a href="/users/ThatOneInTheCornerWithTheBook">ThatOneInTheCornerWithTheBook</a>, <a href="/users/shipperop3">shipperop3</a>, <a href="/users/Dyal">Dyal</a>, <a href="/users/greendaze">greendaze</a>, <a href="/users/Njal">Njal</a>, <a href="/users/OnCrimsonSkies">OnCrimsonSkies</a>, <a href="/users/FeatherFree13">FeatherFree13</a>, <a href="/users/koyot14">koyot14</a>, <a href="/users/MiPokki">MiPokki</a>, <a href="/users/ESM">ESM</a>, <a href="/users/TheWritingPrisoner">TheWritingPrisoner</a>, <a href="/users/Shade_OKiller">Shade_OKiller</a>, <a href="/users/skylights22">skylights22</a>, <a href="/users/spite_entity">spite_entity</a>, <a href="/users/Messysilverbun">Messysilverbun</a>, <a href="/users/Hurricane_In_A_Teacup">Hurricane_In_A_Teacup</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/7615531/kudos?before=3810797623">4373 more users</a>
+             as well as 
+          2316 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_17335018">
+  <form class="new_comment" id="comment_for_17335018" action="/chapters/17335018/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="cgAAQFo1EfVM3WUwGAVw4C4LQNVwy3170eYmbLfmCmmPfKOtH6V4iO0MEfZh2B0ZnYJ91Wf8rM2iybVBPJS-Pw"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_17335018">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_17335018" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_17335018=new LiveValidation('comment_name_for_17335018',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_17335018.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_17335018">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_17335018" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_17335018=new LiveValidation('comment_email_for_17335018',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_17335018.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_17335018" class="landmark">Comment</label>
+        <textarea id="comment_content_for_17335018" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_17335018" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_17335018_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_17335018">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_17335018=new LiveValidation('comment_content_for_17335018',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_17335018.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_17335018.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_17335018" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/7615531/hit_count.json")})</script>
+
+
+  </body>
+</html>

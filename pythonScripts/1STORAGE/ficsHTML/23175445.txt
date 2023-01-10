@@ -1,0 +1,1713 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"232243a405","applicationID":"129290979","transactionName":"cVtXEUpbWFxdQhkUXEBfSkpLXFtH","queueTime":0,"applicationTime":106,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"232243a405",applicationID:"129290979"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(9),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=M.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+M.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+M.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,y="addEventListener",h="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1215.min.js"},T=w&&b&&b[y]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:T,userAgent:s,disabled:E};if(!E){t(1),t(7),g[y]?(g[y]("DOMContentLoaded",o,l(!1)),m[y]("load",r,l(!1))):(g[h]("onreadystatechange",i),m[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        a lesson in attachment - someawkwardprose - Star Wars - All Media Types [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="WBJs23ceGF92StxLiYddFCqYWi7b60f9hEmROdzbJnUIV-7803sa6Bb8iRygszRaMwZqL_UoTCR0-vX4Y_t9vw"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="rrD4jWWcOabw4PoDMAoIe4PzFO3bsKRmILKm2C83uBn-9Xqqwfk7EZBWr1QZPmE1mm0k7PVzr7_QAcIZkBfj0w"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: hetalia f/f sort:kudos</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="works-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<ul class="landmark skip">
+  <li><a name="top">&nbsp;</a></li>
+  <li><a href="#work">Skip header</a></li>
+</ul>
+
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+<!-- BEGIN revealed -->
+<!-- BEGIN work -->
+<!--work description, metadata, notes and messages-->
+    <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?work_id=23175445">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/23175445/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/23175445/a%20lesson%20in%20attachment.azw3?updated_at=1644356836">AZW3</a></li>
+          <li><a href="/downloads/23175445/a%20lesson%20in%20attachment.epub?updated_at=1644356836">EPUB</a></li>
+          <li><a href="/downloads/23175445/a%20lesson%20in%20attachment.mobi?updated_at=1644356836">MOBI</a></li>
+          <li><a href="/downloads/23175445/a%20lesson%20in%20attachment.pdf?updated_at=1644356836">PDF</a></li>
+          <li><a href="/downloads/23175445/a%20lesson%20in%20attachment.html?updated_at=1644356836">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/General%20Audiences/works">General Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Star%20Wars%20-%20All%20Media%20Types/works">Star Wars - All Media Types</a></li><li><a class="tag" href="/tags/Star%20Wars%20Prequel%20Trilogy/works">Star Wars Prequel Trilogy</a></li><li><a class="tag" href="/tags/Star%20Wars:%20The%20Clone%20Wars%20(2008)%20-%20All%20Media%20Types/works">Star Wars: The Clone Wars (2008) - All Media Types</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/CC-2224%20%7C%20Cody*s*Obi-Wan%20Kenobi/works">CC-2224 | Cody/Obi-Wan Kenobi</a></li><li><a class="tag" href="/tags/Obi-Wan%20Kenobi%20*a*%20Anakin%20Skywalker/works">Obi-Wan Kenobi &amp; Anakin Skywalker</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Obi-Wan%20Kenobi/works">Obi-Wan Kenobi</a></li><li><a class="tag" href="/tags/CC-2224%20%7C%20Cody/works">CC-2224 | Cody</a></li><li><a class="tag" href="/tags/Anakin%20Skywalker/works">Anakin Skywalker</a></li><li><a class="tag" href="/tags/Padm%C3%A9%20Amidala/works">Padmé Amidala</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Asexual%20Character/works">Asexual Character</a></li><li><a class="tag" href="/tags/Asexuality/works">Asexuality</a></li><li><a class="tag" href="/tags/Fictional%20Religion%20*a*%20Theology/works">Fictional Religion &amp; Theology</a></li><li><a class="tag" href="/tags/The%20Force/works">The Force</a></li><li><a class="tag" href="/tags/Alternate%20Universe%20-%20Canon%20Divergence/works">Alternate Universe - Canon Divergence</a></li><li><a class="tag" href="/tags/Everybody%20Lives/works">Everybody Lives</a></li><li><a class="tag" href="/tags/Love%20Does%20Not%20Equal%20Attachment/works">Love Does Not Equal Attachment</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/Suggested_Good_Reads">Suggested Good Reads</a>, <a href="/collections/reading_for_inner_peace">fics to read to feel at peace with the world</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2020-03-16</dd><dt class="words">Words:</dt><dd class="words">7847</dd><dt class="chapters">Chapters:</dt><dd class="chapters">1/1</dd><dt class="comments">Comments:</dt><dd class="comments">282</dd><dt class="kudos">Kudos:</dt><dd class="kudos">3417</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/23175445/bookmarks">1057</a></dd><dt class="hits">Hits:</dt><dd class="hits">20410</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      a lesson in attachment
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/someawkwardprose/pseuds/someawkwardprose">someawkwardprose</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>Obi-Wan has never been enough. It's okay. The Force loves him anyway.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>as it turns out, if you want something done, you have to do it yourself. </p>
+<p>diogenes had such an impact on my audience, and obi wasn't even the main character, so here I am, rubbing my sparkly queer hands all over this fandom again, since there's like one other fic with ace!obi. obi-wan is ace, folks, you heard it here first. </p>
+<p>on the Force - okay, I am distinctly not religious, but my main background of religious knowledge is medieval irish monks and seventeenth century calvinism (I do a weird degree). the Force is a stand in for the Christian God in SW despite the various appropriations from different cultures (yes, George, we noticed), so my Force is probably a weird mix of sw lore and historical christian theology. sorry about that. </p>
+<p>a few warnings: Obi-Wan puts himself in an uncomfotable sexual situation in one (very brief) scene. Absolutely nothing happens; he leaves before he does anything he'll regret, and it's not even enough to rate a T, but I didn't want to shock anyone! he's also got a lot of self worth issues and is dealing with internalised (and external) acephobia, reflecting my own experience. it does get better (as it does in real life, I promise)</p>
+<p>finally: timeline what timeline. who knows what the fuck is going on the background of this fic, because I certainly don't!</p>
+    </blockquote>
+
+    <p class="jump">(See the end of the work for <a href="#work_endnotes">more notes</a>.)</p>
+</div>
+
+
+  </div>
+
+
+<!--/descriptions-->
+
+<!--chapter content-->
+    <div id="chapters" role="article">
+        <h3 class="landmark heading" id="work">Work Text:</h3>
+          <div class="userstuff"><p>
+  <em>
+    <span>“It is attachment that is prohibited, not the...exploring of oneself,” Master said, a knowing smile on his face. “You are allowed to go and have fun. I know your agemates are.” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Obi-Wan knew that Quinlan and Siri and Garen and even Luminara had paired up with various Padawan’s throughout the Temple, but Obi-Wan just couldn’t see the appeal. He supposed there was something...enticing, about afterwards, the feeling of closeness, of being held - but that was exactly what his master was warning against. That, he was fairly sure, would be classed as attachment. Obi-Wan wanted; yes. But he didn’t want what his master thought he did. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“You aren’t a member of the Contemplates, Padawan. You swore no vow to celibacy,” Qui-Gon encouraged again, this time on a mission, when Obi-Wan had declined the invitation of the admittedly pretty diplomat's daughter. “You’re young, go and enjoy yourself.” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>So he tried. He flirted, and implied, and went out with Quinlan when the kiffar dragged him to some of Coruscant’s seedier clubs, and seen all the skin on show - and it does nothing for him. Quin frowned when he said so. “Maybe we’re looking in the wrong places. Maybe it’s boys you like.” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>So, the next mission, when he received an invite from the handsome prince, he accepted. </span>
+  </em>
+</p><hr/>
+<p>
+  <span>Obi-Wan, despite his Padawan’s assumptions, is not oblivious. </span>
+</p>
+<p>
+  <span>He acts like he is, because he learned long ago that discretion is the better part of valour. One needn’t </span>
+  <em>
+    <span>refuse</span>
+  </em>
+  <span> an offer, and offend the offerer, if one pretends that they didn’t </span>
+  <em>
+    <span>understand</span>
+  </em>
+  <span> the offer. Sometimes, it just made things easier - if Obi-Wan didn’t acknowledge Anakin’s flagrant disobeying of the Code with Padmé, Obi-Wan didn’t need to confront him about it, or inform the Council. If Obi-Wan deliberately ignored his troopers...discussions in </span>
+  <em>
+    <span>Mando’a, </span>
+  </em>
+  <span>they could all live happily with the knowledge that their General did not know more than they were comfortable with sharing. If Obi-Wan kept all of the blackmail he had on the Council and various members of the Senate under his hat, he would be able to use it more effectively when necessary, instead of losing valuable material in an attempt to defend himself. Things like that. </span>
+</p>
+<p>
+  <span>Being a consummate actor, however, did not stop Obi-Wan from being </span>
+  <em>
+    <span>aware. </span>
+  </em>
+</p>
+<p>
+  <span>He knew, very early on, when Commander Cody had begun to develop feelings for him. It was, in a way, cute; he knew he was one of the first human faces Cody had seen that didn’t belong to his </span>
+  <em>
+    <span>vod’e. </span>
+  </em>
+  <span>He also knew that feelings typically didn’t last very long, when there was no reciprocation. Obi-Wan thought it best to let the Commander develop at his own pace. For many people, adolescent crushes were a core part of their developing identity, and although the clones were, unfortunately, long passed adolescence - they would experience developmental milestones differently. Cody’s crush would fade with time, and one day, he would most likely be embarrassed about the entire affair. </span>
+</p>
+<p>
+  <span>“Tea, sir?” his Commander offers, a cup already perfectly made to Obi-Wan’s taste in his hands. </span>
+</p>
+<p>
+  <span>“Thank you, Commander,” he accepts with a smile. Cody might be embarrassed some day, but he really was rather sweet. When he found someone who appreciated him the way he deserved, he was going to be a wonderful partner to them, Obi-Wan was sure.</span>
+</p><hr/>
+<p>
+  <em>
+    <span>He was half-naked, and half pinned on the bed before it hit him, how much he hated this, how much he </span>
+  </em>
+  <span>didn’t</span>
+  <em>
+    <span> want this. The Force screamed </span>
+  </em>
+  <b>
+    <em>stopnodon’t, </em>
+  </b>
+  <em>
+    <span>and perhaps Obi-Wan could ignore himself, but he couldn’t ignore the Force. “I’m sorry, but I can’t -” he stuttered out, grabbed his discarded robes and fled. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Qui-Gon’s face was filled with shocked anger, when he grabbed at Obi-Wan’s bare shoulders. “Padawan, what happened? What did he do?” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“Nothing,” Obi-Wan said, shaking his head, and broke free of the hold to retreat to the fresher. “He didn’t do anything.” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Under the too-hot water, Obi-Wan did his best not to cry. </span>
+  </em>
+</p><hr/>
+<p>
+  <span>“Obi-Wan, you came,” Padmé greets with a delighted smile, reaching for him, and Obi-Wan is helpless to do anything but grin back. He presses a kiss onto his dear friend’s cheek to hide it, although he knows she isn’t fooled.</span>
+</p>
+<p>
+  <span>“I wouldn’t dare miss it,” he promises, squeezing her hand. “After all, where else would I get the gift of your illustrious company?” </span>
+</p>
+<p>
+  <span>“Flatterer,” her eyes narrow, but happiness still plays around the corners of her mouth. “You’re only this nice to me when you want something.” </span>
+</p>
+<p>
+  <span>“You caught me in the act,” he admits, allowing her to shephard him away from the entrance to the small soirée. </span>
+  <em>
+    <span>Just close friends and allies, </span>
+  </em>
+  <span>she had promised, and she hadn’t lied - while Obi-Wan was sure he would spend the night working, making connections and convincing some of the more powerful people in the room of his cause, he allowed himself to relax a little. Bail and Padmé were old friends, good ones, and most of the other politicians were known elements; he wouldn’t need to tread as carefully as he had tonight as he had at dinner parties in the past. </span>
+</p>
+<p>
+  <span>“Well, how about you tell me what you want while I fix you a drink,” she teases. “Alcoholic, or…” </span>
+</p>
+<p>
+  <span>“I must be dry tonight, I’m afraid; I’m on call for the Council,” he says, and accepts her offer of sparkling juice. </span>
+</p>
+<p>
+  <span>“They work you too hard,” Padmé chastises. “I thought you were supposed to be on leave.” </span>
+</p>
+<p>
+  <span>“Leave is for the troopers. I’m a Jedi,” he answers, and she lets it go. It’s an old, well-worn argument he’s had with both sides of the Amidala-Skywalker pair. Padmé at least understands, even if she doesn’t like it. Anakin still hasn’t learned. “Actually, the troopers are who I want to speak to you about.” </span>
+</p>
+<p>
+  <span>“Oh?” she enquires, offering her arm. He slides his own though hers, and escorts her into the main area, where the party is in full swing. Obi-Wan nods a greeting at those he is on first name basis with, finds an empty pair of seats for himself and his companion. </span>
+</p>
+<p>
+  <span>“I know that the Clone’s Rights Bill has been mired in bureaucracy for the past few months,” he says, resisting the urge to screw his face up in distaste. The Senate’s politics always left a bad taste in his mouth, and judging by the way Padmé’s expression falls, she feels the same way. “And I doubt it will be free of the red tape before the war is over, never mind for the new year.” </span>
+</p>
+<p>
+  <span>The unfortunate truth of the matter was that the great majority of the Senate didn’t want to acknowledge the soldiers as sentient, never mind individuals with unique needs and desires and dreams. Whether that was so they could sleep soundly at night, without contemplating the army of slaves they had fighting for their right to, or ignorance, or sheer malice, Obi-Wan couldn’t hazard a guess, but he found their compliance despicable. He knew his friend did too. </span>
+</p>
+<p>
+  <span>“But I was wondering if we could try and push through another, smaller piece of legislation, perhaps under something that the majority would be in support of?” he asks her, a touch of mischief entering his voice. </span>
+</p>
+<p>
+  <span>Her lips twitch, and he knows she’s fighting a smile. “Master Kenobi, are you suggesting we be devious?” </span>
+</p>
+<p>
+  <span>“Never, milady, simply that we must think the same way as the opposition, in order to defeat them.” </span>
+</p>
+<p>
+  <span>“I like the way you think,” she says, and gives up on her battle, smiling wickedly at him. “Now, if such a piece of legislation was to be proposed, what would it theoretically include?” </span>
+</p>
+<p>
+  <span>They truly do make an excellent team, Obi-Wan thinks, as they discuss his idea and bring in the other party guest to their plotting. He knows that Padmé had once wanted him, long before she had fallen for Anakin, and he understands why; they would have been wonderful together. However, she could never be satisfied with only having half of him, and he could never offer her what she needed or what she desired, and that would be wholly unfair on a woman as brilliant as Padmé Naberrie Amidala.</span>
+</p><hr/>
+<p>
+  <em>
+    <span>They never speak of it again, Obi-Wan and his master, although occasionally he noticed the man watching him. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>But Qui-Gon stops encouraging Obi-Wan to go out and ‘explore his desires’, and Obi-Wan is allowed instead to peacefully enjoy his novels and meditations in their downtimes. Sometimes, he even suspected that his master was quietly turning away advances before they reached his ears, and it gave him a great deal of comfort - that even with all their trials, he knew that Master Qui-Gon cared for him. </span>
+  </em>
+</p><hr/>
+<p>
+  <span>“What were you doing at Padmé’s?” Anakin demands. </span>
+</p>
+<p>
+  <span>Obi-Wan resolutely refuses to sigh. “I was invited as a guest to </span>
+  <em>
+    <span>Senator Amidala’s</span>
+  </em>
+  <span> dinner party,” he replies, emphasising Padmé’s proper title. It was almost like Anakin wasn’t even </span>
+  <em>
+    <span>trying </span>
+  </em>
+  <span>to be discreet, rather than simply failing miserably. </span>
+</p>
+<p>
+  <span>“Yes, but you were seen </span>
+  <em>
+    <span>kissing her,</span>
+  </em>
+  <span>” the young Knight retorts, and Obi-Wan can feel Cody’s head turn their way, the sharp sting of pain. Obi-Wan closes his eyes and begs the Force for patience.</span>
+</p>
+<p>
+  <span>“On the cheek, Anakin,” he says dryly. “I’m sure I’ve taught you shared cultural niceties at some point during your training. Unless you suddenly think I’ve developed feelings for Bail Organa, Mon Mothma, and Master’s Ti and Fisto in the past year? Or perhaps that every bit of physical affection I offered you as a child was uncouth in some way?” </span>
+</p>
+<p>
+  <span>Anakin goes a bit red, and Cody releases a wave of </span>
+  <em>
+    <span>reliefselfrecriminationmilddisgust. </span>
+  </em>
+  <span>Obi-Wan wonders idly at what the disgust was aimed at. His own reaction, the implications of Obi-Wan’s words, or Anakin’s ridiculously jealousy? He hoped it wasn’t the first. His Commander had such low self-esteem as it was. Obi-Wan didn’t want the crush to damage the man’s confidence any further. </span>
+</p>
+<p>
+  <span>“I’m - no, of course not!” Anakin finally sputters out. “I’m not - </span>
+  <em>
+    <span>accusing </span>
+  </em>
+  <span>you, you’ve never -” </span>
+</p>
+<p>
+  <span>“Well, I’m glad we’ve got that sorted out,” Obi-Wan says tiredly, and sighs. “Anakin, you </span>
+  <em>
+    <span>know </span>
+  </em>
+  <span>Padmé and I are old friends - you’ve known her as long as I have. What about our relationship could possibly distress you?” and, suddenly, as the thought comes to him, he adds: “And, more to the point, who is spreading gossip about myself and one of the most well-respected Republic politicians?” </span>
+</p>
+<p>
+  <span>Anakin pales, and stammers something out about the Chancellor before fleeing. Obi-Wan frowns after him. He’s never been entirely comfortable with the Supreme Chancellor’s interest in his padawan, but he could never see any evidence of malicious behaviour, and Anakin had so few friends. But if the Chancellor was making such stories - and how would he know, as he hadn’t been at Padmé’s event? - it had to be to rile Anakin up. To drive a wedge between the young man and Obi-Wan himself, and Anakin’s paramour while he was at it. The question now, was why? </span>
+</p>
+<p>
+  <span>He grabbed his comm. and typed a quick summary of the encounter, and the barebones of his suspicions to Padmé. If he was lucky, Anakin would have ran straight to her, and perhaps she might be able to draw a little more of the story out of him. Either way, the entire situation was alarming. </span>
+</p>
+<p>
+  <span>“Sir?” Cody ventures cautiously, and Obi-Wan offers him an exhausted smile as he turns to his commander. “Are you alright?” </span>
+</p>
+<p>
+  <span>“Of course I am,” Obi-Wan replies, and tucks his comm away. “I just wonder how I managed to raise a young man so incapable of critical thinking.” </span>
+</p>
+<p>
+  <span>“He knows you’re a Jedi sir, he should know you wouldn’t break your Code like that,” his commander says loyally, without giving voice to the underlying thought of </span>
+  <em>
+    <span>unlike Anakin himself. </span>
+  </em>
+</p>
+<p>
+  <span>“Our Code doesn’t ban relationships,” Obi-Wan corrects, absentmindedly. It wasn’t that Anakin’s relationship was the problem; it was the lies. And the unhealthy attachment. “It’s only Padawan’s who are prevented from having romantic relationships, until they’re Knighted. It is impossible to expect a sentient to go through life with no connections, be they platonic or romantic; but we as Jedi must, above all, serve the Force. We cannot ever offer ourselves wholly and completely to another person. If the other person can accept that, well - that’s perfectly acceptable.”</span>
+</p>
+<p>
+  <span>“Oh,” Cody says, and his presence in the Force lights up a little. It hurts Obi-Wan to see it. He wasn’t trying to encourage Cody. Obi-Wan wants to let him down gently, but at this moment, he doesn’t know how. </span>
+</p>
+<p>
+  <span>“But Anakin has never seen me in a relationship,” he hints. “He should know better than to fling accusations around.” </span>
+</p>
+<p>
+  <span>It doesn’t work, but then again, Obi-Wan knew how dangerous hope was. </span>
+</p><hr/>
+<p>
+  <em>
+    <span>He could have loved Satine - he </span>
+  </em>
+  <span>did, </span>
+  <em>
+    <span>if he was honest. But he didn’t want her, not like that. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“I’m sorry,” he whispered, pulling away from her mouth. “But I cannot give you what you want.” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“I know you’re a Jedi, Obi-Wan. I know that you cannot love me,” and he wanted to tell her that it’s a misconception, that he already did even though he shouldn’t, but she hadn’t finished. “But please, just one night.” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>And he can’t do it. Not even for her.</span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“I’m sorry,” he repeated, uselessly. “But I can’t.”</span>
+  </em>
+</p><hr/>
+<p>
+  <span>Officially, Obi-Wan didn’t play favourites. Unofficially, his battalion knew that the entirety of Ghost Company considered him their </span>
+  <em>
+    <span>aliit </span>
+  </em>
+  <span>over their General. Obi-Wan may have had a particular fondness for the specific group of men that called him clan. Unofficially, of course.</span>
+</p>
+<p>
+  <span>Obi-Wan hides a small smirk as Ghost Company crowd around the small screen that’s tuned into Coruscant News Network. Padmé had commed to let him know the bill’s passing would be announced, and he’d subtly let the men he was closest to know that they may be interested in watching the Senate today. No doubt every clone in his battalion would know within the hour, and the rest of the GAR within the week, but Obi-Wan was perfectly content to be selfish and let his boys hear the news first. </span>
+</p>
+<p>
+  <em>
+    <span>“Amongst the changes ST-A91 introduced included the provision of funds towards the GAR’s pension funds...Clone Rights Activists claim that while this is a step in the right direction, more needs to be done for our troops…” </span>
+  </em>
+</p>
+<p>
+  <span>“You had something to do with this,” Cody accuses, and Obi-Wan fakes innocence. </span>
+</p>
+<p>
+  <span>“I’m sure I don’t know what you’re talking about,” he replies mildly. “I’m a Jedi, Commander, not a politician.”</span>
+</p>
+<p>
+  <span>Cody narrows his eyes, but he’s lit up in the Force. It’s a small step - miniscule, really - but it </span>
+  <em>
+    <span>is </span>
+  </em>
+  <span>a step in the right direction. If Obi-Wan and the sympathetic Senators can add these small changes into the majority of the passing bills, they may not even need the Clone Rights Act. Obi-Wan can only hope. </span>
+</p>
+<p>
+  <span>“You’re more devious than a vulptex,” Cody informs him, and then gives him a soft smile that makes Obi-Wan’s breath catch in his throat. “And you always have something to do with all the good things in my life.”</span>
+</p>
+<p>
+  <span>He walks away to join his brothers then, leaving Obi-Wan to over-analyse his words alone.</span>
+</p><hr/>
+<p>
+  <em>
+    <span>Master dies. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>His master dies, and suddenly, Obi-Wan is wholly and completely alone. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Of course, he isn’t. He has a new Padawan, a boy his master had been willing to toss Obi-Wan away for, on the off chance that he was the Chosen One, and it </span>
+  </em>
+  <span>hurts, </span>
+  <em>
+    <span>far more than he will ever admit. That Qui-Gon was so ready to replace him, because Obi-Wan was not. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Qui-Gon had been the only one who - maybe not understood him, but knew him. The only one who would offer physical affection without some sort of implicit understanding, without any kind of strings attached. Qui-Gon, who he had loved, in his own particular way.</span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Obi-Wan sighed, and forced back tears, begging the Force for strength. The Force answered as it always had, wrapping him in comfort and protection, and Obi-Wan let himself be held in its embrace. Perhaps Qui-Gon had known him, but only the Force would ever know all of him, and love him unconditionally all the same. </span>
+  </em>
+</p>
+<p>
+  <b>
+    <em>The boy</em>
+  </b>
+  <span>, </span>
+  <em>
+    <span>it whispered in his ear. </span>
+  </em>
+  <b>
+    <em>He is yours, and you will love him too.</em>
+  </b>
+  <span> </span>
+</p>
+<p>
+  <em>
+    <span>Obi-Wan accepted its direction, because the Force had never led him astray before, and held out a hand to Anakin Skywalker. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Anakin gave him a timid smile, and accepted. And Obi-Wan knew the Force was right.</span>
+  </em>
+</p><hr/>
+<p>
+  <span>“Stay with me, Commander,” Obi-Wan begs, keeping pressure on the stomach wound. “You aren’t allowed to march away. Not yet.” </span>
+</p>
+<p>
+  <span>The battle is almost won. They were almost safely onboard the </span>
+  <em>
+    <span>Negotiator. </span>
+  </em>
+  <span>And then the assassin struck. </span>
+</p>
+<p>
+  <span>Of course, Cody had protected him. And of course, the sniper didn’t have a regular blaster, no, of course not. The would-be killer had an old fashioned slug-thrower, and Cody had taken an honest-to-Force bullet for him. </span>
+</p>
+<p>
+  <span>“Stay awake,” he orders desperately, signalling for a medic as four members of the 212th go scampering after the shooter. “Don’t you dare leave me, Cody!” </span>
+</p>
+<p>
+  <span>“W-Wouldn’t dream of it, S-sir,” Cody chokes out, gasping for air. But his eyes are fluttering, and it’s all Obi-Wan can do not to panic. Instead, he closes his own, and dives into that deep well of power that he carries inside of him. </span>
+  <em>
+    <span>Save him, </span>
+  </em>
+  <span>he begs the Force, as he starts siphoning his own energy into the dying man under his hands. </span>
+  <em>
+    <span>Save him, for me. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Of course, </span>
+  </em>
+  <span>the Force whispers back, because the Force loves all of its children, whether they can feel it or not. </span>
+  <em>
+    <span>You only had to ask. </span>
+  </em>
+</p>
+<p>
+  <span>The last thing Obi-Wan sees, before he blacks out from exhaustion, is the wound slimming, closing, healing. He breathes a sigh of relief, before he lets the darkness take him. </span>
+</p><hr/>
+<p>
+  <em>
+    <span>"I'm sorry," she said, and she is sincere. There's regret plastered across her face, echoing out into the Force. "I thought I could do it." </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>She wasn't the first, but Obi-Wan knew she would be the last. He was tired of trying. Sometimes, it's an excuse: </span>
+  </em>
+  <span>it's not you, it's me. </span>
+  <em>
+    <span>Sometimes it's an accusation: </span>
+  </em>
+  <span>how am I supposed to know you love me? </span>
+  <em>
+    <span>But it was always the same. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Obi-Wan accepted her apology, and they parted as friends, but it left a bitter taste in his mouth. He was never enough. He wasn't good enough to be Master Jinn's Padawan, and he wasn't good enough to be part of someone's life. He was always lacking in some way, missing some essential part, and that made him undesirable. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Only the Force didn't think so, but then again, the Force didn't want his body. Only everything else. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Maybe, after Anakin was Knighted, he could retire. Join the Contemplates. Swear all the vows of chastity and poverty and isolation that seemed to put off most Jedi, and give himself wholly to the Force.</span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Perhaps he would find contentment there.</span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>But Anakin was barely eleven, and that was a long way off. Obi-Wan hoped he would find peace before then. </span>
+  </em>
+</p><hr/>
+<p>
+  <span>When Obi-Wan wakes up, it is to an exhausted looking Cody on his visitors chair, rubbing his eyes. An abandoned padd lies on the bedside table beside him, the screen still alight. A short break, then. </span>
+</p>
+<p>
+  <span>“When was the last time you slept?” he asks - or he attempts to. All that comes out of his mouth is a scratchy sounding croak. Cody jumps, immediately alert. </span>
+</p>
+<p>
+  <span>“General, sir!” </span>
+</p>
+<p>
+  <span>Obi-Wan swallows, aware of his parched mouth, and tries again. “C’dy.” </span>
+</p>
+<p>
+  <span>Cody’s eyes widen in realisation, and he reaches for the glass on the table, sliding his other hand under Obi-Wan’s head and guiding the water to his mouth. “Slow sips, sir.” </span>
+</p>
+<p>
+  <span>Obi-Wan drinks gratefully. As soon as the glass is removed, he turns a glare onto his commander. “...shoul’ be resting,” he manages. “You...hurt.” </span>
+</p>
+<p>
+  <span>Cody returns his look tenfold, and rolls up his - civilian, they must have somehow returned to Coruscant while he was unconscious, because Cody never kept civvies onboard - shirt, to reveal his stomach, whole and perfect. There’s not a mark left on him. “I think you saw to that. General Che said you were suffering from Force exhaustion. She said you could have died.” </span>
+</p>
+<p>
+  <span>He wouldn’t, Obi-Wan knows, but he can understand why the healer was worried. Obi-Wan didn’t have as high of a midichlorian count as most Jedi, and what he did was tricky work. Privately, Obi-Wan believed that it was his lower count that gave him the understanding that the Force wouldn’t </span>
+  <em>
+    <span>let </span>
+  </em>
+  <span>him join it. He has to rely on his trust in the Force more than those Jedi who can hear its voice at all times. </span>
+</p>
+<p>
+  <span>“H’w...long?” </span>
+</p>
+<p>
+  <span>Cody sighs, deflating. “Four days. The men are frantic,” he informs him, before straightening up. “Sir, I really must insist you don’t exert yourself like this again. What’s the point in me protecting you, if you’re just going to kill yourself anyway?” </span>
+</p>
+<p>
+  <span>Obi-Wan extracts his hand from his blankets to grab at Cody’s. His head feels full of cotton, and he’s fuzzy, slow, but Cody’s wide eyed look sticks with him. </span>
+</p>
+<p>
+  <span>“Couldn’t...let you die,” he rasps, squeezing. </span>
+</p>
+<p>
+  <span>“Sir,” Cody says, voice suspiciously weak as well. “Please, I - I’m expendable. You aren’t.” </span>
+</p>
+<p>
+  <span>Obi-Wan frowns, tugs him closer, and says as clearly as he can. “Not...expendable. Not to me.” </span>
+</p>
+<p>
+  <span>The darkness begins to drag him back under, but not before he sees Cody’s face go soft, lax, amber eyes shiny and wet. </span>
+</p>
+<p>
+  <span>“Rest, General,” Cody murmurs, tucking the covers around him. Obi-Wan’s eyelids slide shut without his permission, and his breathing evens out, but he isn’t quite asleep when warm, chapped lips press against his forehead. “</span>
+  <em>
+    <span>Nuhoy, ner’jetii. </span>
+  </em>
+  <span>I’ve got first watch.” </span>
+</p>
+<p>
+  <em>
+    <span>Sleep, my jedi. </span>
+  </em>
+  <span>Obi-Wan does.</span>
+</p><hr/>
+<p>
+  <em>
+    <span>Anakin was both the light of Obi-Wan’s life and the main source of his premature grey hairs. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>He was a wonderful boy, intelligent and compassionate and everything a Jedi should be, and he shone so brightly in the Force that sometimes, Obi-Wan felt the need to shield his eyes. But he was also passionate, and powerful, and so proud of his freedom that Obi-Wan was terrified he could embody the Sith. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>It was an awful fear, because of course an ex-slave would be proud of his freedom; yet Obi-Wan watched the way Anakin hoarded the possessions he’d been refused ownership of as a child, and worried. He worried more when that possessive nature transferred from objects to people. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“How come you never bring anyone home with you, Master?” Anakin asked, something not-quite-dark, but not-quite-light either glittering in his eyes. “Ferus says his master has </span>
+  </em>
+  <span>guests</span>
+  <em>
+    <span> all the time.” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Obi-Wan made a mental note to remind Siri to be a little more discreet in her liaisons. One shouldn’t introduce new elements to a Padawan’s learning unless those elements were going to be a regular occurence. And, knowing Siri, her paramours didn’t tend to last. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“You should remind Padawan Olin not to go spreading his Master’s business around the Temple,” Obi-Wan said tartly. “Knight Tachi is at liberty to invite as many people to her bed as she wishes, she’s sworn no vows of celibacy.” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“Yeah, I know,” Anakin rolled his eyes. “‘Their body, their choice.’ I remember your lesson. But I’m asking about </span>
+  </em>
+  <span>you.</span>
+  <em>
+    <span>” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“It is, I believe, none of your business,” he replied firmly. “But if you must know, I’m not interested.” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“Gonna wait till my apprenticeship is over, huh?” Anakin asked, but there was a smugly pleased undercurrent to the words that Obi-Wan had no idea how to approach. He refused to answer instead, and wondered how in the Sithhells he was meant to approach the thorny subject of possessiveness with a boy who, until five years ago, didn’t have anything he could be possessive of. </span>
+  </em>
+</p><hr/>
+<p>
+  <span>“Master!” Anakin is, as ever, a swirl of robes and urgency, with the faint undertones of panic. “You’re alright!” </span>
+</p>
+<p>
+  <span>“It was a case of mild over-exertion,” Obi-Wan says dryly, sitting up on the medical bed, and methodically making his way through the fancy emerald grapes Bail had sent him. Cody is still seated in the visitors chair, even two days later, but Obi-Wan doesn’t have the heart to hint he’s unwelcome, because that would be a filthy lie. “I wasn’t the one who was shot.” </span>
+</p>
+<p>
+  <span>Cody raises an eyebrow without looking away from the reports he’s proofreading. “If this is mild, I’d hate to see your definition of severe.” </span>
+</p>
+<p>
+  <span>Obi-Wan mock frowns at him, before sensing another being, half hidden by Anakin’s supernova Force presence. “Ahsoka!” he greets with delight. A visit from his still-new grandpadawan was sure to make his day brighter. </span>
+</p>
+<p>
+  <span>Ahsoka enters the room tentatively, offering a shy smile. Still so unsure of herself. Well, Anakin would change that, soon enough. </span>
+</p>
+<p>
+  <span>“Master, you could have </span>
+  <em>
+    <span>died,</span>
+  </em>
+  <span>” Anakin draws the attention back to himself, a distressed pout forming. “Healer Che said -” </span>
+</p>
+<p>
+  <span>“I am aware of what Healer Che believes, Padawan,” he half-snaps. He was tired of people forgetting his Mastery; even if he was the youngest in years, he had </span>
+  <em>
+    <span>earned </span>
+  </em>
+  <span>his rank. “But despite everyone’s assumptions, I did actually know what I was doing.” </span>
+</p>
+<p>
+  <span>Anakin deflates, and Obi-Wan sighs. “I am sorry I worried you, dear one,” he says, consciously softening his voice. He grins ruefully. “Commander Cody has reminded me several times already that a sudden bout of unconsciousness tends to be considered alarming.” </span>
+</p>
+<p>
+  <span>Cody glances up, blank faced, but satisfaction curls around him in the Force. “I believe my exact words were ‘stop being an idiot, sir,’” he quotes, returning to his reports. Obi-Wan’s smile grows a little more fond. </span>
+</p>
+<p>
+  <span>“Oh,” Anakin says, his eyes a little wide. Ahsoka looks at him curiously, but he only shakes his head at her, a knowing expression on his face. Obi-Wan raises an eyebrow, but his padawan merely smirks at him, and Obi-Wan decides that no, he doesn’t want to know whatever it is Anakin thinks he’s discovered. </span>
+</p>
+<p>
+  <span>“So,” he says, turning to Ahsoka. “How did your astronavigation assessment go? I know you were worried about it.” </span>
+</p><hr/>
+<p>
+  <em>
+    <span>“Anakin, are you listening?” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“Of course, Master.” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Anakin isn’t, Obi-Wan knows. Explaining the complex rules regarding attachments - how can one love, and not be attached? what does attachment mean? - is hard enough for Temple raised children, but it’s especially difficult for a boy raised far away from the safety of the créche. Anakin struggles to grasp the difference between possession and love, and every day Obi-Wan finds himself questioning if being a Jedi is the right thing for Anakin. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Anakin could be a great Jedi, he knows. He would soon surpass Obi-Wan in terms of skill - and he had always been more powerful. But he was arrogant, impulsive, and thrived on praise and comfort - something Obi-Wan was of course willing to give, but a Jedi shouldn’t rely on external validation. They should find what they need in the Force. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“You shouldn’t worry about it in your padawan years,” he finally sighed, when it became clear that Anakin was too distracted to listen. Obi-Wan would try again, closer to the time of Anakin’s Knighting. “Just remember, the Force comes first.” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“Yeah, I know,” Anakin grumbled, but Obi-Wan had a feeling he didn’t. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Not for the first time, Obi-Wan cursed Qui-Gon Jinn.</span>
+  </em>
+</p><hr/>
+<p>
+  <span>Unfortunately, Cody’s feelings for him didn’t fade. </span>
+</p>
+<p>
+  <span>Instead, they grew deep roots, and sprouted upwards, strong and unyielding. The word crush has become too mild, too constrained, even if the word </span>
+  <em>
+    <span>love </span>
+  </em>
+  <span>leaves Obi-Wan with a terrible taste in his mouth at the unfairness of it all. He would have to ravage the foundations and salt the earth to kill it now; but Obi-Wan cannot hurt Cody, not as badly as is needed to end this attachment. </span>
+</p>
+<p>
+  <span>It is undoubtedly, Obi-Wan’s own fault - dramatic rescues aside, he has unfortunately revealed his own fondness for his Commander through his actions. </span>
+</p>
+<p>
+  <em>
+    <span>Help me, </span>
+  </em>
+  <span>Obi-Wan asks the Force in his next meditation. Traditional Masters may frown upon using the Force for personal gain, but to Obi-Wan - the Force was present in everything and everyone, and meddled in personal affairs anyway. He might as well invite it in. </span>
+</p>
+<p>
+  <em>
+    <span>Trust him, </span>
+  </em>
+  <span>it whispers. </span>
+</p>
+<p>
+  <span>Obi-Wan releases his confusion to it. </span>
+  <em>
+    <span>I already do.</span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Then trust yourself, </span>
+  </em>
+  <span>the Force says back. Obi-Wan makes a face. </span>
+</p>
+<p>
+  <span>“You’re being thoroughly unhelpful,” Obi-Wan mutters aloud, and feels the answering trill of laughter around him. </span>
+</p>
+<p>
+  <span>“Who is?” </span>
+</p>
+<p>
+  <span>Obi-Wan does not do anything as undignified as jump, but it is a close call. He had been too deep in meditation to feel Cody’s entrance; nor had he expected it. He had told Cody he was always welcome in Obi-Wan’s quarters plenty of times, but the man rarely took him up on it. Until this week.</span>
+</p>
+<p>
+  <span>But his presence was not unwelcome, and Obi-Wan was glad of it. Even if he didn't appreciate the reasons behind it.</span>
+</p>
+<p>
+  <span>“The Force,” Obi-Wan answers, keeping his eyes closed and stretching his senses out across the ship. His men, as a whole, seemed content, but there were a few grieving brothers tucked away on deck four. He made a note to watch out for them, even as he pulled back in on himself, focused on the feeling of Cody in his kitchen, looking for - “Caff is in the second cupboard, to the right.” </span>
+</p>
+<p>
+  <span>“</span>
+  <em>
+    <span>Vor’e,</span>
+  </em>
+  <span>” Cody thanks him, pulling out a mug for himself. “How can the Force be unhelpful?” </span>
+</p>
+<p>
+  <span>“It can be vague and confusing, and sometimes it is vague and confusing on purpose,” Obi-Wan replies, back in the moment. He stretches, feeling the ache in his knees and shoulders that told him he was no longer as young as he once was, and winces at the pang of the old ankle injury as he gets to his feet. “Have you eaten? I was going to make third meal.” </span>
+</p>
+<p>
+  <span>“I can do that,” Cody says quickly, and Obi-Wan sighs. </span>
+</p>
+<p>
+  <span>“I can take care of myself just fine, Commander,” he states. This was why Cody had finally found the confidence to invade his space; but Obi-Wan was not, and had never been, a fan of mother-henning. </span>
+</p>
+<p>
+  <span>“I know you can,” Cody says, voice steady. “But please. Let me.” </span>
+</p>
+<p>
+  <span>Oh. </span>
+  <em>
+    <span>Oh. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Mando’a courting customs. </span>
+  </em>
+  <span>An old memory resurfaces, of Satine and Mandalore, and the culture that the clones had inherited from their template. </span>
+  <em>
+    <span>Fighting, swapping armour, providing. </span>
+  </em>
+</p>
+<p>
+  <span>“Cody,” Obi-Wan begins, a little helplessly. </span>
+</p>
+<p>
+  <span>“Don’t sir,” Cody says calmly.</span>
+</p>
+<p>
+  <span>“I can’t -” </span>
+</p>
+<p>
+  <span>"Please." </span>
+</p>
+<p>
+  <span>It's the please that does it. Obi-Wan has never been good at denying himself what he wants; and he can admit, if only to himself, that this is what he wants. </span>
+</p>
+<p>
+  <span>"I can't give you what you want," Obi-Wan voices the awful truth of it. "I can't be what you want me to be."</span>
+</p>
+<p>
+  <span>Cody swallows, and smiles. It's an awful, tremulous thing, filled with hope and resignation. Obi-Wan recognises it, because it mirrors his own. </span>
+</p>
+<p>
+  <span>"I'll take whatever you can give me," Cody tells him, honestly. "I - you know. How I feel." </span>
+</p>
+<p>
+  <span>"You deserve better than half of someone," he replies. "Everything I am - it belongs to the Force. You deserve more than whatever is left over of me in the end." </span>
+</p>
+<p>
+  <span>Cody takes a step forward, cups his face, and says softly, "How about you let me decide what I deserve?" </span>
+</p>
+<p>
+  <span>The proximity alarm blares, and Cody drops his hand, his face instantly blank and professional. </span>
+</p>
+<p>
+  <span>"All hands on deck, Commander," Obi-Wan says, and life gets put on pause for the war. </span>
+</p><hr/>
+<p>
+  <em>
+    <span>“You’re not like me, Obi,” Bant told him. “You’re content, yes - but you aren’t happy.” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Bant was happy. She had never desired a relationship the way he had - had never been repeatedly rejected and told she wasn’t enough; because she was enough to herself. There were plenty of Jedi like her, either by choice or because they had been born without the urge - and they, unlike Obi-Wan, found what they needed in the relationships they had with their peers. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“I don’t need someone,” he replied. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“You don’t,” she nodded in acquesience. “But you want someone. You’re lonely, Obi-Wan.” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Obi-Wan was not lonely, no matter what Bant said. He had Garen, and Luminara, and Quin, and Mace, and Bant herself, and </span>
+  </em>
+  <span>Anakin,</span>
+  <em>
+    <span> the latter of whom took up so much of his energy that he had very little to spare for anything remotely approaching a relationship.</span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>He didn’t </span>
+  </em>
+  <span>want </span>
+  <em>
+    <span>one. There was, perhaps, a desire for a companion. Someone willing to share their life with him, and accept him into their own. A person that didn’t want any more than what Obi-Wan could give; who would be content with what Obi-Wan could offer. Someone that Obi-Wan could trust not to replace him the moment a potential romantic partner appeared. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>He wasn’t entirely sure what it was about romance that drove people into idiocy, but it was a trend he had become unfortunately familiar with. Garen would ignore him for weeks on end when a new partner appeared on the scene, and Luminara and Depa were so often wrapped up in one another that trying to have a conversation with one that didn’t involve the other was often impossible. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Only Quin and Bant seemed to be excluded from such nonsense, but then again, Quinlan Vos broke hearts in every sector he showed his face in, so Obi-Wan doubted Quin ever lacking options. And Bant was Bant.</span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“Master!” </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>“I better go see what he wants,” Obi-Wan offered his friend an apologetic smile as he turned to his padawan.</span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Obi-Wan wasn’t lonely</span>
+  </em>
+  <span>. </span>
+  <em>
+    <span>He </span>
+  </em>
+  <span>wasn’t. </span>
+  <em>
+    <span>He had Anakin, and he had the Force. That was enough. </span>
+  </em>
+</p><hr/>
+<p>
+  <span>Obi-Wan isn’t entirely sure how they ended up here, in his quarters on Coruscant. Anakin had stormed in minutes ago, terrified and lashing out, a maelstrom of emotions swirling in the Force. He was followed by a slightly more decorous Padmé, who looked pale and drawn, but determined, as strong and as cold as durasteel. Cody, who had followed Obi-Wan back to the Temple - ostensibly to discuss battle strategies, but obviously hoping to finish their interrupted conversation, was trapped in the corner, attempting to stay out of the way.</span>
+</p>
+<p>
+  <span>“You have to help her!” Anakin demands. </span>
+</p>
+<p>
+  <span>“Certainly,” Obi-Wan responds, entirely bewildered. “If I knew exactly </span>
+  <em>
+    <span>what</span>
+  </em>
+  <span> I am supposed to help with.” </span>
+</p>
+<p>
+  <span>Anakin inhales sharply, dragging a hand through his hair, but it is Padmé who answers, quiet and ashamed; words Obi-Wan had never associated with Padmé Naberrie Amidala. “I’m pregnant,” she says. “And Anakin is convinced I am going to die.” </span>
+</p>
+<p>
+  <span>There’s a sudden stillness about the room, now that the words are out there. Then Obi-Wan smiles. “Congratulations,” he murmurs, stepping closer to her, and raises a hand to her stomach. “May I?” </span>
+</p>
+<p>
+  <span>She half-nods, eyes confused at his non-reaction, but Obi-Wan doesn’t stop, because now that he is looking for it - </span>
+  <em>
+    <span>yes. </span>
+  </em>
+</p>
+<p>
+  <span>“Hello there,” he greets the little lights, who nudge back at his Force presence excitedly. “It’s nice to meet you both.” </span>
+</p>
+<p>
+  <span>“Both?” Padmé asks, a hint of excitement and thrilled terror in her voice. </span>
+</p>
+<p>
+  <span>“Both,” he confirms, eyes on the fluttering presences. “Around - four months?” </span>
+</p>
+<p>
+  <span>“...Yes, that sounds about right.” </span>
+</p>
+<p>
+  <span>Obi-Wan smiles, then frowns. “Padmé, how were you not aware that they were twins? Did your midwife not tell you?” </span>
+</p>
+<p>
+  <span>“...I haven’t seen a prenatal specialist,” she admits, shame colouring the words. “Just a blood test from my med-droid.” </span>
+</p>
+<p>
+  <span>Obi-Wan pulls his hand away. “Why in Sithhells have you not?” </span>
+</p>
+<p>
+  <span>Anakin jumps in, seething. “Why do you think, </span>
+  <em>
+    <span>Master?” </span>
+  </em>
+</p>
+<p>
+  <span>“I have no kriffing idea,” Obi-Wan shoots back. He can feel Cody’s concern - rapidly growing into protectiveness - permeate the Force, and he understands. Anakin seems - unbalanced. More so than Obi-Wan would have anticipated. “For such a sensible woman, this seems like an absurd risk to take!” </span>
+</p>
+<p>
+  <span>She raises her chin to glare at him. “I didn’t want Anakin to get kicked out of the Order because my contraceptives failed, and I cannot trust any sentient midwife not to immediately run to the press with a scandal of a lifetime!” </span>
+</p>
+<p>
+  <span>“Fear of a press scandal isn’t worth risking your own or the children’s lives, Padmé!” Obi-Wan shoots back, utterly done. “And he wouldn’t be kicked out, he’d get a slap on the wrist, at most!” </span>
+</p>
+<p>
+  <span>“Because I’m a war hero? Or they’d just force me to divorce Padmé, is that just a slap on the wrist for you?” </span>
+</p>
+<p>
+  <span>Divorce? Force. Obi-Wan was really very done with these idiots. He thought the Senator was smart enough to not have a scandalous secret marriage, even if she seemed hellbent on having a secret relationship. “What? No. Of course not.” </span>
+</p>
+<p>
+  <span>“Then what, Obi-Wan? They’d never let me be a Jedi, not with an </span>
+  <em>
+    <span>attachment,</span>
+  </em>
+  <span>” he snarls, like it’s a dirty word. </span>
+</p>
+<p>
+  <span>His anger fills the small quarters, and Obi-Wan can feel the twins' distress, so he sends a soothing tendril their way as he whirls on his Padawan. “What in the Sithhells are you talking about?” </span>
+</p>
+<p>
+  <span>“You </span>
+  <em>
+    <span>know </span>
+  </em>
+  <span>what I’m talking about!” </span>
+</p>
+<p>
+  <span>“I was under the impression,” Padmé states, slowly, as if trying to lower the emotional threshold. “That relationships are forbidden for the Jedi. Judging from your reaction, am I to believe that is false?” </span>
+</p>
+<p>
+  <span>Obi-Wan, throwing dignity to the wind, throws his hands up in the air. “Yes!” </span>
+</p>
+<p>
+  <span>“Wait, what?” </span>
+</p>
+<p>
+  <span>Obi-Wan stares at Anakin, eyes wide. “Anakin, you’re a Knight! You’ve been allowed to have relationships since you were Knighted! They’re prohibited for Padawan’s, because during your apprenticeship you are being tested on your commitment to the Force; if you can reach Knighthood without forming those attachments, you are a Jedi - why - Anakin, I definitely explained this to you, several times!” </span>
+</p>
+<p>
+  <span>Anakin gapes unattractively. Cody, Obi-Wan notices, is desperately attempting to blend in with the walls. This was all terribly unfair - and awkward - for the poor man. He made a note to buy him something nice to make up for it. </span>
+</p>
+<p>
+  <span>“But you - I - You’ve never -” </span>
+</p>
+<p>
+  <span>Obi-Wan sighs, and scrubs a hand over his face, thoroughly done with this conversation. “Anakin, other than my romantic endeavours being distinctly </span>
+  <em>
+    <span>not your business,</span>
+  </em>
+  <span> I am a sex-repulsed asexual. You haven't seen me dating anyone, because I </span>
+  <em>
+    <span>don't.</span>
+  </em>
+  <span>" </span>
+</p>
+<p>
+  <span>“Oh,” Cody says, from his spot in the corner. Obi-Wan closes his eyes and waits for the rejection - but there’s nothing in the Force, just a warm acceptance, and a sudden burst of </span>
+  <em>
+    <span>realisationunderstandingrelief</span>
+  </em>
+  <span>. </span>
+</p>
+<p>
+  <span>"Oh," Anakin parrots, gobsmacked. "But you - the Chancellor -" </span>
+</p>
+<p>
+  <span>Obi-Wan can </span>
+  <em>
+    <span>feel </span>
+  </em>
+  <span>Padmé's sigh behind him as he restrains the urge to yell at his padawan. "How, exactly, is Sheev Palpatine involved in this conversation?" </span>
+</p>
+<p>
+  <span>"He - he said, you and Padmé - and the Jedi -"  </span>
+</p>
+<p>
+  <span>"Excuse me?" Padmé breaks first, although Obi-Wan is close behind, hindered by the sheer amount of incredulity he feels. "Chancellor Palpatine said</span>
+  <em>
+    <span> what, </span>
+  </em>
+  <span>Anakin?" </span>
+</p>
+<p>
+  <span>"...he said that...the Jedi frowned on attachment...and that…" he trails off, but Obi-Wan fills in the blanks. </span>
+</p>
+<p>
+  <span>"You and I are having an illicit affair, because I'm a repressed monk with attachment issues and apparently feel the urge to sate my urges with my sister-in-law," Obi-Wan informs Padmé. </span>
+</p>
+<p>
+  <span>Then the shouting </span>
+  <em>
+    <span>really </span>
+  </em>
+  <span>started.</span>
+</p><hr/>
+<p>
+  <em>
+    <span>He met Commander Cody, and thought, </span>
+  </em>
+  <span>oh. </span>
+</p>
+<p>
+  <em>
+    <span>The Force dances around the trooper, delighted. </span>
+  </em>
+  <b>
+    <em>One of yours, one of yours</em>
+  </b>
+  <span>, </span>
+  <em>
+    <span>it chanted. </span>
+  </em>
+  <b>
+    <em>He belongs with you</em>
+  </b>
+  <span>.</span>
+  <em>
+    <span> Obi-Wan cannot disagree. He may hate being a General, but the 212th, and their Commander, were undeniable attachments. Obi-Wan cared for all sentiments, but these troopers held a place in his heart that only Anakin had touched.  </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>In the weeks, months, years that passed, things changed. Developed. Cody’s respect grew into admiration, attraction; Obi-Wan could feel the resonance in the Force </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>Obi-Wan wanted - well. He wasn’t sure what he wanted. But he knew, whatever it was, it would not be enough for a man like his Commander. This clone - this man - he deserved so much more than what Obi-Wan could offer. Perhaps he could share Obi-Wan with the Force, because Force knows that Cody wasn’t possessive, or even particularly jealous, but Obi-Wan knew it would be unfair of him to expect...</span>
+  </em>
+  <span>that. </span>
+  <em>
+    <span>A ‘life devoid of intimacy’, as his first attempt at dating had put it.</span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>It was better if he let Cody down gently, and encouraged those feelings to fade. Cody would find someone who could offer him everything, and Obi-Wan’s heart wouldn’t take another beating. Yes. It would be better for both of them that way.</span>
+  </em>
+</p><hr/>
+<p>
+  <span>In the end, it was all very anti-climatic. </span>
+</p>
+<p>
+  <span>Obi-Wan and Padmé managed to put enough of a picture together from Anakin’s stuttered ramblings, the Senate’s suspicions, and Obi-Wan’s opinions - that, well. It didn’t look pretty. It wasn't foolproof, but it ws enough circumstantial evidence to convince Anakin to go see the mind healers, trembling and pale, wrapped in Obi-Wan’s cloak. While the news that the Dark and the taint of the Sith had deep claws inside his padawan’s mind hits him in the solar plexus - </span>
+  <em>
+    <span>he’d left Anakin alone with that bastard! - </span>
+  </em>
+  <span>it’s enough to take to the Council. </span>
+</p>
+<p>
+  <span>Within three days, there is an official, if quiet, investigation, and Supreme Chancellor Palpatine is revealed to be Darth Sidious. It takes most of the Council to arrest him, and in the end Anakin has to end his life to save Obi-Wan’s, which Obi-Wan is sure did nothing to help the disaster that was the young man’s mind, but it was over. Supreme Chancellor Bail Organa is elected swiftly, and immediately pushes for an end to the war. Count Dooku, without his secret backer feeding him information, is revealed to be a terrible General, and is captured on his home planet of Serenno. Ventress escapes, killing Grievous in the process. Peace is declared four weeks after. </span>
+</p>
+<p>
+  <span>Obi-Wan, for his part, has Anakin to deal with. And Cody. </span>
+</p>
+<p>
+  <span>“I don’t care,” Cody says, catching his elbow. They’re alone in the </span>
+  <em>
+    <span>Negotiator’s </span>
+  </em>
+  <span>rec room - it’s the middle of the night cycle, and the ship is only half-manned; troopers who had opted to stay with Obi-Wan while he completed the necessary treaties to obtain official peace. He has not been avoiding Cody, but they’ve rarely had the chance to talk about anything unrelated to the War, which has suited Obi-Wan just fine. Until now. </span>
+</p>
+<p>
+  <span>“You might think you don’t care, or need it,” Obi-Wan murmurs, eyes on Cody’s own. “But in my experience, I am not enough.” </span>
+</p>
+<p>
+  <span>Cody’s jaw tightens. “I don’t know who the kriff told you that, but they’re wrong,” he states, firmly, implacably. “I love you, Obi-Wan Kenobi, and I know - I felt it, how much you cared for me. When you dragged me back.” </span>
+</p>
+<p>
+  <span>The Force, once again, meddling in Obi-Wan’s affairs. </span>
+</p>
+<p>
+  <span>“I love you, Cody,” he admits, but he has to be honest. “But you - Cody, even if you can share me with the Force, I will never be able to be intimate with you. And you will want that.” </span>
+</p>
+<p>
+  <span>“You think I don’t know how to care for my own deece?” Cody asks frankly, the crudeness of the sentence drawing a surprised snort from Obi-Wan. “I managed to fall in love with you without having sex with you. I managed to stay in love with you before I even knew it was requited. I fell for you because of your ethics, because of your sense of humour, and because you are </span>
+  <em>
+    <span>kriffing beautiful, </span>
+  </em>
+  <span>inside and out - don’t argue with me on this.” </span>
+</p>
+<p>
+  <span>Obi-Wan mimes zipping his lips shut at Cody’s glare. </span>
+</p>
+<p>
+  <span>“I love you because you treat me like a person. You gave me fancy sweets because you thought I might enjoy them. You kept jumping in the line of fire for me even when it was my job to protect you. You made me laugh when my world was crumbling in on me. Sex? It can be fun, sure. But not as fun as watching you relentlessly mock holo-dramas and slyly insult politicians so they think it’s a compliment.</span>
+</p>
+<p>
+  <span>“And as for intimacy,” Cody steps forwards, his voice unbearably soft, and takes Obi-Wan’s hand. “I can hold you just as well with all our clothes on as I could without.” </span>
+</p>
+<p>
+  <span>Obi-Wan swallows, but squeezes back. “I can’t...I don’t know how to trust that, Cody.” </span>
+</p>
+<p>
+  <span>“Then let me show you,” he murmurs, pressing his lips to Obi-Wan’s forehead. </span>
+</p><hr/>
+<p>
+  <b>
+    <em>Trust me</em>
+  </b>
+  <span>, </span>
+  <em>
+    <span>the Force whispered. </span>
+  </em>
+</p>
+<p>
+  <em>
+    <span>He does, with everything he has. </span>
+  </em>
+</p>
+<p>
+  <b>
+    <em>Then trust that I have plans for you. </em>
+  </b>
+</p><hr/>
+<p>
+  <span>Obi-Wan is exhausted by the time he makes his way back to his suite. </span>
+</p>
+<p>
+  <span>He adores Anakin’s children - how could he not, when they shone so brightly, when the Force said</span>
+  <em>
+    <span> you will train them, you will love them</span>
+  </em>
+  <span> - but there was a reason he was not often placed on créche duty. Children were far easier to deal with when they could be either bribed or reasoned with. And he was still trying to help Anakin with his withdrawal from the Order, an action mired in bureaucracy. Then there was the mess in the Senate - </span>
+</p>
+<p>
+  <span>Cody was standing next to him. With tea. </span>
+</p>
+<p>
+  <span>“I do believe that you have a touch of sensitivity yourself, my dear,” Obi-Wan says as he gratefully accepts the cup. </span>
+</p>
+<p>
+  <span>“I just know you,” his partner says, pressing a kiss to his temple. “Third meal should be ready by the time you finish that.” </span>
+</p>
+<p>
+  <span>“You’ve been experimenting again, haven’t you? Are you sure it’s edible?” Obi-wan teases.</span>
+</p>
+<p>
+  <span>Cody narrows his eyes, and hip checks him towards the couch. “It’s a recipe from Chancellor Organa. He said it’s your favourite.” </span>
+</p>
+<p>
+  <span>“Alderaan stew? You really are too good for me, Cody.” </span>
+</p>
+<p>
+  <span>Cody shakes his head as they settle on the couch, tucking Obi-Wan under his arm and close to his body. “No, I’m not.” </span>
+</p>
+<p>
+  <span>He’ll get all stubborn if Obi-Wan argues the point, so Obi-Wan takes a sip of his tea instead, and leans into his partner. “The CRA will pass tomorrow,” he says, and turns his head to look at Cody. “You and your brothers will be free.” </span>
+</p>
+<p>
+  <span>Cody smiles at that, tentatively excited. “I never doubted you for a second</span>
+  <em>
+    <span>.</span>
+  </em>
+  <span>” </span>
+</p>
+<p>
+  <span>“It wasn’t me,” he tries to argue, but that’s not entirely true. Obi-Wan had to call in most of his favours, and use more of his blackmail material than he was comfortable with, skirting the line of his own ethics, but they had enough votes. </span>
+</p>
+<p>
+  <span>“Of course not, ” Cody says, but his voice is thick with affection as he buries his face in Obi-Wan’s hair, his eyes suspiciously shiny. “Thank you, </span>
+  <em>
+    <span>cyare.</span>
+  </em>
+  <span>” </span>
+</p>
+<p>
+  <span>“Anything for you,” Obi-Wan says. “I mean it, Cody. Anything you need -” </span>
+</p>
+<p>
+  <span>“I’ve got everything I need right here,” Cody says, lifting his head to meet Obi-Wan’s eyes. </span>
+</p>
+<p>
+  <span>Obi-Wan smiles. “I love you too.”</span>
+</p>
+<p>
+  <span>Tomorrow, Rex will drag Cody out to celebrate their new found freedom. Ghost Company would raid Obi-Wan’s kitchen as they wait for the announcement. Anakin will call in a panic because Luke levitated a toy, and </span>
+  <em>
+    <span>what if he does it with something dangerous? </span>
+  </em>
+  <span>while Padmé laughs in the background. But that is tomorrow. </span>
+</p>
+<p>
+  <span>Tonight, Obi-Wan will eat his favourite meal. He will meditate, and the Force will be there, like it always is. Then he will go to bed, and be held by someone who loves him. And that is more than enough. </span>
+</p></div>
+        <!-- end cache -->
+    </div>
+<!--/chapter-->
+
+    <!--afterword-->
+    <div class="afterword preface group" role="complementary">
+        <!--work endnotes-->
+<div id="work_endnotes" class="end notes module">
+  <h3 class="heading">Notes:</h3>
+  <blockquote class="userstuff"><p>*cries in especially single*</p>
+<p>let me know if you've spotted any glaring mistakes (and if you enjoyed it, of course)!</p>
+<p>(edit 12/10/20, psst, I love all your comments &amp; read every single one of them!! but there are so many I just can't keep up. I promise I read them &lt;3)</p></blockquote>
+</div>
+<!--/work endnotes-->
+    </div>
+    <!--/afterword-->
+
+  </div>
+  <!-- END work skin -->
+<!-- END work -->
+
+<!-- BEGIN comment section -->
+<!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="0M-_S5PvBFjsZB-xqRT7g6PL9_kZi8nCOKKtlqHC7OqAij1sN4oG74zSSuaAIJLNulXH-DdIwhvIEclXHuK3IA"/>
+          <input value="23175445" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?work_id=23175445">Comments (282)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/AravisSkywalker">AravisSkywalker</a>, <a href="/users/Queens_Gardener">Queens_Gardener</a>, <a href="/users/randombreeze">randombreeze</a>, <a href="/users/Dragonlord_fighting_titans">Dragonlord_fighting_titans</a>, <a href="/users/postienotegirl">postienotegirl</a>, <a href="/users/gwaew_mallen">gwaew_mallen</a>, <a href="/users/Coline7373">Coline7373</a>, <a href="/users/DragonMoonWolf">DragonMoonWolf</a>, <a href="/users/cosmictwobyfour">cosmictwobyfour</a>, <a href="/users/FirstDragon">FirstDragon</a>, <a href="/users/Chedan87">Chedan87</a>, <a href="/users/Hainako">Hainako</a>, <a href="/users/kuroousagi">kuroousagi</a>, <a href="/users/closeincline">closeincline</a>, <a href="/users/MariSkyrinSarker">MariSkyrinSarker</a>, <a href="/users/Angelofthekiwi">Angelofthekiwi</a>, <a href="/users/busder6433">busder6433</a>, <a href="/users/biblioworm">biblioworm</a>, <a href="/users/Peachykeenaspie">Peachykeenaspie</a>, <a href="/users/the17thmuse">the17thmuse</a>, <a href="/users/zanaynaydes">zanaynaydes</a>, <a href="/users/Squirrel806">Squirrel806</a>, <a href="/users/Firegirl108">Firegirl108</a>, <a href="/users/Defy_Gravity_and_Fly">Defy_Gravity_and_Fly</a>, <a href="/users/NoSongUnsung">NoSongUnsung</a>, <a href="/users/soloshootsfirst">soloshootsfirst</a>, <a href="/users/MadeOfThoughtsAndStardust">MadeOfThoughtsAndStardust</a>, <a href="/users/TheTartWitch">TheTartWitch</a>, <a href="/users/Quinn84">Quinn84</a>, <a href="/users/TheScientificMage">TheScientificMage</a>, <a href="/users/Riduvessa">Riduvessa</a>, <a href="/users/auleonnar">auleonnar</a>, <a href="/users/dandelioness">dandelioness</a>, <a href="/users/Sunknight1142">Sunknight1142</a>, <a href="/users/PurpleSpectr__2">PurpleSpectr__2</a>, <a href="/users/Sleepygoddess16">Sleepygoddess16</a>, <a href="/users/Juna1996">Juna1996</a>, <a href="/users/Arwen_1234567890">Arwen_1234567890</a>, <a href="/users/WinterRose16">WinterRose16</a>, <a href="/users/Opale">Opale</a>, <a href="/users/jambi_cafe">jambi_cafe</a>, <a href="/users/dykerey">dykerey</a>, <a href="/users/DiAngeloPotterhead">DiAngeloPotterhead</a>, <a href="/users/ThisIsANameBiatch">ThisIsANameBiatch</a>, <a href="/users/splashbug">splashbug</a>, <a href="/users/kariou">kariou</a>, <a href="/users/forgottentoothbrush">forgottentoothbrush</a>, <a href="/users/FicandFicbert">FicandFicbert</a>, <a href="/users/AlexaWolfe29">AlexaWolfe29</a>, <a href="/users/GhostQueen7255">GhostQueen7255</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/23175445/kudos?before=3879078922">2481 more users</a>
+             as well as 
+          886 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_23175445">
+  <form class="new_comment" id="comment_for_23175445" action="/works/23175445/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="YD04smCKPBAq-Dj4ut29eonk8yE_8K0ekkXX3HaXmGsweLqVxO8-p0pOba-T6dQ0kHrDIBEzpsdi9rMdybfDoQ"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_23175445">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_23175445" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_23175445=new LiveValidation('comment_name_for_23175445',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_23175445.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_23175445">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_23175445" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_23175445=new LiveValidation('comment_email_for_23175445',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_23175445.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_23175445" class="landmark">Comment</label>
+        <textarea id="comment_content_for_23175445" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_23175445" name="controller_name" value="works"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_23175445_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_23175445">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_23175445=new LiveValidation('comment_content_for_23175445',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_23175445.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_23175445.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_23175445" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+<!-- END comment section -->
+<!-- END revealed -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/23175445/hit_count.json")})</script>
+
+
+  </body>
+</html>

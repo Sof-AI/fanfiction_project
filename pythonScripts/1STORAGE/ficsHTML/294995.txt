@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"232243a405","applicationID":"129290979","transactionName":"cVtXEUpbWFxdQhkAW1NETQBKRxtDUF9B","queueTime":0,"applicationTime":75,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"232243a405",applicationID:"129290979"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(9),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=M.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+M.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+M.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,y="addEventListener",h="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1215.min.js"},T=w&&b&&b[y]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:T,userAgent:s,disabled:E};if(!E){t(1),t(7),g[y]?(g[y]("DOMContentLoaded",o,l(!1)),m[y]("load",r,l(!1))):(g[h]("onreadystatechange",i),m[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Merry Moron-mas! - Chapter 1 - Trista_zevkia - Multifandom [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="c9KeQ2x6GroTrvw5KGlEq96FMqx6C79atEHjom-9SVDqs51JYOZsvglOIsYo-j_YdAG55sV-QWtNb_9Mfid4zA"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="JcoJp9hn1S5Wd7QLfUqBTkp422R_N9cGIvB6IOS6nrW8qwqt1PujKkyXavR92fo94PxQLsBCKTfb3mbO9SCvKQ"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: words:100</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/294995?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/294995/chapters/472040#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/294995/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/294995/chapters/472038" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="472038">1. Stupid Mistakes</option>
+<option value="472040">2. Stupidly Happy</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/294995/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=472038">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/294995/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/294995/Merry%20Moron-mas.azw3?updated_at=1451806134">AZW3</a></li>
+          <li><a href="/downloads/294995/Merry%20Moron-mas.epub?updated_at=1451806134">EPUB</a></li>
+          <li><a href="/downloads/294995/Merry%20Moron-mas.mobi?updated_at=1451806134">MOBI</a></li>
+          <li><a href="/downloads/294995/Merry%20Moron-mas.pdf?updated_at=1451806134">PDF</a></li>
+          <li><a href="/downloads/294995/Merry%20Moron-mas.html?updated_at=1451806134">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Mature/works">Mature</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Superman*s*Batman%20(Comics)/works">Superman/Batman (Comics)</a></li><li><a class="tag" href="/tags/Smallville:%20adjusted/works">Smallville: adjusted</a></li><li><a class="tag" href="/tags/Batman%20(Comics)/works">Batman (Comics)</a></li><li><a class="tag" href="/tags/Batman%20-%20All%20Media%20Types/works">Batman - All Media Types</a></li><li><a class="tag" href="/tags/Superman%20(Comics)/works">Superman (Comics)</a></li><li><a class="tag" href="/tags/Superman%20-%20All%20Media%20Types/works">Superman - All Media Types</a></li><li><a class="tag" href="/tags/World&#39;s%20Finest%20(Comics)/works">World&#39;s Finest (Comics)</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Clark%20Kent*s*Bruce%20Wayne/works">Clark Kent/Bruce Wayne</a></li><li><a class="tag" href="/tags/Superman*s*Batman/works">Superman/Batman</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Clark%20Kent/works">Clark Kent</a></li><li><a class="tag" href="/tags/Bruce%20Wayne/works">Bruce Wayne</a></li><li><a class="tag" href="/tags/Tess%20Mercer/works">Tess Mercer</a></li><li><a class="tag" href="/tags/Oliver%20Queen/works">Oliver Queen</a></li><li><a class="tag" href="/tags/Dinah%20Lance/works">Dinah Lance</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Yule/works">Yule</a></li><li><a class="tag" href="/tags/Identity%20Porn/works">Identity Porn</a></li><li><a class="tag" href="/tags/Yuletide/works">Yuletide</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+      <dt class="series">
+        Series:
+      </dt>
+      <dd class="series">
+        <span class="series"><span class="position">Part 1 of the <a href="/series/31839">Christmas in Smallville</a> series</span><span class="divider"> </span><a class="next" href="/works/599960">Next Work &#8594;</a></span>
+      </dd>
+
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2011-12-17</dd><dt class="status">Completed:</dt><dd class="status">2011-12-17</dd><dt class="words">Words:</dt><dd class="words">17165</dd><dt class="chapters">Chapters:</dt><dd class="chapters">2/2</dd><dt class="comments">Comments:</dt><dd class="comments">68</dd><dt class="kudos">Kudos:</dt><dd class="kudos">1174</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/294995/bookmarks">194</a></dd><dt class="hits">Hits:</dt><dd class="hits">20312</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Merry Moron-mas!
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/Trista_zevkia/pseuds/Trista_zevkia">Trista_zevkia</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>Smallville's Justice League has an anonymous 'helper'. Who 'helps' by hacking into their computers and calling them pathetic while updating their security codes and feeding them information of interest.<br/>7th or 8th season of Smallville</p>
+            </blockquote>
+        </div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/294995/chapters/472038">Chapter 1</a>: Stupid Mistakes
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p>
+  <i>You forgot to carry the one. </i>
+</p><p>The words flashed on the computer screen before a new answer to the equation popped up. Clark glared at the screen and reworked the equation. The words were correct; Clark blamed the distraction of having to leave twice to stop liquor store robberies. Strange computer program though, he’d never heard of one that corrected user input.</p><p>If he ever found Chloe, he’d have to ask what program it was. That corrected equation showed the trail of money that proved Sid Saperstein was a mobster, a tiny mistake that would have let a guilty man go free. Shaking his head, Clark made a mental note to be more careful in the future and went on.</p>
+<p></p><center>
+  <p>sBSbBs</p>
+</center><p>
+  <i>Really? Another stupid mistake? </i>
+</p><p>Clark jerked back from the words on his screen, which then flipped over to show the latitude and longitude of a spot two miles to the west of his answer. Not sure what to do about it, Clark checked the code again. It was another simple mistake in his math. Clark didn’t imagine a computer would be programmed to be condescending, so he must be imagining the tone of the words.</p>
+<p></p><center>
+  <p>sBSbBs</p>
+</center><p>
+  <i>You’re dumber than ‘the Blur’ aren’t you Ollie? </i>
+</p><p>“Clark! Come look at this!”</p><p>At the panic in Ollie’s voice, Clark sped over to see what the problem was. He just got a look at the words before they disappeared and the site Ollie was attempting to hack opened before them.</p><p>“I’ve had a few strange remarks, but that’s the first one that mentioned names.” Clark said.</p><p>“I don’t think a computer would put quotes around ‘the Blur’ nor would Chloe have typed it in that way if she put me down as Ollie.” Eyes meeting in the reflections of the monitor, Clark acknowledged the thought they both seemed to be having.</p><p>“Once we finish looking into this company, we’ll check the security protocols on all our systems.”</p><p>Ollie went back to finding the real holder of the shell company that was laundering mob money. When that was done, four hours of checking the computers showed nothing amiss. Changing passwords and upgrading software as best they could, Clark and Ollie called it a night. Shortly before dawn, the computers came alive, as though somebody was remotely looking to see what they had done.</p>
+<p></p><center>
+  <p>sBSbBs</p>
+</center><p>
+  <i>She screams! Woo, scary, and not at all a sexist ability. </i>
+</p><p>“Clark! What the hell is this?”</p><p>“Sorry Dinah. I thought we’d fixed that.” Clark had sped over to read the words after the cry of annoyance from the Black Canary.</p><p>“Fixed it? It’s a hacker, not a glitch!”</p><p>“I know, but we upgraded things.” Dinah had a scathing response to Clark’s words, but he held up a hand in surrender before she could speak. “But Chloe designed these systems and I’m not good enough to get rid of the hacker who could hack her.”</p><p>“Well, I was looking for a way of enhancing my abilities, not insults! I’ll just look from my computers, thanks.” Spinning up and out of the chair, Canary grabbed her jacket on the way out.</p><p>
+  <i>Like I couldn’t hack that in my sleep. </i>
+</p><p>Clark thought it wisest not to point out those words to the retreating Canary. Instead he made another attempt at upgrading the security protocols. Clark even used some of the money Ollie provided to buy corporation level security software. WayneTech had the newest and best according to the reports he found, but it was Ollie’s money. Surely Queen Industries was just as good, so Clark bought that.</p><p>When he completed the purchase, Clark closed the window to find a strange design on his screen. The legend in the bottom right of the image indicated it was a sonic amplification necklace and voice modulator. Saving the blueprints, Clark emailed them to Canary, careful to not mention their mysterious origins.</p>
+<p></p><center>
+  <p>sBSbBs</p>
+</center><p>
+  <i>A boomerang arrow? That won’t come back to poke you in the ass. </i>
+</p><p>Ollie glared at the review of his design, before calling behind him. “Clark, have you ever felt our hacker has nothing better to do than mock us?”</p><p>“Occasionally, but I think the snark is well intentioned.”</p><p>“You just have to see the good in everybody, don’t you?” Shaking his head at Clark’s ongoing innocence, Ollie turned back to read his screen.</p><p>
+  <i>I do have better things to do, this is how I relax from doing them. Your pathetic attempts at crime fighting are like watching Stephen Fry and Hugh Laurie as MI6 agents. </i>
+</p><p>“So, he’s British then?” Ollie asked the world at large, hoping this was a clue. Clark drifted over to look over his shoulder.</p><p>
+  <i>It’s called YouTube. What, has even your brain gone as moldy as that outfit you wear? </i>
+</p><p>“Look, hacking our computers and cases is one thing. Do you really need to hack our conversations too?” Clark was trying for reasonable, trying to even find an ally. The hand resting on Ollie’s shoulder prevented Ollie from getting creative with new uses for expensive computer monitors.</p><p>
+  <i>Knowledge is power, loofah brain. </i>
+</p><p>“Did you ever check the place for bugs?” Ollie was now glaring at Clark, as if this was somehow his fault.</p><p>“Daily Ollie. Even before Captain Snark showed up!”</p><p>“Don’t name it! Never name or feed a stray, it won’t go away.”</p><p>
+  <i>I have a name. You have to earn it. Work hard, study, rest well, you might be worthy in ten, fifteen years. </i>
+</p><p>“Well, it’ll be Captain Snark until you quit hiding in the computer like a coward!” Ollie was snarling at the computer, the condescending hacker being more than his nerves needed right now.</p><p>
+  <i>What if I am a computer? How would you stop me? </i>
+</p><p>“First off, we wouldn’t tell you.” Ollie tried his own version of condescension on the screen.</p><p>
+  <i>Actually a good answer, so you won’t be pissed if I don’t tell you how I plan to stop the lot of you. </i>
+</p><p>“Why would you want to stop us?” Clark frowned at the computer, confused. “You’ve been helping us so far.”</p><p>
+  <i>Stay good, or I’ll get you. </i>
+</p><p>“Please! Some twelve year old with glasses and the muscle mass of a slug. We could take you out without breaking out the good arrows.” Ollie was yelling at the computer now, as if that would scare Captain Snark off.</p><p>
+  <i>You’d have to find me first. </i>
+</p><p>The center computer screen flipped off the words to show a map of Metropolis. Marked in green was the residence of each member of the JL. The blinking red lights that showed Clark and Ollie standing together were clearly the current locations of each member of the JL.</p><p>
+  <i>Anybody want to play pin the tail on the blur? </i>
+</p><p>“Clark, destroy every computer in here and I’ll buy replacements!” Ollie’s voice hit a note Clark hadn’t known it was capable of. Without Chloe, it fell to Clark to be the voice of reason in the JL.</p><p>“And what will prevent the hacking of those computers, Ollie?”</p><p>“Now is not the time for reason!” With a frustrated grunt, Ollie jumped up and stormed out of the Watchtower. Clark sighed a soft reply to the closed door.</p><p>“It’s always the time for reason, Ollie.” Clark turned back to the screen in an effort to talk this hacker into leaving them alone. The screen was blank, and when the words came they almost made Clark’s jaw drop.</p><p>
+  <i>Very true Clark. For that I’ll give you a hint. Every monitor in here has a web cam. built into it. I never had to visit you to bug you. </i>
+</p><p>A quick survey of the room and Clark, feeling the world’s biggest fool, was ready to scream. They needed serious computer help, but Clark couldn’t trust the hacker enough to ask for more clues on how to get make their systems safe. He’d have to get a professional.</p><p>Clark shut down the non-essential systems in the Watchtower and went home. Laptop in hand, he went to an all night hot spot to research the latest breakthroughs in security software. Repeatedly, the same answer came to him. WayneTech was surging forward, crushing Luther Co and Queen Industries.</p><p>Bruce Wayne had resurfaced a little over a year ago, but was dismissed as an idiot by all concerned. Somebody else had to be the brains behind WayneTech’s current domination of the market. Ollie would get over the purchase, especially if he could bribe WayneTech’s resident genius to come and work for him. After Clark found out who that was, of course. WayneTech was hosting a technology conference this weekend in Gotham, so Clark figured he could find the wizkid there.</p>
+<p></p><center>
+  <p>sBSbBs</p>
+</center><p>Ollie insisted on going with him, in case they needed to crash parties or something. Ollie had then been separated from Clark before the conference even began by a herd of reporters. Clark sat through the morning alone, only finding Ollie when they were let into the dining room for lunch. Bruce Wayne showed up during the middle of the welcoming speech, making such a grand entrance that everybody stopped to look at him. He yawned while waving, posed on the platform for reporters and stumbled his way through a speech he’d probably never read before. Ollie sniggered through the speech, only to find Bruce pulling him to his feet afterward.</p><p>“Oliver Queen!” The struggling reporters caught up with Bruce to take pictures of the two of them, ignoring the rest of the room. Ollie had almost managed to hide his annoyance when Bruce spoke again. “Guess if you paid for your ticket, it’s not corporate spying. Don’t worry, we don’t mind sharing our secrets with the competition, as long as we get our cut.”</p><p>The audience laughed at Bruce’s carrying voice, and the reporters got great shots of Ollie looking like he was about to puke. Bruce moved on and the event organizers worked to get back onto schedule. Ollie snuck out as soon as he could, but Clark waited until the lunch was dismissed before looking for Ollie. Turning a corner into a hallway, Clark’s super-speed got him back around that corner before he could be seen. Bruce Wayne and Tess Mercer were melting against each other, but Tess’s face had been calculating as she nibbled on Bruce’s earlobe. Extending his hearing, Clark listened in.</p><p>“Brucie, my spies tell me you have a genius in your basement.” Tess murmured in that well nibbled ear.</p><p>Clark let his head rest on the wall behind him. The JL couldn’t afford to outbid Luther Co for Wayne’s wizkid.</p><p>“That’s the first time it’s ever been called that!” An amused Brucie was apparently the only one not fighting to corner the software market.</p><p>“I’m not talking about little Bruce.” Tess forced a giggle, but Brucie must have believed it was genuine.</p><p>“Then you shouldn’t be rubbing him while you talk about another.”</p><p>“Brucie, please help me.” Tess had to pause, the begging going against her every instinct. “I need security that can’t be hacked. What I’m doing will change the world, make it a utopia where nobody hurts anymore.”</p><p>“Sound like fun, as long as this woman I know gets to keep her whips. She makes the genius in my basement happy and sore.”</p><p>Clark turned disbelieving eyes toward the couple, looking at them through the wall. Tess looked as confused and irritated as Clark had ever seen her, even after dealing with Lois.</p><p>“Are you talking about your penis again?”</p><p>“Yes, aren’t you?”</p><p>Rolling her eyes, Tess alternated kisses to Bruce’s jaw with her words. “Brucie, I need whoever’s been developing your security upgrades.”</p><p>“Fox tells me they’re all available for purchase to anybody who can afford them. Surly Lex Co can afford them, what with all the weapons you’ve been selling lately.” Clark thought that Tess probably shouldn’t press that close to somebody whose idiocy was making her wince like that.</p><p>“I know, Wayne Enterprises is too pure to sully itself by selling guns. But we’re just trying to make a living. If you let me talk to your wizkid, I’ll make the world a paradise. Luther Co will stop selling weapons because nobody will need them in paradise.”</p><p>“That’s a good idea! I should ask Fox to make the world a paradise. How long do you think it will take him?”<br/>
+“I don’t know about Fox. My guys can do it overnight.”</p><p>“I’m confused.”</p><p>“Of course you are, Brucie.” Clark realized Tess was that close to Brucie, arms wrapped around him, to prevent herself from wrapping her hands around his neck and squeezing. “What are you confused about now?”</p><p>“If your guys can fix all the world’s problems overnight, why can’t they do it and then worry about security?” In the long silence that follows Brucie’s words, Clark can almost hear Tess trying to come up with a good explanation.</p><p>“Might have to break some eggs to make this omelet, and people would try and stop that.”</p><p>“Then your guys should explain it to everyone, or else it won’t be a paradise for everyone, ya’ know, if people are trying to stop it, cause they don’t like it or whatever.” Now Brucie sighed and spoke with irritation in his voice. “I think I’ve just confused myself. Talk it out with Fox, see what he says. Now can we go back to talking about my penis?”</p><p>“Brucie, please tell me who comes up with all your security software! So much depends on it.”</p><p>“Ask Fox, after we’re done in my hotel room.”</p><p>With a frustrated growl, Tess stepped away. “He won’t tell me because it’s a bad business decision and you’re probably too stupid to know who it is anyway!”</p><p>Tess set a quick march as she stormed away from the confused billionaire and Clark was distracted by what he saw in Brucie’s face. Tess was almost to the end of the hallway, so Clark jerked around and squatted, as if he was doing up his shoelaces. If Tess did notice him, he only hoped she didn’t also notice his loafers didn’t have shoelaces. How would he explain it to her, in her already provoked state? And why did he get the impression that Brucie was amused by Tess’s frustration with him?</p><p>Clark waited until the high heels had made their way into another corridor before daring to breathe. Before he stood, he froze at the sight of loafers to his left. Very expensive loafers, he’d wager, pointing at him. He’d clearly been too absorbed in watching Tess stalk off to hear Wayne walk up to him, but how had Wayne noticed him when Tess hadn’t?</p><p>“Are you hiding from me or Tess down there?” Repressing a guilty flush of color, Clark stood.</p><p>“Tess, actually. She’s my boss at the <i>Daily Planet, </i>and I’m skipping work to be here.” True enough, if not the whole truth.</p><p>“So you’re not with the it department?”</p><p>“I.T.?” Clark couldn’t help but ask for clarification, but regretted it before Brucie replied.</p><p>“Even I know I.T. spells it. I hate when people try to act smart by saying I.T.”</p><p>Clark decided people shouldn’t be allowed to sound petulant after they were old enough to vote, particularly this person. “Right. So, what did Tess want from you, Mr. Wayne?”</p><p>“Tess?” Brucie looked confused for a moment, or even more confused than normal, until he looked down at himself. “She had a new pet name for my penis.”</p><p>Clark snorted, but he wasn’t sure if it was amusement, disbelief or some need to clear his sinuses. Wayne looked up at the noise, but all confusion was gone from his face. This look was somewhere between licentious and predatory. He leaned in to whisper at Clark, his right hand resting on Clark’s left hip.</p><p>“Do you want to meet the genius in my basement?”</p><p>While jerking backwards, Clark managed to trip over his own feet and land heavily on his butt. Clark took a moment to consider when the last time was that he fell without planning to. This gave Wayne time to offer him a hand, which Clark felt he had to accept out of politeness. This was yet another poorly thought out plan, Clark thought to himself a short while later. He’d gotten back on his feet, but Brucie hadn’t yet let go of his hand. He had the physical strength to pull his hand away of course, but it would have been really rude to do so without a good reason. And, he needed to be on Wayne’s good side.</p><p>“Mr. Wayne, I know some people in Metropolis who need your help. They are trying to do some good in the world, but they’ve got a hacker in their computers. They don’t have much money, but they need a computer expert to help them.” Clark put everything into his words, hoping to get through to the man who could fix things for them. “Would you let some of your employees assist them?”</p><p>“You do want to meet the genius in my basement!” Brucie’s eyes lit up, showing how little attention he had been paying to Clark’s words. Clark wondered if an eye laser lobotomy would actually make Brucie smarter.</p><p>“Brucie, come take some pictures!” Ollie called, sweet music to Clark’s ears.</p><p>Something like annoyance flashed across Wayne’s eyes before his million dollar grin came out. He turned to face Ollie and the reporters before letting go of Clark’s hand. Clark mouthed the words ‘thank you’ to Ollie before making good his escape. Any further negotiations between Mr. Wayne and the Justice League would be conducted by Ollie, Clark promised himself as he fled.</p>
+<p></p><center>
+  <p>sBSbBs</p>
+</center><p>Clark turned off the news, tired of seeing Ollie’s face splashed across it. Ollie had his reasons, but Clark still couldn’t believe he had told the world he was the Green Arrow! With the reporters, fans and cops wanting to talk to him, Clark didn’t think he stood a chance. His best bet was to keep the criminals and other enemies from harming Ollie while he was distracted by this sudden fame.</p><p>
+  <i>Why’d he do it? </i>
+</p><p>“You eavesdrop on most of our conversations, so you should know.”</p><p>
+  <i>Eavesdropping isn’t the same as knowing a person. You know him, so tell me why. </i>
+</p><p>“Well, he felt it was best.” Clark talked to the curser in front of him, not even sure of why as he did so. When he’d talked himself out, explained the best he could, Clark felt better. Perhaps it was the catharsis of talking or maybe he was starting to think of Captain Snark as a friend.</p><p>
+  <i>So the why is: he’s an idiot. </i>
+</p><p>“That’s not what I said! He has good reasons, even if you don’t agree with his conclusions.”</p><p>
+  <i>The shadows are safer. Not just for him but for anyone he cares about. </i>
+</p><p>“Sometimes, you have to step into the light, if you want to inspire people.”</p><p>
+  <i>Laughing my ass off now, thank you! </i>
+</p><p>“What’s so funny?”</p><p>
+  <i>Inspire! Wait, are you serious? </i>
+</p><p>“Yes, I want to show people they don’t have to surrender to life, they don’t have to be victims!”</p><p>
+  <i>The not victims are the ones I punish. </i>
+</p><p>“People don’t need punishment, they need opportunities to be their best.” No, Clark wasn’t thinking of Captain Snark as a friend, just somebody who was around all the time. Clark doubted he could ever be friends with somebody as cynical as Captain Snark sounded.</p><p>
+  <i>Do you also rescue kittens from trees and help old ladies cross the street? Or is believing in the tooth fairy enough to get you through the day? </i>
+</p><p>“I’ve never been a boy scout, but yes, I believe in the inherent decency in people.”</p><p>
+  <i>I hope I find Chloe soon, because you need some brains in that tower! </i>
+</p><p>“Why are you looking for Chloe? If she comes back, she’ll be able to keep you out of our systems.”</p><p>
+  <i>Tell yourself that. </i>
+</p><p>“She did! We didn’t have a problem until a few weeks after she’d been gone.”</p><p>
+  <i>After she left, I had to show myself to keep you from letting the guilty go free, remember? </i>
+</p><p>“Chloe didn’t leave, she was kidnapped.”</p><p>
+  <i>Start with a faulty premise, and you’ll never find her. </i>
+</p><p>“Tell me what you know! Chloe’s my friend and I want to help her, please.”</p><p>
+  <i>Reverse that and you’ll know why she left. Must go, I think I’m being signaled. </i>
+</p><p>“No! Come back here and tell me about Chloe!” The curser stopped blinking and the screen went dark. Frustrated, Clark took some steadying breathes before going back through the data they had on Chloe’s disappearance. This time, he started with the assumption that Chloe had left for her own mysterious reasons. Perhaps, like Ollie, she had done what she thought would be best for the JL.</p>
+<p></p><center>
+  <p>sBSbBs</p>
+</center><p>Clark sank in the chair, closed his eyes and rubbed at his forehead. A minute or two of this and he would get to work. He was just irritated at Ollie right now, it would pass. It would have passed sooner if he had a friend he could talk out his frustration with, but the JL was the closest he had right now. No room in his real life for friends, Lois was acting weird and even the Jor-El program was mad at him!</p><p>Tess was slowly becoming trustworthy, now that her infatuation with Major Zod was over. She seemed to be truly seeking repentance, and Clark believed in second and third chances. Under her new lease on life, Tess was refocusing Luther Co.’s resources on doing good for everybody, instead of just shareholders. She still held secrets and played things close to the vest, but her computer skills had been necessary when Lois was possessed by Isis. Which brought Clark back to thinking about that woman!</p><p>He still loved Lois, but she would start when he touched her. Whenever he did anything the least bit odd, even if it was human enough, she gave him suspicious looks. The other day he’d walked up to his desk like any normal person, but she’d been engrossed in her computer. She saw him and jerked to her feet, spilling coffee and office supplies everywhere. He’d wanted to ask Ollie what he thought, if Lois had done anything like that when she suspected he was the Green Arrow. But Ollie chose this time to play guinea pig for the new law! Another sigh, and Clark looked up, ready to work on finding out what the Vigilante Registration Act would involve.</p><p>
+  <i>If you’re going to sigh that heavily, let me know so I can turn down the volume on my equipment. It’s irritating. </i>
+</p><p>Clark narrowed his eyes and gave the screen the heaviest sigh he could manage without coating things in ice.</p><p>
+  <i>Charming.</i>
+</p><p>“I’ve got enough on my mind without trying to make life easy on you, Captain Snark.”</p><p>
+  <i>Ollie and the VRA? </i>
+</p><p>“Yes.”</p><p>
+  <i>I told you he was an imbecile. </i>
+</p><p>“He’s not stupid, it’s his way of seeing what happens to somebody who registers.”</p><p>
+  <i> He’s going to jail, or some form of holding facility, probably never to see the light of day again. The over-privileged, underdeveloped, asinine dolt! </i>
+</p><p>“No, the government just wants to know what we’re capable of, and who to hold accountable if anything goes wrong.”</p><p>
+  <i>Back to believing in the tooth fairy, are we? </i>
+</p><p>“I have to believe in the system, or what am I fighting for?”</p><p>
+  <i>Fight for a better system. </i>
+</p><p>“Shut up. I really should go register as well. I’m sure it’s just like a driver’s license.”</p><p>
+  <i>Are you feeble-minded? How can you get a permit to do a damn illegal thing? </i>
+</p><p>“The VRA is making it legal!”</p><p>
+  <i>Head, meet desk.</i>
+</p><p>“What now?”</p><p>
+  <i>It’s in the title of the bill! Vigilante, not ‘good guys in white hats’ or ‘heroes out to save us all’ registration act. Vigilantes work outside the law, where the law does not work.</i>
+</p><p>“The language doesn’t matter, fact is we’ll all have to register or be considered criminals.”</p><p>
+  <i>The language tells all. It is a paradox to work outside the law with the law’s permission. The law, being the law, will use the information you provide them to hunt you down and stop you. If you want to work within the law, being a vigilante, or criminal with morals, is not for you.</i>
+</p><p>“Maybe I’m not a vigilante, but a hero.”</p><p>
+  <i>Oh. Well, that will prevent them from locking you up.</i>
+</p><p>“How can I hear the sarcasm when I’m reading your words from a screen?”</p><p>
+  <i>The language tells all, you simpleton.</i>
+</p><p>“You’re going to run out of synonyms for stupid after a while.”</p><p>
+  <i>Not if you use that squishy thing between your ears! Until then, I’ll just changes languages in which to insult you, plumbeus.</i>
+</p><p>“What? Is that latin?”</p><p>
+  <i>Si, estupido.</i>
+</p><p>“How many languages do you speak?”</p><p>
+  <i>Not as many as I insult in.</i>
+</p><p>Clark almost laughed, before realizing it. Was he suddenly so lonely he enjoyed being insulted by blips on a screen? He had too much to do to waste time on this!</p><p>“This is getting me nowhere, snark man.”</p><p>
+  <i>It’s Captain Snark to you, blur boy.</i>
+</p><p>“Do you realize, Captain Snark, that you’ve gone from short insults to full conversations with us?”</p><p>
+  <i>I’m trying not to go into full professor mode and lecture the lot of you on how to be effective vigilantes.</i>
+</p><p>“I’d invite you to be a member of our team, but you’d never get any work done for all your typing.”</p><p>
+  <i>Shows what you know. It’s a talk to text conversion program. Listening in on the Watchtower is like having a white noise machine on while I work.</i>
+</p><p>Clark blinked at that, suddenly understanding why the words were spelled out instead of emoticons or internet slang. Though, if Captain Snark was saying the words showing up on his screen, then couldn’t a person with super hearing orient on those words? Had he ever mentioned his super hearing while in the Watchtower? Either way, Clark needed to keep Captain Snark talking.</p><p>“In that case, you can be a part time member. Where do I send the club tie and secret handshake instructions?”<br/>
+<i>Don’t be silly. If you had such things I’d already have copies of them.</i></p><p>“But we are silly, your favorite comedy troupe, listening to us bumble around like the Keystone Cops amuses you.” Clark directed his hearing around him in a circle, looping around him as he listened for someone to say a word matching his screen. The circle got larger with each turn, and Clark started feeling dizzy.</p><p>
+  <i>Keystone Cops occasionally got the criminal.</i>
+</p><p>Keystone Cops was a strange enough conversation topic that Clark wouldn’t get many false positives, but he didn’t have much more to say about them. “What are you working on?”</p><p>
+  <i>Stuff.</i>
+</p><p>“Oh, thank you for that enlightening response.” What was he supposed to do now, play twenty questions with Captain Snark? “Animal, mineral or vegetable?”</p><p>
+  <i>Twenty questions? If you’re that bored find another city to stop crime in. I hear L.A. is nice this time of year. You can play license plate bingo as you run along.</i>
+</p><p>“You go on a lot of road trips as a kid?” Clark waited, but the screen stayed silent. He wasn’t sure why, but he felt like someone was glaring at him. Still, he was listening outside of Metropolis and needed Captain Snark to keep talking. “Come on Captain Snark, tell me about your childhood. Surely that’s a safe enough conversation to protect your identity.”</p><p>
+  <i>Mineral.</i>
+</p><p>“What’s a mineral?” Now Clark got a mental image of vacant eyed Brucie, so he tried for that level of annoyance as he spoke. “Your childhood? Were your parents geologists?”</p><p>
+  <i>”It is much easier for good to deal with evil than it is for good to deal with stupidity.”</i>
+</p><p>“I thought you were a vigilante, so why are you calling yourself a good guy now?”</p><p>The curser disappeared, the screen going dark. Dizzy with more than circling his hearing around him, Clark grinned at the dead screen. He’d irritated Captain Snark! Maybe not as good a feeling as defeating evil, but close. Now he knew Captain Snark didn’t live in the city, and he didn’t want to talk about his childhood. Maybe something newsworthy had happened then, but Clark had no way of narrowing down the time frame of Snark’s childhood. He’d work on it in his free time, Clark promised himself, even as he knew he’d not have much free time for a while.</p>
+<p></p><center>
+  <p>sBSbBs</p>
+</center><p>After the hell of his Thanksgiving with Lois and her family Clark looked forward to something to beat on. Lois had submitted to her Dad’s will, deciding his opinion was worth more than Clark in her life. She talked of seeing him in private, even as she said that clean breaks healed the quickest. She muttered vague things about destinies greater than love, but Clark had turned his ears away before he heard the breaking of his heart. The Watchtower would provide him with a criminal in need of a punch or two. He felt he was correct in this idea when he walked in on a yelling Tess.</p><p>“I’m getting you off this system if I have to build a new operating system out of spit and barbed wire!”</p><p>The silence of her opponent’s reply told Clark it was Captain Snark, so Clark picked up his search circle where he’d left off.</p><p>
+  <i>It’s spit and bailing wire. Ask farm boy since he’s there.</i>
+</p><p>“Clark! I’m going to kill this hacker when I find him.”</p><p>
+  <i>I never thought I’d die of old age, but if I’ve got to wait on you lot…</i>
+</p><p>“I’m done talking to you, Captain Snark.” Tess bent to her work, seemingly intent on ignoring the hacker. Captain Snark might toss out unwarranted insults, but he never started a conversation.</p><p>Needing the hacker to talk, Clark sent Tess a text. <b>Keep him talking, I’m searching for him. </b> Even as Tess read the message, Clark’s phone chimed with an incoming message. The number was listed as blocked, but he opened it anyway. <b> So where am I? </b> Throwing up a hand in frustration, Clark showed Tess the text.</p><p>“Fantastic! The jerk’s got our cells bugged too. That’s it.” Tess slapped her palm on the table and stood, stalking over to her purse. Digging around for a long minute, ignoring Clark’s confused stare, Tess finally pulled out a small pad of paper and a pen. “Time to go old school. Leave your cell phone here, and we’ll go have a conversation in a surveillance cameras blind spot.”</p><p>Clark laughed and slowly placed his cell phone in front of a monitor. It didn’t take them long to get where Tess had in mind, as it was only two alleys over. Just to be sure, Clark x-rayed the alley for any electronic devices. When he gave Tess the nod, she started writing on her paper.</p><p>
+  <i>We need the wizkid W.E. is hiding. Brucie knows I’m after him, as does Fox. Ollie is too public, which leaves you, Clark, to get the info. from Brucie.</i>
+</p><p>“You’re not serious?” Clark couldn’t help his verbal reply, months of Captain Snark had trained him to do so. Tess was here in person, and the look she gave him indicated just how serious she was. “How?”</p><p>Tess tapped the pen on the paper as she thought. <i>I’ll invite Brucie to a meeting to discuss it. You’ll be my appointment after the meeting, as a reporter. I’ll cancel on you, you take Brucie out for an interview or lunch or whatever it takes to get that idiot to spend time with you. Use your small town charm to get the name out of him. Do what it takes, b/c I’ve got to get rid of Cpt. Snark.</i></p><p>“What he say to you?”</p><p>
+  <i>If he said it in person six months ago, he’d be dead now.</i>
+</p><p>“O.K. then. Mail me the date and time?”</p><p>“He probably has all our snail mail scanned and emailed to him by a corrupt postal worker.”</p><p>Clark considered her words for a minute and nodded. What would be the point of bugging two lines of communication only to leave the third alone?</p><p>“Burn the papers, I’ve got work to do.”</p><p>A quick look around and Clark set fire to the scraps. He’d read up on Gotham, maybe that would give him a clue as to what to talk to Wayne about until he was ready to give up the name. He really, really hoped Brucie had forgotten about the genius in his basement.</p>
+<p></p><center>
+  <p>sBSbBs</p>
+</center><p>The first Friday of December was as blistery and cold as the typical first day in February for Metropolis. All things being equal, Clark would rather be out in the gale force wind, naked, wet and holding two kinds of meteor rock then doing what he was about to. All JL members going into the Watchtower were on strict, paper written instructions to not talk to Captain Snark. Tess hoped this would convince him to go away, or at least not comment so much on how stupid they all were. Captain Snark actually seemed to be enjoying their silence, as he’d assigned them their own theme music.</p><p>Clark had to swallow his laughter when his irritated friends entered the Watchtower. The Jackson siblings duet <i>Scream</i> was rather appropriate for Canary, he thought. Ollie’s rare appearances, since he was on the run from the government, were heralded by Clarence Carter’s <i> You Talk too Much.</i> Aquaman was infuriated by <i>Fathoms Below</i> from Disney’s The Little Mermaid. Tess made an effort to only enter the Watchtower when nobody else was around, so nobody asked why she got the second verse of <i>Bus Stop</i> by David Bowie. Clark thought it had something to do with false gods and Major Zod, but Tess wouldn’t talk about it.</p><p>Clark had a different view of the whole thing. Instead of ranting, he’d pop in more often than was strictly necessary, just to hear his song. If he wasn’t careful, he’d find himself whistling <i>Always Look on the Bright Side of Life</i> from Monty Python’s Spamalot, as he went about his day. Captain Snark meant it as an insult on his positive outlook on life, but Clark found it a happy tune.</p><p>Playing it through his head now, Clark was almost grinning when Brucie emerged from Tess’s office. He was messing with his phone, oblivious to the rest of the world. Brucie had no clue Tess was imagining doing the things she’d be saving for Captain Snark to him, though Clark could see it on her face. Clark was afraid to go near Brucie, just in case that idiocy was contagious. Tess caught sight of Clark and went into her lines.</p><p>“Kent, I’m cancelling the interview!”</p><p>The slamming door got Brucie to look up from his phone, if only to give Clark a vacant grin.</p><p>“That may be my fault, but I’m not sure what I did to upset her.” A shrug, and Brucie was about to dive back into sexting on his phone.</p><p>Clark had to bite the bullet, though he’d rather get shot at with them.<br/>
+“Mr. Wayne, since she canceled on me, would you give me an interview?”</p><p>“P.R. people told me not to, unless they prepped me first.” Another shrug and Brucie walked by, so Clark hurried to walk beside him.</p><p>“I promise to make you look good, I just need something to turn in Monday morning!”</p><p>“Sorry, man. Got a hot date or two in Gotham tonight!” The elevator dinged, and Brucie slid in while giving Clark a suggestive look. Hating it, Clark jumped in beside Brucie.</p><p>“Mr. Wayne, it’s important. If you’d let me, I’ll ride to Gotham with you and catch a train back.”</p><p>“Not to get personal, but I have security standing by.”</p><p>“No! I’m not a threat, not a stalker, not even a stranger really. We’ve met before!”</p><p>“Where, not a stalker?”</p><p>“The tech expo, I was hiding from Tess?” Clark tried not to notice how close to the ground floor they were getting, as Brucie slowly thought back to that day. Two floors to go, and Brucie found the memory he was looking for.</p><p>“Oh yeah!” Brucie looked up, and his expression was enough to make Clark flush. “You looked good on your knees.”</p><p>“Mr. Wayne, I explained about that…”</p><p>“And you turn such funny colors!” Brucie’s voice dropped considerably, and a flame of heat and color changed Clark’s complexion yet again.</p><p>The elevator door opened, and three businessmen in suits, stared in shock at what was before them, confirming Clark’s guesses about the beet red color he must be. Brucie winked at them as the elevator doors closed and dropped them into the underground parking garage.</p><p>“No need to ask for an interview. If you wanted to meet the genius in my basement, all you have to do is give me your name!” Brucie strolled off and a startled Clark almost let the elevator door close on him before he could move out of it. He stumbled after Brucie, still a deep red when they got to the waiting limo. The driver opened the door, but raised an eyebrow at Clark.</p><p>“Mr. Wayne, Luther Co has only authorized one passenger to the airport.” Brucie laughed at the driver’s comments but paused to give him a wink.</p><p>“He’s not a passenger, he’s my in-flight entertainment.”</p><p>Brucie slid into the car and Clark tired to explain he was a reporter trying to get an interview. It might have come out outside the range of human hearing and even then sounded like ‘noreallyinterview I’mareporteryouknown andnotentertianment atleastnothekind he hasinmind!’ The knowing, half-hidden smirk on the young driver’s face stopped the rant, but Clark still hesitated. Was Captain Snark so important that it was worth him putting up with Brucie? No, but getting the rest of the JL to relax a little was, so Clark forced himself into the limo. As Brucie’s right hand worked his phone, the left reached out to squeeze Clarks knee, and reactivate any of the blush that might have lessened at this point. Clark mentally reached for the questions he had worked out.</p><p>“Mr. Wayne, I’d like to ask you about W.E. recent advances in software.”</p><p>“Sorry, dear, my expertise is hardware.” The hand sliding up his thigh was clearly intended to demonstrate what kind of hardware Brucie was interested in, but Clark stopped the roaming hand.</p><p>“Please, it’s important. Couldn’t you just tell me who’s behind it!” Clark heard panic in his voice even before he realized the words coming out of his mouth were not the one’s he’d planned on.</p><p>“Well, I own it all, sort of,” Wayne was hesitant and confused, but grew stronger as he reached the end of his thought. “So I guess I’m behind it all!”</p><p>“True, sir, no doubt. But who actually wrote the code?”</p><p>“What code? We don’t have spies!”</p><p>“The computer code, to make the computer do things.”</p><p>“Poor soul, it’s not code!” Brucie pitying him was not a direction Clark expected this interview to take, so he could only await Brucie’s reasons. “That thing that pops up when you start your computer is called a password. That’s what my it guys told me.”</p><p>Deciding subterfuge depended on the other person being capable of grasping the story you told them, which left out Brucie, Clark fell back on the truth.</p><p>“Mr. Wayne, as I told you during the conference, I have friends who need help.”</p><p>“If your pet non-profit needs a donations, submit the request to W.E. charitable division. How much longer to the airport?”</p><p>“Ten minutes. We don’t need money, we need a computer genius to get rid of a dangerous hacker.”</p><p>“Just because I know what a password is doesn’t make me a genius. As Tess said, my genius lives in my basement.”</p><p>Clark sputtered at being back here again, but was encouraged by the seductive grin sliding off Brucie’s face. He was confused once again, but that was his default setting.</p><p>“Actually, at the conference thing, you didn’t introduce yourself. There were a lot of people there, and it was noisy, so maybe you did and I didn’t hear you. Though, come to think of it, Tess cornered me at one end of that hallway, you squatted at the other. Yet, when I offered to introduce you to the genius in my basement, you know I wasn’t referring to a computer geek. You must have awesome hearing!”</p><p>Forcing himself to not acknowledge that he had just been caught using his powers by a guy with the IQ of a crayon, Clark went back to begging. “Please, I can’t tell you how important it is that we get rid of this hacker! Our data puts people at risk, innocent people who just happen to know people trying to do good!”</p><p>“Well, I guess, if it’s important?”</p><p>“Beyond important, I promise!”</p><p>“I’ll think about it, maybe send someone to take a look. But you’d have to tell me where, mysterious stranger.”</p><p>“Right! I’m Clark Kent, of the <b>Daily Planet.</b> You can send him to me, but if I had his name I’d know what he was there for.”</p><p>“I forget, he changed it recently. You know those it types, different fake name for every computer thing they do! Look, the airport! You were right on it for not looking around after I asked, excellent hearing, I guess.”</p><p>Clark forced himself to look out the darkened windows this time, noticing the exit they were taking, not noticing Brucie’s words.</p><p>“I’ll give you my private phone number when we’re on the plane, so I can contact you with his stuff when I remember it.”</p><p>“Mr. Wayne, since I have what I need, I thought I’d save myself a train trip?”</p><p>“This is the airport, whatever you said your name was. That means planes, not trains.”</p><p>“Yes, well, I’d have to take the train back after we got to Gotham.”</p><p>“Oh, you got what you wanted and don’t want to be my in-flight entertainment anymore.”</p><p>Now Clark received a disappointed Brucie pout, confirming his desire to never speak to this man again.</p><p>“All I wanted was to talk to you, I didn’t want to, um, do whatever you had in mind. I’m sorry if I gave you that impression, but it was vital I talk to you.”</p><p>“I guess it’s better that I nap on the flight anyway, save up my energy for that date tonight. But I still get a thank you kiss from you, right?”</p><p>It would keep Brucie happy, and Clark could think about the joy of the JL when they learned Captain Snark was leaving. The limo was pulling up to the unloading lane for private aircraft, so Clark hoped it would be a brief kiss.</p><p>“If you insist.” Clark tried not to wince as he closed his eyes and directed his mind to more important things.</p><p>A heavy male body sitting in his lap, startled him from thoughts of the JL. Gentle hands stroked his face and hair, until Clark had to open his eyes. Brucie grinned at the sight of him paying attention and pressed their lips together. There was none of the hesitance Clark was used to, from girls who knew his secrets and feared for their safety or high school girls who feared only for their reputations. Instead, Brucie was dominating, taking anything Clark would give him.</p><p>Clark had no idea what force made his mouth open a little, but Brucie delved into that space as well. Brucie clearly thought one kiss from him was all it took to get somebody in his bed, and right this second Clark almost believed him. Clark didn’t even care that the limo door was open and anybody walking by could see them. The driver, though, was young, and not involved in a mind blowing kiss.</p><p>“Sir, your aircraft is scheduled to depart in forty five minutes, and you have to get through security still.”</p><p>Brucie sighed into Clark’s mouth and pulled away with Clark’s upper lip in his teeth.</p><p>“Hot dates wait for no man.” With a shrug, Brucie found his feet and got out of the car, but turned and ducked back in. “That computer guy, I almost remember his handle or whatever it’s called. Something military, like Colonel Snipe.”</p><p>“What? It’s not Captain Snark is it?”</p><p>“That’s the guy! I keep meaning to ask him what a snark is, but I kind of figure he just mistyped shark or something.” Another shrug and Brucie walked away, hands in his pockets.</p><p>The airport doors shut behind him, and Clark got out of the limo. He really needed a run before he told the others about his mission. Or at least, highlighted portions of it. Maybe he’d work on that running across the water thing Impulse had shown him. Then he could circumnavigate the globe before being forced to tell everyone that their tormenter was the only one who could save them from himself!</p>
+<p></p><center>
+  <p>sBSbBs</p>
+</center><p>The running helped, until Clark had to enter the Watchtower. His theme music let everybody know he had arrived, so every eye turned to stare at him. He was torn between amusement and worry that the entire JL had turned up, hoping to hear that he had a solution to Captain Snark. With a hope of getting the worst of it over with, Clark walked over so he could see the monitors.</p><p>“Brucie Wayne has just informed me that his computer genius recently started going by the name Captain Snark.”</p><p>The JL forgot their plan to get rid of Captain Snark by not talking in front of him, as they each decided to tell him exactly what they thought of this at the top of their collective lungs. Light electric guitars filtered out of the computers, gradually building up in volume. Everybody had become aware of the music about the time a male voice reached the chorus, matching words dancing across the monitors. The lights started flickering in time with the music and helped make the crowd pay attention to what was happening.</p><p><i>I’m stupidly happy</i><br/>
+Everything’s fine<br/>
+I’m stupidly happy<br/>
+With idiot grin<br/>
+I’m stupidly happy<br/>
+It’s surely a sin</p><p>The entire JL decided to yell their insults at Captain Snark over the pulsing music, and out of time explosions told Clark somebody would be buying a new monitor or three. When Canary’s voice started switching randomly between human and her Canary Cry, Clark went for a run. Captain Snark was right, there was probably crime in another city he could help with for a while.</p>
+<p></p><center>
+  <p>sBSbBs</p>
+</center><p>Clark returned from a gang war in L.A., showered and slipped into bed just as his phone rang. It had been silent for long while, as the JL tried to ignore Captain Snark, so it took longer than it should have to recognize the sound. It was a text from Tess, so she didn’t care if it was intercepted.<b> We know he’s in Gotham now. Track him down so we know as much about him as he knows about us.</b></p><p>It was the most reasonable thing to do, considering the situation, so Clark replied. <b>Unless he saves us the trouble, I’ll go to Gotham in a few hours.</b></p><p>The next text was from a blocked number, so Clark knew it was Captain Snark. <b> Prove to me that I was right in not turning you in. Find me! </b></p><p>Clark scoffed at his phone. <b> Not playing hide and seek. Show yourself. </b></p><p>
+  <b> Not a game. Training exercise, proof of potential. </b>
+</p><p>“Potential! I’m jumping in front of bullets while you get snarky from your parent’s basement!”</p><p>
+  <b>I’m not the one shouting at a text message. Sleep well, you witless sluggard. </b>
+</p><p>Angered at the words, Clark didn’t sleep well at all. He really hated being considered stupid, it wasn’t like he was Brucie! Though, to be fair, Brucie had some skills that made up for it, if his kissing was indication. That thought was a distraction from Captain Snark, but not conducive to a good night’s sleep either. All in all, Clark would have rather dwelt on Captain Snark than one intense kiss that had rendered him as powerless as a ton of meteor rock.</p>
+<p></p><center>
+  <p>sBSbBs</p>
+</center>
+  </div>
+  <!--/main-->
+
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/294995/chapters/472040#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="X7_TnjBfc6t5jO6QAl1ciS-LWEsslZj1aIBqPJPGdWLG3tCUPMMFr2NsMG8Czif6hQ_TAZPgZsSRrnbSglxE_g"/>
+          <input value="294995" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=472038">Comments (17)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/zsnesw">zsnesw</a>, <a href="/users/howisitgoingdude">howisitgoingdude</a>, <a href="/users/stephy">stephy</a>, <a href="/users/Akanague">Akanague</a>, <a href="/users/Baymoon">Baymoon</a>, <a href="/users/Kaykaycoo">Kaykaycoo</a>, <a href="/users/metukah">metukah</a>, <a href="/users/Marias137">Marias137</a>, <a href="/users/AngelOrMaybeNot">AngelOrMaybeNot</a>, <a href="/users/dalusha">dalusha</a>, <a href="/users/mtdamon">mtdamon</a>, <a href="/users/snickerdoodles666">snickerdoodles666</a>, <a href="/users/kitty2o1">kitty2o1</a>, <a href="/users/dazzlingdandelion">dazzlingdandelion</a>, <a href="/users/RossPetal4131051244">RossPetal4131051244</a>, <a href="/users/Jacatt">Jacatt</a>, <a href="/users/kozelmorgan">kozelmorgan</a>, <a href="/users/cemaleon">cemaleon</a>, <a href="/users/windoftheuniverse">windoftheuniverse</a>, <a href="/users/silverhorse123">silverhorse123</a>, <a href="/users/Cath_Knight">Cath_Knight</a>, <a href="/users/BeeBumblingAlong">BeeBumblingAlong</a>, <a href="/users/Aerisand">Aerisand</a>, <a href="/users/Inundate">Inundate</a>, <a href="/users/DoomedAdventurer">DoomedAdventurer</a>, <a href="/users/ElaineofAstolat">ElaineofAstolat</a>, <a href="/users/jarisalive">jarisalive</a>, <a href="/users/JoPMumie">JoPMumie</a>, <a href="/users/summoner_yuna_of_besaid">summoner_yuna_of_besaid</a>, <a href="/users/Skyee">Skyee</a>, <a href="/users/LostBoyAmI">LostBoyAmI</a>, <a href="/users/CaroNina">CaroNina</a>, <a href="/users/Rainnyboyz">Rainnyboyz</a>, <a href="/users/Kaysadiya">Kaysadiya</a>, <a href="/users/lillytalons">lillytalons</a>, <a href="/users/rozenmakai">rozenmakai</a>, <a href="/users/BlueSky1909">BlueSky1909</a>, <a href="/users/PG_chan">PG_chan</a>, <a href="/users/AkahakaScarlet">AkahakaScarlet</a>, <a href="/users/MaryJoRo">MaryJoRo</a>, <a href="/users/freyrofyonder">freyrofyonder</a>, <a href="/users/r_alum917">r_alum917</a>, <a href="/users/igoldengirl007">igoldengirl007</a>, <a href="/users/Flying_Mattress">Flying_Mattress</a>, <a href="/users/kailey7">kailey7</a>, <a href="/users/wolfovmars">wolfovmars</a>, <a href="/users/Dramatta">Dramatta</a>, <a href="/users/No_thoughts_haver">No_thoughts_haver</a>, <a href="/users/DarenLazuli">DarenLazuli</a>, <a href="/users/matt_murdick">matt_murdick</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/294995/kudos?before=3486030661">604 more users</a>
+             as well as 
+          520 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_472038">
+  <form class="new_comment" id="comment_for_472038" action="/chapters/472038/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="358dXweRJQU37hcf9iTqejblCQCX_vIH3jKjHsGG2yNG_h5VCw1TAS0OyeD2t5EJnGGCSiiLDDYnHL_w0Bzqvw"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_472038">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_472038" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_472038=new LiveValidation('comment_name_for_472038',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_472038.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_472038">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_472038" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_472038=new LiveValidation('comment_email_for_472038',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_472038.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_472038" class="landmark">Comment</label>
+        <textarea id="comment_content_for_472038" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_472038" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_472038_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_472038">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_472038=new LiveValidation('comment_content_for_472038',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_472038.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_472038.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_472038" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/294995/hit_count.json")})</script>
+
+
+  </body>
+</html>

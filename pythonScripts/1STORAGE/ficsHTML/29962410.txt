@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        About Damage, About Pain, About Heartache - AngelSelene - Fullmetal Alchemist - All Media Types [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="PPli6KEc9uZba4hgNEtXwuQJypNdqdJ6FzoVoF4IRqgzLNEyI4fkT3oyAw1cJkNFha2PC_81OO_qoMLVMJjyxA"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="tYOoK1LZHiZ_2gTick7uO5Uka7pWLbDEetQxdGprtmW6Vhvx0EIMj16Dj48aI_q89IAuIvSxWlGHTuYBBPsCCQ"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: hetalia f/f sort:kudos</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="works-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<ul class="landmark skip">
+  <li><a name="top">&nbsp;</a></li>
+  <li><a href="#work">Skip header</a></li>
+</ul>
+
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+<!-- BEGIN revealed -->
+<!-- BEGIN work -->
+<!--work description, metadata, notes and messages-->
+    <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?work_id=29962410">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/29962410/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/29962410/About%20Damage%20About%20Pain.azw3?updated_at=1626634023">AZW3</a></li>
+          <li><a href="/downloads/29962410/About%20Damage%20About%20Pain.epub?updated_at=1626634023">EPUB</a></li>
+          <li><a href="/downloads/29962410/About%20Damage%20About%20Pain.mobi?updated_at=1626634023">MOBI</a></li>
+          <li><a href="/downloads/29962410/About%20Damage%20About%20Pain.pdf?updated_at=1626634023">PDF</a></li>
+          <li><a href="/downloads/29962410/About%20Damage%20About%20Pain.html?updated_at=1626634023">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Teen%20And%20Up%20Audiences/works">Teen And Up Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Choose%20Not%20To%20Use%20Archive%20Warnings/works">Creator Chose Not To Use Archive Warnings</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Fullmetal%20Alchemist%20-%20All%20Media%20Types/works">Fullmetal Alchemist - All Media Types</a></li><li><a class="tag" href="/tags/Criminal%20Minds%20(US%20TV)/works">Criminal Minds (US TV)</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationship:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Edward%20Elric*s*Roy%20Mustang/works">Edward Elric/Roy Mustang</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Roy%20Mustang/works">Roy Mustang</a></li><li><a class="tag" href="/tags/Edward%20Elric/works">Edward Elric</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Fluff%20and%20Angst/works">Fluff and Angst</a></li><li><a class="tag" href="/tags/Age%20Difference/works">Age Difference</a></li><li><a class="tag" href="/tags/Feelings/works">Feelings</a></li><li><a class="tag" href="/tags/Established%20Relationship/works">Established Relationship</a></li><li><a class="tag" href="/tags/Post%20FMA:B/works">Post FMA:B</a></li><li><a class="tag" href="/tags/Technically%20a%20crossover%20with%20Criminal%20Minds/works">Technically a crossover with Criminal Minds</a></li><li><a class="tag" href="/tags/But%20none%20of%20the%20CM%20characters%20show%20up%20in%20this%20one/works">But none of the CM characters show up in this one</a></li><li><a class="tag" href="/tags/POV%20Roy%20Mustang/works">POV Roy Mustang</a></li><li><a class="tag" href="/tags/Edward%20Elric%20Keeps%20Automail/works">Edward Elric Keeps Automail</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+      <dt class="series">
+        Series:
+      </dt>
+      <dd class="series">
+        <span class="series"><a class="previous" href="/works/26513050">&#8592; Previous Work</a><span class="divider"> </span><span class="position">Part 4 of the <a href="/series/1924888">Wreckage</a> series</span><span class="divider"> </span><a class="next" href="/works/27130303">Next Work &#8594;</a></span>
+      </dd>
+
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2021-03-10</dd><dt class="words">Words:</dt><dd class="words">4722</dd><dt class="chapters">Chapters:</dt><dd class="chapters">1/1</dd><dt class="comments">Comments:</dt><dd class="comments">58</dd><dt class="kudos">Kudos:</dt><dd class="kudos">659</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/29962410/bookmarks">17</a></dd><dt class="hits">Hits:</dt><dd class="hits">7637</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      About Damage, About Pain, About Heartache
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/AngelSelene/pseuds/AngelSelene">AngelSelene</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>Roy has always known this day would come. Since Ed decided to stay in the military even without his alchemy, Roy has known that this impossible situation would happen. </p><p>Being right in such situations is rarely a balm. </p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>Takes place immediately following Chapter 3 in Nothing Beautiful - "The 'Worse-Than' List."</p>
+    </blockquote>
+
+    <p class="jump">(See the end of the work for <a href="#work_endnotes">more notes</a>.)</p>
+</div>
+
+
+  </div>
+
+
+<!--/descriptions-->
+
+<!--chapter content-->
+    <div id="chapters" role="article">
+        <h3 class="landmark heading" id="work">Work Text:</h3>
+          <div class="userstuff"><p>Roy turns from the sink to welcome Ed home and the words die in his throat. He knows that look, knows that not-slouch but almost curled-in hunch of the shoulders. He doesn't have to ask how Ed's first assignment with the BAU went—it's written in Ed's very frame. </p><p>“I’m home,” Ed says into the suddenly tense silence. </p><p>Roy quickly dries his hands and then goes over to take Ed into his arms. Ed goes stiff for a heartbeat before wrapping his arms around Roy’s waist and melting into him. </p><p>“Was it necessary?” Roy asks, starting the ritual. </p><p>“Yeah.” Ed’s voice is muffled by Roy’s shoulder, but audible this close. “Yeah, it was necessary.”</p><p>“Who did you save?”</p><p>“Tara Jacobson,” Ed says. “She’s eighteen, going to Notre Dame in the fall.”</p><p>“And she’s alive because of the action you took.”</p><p>Ed holds a little tighter, his chest expanding with the depth of the breath he takes, and then sighs out, “Yeah. She is.”</p><p>“Was there any other option?”</p><p>It takes a moment, but Ed shakes his head, rubbing his eyes along the line of Roy’s shoulder. </p><p>“No. Anything less, and he was going to kill her, just like he killed her sister.”</p><p>“Then you did what you had to.”</p><p>Somehow, Ed’s arms tighten a little more, enough that it’s uncomfortable, but Roy doesn’t say anything, letting Ed process. He pulls the hair tie from the end of Ed’s braid, rubbing his back as he finger combs it apart. By the time he is combing through the base of the braid, Ed’s arms have loosened a little and his shoulders have lost some of their tension. </p><p>“I’m gonna have to talk to a department shrink,” he mumbles. </p><p>“From what I understand, that’s standard operating procedure in law enforcement.”</p><p>“Not gonna make it any easier.”</p><p>“No,” Roy agrees. “It’s not.” </p><p>“They took my gun too.”</p><p>“You hate guns anyway,” Roy points out. But they had known Ed was getting one, have bought the gun safe to keep it in at home. Ed used them in Amestris too—has killed with them in Amestris. If anything, it probably makes him hate them more.  </p><p>“I hate that there aren’t better options with some of these people,” Ed admits. </p><p>His own shoulders loosen, and Roy says, “I know,” still running his fingers through Ed’s hair. </p><p>“I hate that it gets easier.”</p><p>“Does it? Really?” Roy asks, thoughts drifting to Ishval, trying to remember the first time he snapped knowing it would cost people their lives. </p><p>“You know it does.”</p><p>Roy breathes him in. “I suppose it does,” he admits, remembering now how empty he’d feel toward the end of the war, how passionless it became. “But it should never be easy.” Empty maybe, but not easy. “If it ever gets easy, it’s time to walk away.” </p><p>“There are going to be more,” Ed says, not with dread, just a statement of fact. </p><p>“Probably,” Roy agrees. “Will you be okay with that?”</p><p>There’s a beat of silence. “We saved Tara Jacobson’s life today. That means something.”</p><p>“It does, but you still want to save everyone.”</p><p>Ed laughs softly against him, less a sound than the feel of his chest rapidly expanding and contracting. “Childish, isn’t it?”</p><p>“It isn’t childish to want the world to be better than it is.”</p><p>Another soft huff. “Isn’t it?” </p><p>“If you’re childish, how much more so am I? Aspiring to fuhrer to make Amestris better?” </p><p>Ed pulls back a little and meets his eyes. “That’s actually achievable!” he says emphatically, then adds, “We just have to get home.”</p><p>Roy can’t help but feel warmth in his chest. Ed’s faith and moral compass remain two of the most grounding influences in Roy’s life. “I love you,” he says because he can’t not say the words. </p><p>Six years together, six years of telling Ed that he loves him, and Ed still blushes and ducks his head as if the words embarrass him. </p><p>“Sap,” Ed accuses, but there’s no heat behind it. </p><p>“Hungry?” Roy asks. </p><p>Ed shakes his head, and Roy isn’t surprised. In his experience, it usually takes a day or two for Ed to get his appetite back after he’s been forced to kill. Usually the best Roy can do is keep him hydrated. </p><p>“Shower?” Roy offers, pausing combing to massage the back of Ed’s neck. He isn’t surprised that the muscles there are almost brick-hard. Just the stress of carrying the automail tends to make Ed’s back and neck tight anyway, but he’s tighter than usual.</p><p>“Yeah,” Ed says, reluctantly pulling away. Roy gives him a gentle kiss, and sends him up. He knows the feeling of wanting to wash the day off, even if they both know that they can’t wash the blood away, the death away. </p><p>Roy fills up two bottles with ice water, grabs a couple of bananas, and takes them up. Ed does not make a habit of letting other people coddle him, but right now? Right now is one of those rare exceptions. He knocks once on the door to the bathroom before letting himself in, just so he doesn’t startle Ed. He can see through the glass that Ed is just standing in the hot spray, the mirror is already fogged over from the steam. He strips down, then joins Ed in the shower, turning the water down so it’s not a hair shy of scalding anymore, and then he pulls Ed to him. </p><p>Ed melts into him almost immediately and lets Roy wash first his hair, then scrub him down. When he’s done, he guides Ed out of the shower, dries him off, cuddles him into his fuzzy robe before pulling on his own, then shuffles him into their room. They sit on the bed, and Roy hands Ed one of the water bottles, then uses the towel to wring as much water from Ed’s hair as he can before he begins to brush it with care, starting at the ends, which are now nearly to Ed’s waist. </p><p>The quiet between them is comfortable, nothing but the soft sounds of Ed drinking and the brush through wet hair, but he can sense the tension leaving Ed. It’s the first time since they came to this world that he’s been able to do this for Ed. usually, it’s Ed coddling him out of a nightmare or flashback. He doesn’t know why Ed seems to handle his own demons better than Roy does—maybe it’s having done everything in his power to put things right again, maybe it’s in the way he takes responsibility for his actions, and maybe it’s just the resilience of being a child that has made Ed bounce back better than anyone could reasonably expect. </p><p>Aside from something happening to a loved one, only having to kill seems to really upend Ed these days. Roy is at once grateful and a little envious. </p><p>Settling into the soothing rhythm of the brush, Roy thinks back to the first time Ed had to kill, the first time they established this ritual. </p><p> </p>
+<hr/><p> </p><p>Roy has always known this day would come. Since Ed decided to stay in the military even without his alchemy, Roy has known that this impossible situation would happen. </p><p>Being right in such situations is rarely a balm. </p><p>Ed does stop by headquarters since Olivier set up a satellite office in Central to be "more in touch," though it's honestly as much to just allow Ed's team to work out of a centralized location as anything. They don't interact in the office much. Bad enough getting involved with one another while Ed was technically still his subordinate, bad enough that Ed got a <em> promotion </em> instead of a <em> demotion </em> with his lack of alchemy. As flexible as Grumman is, he made it clear that they should <em> not </em> flaunt their relationship, even if it's hardly a secret. </p><p>Most days, it's not a hard mandate to obey. They're both busy and don't have a lot of spare time anyway. They <em> might </em>be guilty of keeping one another company after hours as they work through their respective towers of paperwork. That has more to do with not dragging the paperwork home and not being alone while pulling overtime than it does being sly and breaking rules. </p><p>It's only devolved into office sex twice. </p><p>So far.</p><p>They really should try to be better about it...</p><p>That first time was not Roy's fault though. Ed in uniform is a sight to behold and not one Roy had time to build up an immunity to the first time. He is only human after all. </p><p>The second time was <em> entirely </em> on Ed. </p><p>"Sir?" Hawkeye interrupts his thoughts. "If it's all right with you, we'd like to get out on time today."</p><p>Late nights have been the modus operandi of his team for a long time. Before there was a ton of work to do to overthrow the government. Now, there's even more to do to put right all the wrongs Bradley did. She's not asking for them, though. No one gossips the way soldiers do, and news of what happened on Ed's most recent assignment has rushed through the building like a dam has broken. </p><p>"Of course," Roy tells her, signing off on the last page of this stack before handing it to her. "Thank you for your work today. Go ahead and let the team head out. I have a few more things to do before I call it an evening."</p><p>She takes it and nods. "Thank you, sir." She goes to leave, then pauses in the doorway. "I think the Lieutenant Colonel may need some persuading to leave at a reasonable time as well tonight. Good evening, sir."</p><p>She's gone before Roy can say anything, but he can't help the small smile that crosses his lips. A lot of promotions went around in the months after Bradley's demise, and promotions that meant changes in his team. Grumman is under no illusions that they're still Roy's men, under his direct command or not. He still has Hawkeye, Havoc, and Breda, though Vatman and Fuery have moved into new roles. </p><p>And of course, Ed.</p><p>He works for another hour, knowing Ed well enough to be sure that he's also burying himself in busywork. He waits for the quiet—the particular hush that falls over the building when most of the people have left for the day, when it's after hours. Once that hush has fallen, he gives himself fifteen minutes. Fifteen minutes for most of the stragglers to make their ways out. Anyone left after that will be like himself and Ed, truly working on something and liable to be there for a while. Busy enough that Roy or Ed or even both of them wandering the halls should cause little remark. </p><p>He tucks the paperwork away and into neat stacks, locks up the offices for the night, then makes his way to Ed's office. It’s the same size as Roy’s old one, and even after a year, it’s a little odd to realize that Ed <em> has </em> his own office, but he lets himself in without ceremony. He’s not surprised that Darius and Heinkel are still loitering, and he’s even less surprised that they seem relieved to see him. </p><p>“General!” they both say, jumping to their feet to salute. </p><p>Roy returns it, then says, “You can head out. I’ve got the lieutenant colonel.”</p><p>“Thank you, sir!” Darius says. “We leave the colonel to you.” They both salute again before showing themselves out the door, and Roy moves to Ed’s office door. He knocks in warning but doesn’t wait for an answer before entering. </p><p>“I thought I told you—” Ed cuts himself off as he looks up from the paperwork he was hunched over. In virtually any other circumstance, the sight would amuse Roy. It’s so un-Ed-like to see him in uniform, behind a large desk, a stack of paperwork in front of him. “R—Is there something you need, General?” he asks, making an effort to be proper at headquarters. </p><p>“It’s late and time to head home. I sent Darius and Heinkel home.”</p><p>“I told them to go home—” He pauses to look at his clock. “—over an hour ago.” </p><p>“I know,” Roy says, because he does. “But your team is loyal, and they didn’t want to leave you alone.”</p><p>Ed runs a gloved hand through his bangs, frustrated. “It wouldn’t kill them to remember they’re the subordinates and fucking obey once in a while.”</p><p>Roy manages to suppress the laugh that builds in his throat at the commentary. He’ll have another occasion to give Ed grief over it later; now is not the time. There’s something unusually drawn about Ed’s face, a fierce grief in his eyes. “Let’s go home,” he says. It’s not really a suggestion, but it’s not a demand either. </p><p>“I need to get this report done for Olivier.”</p><p>Roy walks up to the desk and sets his hand on Ed’s, stilling the pen. “It will keep,” he says. </p><p>When Ed meets his gaze, there’s a shadow in those golden eyes Roy hasn’t seen before. It aches to know that he is the reason the shadow exists. It’s not ego to say that Ed stayed in the military to support Roy’s path; it’s simple truth. Therefore, if Ed had to kill in the course of his duties as a soldier, then that sin is on Roy’s head. </p><p>“It’s not your fault, you know,” Ed says, reading his mind as he has started doing with alarming frequency in the last several months. “I made this bed. I get to lie in it.” </p><p>Roy wants to protest, to insist that it is very much his fault and his responsibility, but, well, Ed doesn’t answer to him anymore, so technically, it’s not Roy’s responsibility. Realistically, even if Ed <em> did </em> still report to him, he’d have likely sent him to deal with that alchemist anyway. It may not be his responsibility, but since Ed is only still in the military because of him, it is rather somewhat his fault. </p><p>“Let’s go home. We can talk about it there,” he says. They’re not supposed to, technically, but anyone who thinks they don’t share most things with one another is an idiot. </p><p>Ed sighs. “I don’t—”</p><p>“Want to talk about it? Need to talk about it?” Roy interrupts. “Ed, you killed a man.”</p><p>“I <em> know</em>!” he snaps back, and Roy is relieved to see the fire and fight in his partner again. “I fucking know what I did, all right?” He glares, then looks away. </p><p>“It’s all right to be angry with me,” Roy tells him. </p><p>It makes Ed look at him again, confusion in his face. “I’m not angry with <em> you</em>, bastard! I’m angry at myself. There should have been another way!” He buries a hand in his hair, tugging at it, hanging his head in frustration. “There should have been another way,” he repeats, but it’s more a plea than a statement this time.</p><p>Seeing Ed this distressed and upset is always difficult, even though it’s rare. “There isn’t always another way, Ed,” he says because telling Ed the truth has always been the best way to deal with things in his experience. “Sometimes there’s just the best of bad options.”</p><p>Ed laughs, a humorless sound, and leans back, staring up at the ceiling. “There are going to be more, aren’t there?” he asks, voice empty and <em> awful </em> because of it.</p><p>“There don’t have to be,” Roy finds himself saying. He goes around the desk to be closer to Ed, and leans against it. He doesn’t touch Ed, not yet, but he’s close enough that Ed can easily bridge the distance. “If you ask, I’m sure Olivier would release you.”</p><p>That makes Ed straighten and stare at him with something akin to betrayal. “I’m not going to do that,” he says, that fire that Roy is so familiar with coming back into his eyes. “I’m not going to leave your back unprotected.”</p><p>“My men will protect me—”</p><p>“They aren’t <em> me</em>,” Ed interrupts, fierce, and Roy can’t help but notice how beautiful Ed is in his passion. “I’m in it for the long haul, General Bastard. You don’t get to shove me off to the side. I’m not a fucking kid anymore, and you don’t make my decisions for me.”</p><p>Roy reaches out and cups Ed’s face, relieved when he instinctively leans into the rough touch of Roy’s ignition gloves. “You have not been a child since you joined this military, and I would not dare to make decisions for you,” he says. “I’m simply reminding you of your options, of the fact you <em> have </em> options. You don’t have to stay.”</p><p>Ed stands up, and with the way Roy is leaning against his desk, they’re eye-to-eye. It still surprises Roy sometimes, that Ed got so tall. Roy still has an inch or so on him, but it’s not a lot. “I’m gonna be at your fucking side. Don’t be so quick to give me up.”</p><p>“I will never be the one to leave you,” Roy tells him, and it’s so raw and sincere, it feels like he’s pulling open his chest and bearing his heart to Ed. “But you do not have to be <em> in the military </em> to support me.” </p><p>“No, I don’t,” Ed agrees. “But it’s easiest if I am, so I’ll stay.” </p><p>“Even if it means you’ll have to take more lives?” Roy asks. </p><p>Ed sucks in a breath and moves back a little bit like he’s been hit in the gut. Then he sighs his breath out slowly. “It felt awful,” he says, then leans forward, dropping his head so it rests on Roy’s chest like it did when they started dating. “But Dominic Ceci, Marc Rust, and Naomi Lajovic are all alive because I took that shot. They’re alive because I made that call. If I hadn’t… maybe they would be, but chances are that he would have killed someone else. I can live with killing him if it means he can’t hurt anyone else.” </p><p>He takes another breath, this one shaky, then curls his fist in Roy’s uniform and adds, “I hate how easy it was. I didn’t even think… I don’t think I even <em> decided</em>. He was just… he was threatening them, and he was going to hurt them, and he’d already killed at least four other people we knew about, and I didn’t <em> think</em>, I just… pulled the trigger.” He shudders as Roy wraps his arms around him. “I pulled the trigger, and then the back of his fucking head blew off, and I had Naomi in my arms, crying, and I…” His breath hitches. “I just felt… empty. I still feel empty. I should feel worse.”</p><p>Roy strokes a hand down Ed’s braid. “It will come,” he says. “Maybe tonight, maybe tomorrow. Maybe it’ll be in a week or a month, but it will come, and it will make you sick. It might actually make you throw up. It will feel like the most evil thing you’ve ever done, and it will feel even worse after because you know that if you had to do it again… you would do it again. Because you know that <em> when </em> it happens again, you <em> will </em> make the same decision again.” </p><p>Despite losing his alchemy, Ed is a powerful piece on the board, even if he’s answering up to Olivier, who has her own ambitions. Roy would gladly give him up if he thought Ed would go. No matter how valuable Ed is as a piece in the 3D chess game Roy is playing, he loves Ed enough to let him go, if Ed would go.</p><p>Ed has only once backed down from a fight that Roy is aware of—that terrible day he nearly laid down and died at Scar’s hand. With years and distance from it, Roy is sure that day was a rare moment of weakness, a singular crisis of faith, a unique moment in which Ed was buried by the ugliness of the world and didn’t want to be part of it anymore. </p><p>There have been no repeats since. Ed does not back down from challenges. He does not flinch from fights. Fleeing, running, taking the easy route instead of the right route is simply not part of Ed’s makeup. He sees Roy as his, as part of the people he loves, and Ed does not know how to put himself first, to protect himself from the people he loves most. </p><p>Part of Roy wishes he had been able to block Ed staying in the military. He considered it—seriously. But even as new and uncertain their relationship was at the time, Roy knew Ed well enough to know that Ed would be <em> enraged </em> if Roy tried to stand in his way like that, tried to make decisions <em> for </em> him. They could make decisions together, but they were partners, and Roy <em> could not </em> make decisions for Ed. Not over anything important. Not with something meaningful. </p><p>None of that made him feel any less responsible for Ed having to kill a man. </p><p>None of it would change the decisions Ed has made. </p><p>“This isn’t your fault,” Ed says into his shoulder, reading his mind again. </p><p>“I know,” Roy says. It’s neither a lie nor a truth, not yet. He knows in his head that Ed is his own man, has made his own decisions, is the first to lay in the bed he has made. And still… And still… He <em> is </em> responsible for following a rumor about brothers he thought were thirty and turned out to be children. He <em> is </em> responsible for giving them the option of joining the military. He is responsible for luring them here. One day, he will forgive himself for that, and maybe that day, when Ed tells him it’s not his fault, and Roy says, <em> I know, </em> it will be the truth. </p><p>He’s not there yet. </p><p>“You don’t,” Ed says with a huff. He leans back a little, still a little drawn, but the shadows in his eyes banked for now. Ed has seen worse than people die, after all. He has committed more horrible atrocities than merely killing a man. Roy forgets that, sometimes. “You don’t believe it. Not yet. But someday you will.”</p><p>Roy sighs, but doesn’t argue. “Are you ready to go home?”</p><p>“Yeah,” Ed says. “I’d really like to take a scalding hot shower, to be honest.” He moves around Roy, straightening his desk. Later, Roy will be amused at Ed wanting his desk to be organized, if only for appearances, when virtually nothing else in his life is. </p><p>Scalding water can’t wash the stains on your soul away, but Ed knows that. </p><p>“Let me take it with you,” Roy says. </p><p>Ed pauses and looks at him. Those shadows are banked, but they are still fresh. The night will bring new nightmares and restless sleep. </p><p>“Okay,” Ed says after a long moment, deferring to Roy’s experience in this at least. </p><p> </p>
+<hr/><p> </p><p>The soft susurrus of the brush passing through Ed’s hair is the only noise in their room as Roy drags himself out of memories of that first kill. They’d gone home, showered together, Roy keeping the water from being too hot, washing Ed as though his hands could magically cleanse Ed, no matter how ridiculous the idea. Then they had retreated to their room where Roy dried Ed off, coaxed him into his sleepwear, then brushed Ed’s hair till it dried. Ed hadn’t cried that night, but then, Ed almost never cried. The rage hadn’t come until after the second kill, the second sure shot. </p><p>It turned out, killing didn’t get easier for Ed, not at first, and Hawkeye didn’t teach him how to miss. </p><p>Yet even knowing that, even knowing what this team would expect of him, Ed had taken the job. </p><p>“It’s not your fault,” Ed says, when Roy’s hand stills for too long. </p><p>This, too, is part of the ritual. </p><p>“I know,” Roy says, and for the first time, he believes it. Something must be different in his voice too, because Ed turns to face him. His eyes are that beautiful, unmatched beaten gold that Roy has never seen in another living creature, and Roy treasures these rare intimate times when he gets to see them. They’re watching Roy, the gears ever-moving, ever-turning, running a thousand complex calculations Roy can’t pretend to understand. It’s a little terrifying that people have been added to Ed’s calculations, but, Roy considers, <em> perhaps they were always there. </em></p><p>The shadows have been banked back to their usual levels. Ed hates killing, despises the necessity of it, but he has made his choices. For the first time, Roy accepts that perhaps he is not responsible for the path that Ed ultimately took in life.  Perhaps Edward Elric is meant to take a path like this, a path that puts him between innocent people and those that want to hurt them. He may not have done it through the military if not for Roy, but that does not mean he wouldn’t have found his way to a similar role somewhere else. A bodyguard, perhaps. A protector. For all that Ed can wrap himself for days or weeks in libraries and knowledge, Roy can’t imagine him ever being wholly content with being confined in such a way. Perhaps, finally, he can accept that Ed is responsible for his own decisions. At least for now. </p><p>“I know,” Roy repeats. </p><p>He doesn’t know what Ed sees when he looks at him, but his eyes soften and he smiles, reaching out to pull Roy close by the nape of the neck, and they kiss softly. Roy closes his eyes automatically. When the kiss breaks and he opens them again, he meets Ed’s molten gaze, and he’s surprised to see the shadows are banked deeper than normal. </p><p>“It’s about time you caught up, bastard,” he says with a lopsided, affectionate grin. “I guess you can teach an old dog new tricks if you keep at it long enough.” </p><p>That deserves the tickle attack it gets, and the melancholy of the evening is replaced by Ed’s far-too-loud shrieks and laughter as Roy finds the most sensitive nooks and crannies he’s learned over the years until he has Ed laughing so hard he’s nearly crying as he yells, “Uncle! Uncle! I fucking give, okay!”</p><p>“Do you now?” Roy asks, leaning over him. His hair splays beneath him like a rumpled halo, and Roy doesn’t think he’ll ever stop being awed that Ed is his. </p><p>“Yeah, I’ll let you have this one,” Ed says magnanimously, as if he’s not still chuckling intermittently. “Consider it a reward for learning something new.”</p><p>Roy can’t quite decide if he’s flattered or insulted. It’s a feeling he’s gotten used to in over five years of dating Ed, so he does what he usually does and reacts to both. He gives Ed another goose, which gets a yelp that he swallows when he kisses him. </p><p>When he pulls back, Ed accuses, “You’re trying to distract me,” but he’s smiling when he says it. </p><p>“Always,” Roy concedes, which gets another bark of laughter. </p><p>It also gets Ed’s legs wrapping around his waist in a movement so fast that Roy almost doesn’t see it start until he’s flat on his back with Ed straddling his waist. Ed leans down and kisses him, not sweetly this time. This time it’s darker, demanding, and rough enough to leave them both with kiss-bruised lips. When Ed pulls back, he murmurs, “I have a better distraction in mind,” against Roy’s lips. </p><p>Roy buries a hand in freshly brushed hair as it spills around them and says, “I think I can work with that.”</p><p>Ed laughs again, then kisses him. Roy surrenders to it, knowing there will be others, that they will repeat this night again, but hopefully, going forward, he will not add his guilt to the burden Ed carries. It shouldn't get easier, but it does, and it's hard not to be relieved by that.</p><p>They are partners, equals who are responsible for their own decisions. Roy has always known that, but he finally believes it. And if Ed wants to reward him for the realization, Roy has no complaints. </p></div>
+        <!-- end cache -->
+    </div>
+<!--/chapter-->
+
+    <!--afterword-->
+    <div class="afterword preface group" role="complementary">
+        <!--work endnotes-->
+<div id="work_endnotes" class="end notes module">
+  <h3 class="heading">Notes:</h3>
+  <blockquote class="userstuff"><p>What happens when I get to the end of Brotherhood and realize that Ed has never canonically killed, as far as we know? That's he's been staunchly adamant that there are other ways? And yet, he kills an unsub in his first BAU case, and Rossi notes <i>it can't be the first time</i>. So, Ed had to have killed before. How? When? How did he react? I wanted to explore those things, and I really don't have a place in When They Pick Through to do it. So what does that mean? SIDEFIC.</p><p>I started this a few weeks ago, meaning to put it in celebration of reaching 25k hits, but now we're almost to 35k hits, and you crazy, wonderful readers absolutely <i>blow my mind</i> with your enthusiasm and support for this bizarre brainchild of mine. You're all wonderful and I don't deserve you, but thank you so much for loving this thing as much as I do. </p><p>If you're new and you popped out of Nothing Beautiful to read Impressions and About, here is your link back to <a href="https://archiveofourown.org/works/26477992/chapters/65026072" rel="nofollow">Nothing Beautiful About the Wreckage - Chapter 4</a>.</p><p>The title, as is usual, is taken from Nikita Gill's "Wreckage"<br/><i>There is nothing pretty about damage, about pain, about heartache.</i></p></blockquote>
+</div>
+<!--/work endnotes-->
+        <!--series links, backwards and forwards-->
+<div id="series" class="series module">
+  <h3 class="heading">Series this work belongs to:</h3>
+  <ul>
+      <li><span class="series"><a class="previous" href="/works/26513050">&#8592; Previous Work</a><span class="divider"> </span><span class="position">Part 4 of the <a href="/series/1924888">Wreckage</a> series</span><span class="divider"> </span><a class="next" href="/works/27130303">Next Work &#8594;</a></span></li>
+  </ul>
+</div>
+<!--/series links-->
+    </div>
+    <!--/afterword-->
+
+  </div>
+  <!-- END work skin -->
+<!-- END work -->
+
+<!-- BEGIN comment section -->
+<!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="P6Qb5jRQMXRk7Hjeo8LPeBEIZ6VPH0p7yka5BxPL4Aowcag8tssj3UW187PLr9v_cKwiPe2DoO433G5yfVtUZg"/>
+          <input value="29962410" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?work_id=29962410">Comments (58)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/PhoenixSongBurning">PhoenixSongBurning</a>, <a href="/users/kittywitchy">kittywitchy</a>, <a href="/users/Alicja_1321">Alicja_1321</a>, <a href="/users/Patolemus">Patolemus</a>, <a href="/users/The_entitie">The_entitie</a>, <a href="/users/Missing_Ninja_History">Missing_Ninja_History</a>, <a href="/users/LihaneeNiess">LihaneeNiess</a>, <a href="/users/maybe_witch">maybe_witch</a>, <a href="/users/CalicoKitty17">CalicoKitty17</a>, <a href="/users/defenestrating">defenestrating</a>, <a href="/users/cassi_the_dumbass">cassi_the_dumbass</a>, <a href="/users/ShipInABottle">ShipInABottle</a>, <a href="/users/Angelic_core">Angelic_core</a>, <a href="/users/mzeta">mzeta</a>, <a href="/users/pompomboi">pompomboi</a>, <a href="/users/Angelcat8">Angelcat8</a>, <a href="/users/123Mela567">123Mela567</a>, <a href="/users/King_of_813_Cats">King_of_813_Cats</a>, <a href="/users/WalkersAnnoyingVoice">WalkersAnnoyingVoice</a>, <a href="/users/misterymassacre">misterymassacre</a>, <a href="/users/AylaRouge">AylaRouge</a>, <a href="/users/SeraphWithAShotgun">SeraphWithAShotgun</a>, <a href="/users/Bakuhatsuo">Bakuhatsuo</a>, <a href="/users/kiki2525">kiki2525</a>, <a href="/users/ketchuplick">ketchuplick</a>, <a href="/users/Prihor5462">Prihor5462</a>, <a href="/users/Pyewacket">Pyewacket</a>, <a href="/users/dzen">dzen</a>, <a href="/users/Whispering_Sumire">Whispering_Sumire</a>, <a href="/users/Sarcasm_Scarlet_n_Spite">Sarcasm_Scarlet_n_Spite</a>, <a href="/users/CircleShadow">CircleShadow</a>, <a href="/users/miyunariorio">miyunariorio</a>, <a href="/users/quietest">quietest</a>, <a href="/users/ShadowPhoenix18">ShadowPhoenix18</a>, <a href="/users/Carmic">Carmic</a>, <a href="/users/NyteDragonsteel">NyteDragonsteel</a>, <a href="/users/callowie">callowie</a>, <a href="/users/littlelemonkid">littlelemonkid</a>, <a href="/users/MrsOrihara29">MrsOrihara29</a>, <a href="/users/Merllis">Merllis</a>, <a href="/users/EricaNJ">EricaNJ</a>, <a href="/users/Black_tigre">Black_tigre</a>, <a href="/users/93notes">93notes</a>, <a href="/users/L_The_Annonymous">L_The_Annonymous</a>, <a href="/users/BluFloo">BluFloo</a>, <a href="/users/jillyfae">jillyfae</a>, <a href="/users/camelot1995">camelot1995</a>, <a href="/users/teddybear17">teddybear17</a>, <a href="/users/Avanie">Avanie</a>, <a href="/users/EmeraldOutcast">EmeraldOutcast</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/29962410/kudos?before=3766726021">468 more users</a>
+             as well as 
+          141 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_29962410">
+  <form class="new_comment" id="comment_for_29962410" action="/works/29962410/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="fg5wHqgDdT-F_U-FlGQj3cdprQvdwr9I0lr_3oOEFrhx28PEKphnlqSkxOj8CTdaps3ok39eVd0vwCir7RSi1A"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_29962410">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_29962410" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_29962410=new LiveValidation('comment_name_for_29962410',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_29962410.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_29962410">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_29962410" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_29962410=new LiveValidation('comment_email_for_29962410',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_29962410.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_29962410" class="landmark">Comment</label>
+        <textarea id="comment_content_for_29962410" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_29962410" name="controller_name" value="works"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_29962410_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_29962410">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_29962410=new LiveValidation('comment_content_for_29962410',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_29962410.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_29962410.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_29962410" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+<!-- END comment section -->
+<!-- END revealed -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/29962410/hit_count.json")})</script>
+
+
+  </body>
+</html>

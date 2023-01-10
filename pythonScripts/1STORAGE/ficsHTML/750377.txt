@@ -1,0 +1,932 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"232243a405","applicationID":"129290979","transactionName":"cVtXEUpbWFxdQhkAW1NETQBKRxtDUF9B","queueTime":0,"applicationTime":93,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"232243a405",applicationID:"129290979"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(9),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=M.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+M.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+M.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,y="addEventListener",h="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1215.min.js"},T=w&&b&&b[y]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:T,userAgent:s,disabled:E};if(!E){t(1),t(7),g[y]?(g[y]("DOMContentLoaded",o,l(!1)),m[y]("load",r,l(!1))):(g[h]("onreadystatechange",i),m[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        The Most Amazing Things (Some Terrible Lie) - Chapter 1 - copperbadge - Marvel [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="MWFkxRPjn9HUAtW6e-tFqMrepnDjS0Om86TPUCmMtb7Mo8jnDVTHxR73ys_Yg9vIHCdFy9YJxck_GPvBaOOENw"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="ln4JV8Y1JMcC6C97BrPfktzddJ-cizCDL9swnSFTQQJrvKV12IJ808gdMA6l20HyCiSXJKnJtuzjZwQMYDxwiw"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: &quot;uchiha sasuke/uzumaki naruto&quot; angst kudos&gt;10</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/750377?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/750377/chapters/1400613#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/750377/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/750377/chapters/1400591" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="1400591">1. Chapter 1</option>
+<option value="1400613">2. Chapter 2</option>
+<option value="1400616">3. Chapter 3</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/750377/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=1400591">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/750377/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/750377/The%20Most%20Amazing%20Things.azw3?updated_at=1632710955">AZW3</a></li>
+          <li><a href="/downloads/750377/The%20Most%20Amazing%20Things.epub?updated_at=1632710955">EPUB</a></li>
+          <li><a href="/downloads/750377/The%20Most%20Amazing%20Things.mobi?updated_at=1632710955">MOBI</a></li>
+          <li><a href="/downloads/750377/The%20Most%20Amazing%20Things.pdf?updated_at=1632710955">PDF</a></li>
+          <li><a href="/downloads/750377/The%20Most%20Amazing%20Things.html?updated_at=1632710955">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Mature/works">Mature</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Marvel/works">Marvel</a></li><li><a class="tag" href="/tags/The%20Avengers%20(2012)/works">The Avengers (2012)</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationship:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Steve%20Rogers*s*Tony%20Stark/works">Steve Rogers/Tony Stark</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Steve%20Rogers/works">Steve Rogers</a></li><li><a class="tag" href="/tags/Tony%20Stark/works">Tony Stark</a></li><li><a class="tag" href="/tags/Natasha%20Romanov/works">Natasha Romanov</a></li><li><a class="tag" href="/tags/Clint%20Barton/works">Clint Barton</a></li><li><a class="tag" href="/tags/Bruce%20Banner/works">Bruce Banner</a></li><li><a class="tag" href="/tags/Thor%20(Marvel)/works">Thor (Marvel)</a></li><li><a class="tag" href="/tags/Pepper%20Potts/works">Pepper Potts</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Identity%20Issues/works">Identity Issues</a></li><li><a class="tag" href="/tags/Secret%20Identity/works">Secret Identity</a></li><li><a class="tag" href="/tags/Identity%20Porn/works">Identity Porn</a></li><li><a class="tag" href="/tags/Alternate%20Universe/works">Alternate Universe</a></li><li><a class="tag" href="/tags/Publicity/works">Publicity</a></li><li><a class="tag" href="/tags/unmasking/works">unmasking</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2013-04-06</dd><dt class="status">Completed:</dt><dd class="status">2013-04-06</dd><dt class="words">Words:</dt><dd class="words">26511</dd><dt class="chapters">Chapters:</dt><dd class="chapters">3/3</dd><dt class="comments">Comments:</dt><dd class="comments">211</dd><dt class="kudos">Kudos:</dt><dd class="kudos">8059</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/750377/bookmarks">2205</a></dd><dt class="hits">Hits:</dt><dd class="hits">163376</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      The Most Amazing Things (Some Terrible Lie)
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/copperbadge/pseuds/copperbadge">copperbadge</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>Tony's decision not to reveal his identity as Iron Man to the world was shrewd and calculated. Too bad it's about to backfire on him like a Jericho missile.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>This story is primarily based in the movieverse, but makes use of the situation in 616 where Tony's identity as Iron Man was initially a secret from the world and his teammates, and Iron Man was known primarily as Tony's bodyguard. Also, the title is from "Some Nights" by the band "Fun."; I'm aware that the phrase is "terrible nights" but it sounds like "Lie" so screw reality, the title was too good not to use. </p><p>Beta thanks to Knotta, Foxy, and Anya for fixing my errors! Any remaining ones are due to my stubborn intransigence, not their brilliant editorial skills.</p>
+    </blockquote>
+
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/750377/chapters/1400591">Chapter 1</a>
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p>Standing behind the podium at the press conference, the day after he killed Obadiah, Tony weighed things carefully. He was used to doing that in engineering; not so much in life. Perhaps he ought to start. People seemed to feel impulse control was important. </p>
+<p>"Been a while since I was in front of you. I figure I'll stick to the cards this time."</p>
+<p>He kind of wanted to blow the whole story, if only to piss this Coulson guy off. He could take credit, announce who and what he now was, but -- </p>
+<p>"There's been speculation that I've been involved in the events that occurred on the freeway...and the rooftop..."</p>
+<p>There was Pepper standing at the back of the room, watching him, and he'd already put her in danger just by being alive. If he had any compassion he'd fire her. </p>
+<p>"I know it's confusing. It is one thing to question the official story and another thing to make wild accusations." </p>
+<p>He was too selfish for that, but he wasn't so selfish he'd put her in any more danger just to satisfy his ego. </p>
+<p>"The truth is..."</p>
+<p>He'd always liked keeping secrets.</p>
+<p>"...that this 'Iron Man' -- catchy name, by the way -- has asked for his own sake and for the protection of his loved ones to remain unidentified." </p>
+<p>***</p>
+<p>When Iron Man landed in front of Loki in Berlin, Cap said, "Iron Man."</p>
+<p>"Captain," Iron Man answered. "Honor to meet you."</p>
+<p>When Tony Stark walked onto the debriefing platform on the Helicarrier, Steve Rogers said, "Mr. Stark."</p>
+<p>"Steve Rogers," Tony replied. "I heard they thawed you out."</p>
+<p>"Met your bodyguard. Guy's a bit of a loose cannon."</p>
+<p>"You'll find that's a Stark Industries trademark," Tony said, and continued on his way. "Hey, Point Break," he added to Thor. "Iron Man said to tell you he likes your swing."</p>
+<p>***</p>
+<p>Bruce Banner met him as a fellow scientist, no undue respect but no disdain. </p>
+<p>"Nah, you see," Bruce said to him in the lab, during the search for the Cube, "I don't get a suit of armor like Iron Man. I don't even get a bodyguard. I'm exposed. Like a nerve. It's a nightmare."</p>
+<p>"Wanna see something cool?" Tony said. Bruce looked at him curiously, then nodded. Tony came over to where he was standing and peeled up the t-shirt he was wearing, then the long-sleeved shirt underneath it.</p>
+<p>"Is that..." Bruce stared at it, and a look of awe filled his face. "Is that an arc reactor?" he looked up. "What's it doing in your <i>chest?</i>"</p>
+<p>"I've got a cluster of shrapnel, trying every second to crawl its way into my heart," Tony replied. "This," he tapped it, reassured as ever by the dull thunk, "stops it. It's the same tech that powers War Machine's suit, and Iron Man's." He looked down at the light. "What he does, the way he fights -- it's a terrible privilege. God knows why he still does it. I know it's important that he does."</p>
+<p>"But he can control it," Bruce says.</p>
+<p>"He learned how."</p>
+<p>"I'd like to meet him sometime," Bruce said. "He must be an interesting man."</p>
+<p>"I'm sure you will," Tony answered.</p>
+<p>***</p>
+<p>SHIELD, of course, was aware that Tony was Iron Man; that was unavoidable. But it was a high-level secret, and SHIELD was good at those. Still, he was careful not to slip up around them.</p>
+<p>Because Tony Stark was an ass -- he'd made a <i>career</i> of being an ass -- but Iron Man was a hero. Iron Man was allowed to be kind, to be polite, even to be a little hokey sometimes. He fought hard, and he was stubborn, but he also admired Captain America, supported SHIELD, and was more capable than Tony of speaking openly and wholeheartedly about Stark Industries' new agenda of good work and ecological mindfulness. </p>
+<p>In a lot of ways, Tony liked Iron Man better than he liked himself. He understood why SHIELD had said <i>Iron Man yes, Tony Stark no.</i></p>
+<p>But considering SHIELD knew his secret, he thought it was only fair that he know a few of theirs.</p>
+<p>***</p>
+<p>"Big man hiding behind a bodyguard," Cap said, circling him, and Tony really <i>did not</i> like people walking behind him, heroic or otherwise. "When Iron Man's not here, what are you?"</p>
+<p>"Genius, billionaire, playboy, philanthropist," Tony answered. </p>
+<p>"I know guys with none of that worth ten of you," Cap said. "You and Iron Man combined."</p>
+<p>Tony almost laughed in his face, but instead he went for the throat. "<i>Knew</i>," he said. "Who do you know now?"</p>
+<p>Cap looked like he'd been slapped in the face, but he came right back. "I've read the files, seen the footage. You don't fight. You let him fight for you. That's all he fights for: you and a paycheck. You're just a mechanic, Stark, and he's a mercenary. Don't pretend either of you are heroes."</p>
+<p>"Like you?" Tony answered. "I'd be careful when I sling around phrases like <i>just</i> a mechanic. I built Iron Man. My father built you."</p>
+<p>***</p>
+<p>When Loki's forces attacked the Helicarrier, Tony didn't even bother with an excuse. He'd think one up later. </p>
+<p>"Where's Stark?" Cap demanded, as soon as he was finished checking the relays.</p>
+<p>"Safe," Iron Man answered, knocking out the last of the debris. "Think he said he was going to make sure the engines stayed online."</p>
+<p>Tony would have added <i>After all, he's a mechanic, right?</i> but Iron Man was nicer than that. </p>
+<p>The suit took a crunching, restarting the propellers, but they got the Carrier back up, at least. Iron Man came flailing back, repulsors flickering and half a dozen warnings flashing on the HUD, and took out the asshole who was trying to kill Captain America. Of course, in doing that, he skidded up against a wall and most of his major systems went down.</p>
+<p>"Unnh, fuck," he groaned, and was pleased that the voice modulator was still working. </p>
+<p>"Iron Man?" Cap called, dropping down next to him. </p>
+<p>"My servo autocues are down," Iron Man said.</p>
+<p>"Uh..."</p>
+<p>"My joints don't work," he translated. "Help me up, please?"</p>
+<p>The armor was heavy, without the assistance of the program that responded to his movements. Getting up was hard, but once he was on his feet he could drag it along to the private hangar where the suit was normally kept.</p>
+<p>"Can you walk?" Cap asked, a hand hovering over his shoulder.</p>
+<p>"Yeah. It's no big deal, it's the suit," Iron Man answered. "Go find Fury."</p>
+<p>"I should get Stark -- "</p>
+<p>"No, he'll find me. Go on," Iron Man said. "Tell them I'll report when I can."</p>
+<p>Cap stopped, swung around, and looked into Iron Man's faceplate. Without the HUD, the eye-slits were tinted glass, but Tony wasn't sure how much he saw. </p>
+<p>"Good work," Cap said, and jogged off down the hallway. Iron Man exhaled and started the long slog to the hangar.</p>
+<p>*** </p>
+<p>Tony walked into the briefing with a gash over one eye, hastily cleaned using rubbing alcohol and a rag in the hangar. </p>
+<p>"What happened to you?" Steve asked.</p>
+<p>"I got clobbered on my way to the engine room," Tony replied. </p>
+<p>"Did Iron Man find you?"</p>
+<p>"Didn't need to, I found him."</p>
+<p>"Is he okay?"</p>
+<p>Tony looked at Steve's face and saw nothing but worry there. He glanced sidelong at Fury.</p>
+<p>"He's fine. Suit's banged up. Couple of hours with a soldering iron, it'll be fine too. I'm running a diagnostic now."</p>
+<p>"Where is he?"</p>
+<p>"Are you guys pals or something now?" Tony asked. "He's dealing with stuff. Sorry, you're stuck with me."</p>
+<p>Steve, at least, had the grace to look embarrassed. "Well, tell him I'm glad he's fine," he said. </p>
+<p>*** </p>
+<p>It felt cowardly, meeting Loki in the suit. Tony wanted to antagonize him, wanted to scrape up whatever other secrets he might be keeping, and wanted to meet him face to face. But Iron Man wasn't going to sacrifice wearing the suit for that.</p>
+<p>It had one other advantage, too. Iron Man set the camera in the suit to a wide-band wireless broadcast, which meant that not only was SHIELD aware of what he was doing, anyone with a television or a working internet connection in Manhattan was, too. </p>
+<p>"You're missing the point," Iron Man said, and Tony enjoyed hearing himself make speeches like this to no end. "There's no throne. We don't like to be ruled. We're uppity, mouthy, independent individuals and we never, ever stop fighting once you piss us off. Even if you get control you can't keep it. There is no version of this where you come out on top. Maybe your army comes and maybe it's too much for us, but it's all on you. If we can't protect the Earth you can be damn well sure we'll avenge it. And we won't be alone." </p>
+<p>"How will your friends have time for me," Loki asked, stalking towards him, "when they're so busy fighting you?"</p>
+<p>Iron Man heard the whir of the staff powering up, and he felt the impact when it was shoved up against his reactor.</p>
+<p>Loki frowned, looked down, and tapped him again.</p>
+<p>"Where is your heart?" he asked, looking up.</p>
+<p>"<i>I don't have one</i>," Iron Man snarled, and surged forward. </p>
+<p>Even in the armor, the fight was mismatched. He got in one good hit before Loki grabbed him by the throat.</p>
+<p>"You will all fall before me," Loki snarled back, and threw him out the window. </p>
+<p>Whatever Loki had done shorted out his repulsors for a second, but he stabilized before he fell far.</p>
+<p>When he reappeared in the window, Loki blanched. </p>
+<p>"I can fly, you moron," Iron Man said. "And by the way -- I will make you pay for Phil Coulson." </p>
+<p>***</p>
+<p>When Iron Man locked his mag-pads onto the nuke headed for Manhattan and set his sights on the portal in the sky, Tony briefly regretted not telling the world. </p>
+<p>Oh, it would come out, his identity. He had plans in place for that. Tony Stark would have a state funeral for his services to his country, and he had a request in his will that whatever armor he was in when he died be slagged to ingots and buried with him. People would call Tony a hero. </p>
+<p>But he wouldn't be <i>around</i> for any of it. And that would kind of suck. </p>
+<p>He blacked out to the image of the Chitauri ship exploding. His last thought was the realization that there wouldn't even be a body to bury.</p>
+<p>***</p>
+<p>Iron Man came to with a jerk and a gasp of pain, and moved so fast he banged his head on the inside of the helmet. </p>
+<p>"Jesus <i>Christ!</i>" he yelled, and heard the voice modulator kick in. "What just happened? Am I dead?"</p>
+<p>There was a knock on his helmet as the HUD fired up and he got more visuals back. Cap was looking down at him, grinning.</p>
+<p>"You're not dead," he said. "Close call, though. We didn't want to crack the suit, didn't know if you'd survive without it."</p>
+<p>"Did we win?" Iron Man asked, bewildered.</p>
+<p>"We won," Cap answered. </p>
+<p>"Oh. Yay," Iron Man managed, rolling onto his side. "Good job, guys. I'm gonna take the day off tomorrow, I'm owed a few vacation days."</p>
+<p>He had started to push himself up when a pair of giant green hands caught him under his armpits. He was lifted gently into the air and set down on his feet. </p>
+<p>"Hulk save," Hulk rumbled, and Iron Man turned to look up at him.</p>
+<p>"Thanks, big guy," he said. The way Hulk was watching him -- </p>
+<p>The wide, blocky green face broke into a grin, and Hulk mimed zipping his lips. Then his head tipped up and he rolled his shoulders, twisting and shrinking until Bruce stood there, barefoot, holding up his pants with one hand. He blinked owlishly at them.</p>
+<p>"Dr. Banner," Iron Man said, offering a hand. "Welcome to the saved-the-world club."</p>
+<p>"Iron Man," Bruce answered. "Tony said I'd get to meet you sooner or later."</p>
+<p>"Looks like it's sooner. Hey, you guys look thrashed," Iron Man said. "There's a shawarma place not far from here. You ever tried shawarma? You'll love it," he assured Cap. </p>
+<p>"We're not finished yet," Thor said ominously. Tony felt like crying.</p>
+<p>"And then shawarma after?" he asked plaintively. </p>
+<p>***</p>
+<p>He couldn't eat in the suit, of course, which caused some consternation among the others. </p>
+<p>"But you fought too," Cap said, as the food arrived. "You must be starving."</p>
+<p>"The suit gives me what I need," Iron Man said, which was technically true; five minutes ago he'd felt a needle prick his wrist as JARVIS administered IV nutrients through the suit's emergency life-support system. "I just wanted an excuse to sit down for a while." </p>
+<p>"Are you mortal within, then?" Thor asked. "You are not armor Stark enchanted to move and speak?"</p>
+<p>"Nope. Human as they come," Iron Man replied. </p>
+<p>"Is it..." Cap looked at him, brow furrowed. "Necessary? Is there a reason you can't pop your helmet?"</p>
+<p>"Secret identities," Iron Man said. "Learn to love them. I got people to protect."</p>
+<p>"Surely you can trust us," Thor said.</p>
+<p>"You can't stuff the genie back in the bottle once it's out. Sorry, steel-drivin' man." </p>
+<p>"Nice to meet you, anyway," Bruce said. Apparently Hulk was serious about keeping it a secret. </p>
+<p>"Thanks, Doc. Stark has nothing but good things to say about you." He turned to Steve. "You, on the other hand, he's feeling a little sore at."</p>
+<p>"Yeah, I should speak to him," Steve said, which surprised him. "I said some unfair things. Did he. Uh. Mention them to you?"</p>
+<p>"I don't pry," Iron Man said. </p>
+<p>"Oh. Well, just so you know. That was a brave thing you did," Steve said around a yawn. </p>
+<p>"Thanks. Hey, the Tower's still mostly standing," Iron Man said. "There's bedrooms for anyone who wants one."</p>
+<p>"Stark won't mind?" Natasha asked, giving him one arched eyebrow. She was the only one of them who knew about him, unless she'd told Clint, and apparently she thought he was laying it on thick. Inside the suit, Tony rolled his eyes. </p>
+<p>"Not for you," Iron Man answered. "I have to get back to the Tower anyway, the suit's in miserable shape." He looked around the table. "Come on, little chicks, there's a nice warm nest waiting for us."</p>
+<p>***</p>
+<p>They parted ways the next morning, mostly, and only reassembled to see Loki off. Tony came instead of Iron Man; it was less conspicuous.</p>
+<p>"He sends his regrets," Tony said to Steve. "He took a few days. Probably kicking back in the Bahamas or something."</p>
+<p>"Well-earned," Steve answered. "Mr. Stark, about -- what was said on the Helicarrier, what I said -- "</p>
+<p>"No hard feelings," Tony said. "Iron Man passed the message along. On either side?"</p>
+<p>"None here." Steve held out his hand, and Tony took it. </p>
+<p>"Where are you headed now?" Tony nodded at the bike. "Gonna hit the open road?"</p>
+<p>"I thought I might look around," Steve agreed.  </p>
+<p>"Stop by if you're in the neighborhood. Bruce is staying at the Tower, and Iron Man'd probably like to see you again." </p>
+<p>"I'll do that. Look after yourself, Stark."</p>
+<p>"I pay people to do that," Tony answered with a grin, and went off to shanghai Bruce into his car.  </p>
+<p>***</p>
+<p>Life went back to normal once Loki was gone, inasmuch as Tony's life could be in any sense considered normal. Supervillains, occasional catastrophes, nothing he couldn't manage on his own. The next time the Avengers were needed en masse was a few months after the Chitauri, when Advanced Idea Mechanics took Chicago hostage.</p>
+<p>"What, the entire city?" Iron Man asked from the air, pacing the SHIELD transport jet that was carrying the others. Thor was still in Asgard, but Hawkeye and Widow were always around, and Cap had been back in New York for a few weeks. Tony had personally ensured that Bruce was too happy and distracted to leave New York at all. </p>
+<p>"The entire city," Cap confirmed. </p>
+<p>"How do you even do tha -- wait, I take it back, now I'm thinking up ways," Iron Man added. </p>
+<p>"Don't get ideas," Cap said, sounding amused. Iron Man gave the window of the transport a salute. </p>
+<p>"Who would want to take a city hostage? Too much hard work," Iron Man replied. "I mean, all these plots for world domination. I don't think these people understand the effort involved. Put 'em in charge of Stark Industries for a week, just one company, and they'll cry their evil little eyes out. I'm constantly surprised Mr. Stark doesn't spend all his time on the verge of a nervous breakdown. Oh, will you look at that," he added admiringly, as they approached the place where Chicago ought to be. It was covered with a glowing gold dome; only the tips of two skyscrapers were poking out. </p>
+<p>"Aw man," Hawkeye said, and Iron Man saw his face at the window. "They didn't even get the good suburbs."</p>
+<p>"These AIM guys are scientists, right?" Iron Man asked. "Not traditionally known for their awareness of real estate values. You know, I'm almost proud of them. Science is a lofty goal."</p>
+<p>"Just not in harness with greed," Cap remarked. </p>
+<p>"Something like that. I'm landing, I'll see you guys on the ground." </p>
+<p>The trick, really, was getting past the force-field. Iron Man's repulsors could punch a hole in it, but not one big enough or for long enough for anyone to pass through. He ended up pulling his gauntlets off and hijacking some spare parts from the transport to get a sustained burst. </p>
+<p>"Will this work?" Cap asked, watching him and Bruce rewire the gloves at a makeshift workbench in the back of the landed transport. </p>
+<p>"It should," Bruce said. "Iron Man, do you want to have Tony look this over?"</p>
+<p>"Already transmitting, he's watching in realtime," Iron Man answered. </p>
+<p>"Well, please tell me if he says I'm screwing this up," Bruce replied.</p>
+<p>"You seem pretty good at this yourself," Cap remarked. </p>
+<p>"I didn't get the job for my stunning good looks," Iron Man replied. Cap was watching his hands. "My background is in electrical engineering and kicking ass."</p>
+<p>Cap grinned. "And you're all out of electrical engineering?"</p>
+<p>Iron Man's head jerked up. "Was that a -- did you just make a <i>They Live</i> joke?"</p>
+<p>"I've been catching up on uh. Popular culture," Cap said. "It was on TV in a motel I stayed in when I was on the road."</p>
+<p>"Oh, Captain, I am so proud of you," Iron Man answered. "Have you discovered Mystery Science Theater yet?"</p>
+<p>"No, is it good?" Cap asked.</p>
+<p>"We are having a marathon if we survive this," Iron Man replied. "Dr. Banner, you in?"</p>
+<p>"I never say no," Bruce replied. "We should invite Tony, too."</p>
+<p>"Sure. Have a post saved-the-world-again party," Iron Man said. "Okay, I'm done with this one. Dr. Banner, how's it coming?"</p>
+<p>"Call me Bruce. Once I've had my fingers in your circuitry I think we're past formality," Bruce replied, smiling. He tossed the gauntlet to Iron Man, who caught it and pulled it on, engaging the locks.</p>
+<p>"Now," he said, getting to his feet. "Let's go beat up some evil nerds." </p>
+<p>*** </p>
+<p>There was a moment during the battle that followed -- a series of dirty street fights to get to the force-field generator, and a vicious scrum to get it shut down -- when Cap took a nasty shot to the head and Iron Man thought he was down. </p>
+<p>Iron Man was trying to handle the super-dorky flying sleds AIM was sending at him. They were like the ones the Chitauri had used but without any style or much substance, and it made him ashamed to be a nerd himself. He was monitoring everyone else too, of course, and so he saw Cap jerk to the side and fall, and he didn't get back up again. Iron Man engaged the one-shot, taking every fucking flying sled out at once, and dropped straight down into the street-level melee, throwing AIM soldiers aside and smashing them into one another to get to Cap.</p>
+<p>"Hey, hey, come on, this is pathetic," he said, bending over him, scanning for internal injuries. "Cap, come on, you didn't survive Nazis just to die from a conk on the head by these bozos."</p>
+<p>Cap groaned and rolled to the side, which was when Iron Man saw the blood; there was a furrow along the back of his cowl, and blood was seeping out of it. </p>
+<p>"Shit, you were <i>shot</i>," he said, pressing on the wound.</p>
+<p>"M'okay, okay -- ow," Cap managed, struggling to get up. "Just a graze, it'll heal -- "</p>
+<p>"Let me get the cowl off," Iron Man urged, peeling it up carefully.</p>
+<p>"What happened to...all the..." Cap asked. </p>
+<p>"I took care of it," Iron Man answered.</p>
+<p>"Oh. Good. <i>Ow</i>," he added, as the cowl came off. </p>
+<p>"Well, the reinforced uniform shell did its work," Iron Man said, lifting his hair to study the wound. "It's not deep. Looks like it's healing already." He came around, holding Cap by the shoulders, peering at him through the helmet's eyepieces. "You dizzy? Seeing double?"</p>
+<p>"No, I'm okay," Cap said. "Thanks for the save."</p>
+<p>"Come on, we're almost to the generator. Let Hulk distract them, I need you to cover me while I deactivate it."</p>
+<p>He grasped Cap by the waist, tugged one of his arms over his shoulder, and took off. </p>
+<p>"Oh! Flying!" Cap managed. "Okay, that's...happening..."</p>
+<p>"Relax, my maglocks are hooked to your armor. I could let go and you still wouldn't fall," Iron Man said. </p>
+<p>"I trust you," Cap answered. Before Iron Man could formulate a reply, he added, "Hey, pick that guy off for me, I want his gun."</p>
+<p>***</p>
+<p>They debriefed on the flight back to New York; Bruce was huddled in a blanket and pressed up against Iron Man's side, where the heating element on the suit's external skin could keep him warm. Clint looked after Steve's wound, which mostly consisted of cleaning the blood out of his hair, while Natasha bandaged a nasty scrape on Clint's back. </p>
+<p>"We're approaching Manhattan," the pilot called, a few minutes after the remote debrief ended. "Anyplace you want to set down?"</p>
+<p>"Movie night at Stark's place or sleeping forever?" Iron Man asked the others. "Your call."</p>
+<p>"Heck, that hardly wore me out," Steve said. "I want to see this mystery movie you talked about."</p>
+<p>"Mystery Science Theater," Bruce corrected sleepily. "I'd rather go back to the Tower. Can we stop off there at least?"</p>
+<p>"Movies?" Natasha asked. </p>
+<p>"You've found her secret weakness," Clint said. "We're in."</p>
+<p>"Cozy," Iron Man answered. "Guys, you can put us down on the Stark helipad. JARVIS, clear them to land." </p>
+<p>"Is Tony around?" Bruce asked. </p>
+<p>"I'm checking," Iron Man replied. "Looks like...not. Calendar says he has a dinner thing. Sorry, doc."</p>
+<p>"Well, you did say he's a busy man," Steve said, but he looked a little regretful, too.</p>
+<p>***</p>
+<p>Bruce knew his way around the penthouse pretty well, considering he was living in one of the guest rooms (now Bruce's Room, Tony had redesignated it in the ground plans), so Iron Man left him to get everyone settled and start up the movie while he went down to the workshop on the excuse that he had to run a diagnostic. JARVIS had already done a remote diagnostic and pronounced the armor undamaged, so it was really just that he needed to raid his lockbox and shove a granola bar in his mouth before pulling the helmet back on and heading up. </p>
+<p>"Mr. Stark's definitely out -- workshop's empty," he said, returning to the penthouse. "He left some surprises for you guys, though."</p>
+<p>He skimmed the small envelopes through the air, one to Natasha, one to Clint, one to Steve. Natasha and Clint pulled identical silver keycards out of theirs, and Cap shook a key out into his palm.</p>
+<p>"That is Stark's socially maladroit way of inviting you into the clubhouse," Iron Man said, settling down on the floor and leaning back against the couch, between Bruce and Steve. "He's not really very good at touchy-feely."</p>
+<p>"Clubhouse?" Steve asked carefully. </p>
+<p>"Stark Tower. He's been setting up living quarters for everyone. You guys have beds and bathrooms down the hall if you want them. Keep the keycards, anyway, never hurts to have a backup." </p>
+<p>"How come mine's different?" Steve asked curiously, studying the key.</p>
+<p>"Don't look at me. Probably thought you'd like an old-fashioned key better than a card. Might be a joke," he added, feeling suddenly hesitant. He'd thought Steve would like a real key, even if it had a chip planted in it to open the door. </p>
+<p>"I do," Steve said, and looked down at him. "Sure this wasn't your idea?"</p>
+<p>"Stark's the brains of the operation," Iron Man said. He felt one of Steve's hands resting on his helmet.</p>
+<p>"Well, tell him thanks," Natasha said. She gave him a knowing grin. "Your boss is secretly a soft touch."</p>
+<p>"Don't let him hear you say that."</p>
+<p>"Do you live here?" Steve asked. </p>
+<p>"Don't see you around much," Bruce added. </p>
+<p>"I have a place down by the workshop. Easier access to the suit," Iron Man replied. "Besides, trust me, none of you want to see my epic morning bedhead." </p>
+<p>*** </p>
+<p>It got to be something of a tradition after that, especially after the others moved in. They'd return from a fight and separate briefly, to wash and change clothes, and then they'd all just sort of...drift back into the living room. They didn't really take turns picking movies so much as defer to whoever had gotten the worst of it in the fight. Iron Man would settle in on the floor against the sofa, and Steve would rest his hand on his helmet, and sometimes some of them would fall asleep during the movie. </p>
+<p>Tony didn't socialize with the Avengers, except for Bruce. For all he'd invited them into his home, he didn't see any reason for much contact. If he ran into one of them eating breakfast or something, he'd nod and say hello, but there wasn't a point to anything more. If they asked after Iron Man he'd make sure that Iron Man put in an appearance soon after, and they actually liked Iron Man, so that was fine. </p>
+<p>(Pepper told him he was isolating himself, and asked him if he was scared of making friends. Tony told her she was delusional and threatened to fire her as CEO, which always made her laugh.)</p>
+<p>Besides, he had a day job and worked odd hours, so except for marathon Science Parties with Bruce, he pretty much kept to himself. </p>
+<p>Anyway, it worked. Six months in and they hadn't yet killed each other. Eight months in and he couldn't imagine Iron Man without the close-knit, contentious little family they'd all built together. </p>
+<p>***</p>
+<p>Tony was coming up from an early morning in the workshop when he heard Bruce and Steve in the kitchen; he'd been thinking about getting coffee, but maybe he should just make some in his suite. </p>
+<p>"...get to know him, Tony's a nice guy," Bruce was saying, and Tony paused in the hallway.</p>
+<p>"Nobody's saying he isn't, but I don't think he wants to," Steve answered. "Whenever he sees me he says hi and then bolts. I just want to make sure he doesn't think I have it in for him."</p>
+<p>"Tony's not a grudge-y type. And if he thought you were sulking for some reason, he'd come around more just to piss you off," Bruce replied. "Emotional warfare is how he shows affection."</p>
+<p>"Maybe it's strange for him. Because I knew his dad, y'know."</p>
+<p>"Tony doesn't really keep company with the Avengers. I don't think it's you," Bruce said. </p>
+<p>"Well, all right. Still, I need to talk to him. You know him better than I do. He have a favorite lunch joint?"</p>
+<p>"Yeah, the corner of his workbench," Bruce said with a laugh. "We don't go out much. Check with Iron Man, he probably knows."</p>
+<p>"Or you could ask," Tony said, because he did love to make an entrance. "What's up, Capsicle? The new StarkPhone software update mess up your apps? We've had some issues with the Personal Vibrator app. Who knew phones as sex toys was a thing? Killer on the battery," he added, pouring himself some coffee. </p>
+<p>"Mr. Stark," Steve said, startled. </p>
+<p>"Tony's fine," Tony said, sipping his coffee. "What'd you need to talk to me about?"</p>
+<p>"Ah...uh..." Steve glanced at Bruce, who stood up.</p>
+<p>"I'll clear out -- "</p>
+<p>"No, I have to get back downstairs, just came to tank up. Come along," Tony invited, gesturing with his mug. "Have you even seen the workshop?"</p>
+<p>"Where you fix Iron Man's suit?" Steve asked, following him.</p>
+<p>"Among other things," Tony replied, keying in his security code and taking the stairway down to the workshop level. "Fast access so if JARVIS goes down I can get to the shop without crawling down an elevator shaft," he added, when Steve gave him a questioning look.</p>
+<p>"You think of everything."</p>
+<p>"I try. Pays to be paranoid," Tony said, arriving at the workshop door and standing still for the biometrics scan. "Come into the wonder house."</p>
+<p>Steve walked inside like a cautious cat, taking in everything, almost hesitant in his movements. Tony brushed a corner of his workbench clear and lifted himself up, legs swinging off the edge. "So. What did you need to talk about without Bruce around?"</p>
+<p>"I...had some questions," Steve said. He looked adorably determined. "About Iron Man. You don't have to answer them, but I needed to ask."</p>
+<p>"Why not ask him?"</p>
+<p>"I've tried. We only -- we only asked him once if he'd tell us who he was, and he said no, and you have to respect that," Cap continued. "But I've asked him a few times if he -- if the suit keeps him alive, or if he can survive out of it. He won't give me a straight answer."</p>
+<p>"Have to say, I won't either unless you can give me a reason," Tony said. </p>
+<p>"I...well...when I woke up," Steve said. "Sorry, I have to explain this right. You can keep a secret, right? You must, you know who he is -- "</p>
+<p>"I can keep a secret, Cap. Got a few of my own."</p>
+<p>"So -- when I woke up everything was different, social things were different -- "</p>
+<p>Tony could almost see where this was going, was slotting the puzzle pieces together in his head, when the klaxon in the workshop began to blare. Steve jerked around, towards the source. </p>
+<p>"<i>Call to Assemble</i>," JARVIS announced over the speakers.</p>
+<p>"Damn," Steve said emphatically. </p>
+<p>"Go," Tony ordered. "I'll call Iron Man. Go, Cap, we'll talk later," he added, practically shoving the man out of his workshop. Once Cap was gone, he ducked through the access door into the suit room and ran for the loading platform.</p>
+<p>"JARVIS, was that about what I think it was about?" he asked, as the suit went on over his work clothes.</p>
+<p>"I'm sure I couldn't say, sir," JARVIS replied.</p>
+<p>"I'm sure you could, you're just uppity."</p>
+<p>"If I may, sir," JARVIS said, as Tony lifted off and the iris of the entry port opened. "Discussion with a being modeled on one's own neural processes is not likely to be more helpful than talking to oneself."</p>
+<p>"Smartass," Tony muttered, and caught up with the minijet, already aimed south. </p>
+<p>***</p>
+<p>Afterward, Iron Man's recollections were patchy. He could remember what had happened directly following the concussion, but his short-term memory prior to that had been written over or erased completely. There was a wide, blank space in his mind between pacing the jet over Delaware and getting his head bashed in on the Virginia Beach expressway. </p>
+<p>His first memory was of tumbling through the air, not falling so much as skidding parallel to the ground. Then actual skidding, the armor flipping over and over, Iron Man buffered only by the suit's internal shielding and then not even much by that. He must have taken a head shot from whatever they were fighting, but he did another header into a building, colliding with a girder face-first. </p>
+<p>He had no recollection of where he was or what he was doing, only the knowledge that he must be in a fight. A fight or a flashback; he couldn't think clearly, couldn't see the HUD, and suddenly couldn't breathe.</p>
+<p>His header into the girder had stopped his forward momentum, but it had also shoved his faceplate inwards. The metal hadn't snapped but it had dented under the strain, one of the lower plates pushing up into his jaw. He tried to get his mouth open and the jagged pain raced along his throat, throbbing in his temples. He clamped his mouth shut and focused on breathing through his nose, but the mouthpiece was bent shut and very little air was getting in. </p>
+<p>The suit had no power. He could feel the reactor humming in his chest, but it must have reverted to emergency life support mode -- preserving every last ounce of remaining energy to keep the magnet next to his heart going. And he couldn't override life support with his mouth clamped firmly shut. And without air...</p>
+<p>He reached up, clawing at the jawpiece of the helmet, but with the suit out of juice there wasn't much he could do. Blood was clogging his nose -- </p>
+<p>"Iron Man? <i>Iron Man!</i>"</p>
+<p>He heard the frantic yell over his own rasping snorts, and then there were hands pinning his wrists back. He fought, momentarily, desperate to get the helmet off, but they had him down and his vision was starting to narrow to pinpricks. </p>
+<p>Something clanked. From far off he heard metal rasping, and then felt pressure against his lips -- a hard ridge that tasted like steel -- </p>
+<p>It registered as the shield, Cap's shield, just as his helmet creaked ominously and with one final burst of screaming pain the faceplate was pried free.</p>
+<p>Iron Man jerked his head back, away from the sharp edge of the jawpiece, and gasped in a full lungful of air. His chest heaved inside the suit and he sucked in a second whistling breath, a third.</p>
+<p>"Stark?" someone asked uncertainly. "Stark, what the <i>hell</i> are you doing in the suit?"</p>
+<p>He could talk or he could breathe, so he focused on breathing. His vision had cleared, but now instead of tunnelling down it was going grey, his ears buzzing, the world starting to spin. </p>
+<p>"He's hyperventilating. Tony, Tony, listen to me," someone else said. Black Widow; had to be. "You have to slow down. Breathe with me, okay?"</p>
+<p>"Why's he in the suit?" Cap asked, even as he bent down and Tony could feel something clearing the blood from his face, from his nostrils. </p>
+<p>"Shh, don't talk right now," Black Widow urged, and Tony managed to find her face in the haze. "Ready, Tony? In -- slowly -- out. Match my breathing. In, out." </p>
+<p>He tried but his lungs wanted more air, and he couldn't quite seem to find a rhythm. Then there were new voices, shouting, and something plastic was pressed to his face. Sweet, clean oxygen, pure enough to give a natural high. </p>
+<p>The haze lifted off slowly. He heard one man say, "We can't get him onto a stretcher in the armor." He was mostly sure he didn't need one; the only real damage had been to the jawpiece. Scalp injuries always looked worse than they were. Still, he could feel the sting of alcohol on his face where the blood had been cleaned off, and Cap was using another one to clean off his throat. He held up a hand, waving to try and get the attention of the SHIELD medic bent over him, and then pointed at the oxygen mask. The man sat back on his heels, easing it off Tony's face.</p>
+<p>"I'm okay," he croaked, pushing himself up on an elbow. He gestured at his face. "It's..." he groped for a word and finally settled on, "...cosmetic."</p>
+<p>"Sir, can you get the armor off?" the man asked. Tony could see Cap standing above him, looking confused and upset. </p>
+<p>"There are releases. I need power," Tony rasped. "Anybody got a taser?"</p>
+<p>"A <i>taser?</i>" the man asked. </p>
+<p>"Here," Black Widow said, slipping the electric sting off her left wrist. "Where do you want it?"</p>
+<p>"Arc reactor," Tony answered. He triggered the emergency shielding release, and the shatterproof plate slid up. "Right there. Three seconds."</p>
+<p>Black Widow nodded and, bless her, slammed the sting down before he could tense up. His body arched against the armor, every muscle going taut, but three interminable seconds later the armor was rebooting, the locks clicking off one by one. He shoved the breastplate off, then the gloves, using his hands to pull himself out of the lower half. </p>
+<p>"Get the armor crated, the field team will have something," Tony said, standing, one of Cap's hands on his elbow. The medic nodded and hurried off. Widow had vanished too, probably to make sure the area stayed clear. Which left him and Cap, standing over the shell of the armor.</p>
+<p>"What the hell were you thinking?" Cap asked, releasing him and turning to face him. "Stark, you have a <i>heart condition</i>. Jesus, you're still bleeding," he added, stepping closer, taking another alcohol wipe out of his field belt. </p>
+<p>"Did you not just see -- "</p>
+<p>"You're shaking -- you're going into shock," Cap interrupted. He unzipped the uniform jacket, shrugging out of it and wrapping it around Tony's admittedly freezing shoulders. He took Tony's head in his hands, studying his eyes. "Are you concussed?"</p>
+<p>"I don't know," Tony answered. "I think so."</p>
+<p>"Sit down. Over here," Cap replied, leading him to a reasonably level piece of concrete that had fallen sideways into the building. "The medics will be back, they'll look you over properly."</p>
+<p>"I'm fine," Tony said irritably.  </p>
+<p>"What was going through your head?" Cap asked. </p>
+<p>"Bad guys," Tony waved a hand. </p>
+<p>"Stark, you're a civilian. If Iron Man wasn't available, we could have fought without -- "</p>
+<p>"Don't you get it?" Tony asked, aware that it hurt to talk. "I'm him, Cap, he's me. I'm Iron Man." </p>
+<p>Cap looked at him, brows drawing together. </p>
+<p>"I always have been," Tony said miserably, aware that his hair was matted with sweat and he was bleeding onto the undersuit he wore. </p>
+<p>"But you're -- you're a billionaire. A politician. You don't even like us, you only ever helped us because Iron Man and Bruce..." Cap's eyes got dark and worried. "You? All this time? With your heart, and -- "</p>
+<p>"My heart is fine." Tony thumped the reactor. "It's protected. You don't even wear armor. You fight in <i>tights</i>." </p>
+<p>"I'm going to let that slide," Cap answered. "Stark -- Iron Man -- that's why you wouldn't crack your helmet, isn't it? You didn't want us to know it was you."</p>
+<p>"Iron Man's reasons were good reasons."</p>
+<p>"Excuses."</p>
+<p>"Reasons," Tony insisted. He let his head rest in his hands, suddenly too heavy to keep upright. After a few seconds he felt Cap's glove resting on the back of his head, thumb brushing a soothing arc against the tense muscles just above his neck. </p>
+<p>"We're going to get you patched up," Cap said quietly. "You're going to get looked over, treated if necessary, and disinfected. Then we're going to take you home and we're all going to get some rest, and tomorrow you and I are going to have a very long discussion about all this. Rest for now. We'll sort it out later." </p>
+<p>The medics, Tony saw, were on their way back with a gurney; Cap helped him up and walked him out past the rubble, both of them squinting in the sudden light. The battle must be over, Tony thought. </p>
+<p>"Yeah," Cap replied, in a somewhat ominous voice.</p>
+<p>"How much of what I think is coming out of my mouth right now?" Tony asked. </p>
+<p>"Not too much, don't worry," Cap said, and turned him around before they reached the gurney, wrapping his arms around Tony's shoulders. Tony leaned into the embrace, exhausted and still a little bewildered. </p>
+<p>"I've wanted to do that for a while," Cap said in his ear. "Give Iron Man a hug without the armor." </p>
+<p>Tony just buried his nose in the soft undershell of Cap's uniform and let him decide when he was done, following the motion as he was eased onto the gurney. There was a jolt, and then something warm was pulled over him, and he passed out.</p>
+<p>***</p>
+<p>When Tony woke again, it was to the smell of hospital disinfectant and industrial laundry soap. </p>
+<p>Most of the injuries Iron Man usually took in battle were soft-tissue, bruises and sprains. He'd installed a medical module in JARVIS to scan for internal injuries, but he'd been lucky so far. He was conscientious, really. He always got a scan after a battle, and he made sure to treat any wounds he'd received. And, in theory, even if he did have a major injury, he could get treatment discreetly from Tony Stark's private physician. </p>
+<p>But he was in the hospital. And before that -- he remembered the touch of metal on his lips, the pained gasps for breath...</p>
+<p>"Anthony?" a voice said softly.</p>
+<p>He startled, hands coming up instinctively into Iron Man's defensive pose, right forward, left back and cocked. Steve was there, and for a second Tony couldn't remember if he was Steve or Cap -- no, he was in civs, that was Steve -- </p>
+<p>"Easy, easy," Steve said, his own hands rising. "It's just me." </p>
+<p>Tony swallowed, registering pain, and lifted one hand to his throat. There was a bandage, soft and slick, from just below the point of his chin to halfway down his neck. His head ached. </p>
+<p>"The armor sliced you," Steve said. Tony blinked at him. "Do you remember what happened?"</p>
+<p>"Some," Tony rasped. "Nothing before getting..." he coughed and choked, weakly, "...thrown into a building."</p>
+<p>"You weren't thrown," Steve said. "Well, more like blown."</p>
+<p>Tony made an interrogatory noise. </p>
+<p>"You touched off a bomb that blew you through a wall," Steve said. "And then down the freeway and into another wall. They said you might not remember. You bashed your head pretty solidly. Took half the terrorists with you, though, and SHIELD rounded up the other half."</p>
+<p>"Net gain," Tony managed.</p>
+<p>"No," Steve said, looking sad. "Not really."</p>
+<p>"I'll be fine," he replied, but it came out more like a question. </p>
+<p>"Yeah. More or less. They say you can go once they do a few exams," Steve said, and stood up. Tony looked up at him. From this angle, he looked enormous -- larger than life. Cap, not Steve. Iron Man should be here. </p>
+<p>"I'll let them know you're awake," Cap said, and left. </p>
+<p>He didn't really expect Cap to come back. He expected Pepper would be there to yell at him or Sitwell to look constipated at him. Instead it was Steve, who came back with a doctor in SHIELD-logo scrubs -- they must be in the medical wing on the Carrier. </p>
+<p>"Mr. Stark," the doctor said, smiling at him. "How are you feeling?"</p>
+<p>"Disoriented," Tony said.</p>
+<p>"I can imagine. I'd like to do a neurological exam, but we don't have any particular quick-fix treatments for concussion. I imagine you'd like to get home," she continued. </p>
+<p>"Yes," he croaked.</p>
+<p>"Fine. Captain, if you'd clear the room -- "</p>
+<p>"I'd like to stay," Steve said. </p>
+<p>The doctor glanced at Tony. He nodded. </p>
+<p>"All right then," she said, sounding slightly annoyed. "Eyes on my finger, please..."</p>
+<p>He was sure he aced the exam; he usually tested well. And she let him go, so he must have at least looked pretty while doing it. His thoughts felt jumbled, and he missed their usual sleek linear logic. He felt like there was something to this whole equation that he was missing. On the other hand, every time he had what seemed like an important thought, it flitted out of his head. So he let Steve put a pair of SHIELD uniform boots on his feet and lead him down the hall towards one of the hangars, where Clint -- Clint or Hawkeye? He wasn't in uniform, but he was in the pilot's seat...Clint or Hawkeye....</p>
+<p>He snapped out of it to find Steve buckling him in like a child. It occurred to him that at some point Steve had also slung his Captain America uniform jacket around Tony's shoulders again. </p>
+<p>"Is it Clint or Hawkeye?" he asked Steve in a whisper. </p>
+<p>"Hm?" Steve looked up at him, big blue eyes curious.</p>
+<p>"Never mind," Tony replied, and huddled down into the jacket. Steve climbed in next to him and pulled the hatch closed, and Tony fought nausea as they lifted off.</p>
+<p>About five minutes later, he discovered that he didn't know where his armor was. He panicked.</p>
+<p>"Where's my armor?" he asked, and didn't wait for them to answer, twisting in the seat to see if he could see it. "What happened to the armor, is it here? They didn't leave it there, did th -- "</p>
+<p>"Sit still," Steve commanded, as another wave of nausea hit. "It's safe."</p>
+<p>"<i>Where?</i>"</p>
+<p>"It's in the back," Clint called. "No worries, we got this."</p>
+<p>"You're sure?"</p>
+<p>"Promise," Steve said. A promise from Captain America was one you could take to the bank.</p>
+<p>"By the way," Clint called, "You are on my shit list forever, right behind Natasha."</p>
+<p>Tony frowned, uncertain why for a minute, and then nodded. Natasha hadn't told him about Iron Man. "Fair enough," he said. </p>
+<p>They touched down on the Stark Tower helipad a few minutes later. Tony was out of his harness and into the back, looking for the armor's crate, before Clint had even powered down the engines. There were two large plastic crates stamped STARK - EYES ONLY and when he opened the lid of one of them, dented gold and filthy red gleamed out at him. </p>
+<p>"Come on," Steve said, taking him by one arm and easing him away. "Thor and Natasha will take them down to the workshop. You're going to bed."</p>
+<p>"Aren't you supposed to keep me awake?" Tony asked, and then winced. "That wasn't a pass."</p>
+<p>"A what?" Steve asked, looking perplexed.</p>
+<p>"Concussion," Tony tried.</p>
+<p>"I dunno, the doctor said that's an old superstition. She said to let you sleep, just make sure someone checks on you once in a while. Ms. Potts is on her way in from California," he added, and Tony remembered that Pepper had been on the other coast. Beautiful, competent, tolerant Pepper. </p>
+<p>"I need a drink," he muttered, as Steve let him down the hall to his room.</p>
+<p>"That's so far from what you need it's a miracle you can say those words," Steve replied, helping him onto his bed. He crouched, tugging the boots off, then pulled the blanket up over Tony as he lay down. </p>
+<p>He meant to ask, <i>Why are you doing this?</i> because he was very confused, but when he looked up and squinted at Steve, it just came out, "Why?"</p>
+<p>Steve crouched, tilting his head.</p>
+<p>"I am so angry with Mr. Stark I can hardly see straight," he said calmly. "But Iron Man's my pal, and he's having a rough day, so he comes first." He straightened the blanket. "Get some rest."</p>
+<p>Tony closed his eyes. The world was swaying gently, but he'd had worse than this in his hard-drinking days. He let the warmth and the darkness draw him down.</p>
+  </div>
+  <!--/main-->
+
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/750377/chapters/1400613#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="nsE5enQoqFNOPfp_sWOZ0Z7Jne0pBr1pCSDc47T36WtjA5VYap_wR4TI5QoSCwexSDB-VhxEOwbFnOhy9ZjY4g"/>
+          <input value="750377" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=1400591">Comments (20)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/Kitenne">Kitenne</a>, <a href="/users/penalias">penalias</a>, <a href="/users/engensi">engensi</a>, <a href="/users/Laura00">Laura00</a>, <a href="/users/Shades_of_Shadow">Shades_of_Shadow</a>, <a href="/users/Gakowuah18">Gakowuah18</a>, <a href="/users/DerekAndCasAreStubbleBuddies">DerekAndCasAreStubbleBuddies</a>, <a href="/users/WinterLocked">WinterLocked</a>, <a href="/users/anarchism">anarchism</a>, <a href="/users/SweaterTroubles">SweaterTroubles</a>, <a href="/users/blackmooon">blackmooon</a>, <a href="/users/Prince_Charming">Prince_Charming</a>, <a href="/users/lwm57">lwm57</a>, <a href="/users/hyes1227">hyes1227</a>, <a href="/users/blue_bumblebee">blue_bumblebee</a>, <a href="/users/kimber13">kimber13</a>, <a href="/users/obentou">obentou</a>, <a href="/users/p0tato_q">p0tato_q</a>, <a href="/users/erstwhile">erstwhile</a>, <a href="/users/Jamais_Vu99">Jamais_Vu99</a>, <a href="/users/LizChris">LizChris</a>, <a href="/users/Particularly_good_evening">Particularly_good_evening</a>, <a href="/users/Kiekeboe">Kiekeboe</a>, <a href="/users/Akane_Ao">Akane_Ao</a>, <a href="/users/Miko_sama">Miko_sama</a>, <a href="/users/Wrongendoftheforest">Wrongendoftheforest</a>, <a href="/users/article7224_sectionC">article7224_sectionC</a>, <a href="/users/Jade_Plant">Jade_Plant</a>, <a href="/users/Exa65536">Exa65536</a>, <a href="/users/Isfeld">Isfeld</a>, <a href="/users/howlingnerd">howlingnerd</a>, <a href="/users/darmar11">darmar11</a>, <a href="/users/oper_1895">oper_1895</a>, <a href="/users/lunarstriker445">lunarstriker445</a>, <a href="/users/ACozyBlanket">ACozyBlanket</a>, <a href="/users/darknel">darknel</a>, <a href="/users/milf_lovers_anon_42">milf_lovers_anon_42</a>, <a href="/users/Ringerin">Ringerin</a>, <a href="/users/saintless">saintless</a>, <a href="/users/SevvyIsMyKing">SevvyIsMyKing</a>, <a href="/users/Arson_Phoenix">Arson_Phoenix</a>, <a href="/users/MyStarShine">MyStarShine</a>, <a href="/users/funkymushrooms">funkymushrooms</a>, <a href="/users/dem0ndean">dem0ndean</a>, <a href="/users/MoonlightWalker">MoonlightWalker</a>, <a href="/users/plum177">plum177</a>, <a href="/users/stebecapsicle">stebecapsicle</a>, <a href="/users/vacerrosa">vacerrosa</a>, <a href="/users/marmaladedreams">marmaladedreams</a>, <a href="/users/Arkrieg">Arkrieg</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/750377/kudos?before=3809085532">5105 more users</a>
+             as well as 
+          2904 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_1400591">
+  <form class="new_comment" id="comment_for_1400591" action="/chapters/1400591/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="SWSJrAfZXPx_MlyzTwoxFT6Q-5jMeTsEGkvLktAgXJe0piWOGW4E6LXHQ8bsYq916GkYI_k7vWvW9_8DkU9tHg"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_1400591">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_1400591" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_1400591=new LiveValidation('comment_name_for_1400591',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_1400591.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_1400591">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_1400591" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_1400591=new LiveValidation('comment_email_for_1400591',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_1400591.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_1400591" class="landmark">Comment</label>
+        <textarea id="comment_content_for_1400591" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_1400591" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_1400591_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_1400591">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_1400591=new LiveValidation('comment_content_for_1400591',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_1400591.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_1400591.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_1400591" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/750377/hit_count.json")})</script>
+
+
+  </body>
+</html>

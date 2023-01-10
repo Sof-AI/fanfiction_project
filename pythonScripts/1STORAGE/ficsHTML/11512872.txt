@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Robb Returns - Chapter 1 - 42AngryCymraeg - A Song of Ice and Fire - George R. R. Martin [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="et5YSXiAtbGg3kMI_0hqWWigYFI6lzZ3xce1yT-qQ-w_9a0BpaqmdnpvL0yq0CsgZHir5agfDrMD4yayyxOWWQ"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="Ek0gDjSESQiQ6VIkZm1Vp_XliZVnKOR9iv2TQ-uuU_xXZtVG6a5az0pYPmAz9RTe-T1CIvWg3LlM2QA4HxeGSQ"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: &quot;uchiha sasuke/uzumaki naruto&quot; angst kudos&gt;10</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/11512872?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/11512872/chapters/25848810#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/11512872/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/11512872/chapters/25836087" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="25836087">1. Chapter 1</option>
+<option value="25848810">2. Chapter 2</option>
+<option value="25848909">3. Chapter 3</option>
+<option value="25850610">4. Chapter 4</option>
+<option value="25850694">5. Chapter 5</option>
+<option value="25850955">6. Chapter 6</option>
+<option value="25851099">7. Chapter 7</option>
+<option value="25851243">8. Chapter 8</option>
+<option value="25851387">9. Chapter 9</option>
+<option value="25851600">10. Chapter 10</option>
+<option value="25851867">11. Chapter 11</option>
+<option value="25852047">12. Chapter 12</option>
+<option value="25853418">13. Chapter 13</option>
+<option value="25853814">14. Chapter 14</option>
+<option value="25856751">15. Chapter 15</option>
+<option value="25858758">16. Chapter 16</option>
+<option value="25858989">17. Chapter 17</option>
+<option value="25859037">18. Chapter 18</option>
+<option value="25859061">19. Chapter 19</option>
+<option value="25859178">20. Chapter 20</option>
+<option value="25859247">21. Chapter 21</option>
+<option value="26286432">22. Chapter 22</option>
+<option value="26678073">23. Chapter 23</option>
+<option value="26993397">24. Chapter 24</option>
+<option value="27509922">25. Chapter 25</option>
+<option value="27968058">26. Chapter 26</option>
+<option value="28835802">27. Chapter 27</option>
+<option value="30700263">28. Robb Returns 28</option>
+<option value="31880865">30. Chapter 30</option>
+<option value="32877405">31. Chapter 31</option>
+<option value="33453162">32. Chapter 32</option>
+<option value="34861481">33. Chapter 33</option>
+<option value="36976581">34. Chapter 34</option>
+<option value="38378579">35. Chapter 35</option>
+<option value="40984874">36. Chapter 36</option>
+<option value="42685136">37. Chapter 37</option>
+<option value="42685247">38. Chapter 38</option>
+<option value="42685274">39. Chapter 39</option>
+<option value="44239618">40. Chapter 40</option>
+<option value="44652301">41. Chapter 41</option>
+<option value="50031122">42. Chapter 42</option>
+<option value="52761907">43. Chapter 43</option>
+<option value="57508543">44. Chapter 44</option>
+<option value="62020342">45. Chapter 45</option>
+<option value="67191118">46. Chapter 46</option>
+<option value="73221393">47. Chapter 46</option>
+<option value="77103533">48. Chapter 48</option>
+<option value="81812926">49. Chapter 49</option>
+<option value="85069357">50. Chapter 50</option>
+<option value="90085138">51. Chapter 51</option>
+<option value="94303279">52. Chapter 52</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/11512872/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=25836087">Comments </a>
+  </li>
+
+
+    <li class="style">
+        <a href="/works/11512872/chapters/25836087?style=disable">Hide Creator&#39;s Style</a>
+    </li>
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/11512872/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/11512872/Robb%20Returns.azw3?updated_at=1647448701">AZW3</a></li>
+          <li><a href="/downloads/11512872/Robb%20Returns.epub?updated_at=1647448701">EPUB</a></li>
+          <li><a href="/downloads/11512872/Robb%20Returns.mobi?updated_at=1647448701">MOBI</a></li>
+          <li><a href="/downloads/11512872/Robb%20Returns.pdf?updated_at=1647448701">PDF</a></li>
+          <li><a href="/downloads/11512872/Robb%20Returns.html?updated_at=1647448701">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Teen%20And%20Up%20Audiences/works">Teen And Up Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warnings</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Graphic%20Depictions%20Of%20Violence/works">Graphic Depictions Of Violence</a></li><li><a class="tag" href="/tags/Major%20Character%20Death/works">Major Character Death</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/F*s*M/works">F/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandom:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/A%20Song%20of%20Ice%20and%20Fire%20-%20George%20R*d*%20R*d*%20Martin/works">A Song of Ice and Fire - George R. R. Martin</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Catelyn%20Stark*s*Ned%20Stark/works">Catelyn Stark/Ned Stark</a></li><li><a class="tag" href="/tags/Cersei%20Lannister*s*Jaime%20Lannister/works">Cersei Lannister/Jaime Lannister</a></li><li><a class="tag" href="/tags/Jory%20Cassel*s*Original%20Female%20Character(s)/works">Jory Cassel/Original Female Character(s)</a></li><li><a class="tag" href="/tags/Tyrion%20Lannister*s*Original%20Female%20Character(s)/works">Tyrion Lannister/Original Female Character(s)</a></li><li><a class="tag" href="/tags/Jon%20Snow*s*Ygritte/works">Jon Snow/Ygritte</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Ned%20Stark/works">Ned Stark</a></li><li><a class="tag" href="/tags/Robb%20Stark/works">Robb Stark</a></li><li><a class="tag" href="/tags/Bran%20Stark/works">Bran Stark</a></li><li><a class="tag" href="/tags/Catelyn%20Tully%20Stark/works">Catelyn Tully Stark</a></li><li><a class="tag" href="/tags/Robert%20Baratheon/works">Robert Baratheon</a></li><li><a class="tag" href="/tags/Jon%20Arryn/works">Jon Arryn</a></li><li><a class="tag" href="/tags/Jon%20Snow/works">Jon Snow</a></li><li><a class="tag" href="/tags/Arya%20Stark/works">Arya Stark</a></li><li><a class="tag" href="/tags/Jory%20Cassel/works">Jory Cassel</a></li><li><a class="tag" href="/tags/Cersei%20Lannister/works">Cersei Lannister</a></li><li><a class="tag" href="/tags/Jaime%20Lannister/works">Jaime Lannister</a></li><li><a class="tag" href="/tags/Tywin%20Lannister/works">Tywin Lannister</a></li><li><a class="tag" href="/tags/Tyrion%20Lannister/works">Tyrion Lannister</a></li><li><a class="tag" href="/tags/Kevan%20Lannister/works">Kevan Lannister</a></li><li><a class="tag" href="/tags/Bronn%20(ASoIaF)/works">Bronn (ASoIaF)</a></li><li><a class="tag" href="/tags/Maester%20Luwin/works">Maester Luwin</a></li><li><a class="tag" href="/tags/Willas%20Tyrell/works">Willas Tyrell</a></li><li><a class="tag" href="/tags/Petyr%20Baelish/works">Petyr Baelish</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/Allthestorys">Game of Thrones</a>, <a href="/collections/Favorite_Reads_AFL">Favorite Reads</a>, <a href="/collections/Time_Travel_Fics_That_Water_My_Crops">Time Travel Fics That Water My Crops</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2017-07-15</dd><dt class="status">Updated:</dt><dd class="status">2022-03-16</dd><dt class="words">Words:</dt><dd class="words">679144</dd><dt class="chapters">Chapters:</dt><dd class="chapters">51/?</dd><dt class="comments">Comments:</dt><dd class="comments">747</dd><dt class="kudos">Kudos:</dt><dd class="kudos">2069</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/11512872/bookmarks">982</a></dd><dt class="hits">Hits:</dt><dd class="hits">140942</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+    <style type="text/css">#workskin .indent{padding:0 5em 0 5em}#workskin .book{margin:0 auto;text-indent:3em}#workskin .dropcap{font-family:Georgia,serif;font-size:3em}#workskin .flashback{font-style:italic}#workskin .caps{font-variant:small-caps}#workskin .spoiler{background:#333;color:#333}#workskin .border{border:1px solid}#workskin .font-serif{font-family:Cambria,Constantia,Palatino,Georgia,serif}#workskin .font-sansserif{font-family:'Lucida Grande',Verdana,Helvetica,Arial,sans-serif}#workskin .font-monospace{font-family:consolas,courier,monospace}#workskin .font-big{font-size:120%}#workskin .font-small{font-size:80%}#workskin .align-right{text-align:right}#workskin .align-center{text-align:center}#workskin .align-justify{text-align:justify}#workskin hr.third{width:33%;margin:auto}#workskin hr.full{width:auto;margin:auto}#workskin .font-red{color:red}#workskin .font-orange{color:#ffa500}#workskin .font-yellow{color:#ff0}#workskin .font-green{color:green}#workskin .font-blue{color:#00f}#workskin .font-purple{color:purple}#workskin .font-white{color:#fff}#workskin .font-black{color:#000}#workskin .font-pink{color:#ffc0cb}#workskin .font-teal{color:#008282}#workskin .font-redbrown{color:#a15000}#workskin .font-cherryred{color:#e00707}#workskin .font-brickred{color:#a10000}#workskin .font-dimorange{color:#f2a400}#workskin .font-murkyyellow{color:#a1a100}#workskin .font-jade{color:#4ac925}#workskin .font-dimgreen{color:#008141}#workskin .font-leafgreen{color:#1f9400}#workskin .font-darkolive{color:#416600}#workskin .font-dimblue{color:#005682}#workskin .font-midblue{color:#0715cd}#workskin .font-mediumskyblue{color:#00d5f2}#workskin .font-darknavy{color:#000056}#workskin .font-lightpurple{color:#f141ef}#workskin .font-midviolet{color:#b536da}#workskin .font-verydarkpurple{color:#2b0057}#workskin .font-darkplum{color:#6a006a}#workskin .font-darkmaroon{color:#77003c}#workskin .font-reallydarkgray{color:#626262}</style>  
+
+  <!-- end cache for work skin -->
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Robb Returns
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/42AngryCymraeg/pseuds/42AngryCymraeg">42AngryCymraeg</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>The War is not going well for the North. The Old Gods have no choice. Robb Stark must return to Winterfell - to a time when what he knows can make a difference.</p>
+            </blockquote>
+        </div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/11512872/chapters/25836087">Chapter 1</a>
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p>Just to clarify something - I post under the name The Dark Scribbler on FanFiction.net. On the AltHistory board I post under the name Cymraeg.</p><p> </p><p> </p><p>
+  <strong><u>Ned</u> </strong>
+</p><p>He hated the books. His father had made it look so easy, had made all the numbers dance, had been able to recall the most astonishing details of all the trade and administration of the North. But he was not his father and he hated the books, the ledgers, the endless administration. But it had to be done. The North wouldn’t run itself.</p><p>And besides you could tell what was happening when you looked at the ebb and flow of goods around the North. More trade going to Bear Island meant that the Mormonts were getting paranoid about the Ironborn again. More requests from the Wall for, well, everything, meant that the plight of the Night’s Watch was getting worse and he sighed and made another note to remind Robert that something had to be done to bolster the Wall before the Wildlings paid another visit. More complaints from the Dreadfort meant that Roose Bolton was getting worried about something. Yet more complaints from the Karstarks meant that they were getting ambitious again. Well, they all had their concerns. Winter was always coming.</p><p>Knuckles rapped on the door to his solar and he looked up. Luwin was standing in the doorway, clutching at his chain and looking concerned. “What is it Luwin?”</p><p>The older man walked in and closed the door behind him. “Your pardon for disturbing you my Lord, but I am getting very worried about Robb. Something is very wrong with him.”</p><p>Ned Stark put his quill down and straightened up from the books with a sigh. “I know, Cat and I were discussing it last night. Yet whenever I ask him what is amiss he just looks at me with that strained look and makes an excuse and hurries away, I know not where too.”</p><p>“I think I have an answer to that riddle, or at least a part of it. I just found him in the Weirwood, praying before the Heart Tree. He’s always been devout, but never have I seen him pray as fervently as I just now witnessed.”</p><p>Ned looked at him. “Did you hear his prayers?”</p><p>“A snatch of them. He was asking why he had been sent back and what he was to do now.”</p><p>“Sent back?” Ned frowned. “Sent back from where?”</p><p>“I know not. He must have heard me coming because he looked up, smiled a smile that was more a grimace and then left.” Luwin paused and then seemed to come to a decision. “I think that Robb is also the one who has been in the Library so much of late. I knew that someone was looking through the books a lot, but I did not know who until I overheard Robb muttering a piece of doggerel from the books about the Old Gods. And Old Nan told me that Robb has been pestering her for more of the old tales.”</p><p>This really took him aback. “The Old Gods? Why would he be seeking knowledge of the Old Gods?”</p><p>Luwin spread his hands in bafflement. “I know not my Lord. As I said, I am concerned.”</p><p>Ned stood and walked to the fire, where he warmed his slightly stiff hands. “Whatever is amiss with Robb, it started ten days ago. When he entered the Great Hall to break his fast.”</p><p>“I agree,” Luwin muttered. “But what could have happened?”</p><p>Ned thought back. He had been breaking his fast that morning with Cat and his family, along with Jon and Theon. Robb had been missing and he had been about to irritably order a servant to go and find his eldest son when all of a sudden he had arrived. He had looked as if he had dressed hurriedly and then run as fast as he could, because his chest was heaving. And his reaction on seeing Ned had been a strange one – he turned white as a sheet and then reeled. “Father.” He had said the word as if he had been stunned. And then looked around the table and staggered forwards to it. He had hugged Bran and Rickon (both of whom had wriggled and squirmed and protested), hugged Arya (who had gone bright red with fury) and Sansa (who had rolled her eyes) and then stood and stared again at Ned.</p><p>“Robb, are you quite well?” Cat had asked in some startlement.</p><p>“I am quite well Mother,” Robb had replied, still in that stunned tone of voice. “Father. It is good to see you again.”</p><p>Ned had frowned. “I was here last night,” he had said carefully. “I haven’t gone anywhere.”</p><p>Robb paused, seemingly choked up about something and then had caught sight of Jon and Theon. A great smile had split his face at the first, followed by a murderous glare at the latter. “Theon.” He said the word in a low, equally murderous, tone that made the Greyjoy boy blink in bafflement.</p><p>Robb had then paused, collected himself visibly and then sank into his usual place, before eating quickly and as if his mind was on anything but the food. And then he had left, leaving everyone staring after him worriedly.</p><p>“Your children have been asking after him a lot, my Lord. He brushes them off, but they are as worried. He avoids Theon Greyjoy as if he is diseased. And Jory Cassel has told me that he found Robb staring from the outer wall of Winterfell in the direction of the Wolf’s Wood, muttering under his breath. And…” He broke off, obviously reluctant to speak.</p><p>“Go on Luwin,” Ned prompted. “Tell me.”</p><p>“Rodrik Cassel tells me that his fighting style has changed. He swings a sword with the eyes of a man who has fought in battle, Rodrik says, the eyes of man who has killed. And I do not doubt him. His eyes are different my Lord. He has the eyes of an older man.”</p><p>Ned Stark looked at his old friend and adviser. “I had thought that no-one else had noticed that. Had hoped it. What should I do? Every time I try to confront him he makes an excuse and leaves.”</p><p>Luwin nodded thoughtfully. “I had noticed that. I suggest that you talk to him in the Wierwood. He seeks solace there. Perhaps you can talk to him there.”</p><p> </p><hr/><p> </p><p>
+  <strong> <u>Robb</u> </strong>
+</p><p>He didn’t know what to do. That was irony writ large that was. He had commanded thousands of men in battle, he had routed Lannister armies like chaff on the wind and now he was reduced to sitting in the Weirwood and thinking up mad desperate plan after mad desperate plan, only to abandon each one as impossible.</p><p>How had he gotten here? How had he gone from that cold, hard floor in Walder Frey’s banqueting chamber, feeling the life drain out of him from the various quarrels in him before the blade of Roose fucking Bolton had ended it all, to all the way back to Winterfell, before his father had gone South and died in the maze of corruption that was King’s Landing. How had it happened? Why had it happened?</p><p>It had taken a day to convince himself that he wasn’t dreaming, that this wasn’t some last mad fever-delerium before his death. That Father, and Bran and Rickon and Mother weren’t dead and Sansa a prisoner, that Arya wasn’t missing and that Jon wasn’t lost to the Wall. And as for Theon…</p><p>He scrubbed his hands through his hair roughly and forced himself to think. He had worked out that the date was about two months before the news had come of the death of Jon Arryn. There was still time to change things, if that was what he was there to do. He couldn’t imagine any other reason for whatever had happened to happen. And he had wasted ten days of precious time, one of which had been spent on the wall, trying to sense Grey Wind.</p><p>The problem was that he couldn’t think of any way to warn Father. Well, any way of warning Father that wouldn’t lead to him being confined under the tender mercies of Maester Luwin for a head injury that might explain his evident insanity in claiming to have been sent back from the future. Somehow ‘You’re going to have your head cut off by the violent little shit who thinks that he’s the son of King Robert, but who instead is the son of the Queen’s incestuous relationship with her own brother’ wouldn’t go down very well.</p><p>Very well then – a hint perhaps? Something about warning Jon Arryn that he was about to be poisoned, probably by the Lannisters? But what proof could he give, other than a tale that would make him seem insane? He didn’t know what he should do. If this was a military problem then he could think it over and come up with a solution in an instant. But it was not. This was politics – and he hated politics. It was his one weakness.</p><p>He looked at the Heart Tree. Why did he keep coming here? He had tried praying, to no avail. If the Old Gods spoke to him then he did not hear them. The books were next to useless, speaking of rumour and folk tales and old sayings. He could sense something in them though, hints left by men dead centuries ago. Tales of magic. Luwin would scorn them, but what else but magic could have brought him back? Old Nan’s tales had been no better, not really. Tales that had been told and retold down over the centuries had weakened them, drained the truth out of them. But again there were hints here and there. The Children of the Forest. The Others. Tales of dread and awe. Once they must have been words to hear and learn from. Now they were little more than empty ramblings.</p><p>Robb stood and walked to the Heart Tree. He knew, somehow, that it was important. He could feel it. Someone, something, had brought him back. Something linked to the Hearts Tree and the Old Gods. Something with power. And power needed strength. Not strength of arm, but strength of will perhaps. Belief. He needed to believe. Was that it? He knelt before the tree and then placed a hand on the bark. <em>Who are you, </em>he thought desperately, <em>why have you done this? How can I persuade my family that I am not mad, that I have seen the future and how terrible it is? How can I protect my family from the storm that is coming. How can I protect the North?</em></p><p>Nothing happened and he faltered for a moment. And then he stopped and sent out his appeal again, from the bottom of his heart, with everything he could summon. <em>Help me. I don’t know what to do. Help me.</em></p><p>The bark seemed to warm and then chill and then warm again under his hand and then something seemed to chime faintly deep within him, something that made him shiver for an instant. He closed his eyes and concentrated. <em>I feel you. Who are you? What must I do? Tell me, please! I have to save Father! I have to protect the North!</em></p><p>The chiming seemed to arc upwards and he felt warm for a moment. For a dizzying instant he felt like a spark blown upwards from a fire. What was happening to him? Something seemed to be calling his name from the farthest possible distance, a thin sound right on the edge of his hearing. <em>Who are you? Tell me how I can warn Father! Tell me what to do! Why was I sent back from the moment of my death?</em></p><p>And then a hand fell on his shoulder. He opened his eyes hurriedly and looked into the concerned face of his father. “Warn me about what Robb? And what’s this about your death?” He sounded horrified.</p><p>He thought desperately. That chiming was still resonating somewhere within him, less strongly now but it was still there. He had to keep it, he had to find out what had happened to him. The Heart Tree was important, he knew that now. “Father,” he said thickly, trying to make his mind work properly. He felt as if he was trying to do something impossibly difficult by instinct. “I must talk with the Old Gods. Something is trying… trying to talk to me.”</p><p>His father peered at him and then hissed in surprise. “Your eyes – there is red in them.”</p><p>Robb blinked and almost lost the chiming. No. No, he had to do this. He concentrated hard again. <em>I am a Stark of Winterfell,</em> he thought desperately, <em>The blood of the First Men flows in my veins. Speak to me!</em></p><p>Father’s grip tightened and Robb could sense his worry, his panic. “Robb…”</p><p>“I must do this! I have to know! I need to know why I was sent back!” The chiming was stronger now, almost in time with the thundering of blood in his chest, vibrating within him.</p><p>“You’re trembling… Robb, what’s happening to you?” Father sounded out of his mind with worry now.</p><p><strong><em><u>Show him.</u></em></strong> Robb didn’t know where the voice came from or who said the words. Instead he reached out with his free hand and took his father’s hand in a grip of iron. <em>“Help me Father.”</em></p><p>And then blackness fell.</p><p> </p><hr/><p> </p><p>
+  <strong> <u>Ned</u> </strong>
+</p><p>Ned found Robb in exactly the place he was hoping to – the Weirwood. His son was sitting on the ground and staring at the Heart Tree, muttering something just under his breath as he did, something that Ned just couldn’t quite make out.</p><p>He paused. He didn’t want his son to bolt again, he had to reassure him, to get him to talk. But then he watched as Robb stood and walked over to the tree and knelt before it, putting his bare hand on the bark. His lips moved as he said something under his breath. Ned took a step towards him and then he stopped. Robb had closed his eyes and was speaking again, this time a little louder. Perhaps he was unaware of the fact that he was speaking his thoughts aloud, so fierce was his face and his pose. And then Ned finally heard snatches of it as Robb raised his voice a little.</p><p>“Who are you? Tell me how I can warn Father! Tell me what to do! Why was I sent back from the moment of my death?”</p><p>Who was who? Warn him of what? And sent back from where? Death? Ned felt the blood drain from his face. This was madness. He strode over to his son, hesitated for a moment and then placed a hand on Robb’s shoulder. “Warn me about what Robb? And what’s this about your death?” He asked the questions quickly and seriously.</p><p>Robb looked up at him and Ned hissed in shock. The pupils of Robb’s eyes had taken on a strange red tint, not bloodshot but as if they had started to change to a different colour. Something sparked at the back of his head, some old tale that his great-grandfather had told him when he was just a small child. Something about the Old Gods. “Your eyes – there is red in them.”</p><p>His son seemed to return slightly but then frowned again in concentration. What was he trying to do? Well – enough he needed to call him back from wherever he was trying to go to. “Robb…”</p><p>But his son interrupted him. “I must do this! I have to know! I need to know why I was sent back!” And he was starting to shake, Ned could feel it, but if it was his muscles that were shaking or his very bones he could not tell.</p><p>“You’re trembling… Robb, what’s happening to you?”</p><p>Something happened then. The face of the Heart Tree seemed to come alive for a moment. And then Robb, in a voice that Ned had never heard from him before, grabbed his free hand and said: <em>“Help me Father.”</em></p><p>Darkness appeared below him and he fell. They fell. He was too surprised to say a word and he felt something in his own bones now. Where they fell to or for how long he could never say afterwards, just that they fell. And as they fell he heard snatches of words, in the voices of Robb, Cat and others.</p><p>“Call the Banners.” “Good, that means you’re not stupid.” “Why? Why, Theon?” “We will kill them all.” “The King in the North! <em>The King in the North!</em>” “No. Not the Rains of Castamere.”</p><p>And then it stopped. He was in darkness, Robb was gone somewhere in that darkness and yet somehow he wasn’t afraid. And then suddenly he stood by a tree and watched as his son, dressed in plate armour as if for war, hacked at a group of tree, ruining his sword as the tears poured down his face. Ned wanted to go to him but could not – he was rooted in place as if he was a tree himself. Cat was walking towards Robb, tears on her own cheeks, but when she spoke to him Ned heard nothing. Instead he heard two voices, one old reedy and querulous and the other deep and low, like rocks grinding against each other.</p><p>“Why them? What have you done? There was a prophecy!” The first voice seemed agitated.</p><p>
+  <em>“It was necessary. Too much has gone wrong. Too many voices are stilled. Your plan was not enough. You have forgotten much.”</em>
+</p><p>This seemed to annoy the first voice. “Forgotten what? Things were in place. The boy was finally with me! I had my replacement!”</p><p>Cat was no longer speaking to Robb, instead Robb was on horseback now, with GreatJon Umber and the pick of the North next to him. Their steeds were stamping in readiness and Ned saw Robb raise a steel gloved fist as he pointed forwards. Death and violence hung in the air and Ned could sense that men were about to die at the hand of his son. Where was this? What was this?</p><p><em>“Your replacement was just a part of the picture. You had forgotten that. We need the voices. We do not do this lightly. But it must be done. Otherwise the song will end and we will be no more. Prophecy can be re-written. You forgot that. And </em><strong><u>He</u></strong> <em>is awake.”</em></p><p>The charging men on horseback passed from Ned’s sight and now he saw Robb on a field of battle, surveying the aftermath. He was pale and there were shadows in his eyes, the shadows that came from having led men into battle and seeing some of them die.</p><p>The first voice seemed to be shocked. “Impossible. I would have felt him wake.”</p><p>
+  <em>“He woke slowly. He was ever cunning. An animal, but even an animal can be cunning. Your ancestors lost a good man when he was… <u>changed</u> into what he now is. The decision has been made in any case. It was necessary. Your successor will still come to you.”</em>
+</p><p>Another picture. A wedding? He could see faces that he recognised. Was that Brynden Tully? And Walder Frey, the old man who kept outliving everyone else. And Robb and Cat. Wait. Ned’s eyes widened as the first crossbow quarrel was shot into his son, who jerked wildly. No. No, this could not be.</p><p>“How long must I wait?” The first voice said the words bitterly.</p><p>
+  <em>“Not long.”</em>
+</p><p>“Not long by your time or mine?”</p><p>
+  <em>“Yours.”</em>
+</p><p>Another quarrel hit Robb as he tried to stand. Blood was flying everywhere now as a massacre started, as men knifed other men under the grinning gaze of the old man at the high table with the eyes of a lunatic. No. His son was dying. He had to do something to stop this.</p><p>“Very well. Who will tell them?”</p><p>
+  <em>“We have picked out someone.”</em>
+</p><p>Another bolt. Ned wanted to scream his son’s name, wanted to get to him, wanted to upturn the tables and use them to protect him. And then he caught sight of a man standing up and walking calmly towards Robb. Roose Bolton. Ned sighed. Roose was a good man. He would save Robb. If only he would move faster. Wait – he had a knife in his hand? And his eyes… his eyes were alive in a strange mad way, with a glitter and a look that Ned had never seen before. No. No, he would not.</p><p>“Jaime Lannister sends his regards.” The knife went home. And blackness fell again.</p><p>When Ned opened his eyes again he was on his knees in a Weirwood of stone. Everything was stone, the trees, the moss, the ground. Overhead the sky was overcast. And there were statues of men everywhere, dressed in a variety of armour. Some wore skins like the hill tribes. Some wore crude armour. And some wore plate, but an ancient variety. All held grounded weapons, with their faces turned down to face the earth.</p><p>Ned stood shakily and then took an equally shaky step. “Where am I?” He might as well have asked the wind, which was present.</p><p>“In a place where words mean something,” said a voice and he turned to see an old man step out from the trees. He had to be the oldest man he had ever laid eyes on, dressed in robes like a Maester and with a simple belt around his waist. As he approached Ned swallowed. His eyes were the same colour as a Weirwood tree. “You are a Stark, are you not?”</p><p>“I am,” Ned said. “I am the Lord of Winterfell, Ned Stark.”</p><p>The old man looked him up and down and sniffed caustically. “So this is what my family has become. It is of no matter. You are a child and you have forgotten everything of consequence. A stone wolf indeed.”</p><p>Ned blinked. “You are a Stark?” he looked at the old man again. Yes, there were traces of the Stark features beneath all those wrinkles.</p><p>“One of the first,” the old man said firmly. “Words have meaning here. Names even more so. <em>Stark.</em> What does it mean?”</p><p>“It… it is our name,” Ned said, confused.</p><p>The old man rolled his eyes in disgust. “No. You do not see. <em>Stark</em>. It means plain, the plainest of possible views. We always strip things down to the basics, boy. We see things as they are. Winter is always coming. That is the strength of our house. You have let them weaken that view.”</p><p>“Them?” Ned asked, bewildered.</p><p>“The fools to the South, with their fripperies and their jealousies and their foolishness. Your eyes should be in the North. Winter is coming. And a mistake was made. Your son was not warned.”</p><p>“Robb. Where is he? I was with him in the Weirwood. What happened?”</p><p>The old man growled. “Listen to me you foolish boy! You child! <em>Winter is coming.</em> That is why the Old Gods brought your son back. Back from his useless death in the South, back from the foolishness that killed so many good men of the North. Death marches on the Wall. Death – and worse.”</p><p>Ned stared at the old man. Who was he? Bran the Builder? Garth Greenhand? Then he swallowed. “What could be worse than death?”</p><p>The old man smiled. “At last a good question. The Others are coming, boy. They are awake again. The North must be ready, but to do so the South must be at peace. Listen to your son and his tale of woe, listen to his tale of what went wrong. Prepare. You must be ready. They did this, they brought him back.”</p><p>Ned felt the hairs on the back of neck stand on end. He was being watched by a great number of eyes. He could sense them. “Who are ‘They’?”</p><p>The old man looked over his shoulder and then smiled. “See for yourself.” And then he faded from sight, like fog on a hot day. Ned paused for a moment, looking at the stone trees around him. And then he turned. The statues were all looking at him, their eyes filled with green fire. They were old, he could tell just by looking at them, eons old. The stone beneath him splintered and then cracked and he let out a wordless cry as he fell into the darkness again.</p><p>When he woke he was by the Heart Tree again, sprawled on the grass as if he had been sleeping. Robb was still kneeling next to him, one hand on the trunk, his eyes closed in exhaustion. Ned swallowed and then finally croaked: “Robb.”</p><p>His son jerked slightly and then opened his own eyes. “Fa-Father?”</p><p>He stood, slowly, feeling as if every muscle and bone in his body had been strained. “We must talk. Now. In my solar.”</p><p> </p><hr/><p> </p><p>
+  <strong> <u>Luwin</u> </strong>
+</p><p>There was always something to be dealt with in a place like Winterfell. There were ravens to be fed, messages passed on, people’s illnesses treated and a hundred and one other things. And yet that didn’t make the worry about young Robb go away at all.</p><p>He turned a corner and then stopped dead in his tracks. Ned Stark was helping Robb down the corridor, or rather half-dragging him, with one of Robbs arms draped over his father’s shoulder. Robb’s head hung low and Luwin could not tell if he was awake or not. Judging by the stumbling feet he was suspended between awake and asleep. “My Lord!” Luwin exclaimed as he scurried over and supported Robb on his other side, draping the other arm over his own shoulders and supporting the exhausted youth. “What happened?”</p><p>“Found him in the Weirwood,” Ned gasped and Luwin looked at him sharply. The man looked as if he was exhausted himself and…</p><p>“My Lord, your eyes…”</p><p>“What of them?”</p><p>“There is a redness to them. In your pupils.”</p><p>Ned sighed. “I feared that. Hopefully it will fade. Robb will have it as well.” They reached the door to Ned’s solar, which Ned opened with one hand. They brought Robb inside, deposited him in one of the chairs and then Ned sank into his own chair with a groan. “You should see to Robb.”</p><p>Luwin was already doing that even as Ned spoke the words. He noted the weariness in his face and then gently forced one eye open. Yes, there was red in his pupil as well, but it was fading even as he looked at it. As for the rest of Robb, there were odd scratches on one hand and his knees were damp from dew. “He seems fine but totally exhausted my lord.” Then he looked at Ned. “As do you. The redness in your eyes is going, as it is in Robb’s. My Lord – what happened?”</p><p>The Lord of Winterfell passed a shaking hand over his beard and then smiled wryly before standing with a groan and crossing to the table in the corner, where he poured three goblets of wine. “Get that in him,” he commanded, “And then have some yourself. You’ll need it.” He handed the goblets over and then drank from his own.</p><p>Luwin placed the container to Robb’s lips. “Robb!” he barked. “You need to drink this. Robb! Open your eyes!”</p><p>The youth groaned like a sleepy child but then obediently opened his mouth and drank. There was more than a hint of splutter as he did so, but the wine seemed to refresh him a little. Luwin looked him over again and then sipped his own wine. “Why will I need this?”</p><p>“It isn’t every day that you hear that two people have talked with the Old Gods.” Ned said the words with the utmost seriousness as a deeply shocked Luwin stared at him.</p><p>“The Old Gods?”</p><p>Ned nodded sombrely and then looked at his son. “I found him where you suggested, Luwin, in the Weirwood. He was kneeling in front of the Heart Tree, asking it for answers. Asking how he could warn me. Asking why he was sent back from the moment…” he faltered, his voice cracking for an instant, “From the moment of his death. I thought his wits were addled Luwin. But then I saw his eyes.”</p><p>“The red was stronger?”</p><p>“Like the sap of the trees around us both in the Weirwood. And then he grabbed my hand and… I had a vision Luwin. I saw flashed of Robb in different places. In one he was leading a charge of Northern heavy cavalry, in another he was walking amidst the bodies from a battle.” Ned clenched his fists for a moment. “And I saw him die Luwin. I saw my own son die.” He choked each word out as if they hurt his mouth.</p><p>Luwin calmed his whirling thoughts with another sip of wine. “Pardon me for asking this my LOrd, but where did you see him die?”</p><p>Ned leant back in his chair and closed his eyes for a long moment. “It must have been at the Twins,” he said eventually. “I saw Walder Frey there. The filthy swine broke guests rights. He had his men murder Robb and his own men. Crossbows and knives. And…” He hesitated again. “I saw who wielded the knife for the killer blow. Roose Bolton.”</p><p>Luwin felt his eyebrows fly upwards. “Lord Bolton? The Lord of the Dreadfort? Why would he kill your son?”</p><p>“I know not,” Ned grated. “I know that he is loyal to me, but the Boltons used to fight the Starks for the right to lead the North in the Age of Heroes. And old dreams die hard. I heard voices as well, saying that things had changed, that things had gone wrong, that things needed to be changed, that too many voices had been stilled. That’s an old phrase Luwin, my grandfather used to use it. When voices are stilled people have died. And then…”</p><p>“And then?” Luwin prompted gently.</p><p>“And then I think I met one of my ancestors,” Ned said with a wry smile. “Mad as that sounds. He said that I was a child, that my eyes were in the South and not on the North, he said that the North needed to be strong – and that the Others have returned.”</p><p>A silence fell. Well, this was a strange tale indeed. “My Lord,” he said carefully, “You must admit that this is an outlandish tale. If anyone else had told me of what you have seen I would dismiss it as the ravings of a madman, especially as the Others have not been seen in thousands of years. Speaking as a Maester my training tells me that what you have said cannot be true. And yet I am of the North. And I witnessed the redness in your eyes.” He stroked his chin thoughtfully. “I will send a raven to the Citadel at Oldtown, to ask if the glass candles are burning again.”</p><p>Ned looked at him carefully. “You have always said that magic is impossible now.”</p><p>“Not quite my Lord,” Luwin said with a wintery smile, “I just said that I cannot practice it as I have never seen it. And yet… something is changing. I can feel it in my bones. I have had the oddest feeling of being watched in the Weirwood. And your tale… disturbs me. If the Old Gods are taking an interest in the deeds of man again…”</p><p>Ned nodded. “Send a raven to Castle Black as well. I need to discuss this with Benjen.” He pulled a slight face. “That is if he won’t try and have me treated by you for madness. I need to find out what’s happening at the Wall. And then I need to talk to Robert to strengthen the Night’s Watch. Gods knows that it’s been neglected.”</p><p>“Father?”</p><p>They both turned to see Rob starting to stir. Luwin cast an eye over the young man. Yes, he was waking.</p><hr/><p> </p><p>
+  <strong> <u>Robb</u> </strong>
+</p><p>He remembered seeing his father at the Heart Tree. And then – the darkness and the visions. Flashes of his life – and his death. And then his father in a forest of stone trees, talking to an old man. And then darkness, with flashes of a sense that he was being dragged somewhere and told to drink something. When he woke again it was to the rumble of voices. Father. It was Father. And… Luwin? They were talking. About him. About the Old Gods. He made a monumental effort and finally opened his eyes. “Father?” That simple word seemed to take all his strength.</p><p>“Robb. Drink some of this,” Luwin said quietly as he handed over the third goblet. “How do you feel?”</p><p>“Tired, Luwin. Father – what happened?”</p><p>Father leant forwards. “The Old Gods, Robb. They spoke to me. What do you remember?”</p><p>He sipped the rich red wine slowly as he cast his mind back. “Parts of my life. The charge at the Battle of Oxcross. The day after The Crag. And…” he closed his eyes for a long moment. “The wedding at the Twins. Where…”</p><p>“Where you died, Robb. I saw it.” His father looked at him gravely. “The Old Gods have sent you back. And now I must ask – I saw you and your mother in those visions. But not myself. Where was I?”</p><p>Robb drank more wine and then scrubbed at his eyes. “You were dead Father,” he said hoarsely. “You were dead.”</p><p>Luwin and Father shared a long and horrified look. “How?” Father said quietly.</p><p>“It’s a long story,” Robb replied. He felt stronger now. “It will start soon. In about two months word will reach you that Jon Arryn is dead.”</p><p>And that shook Father, who blinked and then drank his own wine with a trembling hand. “What caused it?”</p><p>“Mother will get a letter from Aunt Lysa, claiming that it was poison.”</p><p>And now Father’s grief gave way to anger. “Poison?!? Who would poison him – and why?”</p><p>“Aunt Lysa said it was the Lannisters. Father – the King came North to name you his Hand. You agreed and went South to Kings Landing. And you never left there. There was a plot by the Lannisters, something we think that Jon Arryn must have discovered.” He looked over at the closed door and then leant forwards. “King Robert brought his children here. Including Joffrey, who is cruel and mad. And they’re all blonde, Father. Every one of them.”</p><p>Father frowned. “I don’t understand.”</p><p>“King Robert’s bastards are all black of hair. His brother Stannis sent word of this. Why should his bastards be black of hair and blue of eye, but his children blonde of hair and green of eye? Especially when every time a Baratheon has married a Lannister the Baratheon blood has won out?”</p><p>Father frowned at this, but it was Luwin who caught on first, sitting back as his eyebrows flew up to where his hairline used to be. “Oh,” he breathed. And then again: <em>“Oh.”</em></p><p>Father looked at Luwin – and then made the connection in his own mind. “Oh Hell,” he muttered. “<em>All</em> of them are bastards? None of them are Robert’s get?”</p><p>“According to Stannis their real father is… well, the Kingslayer. Ser Jaime Lannister.”</p><p>This seemed to stun the other two men, who looked at each other and then seemed to communicate in the language of the eyebrow, as Bran had once named it, an age or more ago. “We tell no-one outside this room,” Father said eventually. “Not yet anyway. That is information worth killing for.”</p><p>“I know,” Robb said. “I think that Bran found out. There were two attempts on his life. The first was when he fell from one of the disused towers here. He lived but… he lost the use of his legs and he could not remember what happened. We realised later that he must have been pushed. The second was later, when a man with a dagger made of Valyrian steel tried to stab him in his bed. Mother and his direwolf Summer stopped him.”</p><p>Father had turned a nasty red colour now. “Someone,” he said in a voice of thunder and barely restrained violence, “Tried to kill my son? Tried to kill Bran? Jaime Lannister? That oath-breaking smirking murderer. I’ll kill him when I see him!!”</p><p>“Peace, my Lord, peace,” Luwin soothed with a raised hand. “You cannot kill a man for something he has not done yet. And Robb – what direwolf?”</p><p>He sighed and wished that Grey Wind was there with him right now. He had the oddest feeling that the direwolf wasn’t too far away now. “The day you heard that Jon Arryn was dead we witnessed your execution of a deserter from the Night’s Watch. On the way back, by the bridge, we found the body of a direwolf bitch who had whelped just after being gored by a stag in the neck. There were six pups – one for each of your children. You wanted to kill them but Jon pointed out that it was a sign from the Old Gods, the direwolf being on the banner of House Stark.” He smiled. “Mine is Grey Wind. Will be Grey Wind. This is confusing.”</p><p>“Obviously,” Father said with a small smile, having calmed down a bit. “So I went South to Kings Landing and discovered that the children of the king are all bastards. Yes, I can imagine that would be something to get anyone killed. Wasn’t I able to get word to Robert?”</p><p>“He died Father. There was a hunting accident. Apparently a boar charged him and he wasn’t able to get his spear down in time.”</p><p>“That doesn’t sound like Robert at all,” Father rumbled as he leant back in his chair.</p><p>“Well,” Robb said with a wince, “He’s not the man you knew Father. He’s changed. He’s, well, fat.”</p><p>Father stared at him. “Robert. <em>Fat?</em>”</p><p>Robb nodded. “He drinks too much and he eats too much and he… well, when he came here he wore half the whores out and fathered at least one bastard amongst the women servants that Mother knew of.”</p><p>His father closed his eyes and passed a weary hand over his eyes. Then he paused. “Why only half the whores?”</p><p>“The Imp, Tyrion Lannister, took care of the other half. But – King Robert died and when you tried to pass the crown to Stannis the Lannisters conspired against you. You were arrested for treachery. And even after you agreed to take the Black after publically saying that the accusations of bastardy and incest were false – that little shit Joffrey broke his word and had you executed at Baelor’s Sept. In front of Sansa, who became a hostage instead of Joffrey’s prospective bride. And I – I called the banners father. The North rode to avenge you.” He looked at the ground and then closed his eyes. “They proclaimed me King in the North and we marched to save the Riverlands. I won every battle but I still fucked it up. I’m good at war Father, but not at politics.</p><p>“To get the army over the river at The Twins I had to agree to marry one of Walder Frey’s daughters. But after one of the battles I met… I met Jeyne Westerling. And married her. That lost me the Freys. And I made the mistake of sending Theon to Pyke to persuade his father to send his Ironborn against the Lannisters. He turned his cloak and obeyed his father’s orders to attack the North instead. Theon took Winterfell. Burnt it. And killed Bran and Rickon.”</p><p>An ugly silence fell. “I am starting to realise,” Luwin sighed, “Why the Old Gods sent you back. Your tale is all of woe for the North. And no My Lord, you cannot kill Theon either. He has not yet done what did in the future that Robb is from.”</p><p>“Did you ever meet Balon Greyjoy?” Father asked. Robb shook his head. “Ah, that was your mistake then. A dark and cruel man, Balon Greyjoy. Theon is a good lad, but there are times when I think that he wants to be Stark but then remembers that he is a Greyjoy. And he glorifies the Ironborn way without understanding it. No wonder he turned his cloak. The poor lad was probably overwhelmed.” He stood and then walked over to the window where he stared at the landscape.</p><p>“It seems that I have been neglecting your education my son,” Father said eventually. “You know how to lead an army it seems and to swing a sword. The politics of leading men and treating with the scum that exist out there – well that will be your next part of your education. I am only sorry that I did not do this before.”</p><p>He turned and sat down again. “So, the manner of your death becomes clearer. Lannister plots everywhere, Walder Frey annoyed with you breaking a contract of marriage, as he saw it, and parts of the North in the hands of the Ironborn. No wonder Roose Bolton conspired against you. You were the last male Stark and at last he had a chance to place House Bolton at the head of the North.”</p><p>He found tears coming to his eyes. “Father, I have missed you so much.”</p><p>His father smiled at him. “I am sorry that I was not there to help you. You must have had so many questions.” Then he leant back in his chair and rubbed at his eyes. “Well, I am weary, so you must be too. And I have a lot to think on. In a way the timing of the Old Gods is appropriate. In a week it will be the New Year, even if Summer continues. And as we know Winter is coming.”</p><p>The New Year was coming – he had forgotten that. And then something sparked in his mind. “Father, we must send word to the Dreadfort. I think I know how to gain the lasting loyalty of Roose Bolton. If we act quickly we might be in time to save the life of his son, Domeric.”</p><p> </p><hr/><p> </p><p>
+  <strong> <u>Theon</u> </strong>
+</p><p>The arrow thunked into the centre of the target and Theon looked over at old Ser Rodrik, who was pursing his lips slightly in thought. Then the old man sniffed mightily and then nodded slightly. “Good enough,” he said gruffly, which coming from him was a compliment of the highest order. “Keep practicing, lad. Time might come when you’ll need that bow in anger.” And then he swept away to talk to Master Luwin, who was waiting with the blacksmith.</p><p>“I wish I could loose an arrow like that,” piped Bran next to him. The Pup’s latest efforts were still all over the place.</p><p>Theon looked down at him with a small smile, before relenting. “You’ll get better,” he admitted. “It took me time to get that good. Takes a lot of practice.”</p><p>Bran nodded mournfully, before looking back up. “Theon, what’s wrong with Robb?”</p><p>He snorted, plucked another arrow out of the quiver and then sent it into the target. “Don’t ask me, I’m just his friend, or at least I thought I was. You’re his brother – haven’t you talked him these past ten days? Because all he seems to do is prowl around and hide in the Godswood when he thinks that no-one else is in it.”</p><p>The boy wilted. “That’s what he does to everyone – Mother, Father, Jon, Sansa, Arya, even me. It’s like he’s hiding from us. Did something happen to him?”</p><p>Theon frowned. “No. That was the day after we got some ale from, erm, never mind that part, your mother wouldn’t like you to hear that part. I don’t remember him hitting his head or anything. And then the next morning he reels in like he was still drunk and… I don’t know Bran. I wish I could help, but he just won’t talk to me.”</p><p>“He’s talked to me.” Theon and Bran both whirled around to see Lord Stark approaching on quiet feet. “He’ll talk to you soon. He’s been… thinking through something very important. Robb’s a good lad – he takes things very seriously. And it seems that I’ve been neglecting part of his education. He’ll be spending less time here in the practice yard and more time with me in my solar, learning how to run the North.”</p><p>Bran perked up a little at this and then ran off to tell the watching Arya, who was sulking next to their mother, who was talking to one of the servants. Theon watched him go and then looked back at Lord Stark, who was inspecting the results of his archery practice. “Not bad at all. Tight grouping. We need to take you hunting again lad.” And then he looked at Theon and there was something about his gaze that made him feel a bit uneasy. “You’ve been here for eight years now Theon. Do mind if I ask you a question?”</p><p>“Of course not Lord Stark.”</p><p>“What do you remember of Pyke? Of your father?”</p><p>Theon blinked at the question. “I… remember it. Pyke that is. I remember… the smell of it.” Yes, that was hard to forget. “How tall the towers were. It was strong.” He said the last words with a hint of defiance.</p><p>Lord Stark’s gaze flickered to the towers of Winterfell. “Towers always are taller to young boys than to man,” he said enigmatically. “And your father?”</p><p>This was a darker subject and Theon looked at the flagstones under his feet for a long moment as he remembered the striding man who cursed at everyone and who never had time for a small boy. “He was… always busy,” he muttered. “He was fighting a war against you and… I seldom saw him.”</p><p>Lord Stark looked at him, a long and steady gaze that seemed to peer deeply into his very soul. He’d never been the subject of one of Lord Stark’s famous gazes, not really, and he quivered with uncertainty. And then the older man stirred and smiled and laid a hand on his shoulder. “One day you will be ruler on Pyke. And when that day comes you’ll know what it’s like to made decisions that affect a great many people – and it’s hard. Any man who says it isn’t is a liar. It’s hard.</p><p>“Now, your father’s way of command is very different from mine. Ironborn traditions… are not of the North, and there was a reason for that war that your father fought. A reason why so many fought against him. You need to realise that last part. But times change and men change with them. Making that change happen is difficult. I hope that you’ll always be welcome here in Winterfell. Robb is learning to rule the North. If I can help you, if I can give you advice about what it will be like when you one day return to Pyke and step out of the shadow of your father, the way that Robb will one day have to step out of mine, then the door to my solar is always open to you.” He paused and then laid a hand on his shoulder again. “You have been like a son to me. You know that don’t you?”</p><p>Something eased within him, somewhere in his heart, a tension that he had not known was there. “Thank you Lord Stark,” he said thickly. “That means much to me.”</p><p>“Good. Now – back to your practice, or Ser Rodrik will chastise me for distracting you. Where’d Bran go?”</p><p>Theon turned and smiled. “Off to see Lady Stark.”</p><p>“Well, at least he’s not climbing the walls,” Lord Stark said with a frown. “Theon, if you see him climbing tell him, in my name, to climb back down and stay down will you?”</p><p>“I will, but I doubt it will stop him. He’s like a squirrel at times.”</p><p>“Even a squirrel can fall.” And with those worried words the Lord of Winterfell strode off. Theon watched him go with a look of total seriousness. There was a man to admire.</p><p> </p><hr/><p> </p><p>
+  <strong> <u>Domeric</u> </strong>
+</p><p>He had been a league away from the Dreadfort when the messenger found him, a short man on a large horse who was quite skilled at tracking, damn his eyes.</p><p>“You are required back at the Dreadfort, young lord,” the messenger panted. “Lord Bolton wishes that you return at once.”</p><p>Domeric sighed and then turned a yearning gaze to the road that led to the Weeping Water and the brother that he had always wanted to have, especially after all the time that he had spent at the Redfort in the Vale. There he had had brothers in all but name. Here he had a brother of the blood. But Father had called him back and he would have to obey him, so he turned away from the road to the river and started riding back to the Dreadfort. He did not ask the reasons for his summons, Father would not have told the messenger and the messenger would not have dared to ask the Lord of the Dreadfort.</p><p>However, he suspected that this might be a ruse by Father, who seemed to disapprove of Domeric’s wish to visit his half-brother. Why he disapproved he did not know, but then Father could be secretive at times.</p><p>The towers of the Dreadfort appeared first on the horizon and he suppressed another sigh. He loved his home and he respected Father, but there were times when the shadow of his family’s past hung heavy on him. The banner especially. A flayed man, a symbol of the times when his family had had men flayed alive. The Starks had stopped that practice, but he sometimes wondered if his father ever thought about it. He certainly saw a great deal of importance in being respected, sometimes even feared. And the very name Dreadfort – it spoke of fear, not honour. Not that he would ever speak of such things to Father. One day he would be Lord of the Dreadfort and on that day he would build anew. Not before.</p><p>The small party clattered in through the gates, Domeric acknowledging the salute of the master-at-arms as he did so, and then he made for his stables, where he kept his horses. A boy came out to take the reins after he had dismounted, but Domeric took the time to check that the horse was sound in wind and limb – and especially in hoof. His time in the Vale had taught him that your steed could be as important as your sword and he thought fond thoughts about Lord Redfort and his lessons on horses as he tended to his mount.</p><p>He found his father in his solar, reading from a small stack of documents. He was dressed in his customary black jerkin and he looked up when he heard the sound of Domeric’s boots approaching. “There you are. You were heading towards the Weeping Water.” He did not say it as a question, but as a statement of fact.</p><p>He could not deny it. “Yes Father.”</p><p>“I told you not to contact your half-brother.”</p><p>“Yes Father. I am sorry – I was curious about him.”</p><p>Father carefully placed the document he had been reading down on the pile and sighed softly. “You should not be curious about him. One day I will tell you why. That day is not today.” He said the words in an even quieter voice than normal, as if he was trying to repress some strong feeling on something. Then he looked up. “You are summoned to Winterfell.”</p><p>Domeric blinked at his father. Of all the reasons for his recall to the Dreadfort, this one was the least likely he would have thought. The Boltons were the sworn banners of the Starks, but the two houses were not close. Too much blood had flown in the past for that, too much rivalry. “Why, Father?”</p><p>“Lord Stark would have you visit Winterfell it seems. And he desires that you bring much reading matter with you.” Father sat down and stroked his chin, the way that he did when he was thinking very, very hard.</p><p>This again threw Domeric’s wits a little. “Reading matter?”</p><p>“Books. Books on the Old Gods and the Others to be precise. A most… odd request.”</p><p>Domeric walked to a chair and, upon a wave of the fingers from his father, sat down. “I would have thought that Winterfell would have been the natural place for books on the Old Days and the Time of Heroes.”</p><p>A slight upturn of his father’s lips showed that he was amused. “Yes, but House Bolton has many old tomes as well. Many of them make little sense as they are so old, but we have always kept the records safe and dry and frequently copied them. It never hurts to keep knowledge. Even if it is little more than legends of things passed.”</p><p>“The Old Ones…” Domeric mused. “What could cause Lord Stark to require knowledge on things long dead?” he paused. “I would say long dead if they ever existed, but if they never existed what is the purpose of the Wall?”</p><p>Father looked at him with what seemed to be surprise and then no little thought. “An excellent point Domeric. All too often we forget the Wall.” He paused and then shrugged. “Well, no matter. I am having the required tomes assembled. You will leave as soon as possible. House Bolton will assist Lord Stark on this matter. And when you are at Winterfell you must ask what prompted this inspection of the past. You should take your smaller harp. They say that Sansa Stark is quite the beauty.”</p><p>He looked at his father affectionately but with a little wryness to his smile. “You would have me woo her, Father? A Bolton courting a Stark?”</p><p>Father looked back at him, his small eyes giving nothing away. “A Bolton always looks for any advantage. It is near time for you to marry anyway. You are my only trueborn son. The name of Bolton depends on you. I would have you happy, my son. At the very least see if Sansa Stark is worthy of a song.”</p><p>Domeric smiled and then stood, bowed to his father and then left. Well, he had many miles ahead of him. His brother would doubtless still be in the Weeping Water when he returned.</p><p> </p><hr/><p> </p><p>
+  <strong> <u>Ned</u> </strong>
+</p><p>Cat was starting to suspect something. He knew it. She knew him far too well for him to hide it, and he wondered how she could have dealt with the news of his death, in that other world, in that future that he hoped so desperately to avoid. At some point he would have to tell her. something. He knew not what, but he had to allay her suspicions at some point.</p><p>Ned paced around his solar, like the Direwolf from his House Banner in too small a space. There was so much to try and avoid. It had taken three attempts to craft a letter to Jon Arryn that had not sounded as if he had become a fool afraid of his own shadow and finally he had taken refuge in a few half-truths and evasions, coupled with an offer that he had been considering even before Robb’s return from the moment of his death. That letter had made him feel dirty. But it had to be written.</p><p>A raven to Kings Landing had been out of the question – from the vague rumours that had reached Robb’s ears in the early days of the war it was more than possible that Pycelle was in the pay of the Lannisters, plus he had apparently told Cat in King’s Landing that Varys had eyes and ears everywhere – no, everyone had eyes and ears every everywhere in that fetid smelly cesspit of a city – and that the ravens were being watched. A letter openly telling even so powerful a man as the Hand of the King that there was a possible Lannister plot afoot to poison him would never reach him.</p><p>He hated this. He hated the machinations and double-dealing and the lack of trust. How Robert lived in that bloody city of traitors and self-serving men with no morals escaped him. But he had to try and save Jon.</p><p>And so Jory Cassel, a man that he trusted with his life, was on his way to White Harbour, escorted by a small group of men whose sole job was to get Cassel to Wyman Manderly and request the fastest possible ship down to King’s Landing. Hopefully Cassel would get to Jon in time with that all-important letter. He wished that Robb had been able to tell him his terrible secret earlier, but that was water under the bridge by now.</p><p>He paused and stared out of the window as he thought everything through yet again. If Cassel was too late to prevent Jon being poisoned then Robert would come North to offer him the position of Hand, a position that he had absolutely no intention of taking up. He knew Robert – he would press him hard to accept. And had a good reason to turn the offer down, a reason that required no mummer’s act or honourless lies. He was needed in the North because the Others had returned, a threat that he had barely the faintest idea how to deal with, other than reading every book, every fable, every legend and every song about how they could be defeated and then send as much as he could to the Wall. There could be no war. Instead the South needed to send what it could North.</p><p>And if Robert came North then <em>they</em> would come North too, the children who were not the blood of Robert Baratheon, as well as the Queen and the faithless shell of a Kingsguard who had now betrayed two kings. He had an idea of how to deal with them. It would break Robert’s heart, but it would have to be done. <em>If</em> they came North that is.</p><p>What if Cassel got there in time though and stopped Jon Arryn from dying? What had Jon’s plan been? How could he stop the war? Ned ran a hand over his eyes. He knew not. All he knew was that as long as Bran was protected then another thread from that future that could never be would be pulled. Bran would not be hurt, if his plan worked, so there would not be another attempt on his life, Cat would not go South to tell him about it and she would not encounter Tyrion Lannister and start the terrible chain of events that would see Tywin Lannister muster his forces and start to move East before anyone else had a chance to call a single banner.</p><p>If, if, if. That tiny but significant word. He and Luwin had questioned Rob b closely, asking about the smallest things. Robb had not known everything, or had sometimes heard something through a person who had heard it from somewhere else. Whispers in the wind – and he knew that such whispers could sometimes stray far from the truth.</p><p>Well. This much he knew – he had sent a raven to Castle Black requesting the immediate presence of Benjen. He had a lot to tell his brother. And then there was that other matter. It had been weighing on him over-much of late. In the future that Robb had come from he had never had the chance to tell young Jon the one thing that he had always wanted so desperately – who his mother had been. Yes, he had kept the promise, despite the hurt that it had caused Cat. It had had to be done. He turned and paced about again. This would have to be done… carefully. After much thought. And after a talk with Bran about the fact that he was now banned from climbing the walls of Winterfell.</p><p>He frowned. His son would not love him much for this. But it would have to be done. And as for Jon… well that would be a different kind of hurt.</p><p>Knuckles rapped on the door to his solar and he turned to it. “Yes?”</p><p>The door opened to reveal a messenger. “Your pardon my Lord, but the doorwardens have sent word – a party of horsemen approaches, coming from the East. They bear the banner of the Dreadfort, of House Bolton.”</p><p>Ned nodded. “They are expected. I will come down now.” As the man scurried away he felt his heart lift a little. Hopefully it was Domeric Bolton, who in the future that Robb had come from had died suddenly of an illness. If he still lived then maybe the future could be changed. If. Such a small word. But things could turn on it. He strode out of his solar.</p><p> </p><hr/><p> </p><p>
+  <strong> <u>Bran</u> </strong>
+</p><p>At least Robb was back to his old self. More or less. For some reason he hated seeing him climbing on the walls and would either call him down or would hide his eyes as if the sight pained him. Which was odd. Robb had seen him climbing before and it wasn’t as if anything could happen to him, could it?</p><p>He sighed and then looked up at the skies. Far above him he could see an eagle soaring upwards. Oddly enough his dreams of flying had diminished recently. He wished that they hadn’t and that he could dream those dreams again. To soar like that eagle, to see things from the air that no-one else could.</p><p>The sound of a harp being plucked, the first notes singing sweetly in the air, caught his ear and he scrambled down the wall to the ground and then dashed around the corner. Domeric Bolton was there in the courtyard, his long black hair caught in a queue and his harp in his hand. In front of him were arrayed a number of people, mostly women, including Mother and Sansa. Not Arya though. He looked about and caught sight of an affronted figure stalking away with her eyes rolling. No, she’d probably end up watching Robb, Jon and Theon sparring.</p><p>To be honest Bran wasn’t sure what to make of Domeric Bolton and he watched the man carefully as he started singing. He was very good at the harp as well as the song. Should a knight sing though? Domeric had spent time at the Redfort, with one of the finest knights of the Vale, and that was a worthy thing to admire. However, Bran wasn’t sure about all this warbling.</p><p>He shrugged internally and then pricked up an ear. Metal clashing against metal. Yes, someone was sparring. He made sure that Mother wasn’t watching him and then sidled away before making a dash for the practice yard. There he found Robb and Jon and Theon, all stripped to the waist and all holding practice swords – ones that were weighted properly but blunt. And to his fascination Robb was instructing the other two, watched by Arya to one side and a very interested Rodrik Cassel to the other.</p><p>“Keep your weight more in balance as you strike,” Robb was telling Jon as they traded blows. “When you fight then your feet are important. If your opponent catches you off balance then-” he parried a blow, rolled his shoulders and then pushed Jon so hard that he lost his balance and fell over. “-You lose.”</p><p>Theon smirked at Jon, who was looking annoyed from his position on the ground, and then struck out at Robb, who dodged and then parried once, twice and then caught Theon a nasty slap on the ribs with the flat of his sword. “And watch your eyes! Too much movement betrays what you’re going to do next!”</p><p>“That bloody stung!” Theon groaned, before narrowing his eyes and attacking again. Robb met him blow for blow before turning inside Theon’s thrust and shoulder charging him the same way that he had Jon, who was now on his feet and ready for another go.</p><p>Not that he got very far. Jon swung up and over to his right, was parried, thrown off balance and then somehow ended up back on the ground again. “Damn it,” he cursed, “You don’t fight fair, Stark.”</p><p>Robb paused and then looked over at Rodrik, who was smiling sourly. “Is war fair Rodrik?”</p><p>The sour smile grew sourer. “Never. If it is then you’re doing something wrong. And he’s right lads. Watch your feet and don’t indicate where you’re going to attack next. You need more training.”</p><p>A hand fell on Bran’s shoulder and he jumped slightly, before looking up. Oh, it was Father. “I thought I’d find you here,” he said kindly. “Watch and learn my son. It’ll be you soon there.”</p><p>Bran thought about that and then swallowed nervously as he saw Theon and Robb joke about how many bruises they’d have in the morning. The three nodded respectfully at Father, who nodded back, but Bran thought that he saw an additional weight to the look that Father sent to Robb, some wordless message that he could not decipher. Oh not another one with the language of the eyebrow.</p><p>“I hear Domeric Bolton singing,” Father said jovially. “You do not want to hear?”</p><p>“He’s <em>singing</em>, Father,” said Bran as he tried not to roll his eyes. “And playing the harp. Haven’t seen him sparring yet.”</p><p>“You should see him ride a horse,” Father said seriously, which made Bran look at him quickly. “He’s a skilled rider Bran. He’s very, very, good. If you like I can ask him if he can pass on any lessons to you.”</p><p>He thought about this for a moment and then he nodded. “Thank you Father.”</p><p>Father smiled at him and then sighed. “I need to talk to you Brandon.”</p><p>Brandon. That was not a good sign at all. It meant that Father was being very serious. Even worse, Father then escorted him up to his solar, the place that was normally forbidden to anyone outside the circle of people that Father most relied upon these days.</p><p>Bran sat down in the chair that Father had indicated and then looked about nervously. Then Father sat down opposite him and gazed at him levelly. “Bran.”</p><p>“Yes Father?”</p><p>“I want you to stop climbing the walls of Winterfell. The towers too.”</p><p>He eyed Father for a long moment. “Alright.”</p><p>But Father was not satisfied with that. “I mean this, Bran. No empty promises. I want your word.”</p><p>He looked at father indignantly and then wilted slightly. “Alright.” He sounded a bit petulant in his own ears, but if he had to get this out of the way then he would.</p><p>But again Father was not satisfied, because he stood up and walked over to one side, before returning – Bran gulped – with Ice. “Bran,” Father said hoarsely, “Swear that you will not climb the walls and towers of Winterfell on Ice. The sword of your ancestors.”</p><p>He stared at it for a long moment, as tears gathered in his eyes. This was a promise that he had to keep, a promise that Father would not forget or forgive if he ever broke it. This was unfair of Father! And then he looked up and saw the sympathetic but implacable eyes of Father.</p><p>Bran reached out with a trembling hand and placed it on the hilt of Ice. After a moment Father’s hand covered it. “I swear that I will not climb the walls or towers of Winterfell,” he choked out.</p><p>Father smiled at him. “Thank you Bran.”</p><p>He nodded at the words, his vision blurred with tears – and then he ran out of the solar, sobbing with grief.</p><p> </p><hr/><p> </p><p>
+  <strong> <u>Catelyn</u> </strong>
+</p><p>“Ben will be here in ten days,” Ned said as he entered the room and closed the door. He smothered a yawn with his hand. “It will be good to see him again.”</p><p>Cat smiled at him as she brushed her long red hair carefully. “It cannot be easy for him to visit often, being on the Wall.”</p><p>“Aye,” Ned replied as he stood by the fire and stared into the flames. “There is much I need to discuss with him.” He paused and then started to disrobe. When he looked up again his face was serious. “The news from the Wall worries me. More Wildling raids, more rumours of this King beyond the Wall, Mance Rayder, the weakness of the Night’s Watch… I’m worried Cat.”</p><p>She stopped and looked at him. She could see the worry in his eyes. “You are that worried about the Wall?”</p><p>Ned nodded sombrely as he slipped out of his breeches and folded everything carefully on top of the chest on his side of the bed. “Winter is coming. And this winter will be different I think. I sense it.”</p><p>There was a tone in his voice that alarmed her and she stared at him for a long moment. Ned was clenching and unclenching his hands as he stared into the fire again, which was a sign that he was brooding again, which was never a good sign. She finished brushing her hair and then disrobed as swiftly as she could. “Come to bed Ned.”</p><p>He turned and looked at her, smiling as he did. “Aye, I will.” As they slipped beneath the covers Cat remembered something. “I haven’t seen Bran climbing the walls once today. Do you think he finally listened?”</p><p>Ned sighed. “I made him promise not to again. Only this time I made him swear on Ice.”</p><p>She looked at him, startled. “That was overmuch was it not?”</p><p>“Nay,” Ned said with a grimace. “He’s naught but a boy. We’ve sought his promise not to climb again and again and he’s been tempted out of it again and again. Well, this time it must be different. He’s starting to learn what it is to fight and to be a man. He must take up a man’s responsibilities – and his word must stand for something. He’ll keep his promise this time. I think he hates me for it, but he’ll keep it.”</p><p>“Oh Ned,” she sighed as she put her arm around him and snuggled against him. “You’re his father. He loves you. He can never hate you.”</p><p>“He’s young. He’s resentful. He’ll learn.” Ned paused again. “Sansa seems very taken with young Domeric.”</p><p>Cat nodded slowly. “The lad is… not what I expected. He plays the harp very well indeed and he is soft-spoken and courteous. Not at all what I thought that the son of Roose Bolton would be like.”</p><p>“Aye, that was my thought too. He takes after his mother I think, in temperament at least. He is a fine horseman though. No – better than fine. Born in the saddle, as Jon Arryn would say.” And then he seemed to leave the room for a moment as his eyes stared at some spot on the ceiling.</p><p>“Ned. Ned?” She elbowed him gently in the ribs and he seemed to return from wherever his thoughts had taken him. “What were you thinking about?”</p><p>He smiled in a rather strained fashion. “Just hoping that an important message gets to him in King’s Landing. In the meantime, I think it is time that we reluctantly start to think about marriage alliances for Robb and Sansa. I don’t like to think about these things, as it reminds me of my father and his endless intrigues, but I think that it must be done.” His face set slightly. “Robb needs advice on who to marry I think. I’ve been neglecting his studies on treating with our friendly and not so friendly neighbours.” And now there was another note in his voice, one that she could not put her finger on.</p><p>“Marriage alliances?” Cat asked. “Don’t you think that it’s a little early to think of that?”</p><p>“No,” Ned sighed, “I don’t. What’s happening North of the Wall is worrying me. We might need help from the South. Well – Robert may be king, but his eyes are on all the threats that surround him. Dorne dislikes him, The Reach plots, the Stormlands still haven’t recovered from the war, your father is unwell in the Riverlands, the Ironborn sulk and the Vale is loyal to Jon Arryn, who is not a young man and whose heir is, from all accounts, well, smothered with too much attention by your sister, whom I am also worried about. And then there are the Lannisters. Who also plot.”</p><p>Cat stared at him in real shock. “You make it sound as if the Seven Kingdoms are on the brink of war!”</p><p>Ned stared back at her and she thought she saw, for a split second, something red in his eyes. And then it was gone as he smiled and held her close for a long moment. “Sorry Cat. Too much brooding and worrying. We do need to think about marriage alliances though. We should see how Domeric treats with Sansa. And as for Robb – well, I have been scratching my head about him.”</p><p>She settled against him again with a sigh. Perhaps he was right. “I will think about it. There are a few matches I can suggest. We have five children though – surely some at least can marry for love instead of need?”</p><p>He turned and held her in his arms. “Yes. Originally our marriage was politics, but then it turned to love.” He kissed her and she felt her heart swell. As did her favourite part of him. She responded with increasingly passionate kisses of her own. Mmm, tonight sleep would have to wait for a bit.</p><p> </p><p>When she woke up again she didn’t know why for a long moment. She ached in all the right places and given the seeping warmth from between her legs Ned had delivered more than his customary ardour. She smiled sleepily. Ned had been very attentive recently. Perhaps a girl this time?</p><p>Ned moved slightly and muttered something in his sleep. He was restless. Perhaps that had woken her? She looked at him in the half-light of the fireplace, which was now little more than red-hot ashes. She was worried about him, still. Whatever had ailed Robb had also affected her husband. She still hadn’t been able to get a decent explanation out of him about the entire thing, which was aggravating. But then that was Ned sometimes. Him and his honour and his word and… his secrets. He still held them.</p><p>She sighed and closed her eyes – and then opened them again when Ned suddenly stiffened and choked out: “No!”</p><p>Cat sat up and looked at him. He was dreaming. No, not a dream – a nightmare. He was sweating and she would see his eyes moving under his eyelids. His fists were clenched – and then he started to tremble. “Not Robb,” he moaned in his sleep, “Not my son. Spare him…”</p><p>And now she stared at him in horror. What was he dreaming of? Robb in some kind of danger? Ned paused for a moment and then relaxed – only to redouble his trembling. “Ned,” she said quietly. “Ned! Wake up – you’re dreaming!”</p><p>“No,” he moaned again, “I can’t. I promised you. I promised…” He said the words as if he was in agony. “Promised… kept the secret. Didn’t tell. Protect him. <em>Robert doesn’t know.</em>” He said the last words with great intensity.</p><p>Cat frowned at him and then started to reach out to shake him awake. Whatever this nightmare was it was distressing him, because his face was drawn as if in pain. She was burning with curiosity about it, but she did not want him to suffer. Her hand never got there. Suddenly he was awake and upright in bed, shouting a single name: “LYANNA!!!”</p>
+  </div>
+  <!--/main-->
+
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/11512872/chapters/25848810#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="GelFxwppzkz_uCfAA221HVTJWowLBNJoDz6YXFprEXVcwrCP10PdiyUJS4RW9fRkWBGRO5mM6qzJGgsnrtLEwA"/>
+          <input value="11512872" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=25836087">Comments (22)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/Bluerosemary">Bluerosemary</a>, <a href="/users/wriskyterror55">wriskyterror55</a>, <a href="/users/Shepard319">Shepard319</a>, <a href="/users/Kalie1217">Kalie1217</a>, <a href="/users/Joanne0Vecen">Joanne0Vecen</a>, <a href="/users/EveningRises">EveningRises</a>, <a href="/users/Kitiara_Woodbane">Kitiara_Woodbane</a>, <a href="/users/Nerd5sky">Nerd5sky</a>, <a href="/users/AssassinWitch">AssassinWitch</a>, <a href="/users/Janneia">Janneia</a>, <a href="/users/BellaAshtadHarmonia">BellaAshtadHarmonia</a>, <a href="/users/SirCollins42">SirCollins42</a>, <a href="/users/AhmieW">AhmieW</a>, <a href="/users/JokerGames1999">JokerGames1999</a>, <a href="/users/Cthod">Cthod</a>, <a href="/users/RozeAlin">RozeAlin</a>, <a href="/users/Lilydragon0">Lilydragon0</a>, <a href="/users/AnonymousUser113">AnonymousUser113</a>, <a href="/users/betweennightshift">betweennightshift</a>, <a href="/users/NoInertia">NoInertia</a>, <a href="/users/answtz">answtz</a>, <a href="/users/Freakshow777">Freakshow777</a>, <a href="/users/chiki_ruki">chiki_ruki</a>, <a href="/users/AranwynNinaSong">AranwynNinaSong</a>, <a href="/users/TheGrimW01f">TheGrimW01f</a>, <a href="/users/weirdbutgifted">weirdbutgifted</a>, <a href="/users/BlackRosex">BlackRosex</a>, <a href="/users/BrofessorCoolKid">BrofessorCoolKid</a>, <a href="/users/Mellodbra">Mellodbra</a>, <a href="/users/CaliGirl90278">CaliGirl90278</a>, <a href="/users/susabei">susabei</a>, <a href="/users/StuckSouth">StuckSouth</a>, <a href="/users/Linnypants">Linnypants</a>, <a href="/users/Telsiree">Telsiree</a>, <a href="/users/Aleksandra_Peverell">Aleksandra_Peverell</a>, <a href="/users/galaxyriver">galaxyriver</a>, <a href="/users/RagnarokAscendant">RagnarokAscendant</a>, <a href="/users/RowdyRobbyD">RowdyRobbyD</a>, <a href="/users/MFS2010">MFS2010</a>, <a href="/users/Sil3ntReader">Sil3ntReader</a>, <a href="/users/Lila_Vitoria">Lila_Vitoria</a>, <a href="/users/Laybenitez">Laybenitez</a>, <a href="/users/hdiliec">hdiliec</a>, <a href="/users/lynatlaw">lynatlaw</a>, <a href="/users/INeedToFixMySleepingSchedule">INeedToFixMySleepingSchedule</a>, <a href="/users/Ledgea">Ledgea</a>, <a href="/users/chaosrin">chaosrin</a>, <a href="/users/hermia0206">hermia0206</a>, <a href="/users/Erepeverell">Erepeverell</a>, <a href="/users/Baelorfan">Baelorfan</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/11512872/kudos?before=3688633633">979 more users</a>
+             as well as 
+          1040 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_25836087">
+  <form class="new_comment" id="comment_for_25836087" action="/chapters/25836087/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="fO7gFKnWN_MQ1coOk50mqTbrqzR3F5cEstChAR3xAPM5xRVcdPwkNMpkpkrGBWfQOjNgg-Wfr8B09DJ66UjVRg"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_25836087">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_25836087" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_25836087=new LiveValidation('comment_name_for_25836087',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_25836087.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_25836087">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_25836087" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_25836087=new LiveValidation('comment_email_for_25836087',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_25836087.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_25836087" class="landmark">Comment</label>
+        <textarea id="comment_content_for_25836087" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_25836087" name="controller_name" value="chapters"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_25836087_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_25836087">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_25836087=new LiveValidation('comment_content_for_25836087',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_25836087.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_25836087.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_25836087" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/11512872/hit_count.json")})</script>
+
+
+  </body>
+</html>

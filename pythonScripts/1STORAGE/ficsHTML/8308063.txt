@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Something There Is - skoosiepants - Teen Wolf (TV) [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="xrmdDZr-5w6iH7qiMcZb3aJB3NZdEgdtQRoFeixGyWtQrV8asCJjJ_al04_9McYxraJjMgktFrJFlkKc4Opo3g"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="g61zRemnKnQWncNIFZmLAZNdvd2cyijqgHVboQKwGbQVubFSw3uuXUInqmXZbhbtnL4COcj1OTWE-RxHzhy4AQ"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: &quot;sherlock (tv)&quot; m/m NOT &quot;sherlock holmes/john watson&quot;</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="works-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<ul class="landmark skip">
+  <li><a name="top">&nbsp;</a></li>
+  <li><a href="#work">Skip header</a></li>
+</ul>
+
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+<!-- BEGIN revealed -->
+<!-- BEGIN work -->
+<!--work description, metadata, notes and messages-->
+    <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?work_id=8308063">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/8308063/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/8308063/Something%20There%20Is.azw3?updated_at=1637468916">AZW3</a></li>
+          <li><a href="/downloads/8308063/Something%20There%20Is.epub?updated_at=1637468916">EPUB</a></li>
+          <li><a href="/downloads/8308063/Something%20There%20Is.mobi?updated_at=1637468916">MOBI</a></li>
+          <li><a href="/downloads/8308063/Something%20There%20Is.pdf?updated_at=1637468916">PDF</a></li>
+          <li><a href="/downloads/8308063/Something%20There%20Is.html?updated_at=1637468916">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Teen%20And%20Up%20Audiences/works">Teen And Up Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandom:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Teen%20Wolf%20(TV)/works">Teen Wolf (TV)</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationship:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Derek%20Hale*s*Stiles%20Stilinski/works">Derek Hale/Stiles Stilinski</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Derek%20Hale/works">Derek Hale</a></li><li><a class="tag" href="/tags/Stiles%20Stilinski/works">Stiles Stilinski</a></li><li><a class="tag" href="/tags/Scott%20McCall/works">Scott McCall</a></li><li><a class="tag" href="/tags/Sheriff%20Stilinski/works">Sheriff Stilinski</a></li><li><a class="tag" href="/tags/Erica%20Reyes/works">Erica Reyes</a></li><li><a class="tag" href="/tags/Isaac%20Lahey/works">Isaac Lahey</a></li><li><a class="tag" href="/tags/Vernon%20Boyd/works">Vernon Boyd</a></li><li><a class="tag" href="/tags/Peter%20Hale/works">Peter Hale</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Alternate%20Universe/works">Alternate Universe</a></li><li><a class="tag" href="/tags/Tumblr%20Prompt/works">Tumblr Prompt</a></li><li><a class="tag" href="/tags/Werebunny%20Stiles/works">Werebunny Stiles</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2016-10-17</dd><dt class="words">Words:</dt><dd class="words">6215</dd><dt class="chapters">Chapters:</dt><dd class="chapters">1/1</dd><dt class="comments">Comments:</dt><dd class="comments">181</dd><dt class="kudos">Kudos:</dt><dd class="kudos">7352</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/8308063/bookmarks">1783</a></dd><dt class="hits">Hits:</dt><dd class="hits">53068</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      Something There Is
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/skoosiepants/pseuds/skoosiepants">skoosiepants</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>There’s a solid wooden fence surrounding the backyard; a moderately-sized, flat piece of square land. Instead of grass, a flagstone path winds in between wild, tangled gardens, knock-out roses, towering crape myrtles, foxglove, bluebeard, hydrangea, overgrown ornamental grasses—weeds and wildflowers fill in all the spaces in between, and Stiles doesn’t plan on doing a single thing about any of them. The yard is fantastic. It’s <i>wonderful</i>. He can’t wait to strip out of his skin and make a burrow.</p><p>Or-</p><p>Stiles is a werebunny &amp; Derek is his grumpy werewolf neighbor</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+    <ul class="associations">
+
+        <li>
+          Translation into Русский available: 
+            <a href="/works/13075944">Есть что-то еще</a> by <a rel="author" href="/users/JuliaJulia/pseuds/JuliaJulia">JuliaJulia</a>, <a rel="author" href="/users/tatianatiana/pseuds/tatianatiana">tatianatiana</a>
+        </li>
+
+
+    </ul>
+
+    <blockquote class="userstuff">
+      <p>Originally posted on tumblr for the anon prompt: Prompt based on Zootopia.. Stiles is a wee bunny rabbit come to the city to follow his dreeeeams. Derek is, well, the grumpy wolf next door. (alive Hales for my mental health a bonus!) </p><p>Uhhhhh this is basically none of that at all, sorry. Instead, have a 6k werebunny!Stiles season 1-ish au where they’re all adults and Peter’s still an inappropriate murderous creep. Enjoy!</p><p>Cleaned up, edited &amp; added to a bit. Title from Frost, Mending Wall.</p>
+    </blockquote>
+
+    <p class="jump">(See the end of the work for <a href="#work_endnotes">more notes</a>.)</p>
+</div>
+
+
+  </div>
+
+
+<!--/descriptions-->
+
+<!--chapter content-->
+    <div id="chapters" role="article">
+        <h3 class="landmark heading" id="work">Work Text:</h3>
+          <div class="userstuff"><p>Stiles throws open his back door and breathes in the fresh spring air. His new house is a mess of boxes and bags, making the rooms seem even smaller than they actually are. The thing is, though, Stiles didn’t buy the house for the <em>house</em>. A tiny bit of a thing with a narrow, cramped kitchen, postage stamp den, two measly bedrooms at the top of the stairs and a bathroom where Stiles can basically wash his hands from the shower stall, if he really wanted to.</p><p>No, Stiles bought this house for the <em>outside</em>.</p><p>There’s a solid wooden fence surrounding the backyard; a moderately-sized, flat piece of square land. Instead of grass, a flagstone path winds in between wild, tangled gardens, knock-out roses, towering crape myrtles, foxglove, bluebeard, hydrangea, overgrown ornamental grasses—weeds and wildflowers fill in all the spaces in between, and Stiles doesn’t plan on doing a single thing about any of them. The yard is fantastic. It’s <em>wonderful</em>. He can’t wait to strip out of his skin and make a burrow.</p><p>The only slightly concerning thing is the big waft of <em>canine, predator</em> he’s getting from his immediate neighbor on the left. He hadn’t scented that before. But, hey, that’s what the fence is for. He’s got nothing to worry about.</p><p>*</p><p>There’s a doggy door already installed on the backdoor that swings off the kitchen. It’s big, four times the size Stiles really needs, but it lets him hop in and out without getting naked for all the world to see. Not like he minds, really, but he’d like to have a few months of peace before he starts freaking out the neighbors. He’s not worried about the rabbit thing. The human mind has a huge capacity for rationalization. He’s pretty sure Mrs. Crawford on his right is just going to think he’s an exhibitionist with a cute butt.</p><p>To the left, he still has the mystery house. He’d think it was empty except for the lights that pop on after dark.</p><p>Stiles noses at the fence on that side curiously, scenting the territory line, ignoring all the KEEP OUT markers—it’s <em>his</em> side of the fence, after all—and tearing up some yummy wild clover to chew. Clover, and then dandelions, oh man, it’s like a feast is growing up out of the wooden fence, where the rose bushes aren’t so tightly tangled and sun shines through. Stiles is just thinking this is the best place to carve out a shallow resting nook, if not a full burrow, when a growl sneaks up on him out of nowhere.</p><p>He jumps, heart beating wildly, and then he freezes, ears telescoping forward. The growl becomes a nasty bark, claws rattling at the fence, and his hindbrain thinks it’d be an awesome idea to take off for the house like a coward. He scrambles under the back porch instead of up the steps and in through the doggie door, because he’s an idiot.</p><p>Okay, so. <em>Canine, predator</em> next door, not so theoretical anymore. Also, not so much a dog as a werewolf. Stiles has officially met his to-the-left neighbor. Awesome.</p><p>*</p><p>To Stiles’s utter humiliation, it takes him just over two hours to calm down enough to wriggle out from under the porch and cautiously make his way back inside. The sky’s nearly dark by then, and he stretches out of his paws and twitchy nose and sits down on the kitchen floor, naked, back up against the door.</p><p>He breathes deliberately slow, in and out.</p><p>This is fine, he thinks. He’s not some flighty, scared bunny rabbit. His mom was a warrior. A guardian of her warren, a <em>thumper</em>—Stiles isn’t going to hide away every time his werewolf neighbor decides he doesn’t want to smell rabbit near his house. Or wants to eat him.</p><p>Right.</p><p>Stiles slowly gets to his feet, pulls on his pants and shirt, and gets started on dinner.</p><p>*</p><p>Three days later, Stiles meets Derek Hale.</p><p>Derek Hale, werewolf neighbor, so says the package that accidentally ended up on Stiles’s front stoop. It’s the neighborly thing to do, Stiles thinks, to go hand it over. His big plan is to drop it onto the porch and run, but the door yanks inward before Stiles can make it back down the steps.</p><p>Derek Hale is…not what Stiles expected. He isn’t a ravening hairy beast. He’s big, but not hulking, and his hair is artfully styled. He’s got a five o’clock shadow at ten in the morning, and his eyes are the color of every leaf in Stiles’s new garden. He’s hot like burning, actually. He’s glorious like the rising sun, even though he’s got a murderous scowl and snaps his teeth at him.</p><p>Stiles barely holds in a flinch and says, “Dude.”</p><p>“You’re trespassing,” Derek says, and then, after a blatant flare of nostrils—public scenting is so rude—he says, “Stay away from my fence.”</p><p>“You mean <em>my</em> fence,” Stiles says, and then he actually does flinch back when Derek fists the front of his shirt, drags him close so their noses nearly touch.</p><p>Stiles licks his lips, breathing rapid, thankful that his heart in human form doesn’t have that terrible habit of nearly stroking out.</p><p>Derek’s gaze dips briefly to look at his mouth, and then he growls, “Keep out of my way, or I’ll rip your throat out. With my teeth.”</p><p>“So many anger issues,” Stiles says, forcing a smile. “Where’s your alpha, Sourwolf?”</p><p>Derek lets him go so fast Stiles stumbles down the steps and nearly falls flat on his face. He says, “Get out.”</p><p>Stiles holds his hands up, tries to hide the way his heart is in throat, and backs slowly away.</p><p>*</p><p>The fence by Derek’s house is by far the best place to rest. Perfect angle of sun in the afternoons, an array of eating grasses and flowers. Derek’s shitty, grumpy attitude is not going to keep Stiles from his favorite side of the yard.</p><p>At first, he freezes every time he hears Derek snuffling on the other side, whole body tensing up.</p><p>Derek growls, low, and Stiles makes himself hop forward, nose to the crack in between a plank. He thinks, <em>I’m not going anywhere, asshole</em>, and eventually Derek huffs, annoyed, pissed off, and wanders away.</p><p>It’s not like he can do anything through the fence, not really, and Stiles takes care to wave cheerily at Derek whenever he sees him out front from far, far away.</p><p>*</p><p>Stiles works from home, which sometimes drives him stir crazy. It’s really for the best, though, considering the fact that he likes to take breaks to hop around his yard. Defending his territory from wild bunnies, squirrels, and the chipmunks that keep trying to nest under his hydrangea bushes.</p><p>He’s a champion burrow builder, even if it’s the first one he’s built all by himself. The ones at his dad’s house were mostly built by his mom, when he was a baby, and it always hurt too much to add on. He’s helped out with his grandparents’ on more than one occasion, but he’s never been officially welcomed into that colony, never staked out his own plot of land there, and he’s never really wanted one. His mom was his clan, and since then Stiles has been a warrior of one.</p><p>So here he is, alone, and the dirt under his paws feels right in ways that it hasn’t since he was a kit.</p><p>This is probably why he loses track of all his senses and ends up popping up with a backdoor in the back corner of the wrong yard.</p><p>He thinks <em>oh shit</em> a second before Derek—not Derek?—pounces at him and growls in his twitchy little face. Startled, he doesn’t stop to see if it’s actually Derek or not before taking off in the exact opposite direction he should be going in. The wolf snaps sharp teeth too close to Stiles’s fluffy tail.</p><p>Stiles cowers at the back of a hedge, trapped, while the gray, long-legged wolf tries to tear it—and him—apart. It’s embarrassing how terrified Stiles is, little heart beating so hard he’s sure he’s seconds away from just keeling over dead. He wouldn’t be half as afraid as a human, but then again, delicate naked flesh isn’t much of a defense against those teeth either.</p><p>And then there’s a pained yelp, a, “Goddamn it, Cora,” and quick, large hands are scooping him up before he even really knows what’s happening.</p><p>Stiles, surprised, bites down on a finger, but Derek just hisses out a curse and hugs Stiles close to his chest.</p><p>“You’re a menace,” Derek says down at him, eyebrows furrowed.</p><p>Stiles fits neatly into the crook of his elbow. He’s a good size, like a mottled black and white mini-rex, only floofier. His mom was tawny and gorgeous, and Stiles doesn’t like to look at himself too hard like this in a mirror. He ducks his head into Derek’s shirt and gets ready to bite him in the nipple if he tries to drop him.</p><p>Derek just walks him back to the corner with his burrow, though. He places him on the ground, and says, “Stay the fuck out of my yard.”</p><p>Stiles slips into the <em>warm, familiar</em> ground and runs for the other side.</p><p>*</p><p>Stiles expects Derek to fill in the hole. He expects him to fill it in immediately, maybe with large, immovable rocks, and Stiles is sometimes inadvisably curious, so he keeps poking up out of the other end, wondering when Derek will finally get around to doing it.</p><p>The first time he sees: a birdbath, a bone the size of a t-rex femur, and three chewed up tennis balls.</p><p>The next time he sees: the torn up hedge he’d hidden behind replaced with a large, beautiful blue butterfly bush.</p><p>Then, he sees: a giant black wolf, relaxing on his side in the sun.</p><p>Stiles freezes, ears up, eyes fastened on him. Derek has to have heard him—his skittering heart, the twitch of his nose—but all he does is raise his head to look at him, once, eyes glowing a cool blue, and then he huffs and stretches out flat again.</p><p>Stiles presses his luck, because he’s Stiles, and he hops up out of his burrow and across Derek’s lawn.</p><p>He sniffs at Derek’s tail curiously, and then his back feet, so massive they hide Stiles’s entire head. He stops again when Derek blinks at him, teeth bared soundlessly. And then when nothing else happens, Stiles shakes his ears out and starts licking dirt off his paws.</p><p>He stays for just long enough to groom his ears—to prove a point, he thinks, or just to see how empty a threat Derek actually is—and then he slowly makes his way back to the hole, nibbling at clover along the way.</p><p>*</p><p>Stiles meets Derek’s alpha in exactly the wrong way.</p><p>He hears the warning growls before he pokes his head out of his burrow. It isn’t until he’s looking at a handsome, smarmy older gentleman that he realizes Derek was trying to tell him to stay away.</p><p>“Well,” the alpha says. “What do we have here?”</p><p>Derek is standing stiff-legged next to him, tail between his legs and head down.</p><p>“Derek, you didn’t tell me you made a friend.” The alpha tuts, swaggering his way deeper into Derek’s yard, and Stiles is considering making a run for it when the wolf’s eyes flash red. He says, “Bring him here,” and before Stiles can unstick all four of his limbs, Derek has his mouth around him.</p><p>He could transform, but then there’s a good chance Derek’s teeth would shred through his back. Instead, he holds perfectly still, Derek’s mouth careful and soft on him, even though he’s probably taking him to his <em>death</em>.</p><p>Cora says, worriedly, “Peter,” from the back porch, but <em>Peter</em> just waves her away, unconcerned.</p><p>He says, “Aren’t you adorable?” as he takes him out of Derek’s mouth. He looks hungry, holding Stiles up around the belly, and if Stiles was any closer to his face he’d bite his nose, even if the drop to the ground would most likely break his back.</p><p>“I’m not going to hurt you,” Peter says, and Stiles is ninety percent certain it’s a bald-faced lie. He has a cruel mouth, and crazy eyes.</p><p>Stiles kicks his back legs in the air.</p><p>Peter just says, “Well, if you insist,” and places him back on the ground at his feet.</p><p>Stiles isn’t buying his I’m-so-harmless smile, so he books it out of there and doesn’t look back.</p><p>*</p><p>Stiles hides for almost an entire day in his mother’s old burrow.</p><p>His dad comes out, sits on the steps with a beer as the sun goes down, and Stiles twitches his nose at him, hiding under the perfect cap of dandelions that cover the entrance.</p><p>“I’m not judging, son,” his dad says.</p><p>Stiles thumps.</p><p>His dad sighs and says, “Do you want me to arrest him?”</p><p>Stiles finally hops out and across the lawn, nudges his head under his dad’s hands when he gets close enough. A big palm sweeps over his head, ears and down his rounded back, over and over. The sky darkens past twilight and the back floodlight comes on. Stiles makes his way inside, then, and pulls on the clothes he’d left on the living room chair.</p><p>His dad comes in clutching two beers at the neck and offers him one as Stiles flops down onto the couch.</p><p>“Peter Hale,” his dad says, sitting in the armchair across from him, “is a crazy son of a bitch. I don’t blame you.”</p><p>Stiles shrugs. “I’m fine,” he says around the lip of his beer bottle.</p><p>His dad arches an eyebrow at him. “Sure you are.”</p><p>“I can handle it,” Stiles amends.</p><p>His dad leans forward and clinks their bottles together. “That,” he says, “I do not doubt at all.”</p><p>*</p><p>Stiles’s handling of it, at first, requires a lot of avoidance of the outside, and his own yard in general. He hops around his living room as a fierce rabbit warrior, chewing unsatisfyingly on the rug, his favorite recliner, the legs of his kitchen table.</p><p>And then after a few hours he tackles the outdoors again, because he’s fucking bored, and it’s not like Peter would dare come into his territory, right?</p><p>The smell of wolf is strong, though, stronger than it was before, and Stiles starts work on a burrow that basically leads all the way under his deck. He’s not hiding, it’s just common sense.</p><p>Scott finds him there the next day, holds out a shirt and says, “Dude, we need to talk.”</p><p>*</p><p>Scott is Stiles’s bro. He’s the bro held above all bros—the king of bros. He’s also, apparently, now a werewolf.</p><p>“Ugh, <em>why</em>?” Stiles says, huddled as far away from him as possible on the couch. Scott smells like blood and wrong, and it probably wouldn’t be affecting Stiles so much if he didn’t know that Scott is supposed to smell like antiseptic and dog poop. Those are comforting smells. Those are smells Stiles knows backwards and forwards, and now Scott’s eyes flash gold when he stares at him too long.</p><p>Scott slumps like a kicked puppy. “I didn’t do it on purpose.”</p><p>“What do you mean?” Stiles asks, straightening up.</p><p>“I mean, I got attacked on my way to my car last night!” he says. “I don’t even know what’s happening!”</p><p>Stiles flails to his feet and says, “Fuck,” and, “fuck,” and then, “fuck,” again, for good measure, as he drags Scott out the door and across the lawn to Derek Hale’s.</p><p>Derek says, “I thought I told you to stay—” and then cuts himself off when he takes in Scott, standing there in all his Scott glory.</p><p>He stares at him for a full minute and then says, “What’s going on?”</p><p>“What’s going on,” Stiles says, “is that some motherfucking rogue alpha bit my one true Scott—”</p><p>Derek flinches.</p><p>“—and the only alpha around here that I’m <em>aware</em> of is creepy-ass Peter.”</p><p>“My uncle,” Derek says, dully.</p><p>“Excellent, you’re related.” Stiles shoves Scott at him and says, “Fix this.”</p><p>He should move, Stiles thinks. Somewhere where there aren’t any werewolf packs living right next door, that would be great.</p><p>“I can’t fix it,” Derek says, and he looks kind of resigned and exhausted. “No one can fix it.”</p><p>Stiles eyes him up, from his tattered sweatpants, the flat hair, the scruff bordering on beard. He says, “Do you even know where your uncle is?” and generally expects the answer to be a big fat <em>no</em>.</p><p>Derek scrubs a hand over his face. He says, “I think Peter killed my sister.”</p><p>“Cora?” Stiles says, horrified, and when Derek clarifies, “Laura. My alpha,” Stiles is just even more appalled on Derek’s behalf. Jesus Christ, he’s a rabbit; he shouldn’t have to deal with this shit.</p><p>“I’m so confused,” Scott says.</p><p>Stiles throws caution to the wind and grabs Derek’s wrist. Derek just stares down at his hand, expressionless, and Stiles says, “Come on, big guy, from the beginning,” and tugs him into the house.</p><p>*</p><p>The full story doesn’t make Stiles feel any better. All signs point to Peter being a murderous creep with mysterious alpha powers over Derek and a hard-on for Stiles himself that could either manifest in inappropriate touching or roasting him up with a nice wine. Stalking down his <em>brother</em>; that’s grade-A psycho stuff.</p><p>Derek looks at him and says, “I can’t keep you safe.”</p><p>A part of Stiles bristles at the implication that Stiles can’t keep <em>himself</em> safe, but the truth of it is, if it came down to Peter and him, Stiles wouldn’t stand a chance. He’d be bloody fur between Peter’s teeth.</p><p>Scott clenches his jaw. He says, “I’m not letting anything happen to you.”</p><p>Stiles appreciates the sentiment, but Scott’s a newly turned wolf, a baby thrall in the making. There’s no way they can know for sure how much influence Peter has on him, but chances are it’s not going to be good.</p><p>“Here’s the thing,” Stiles starts to say, looking at Derek. But now he knows the way Derek’s life has gone—the hunters, the fire, the small, broken pack Derek has left. He wants to say: <em>you have to kill your uncle</em>. But he can’t make the words come out of his mouth.</p><p>Derek says, “What,” nearly inflectionless.</p><p>“Nothing,” Stiles says. He’s just going to take care of this himself.</p><p>*</p><p>Stiles goes to Lydia, because Lydia knows all sorts of nefarious ways to dispose of people, even if she’s never—to Stiles’s knowledge—actually done that before.</p><p>“If I was a chemical compound that could explode someone in a giant fiery death,” Stiles mimes an explosion with his hands, “I would be…?”</p><p>Lydia arches one perfectly plucked eyebrow at him. “Are you asking me how to make a Molotov cocktail?”</p><p>He spreads his hands, palms up. “Hypothetically.”</p><p>Lydia slides her chair back and gets up from her desk and says, “Let me get you a list.”</p><p>*</p><p>Stiles invites Derek over for dinner, because apparently he’s a masochist. He just… feels kind of terrible for him. It’s not technically a pity date—neither pity, nor actual date—but only because Stiles would totally be all over that if Derek could calm it with the growls and the whole predator thing. It’s hard, Stiles knows, but it’s making Stiles progressively jumpy over his lasagna.</p><p>He’s actually super surprised Derek even came. He <em>really</em> thought Derek hated his guts. All the repeated threats to get off his lawn kind of highlighted that.</p><p>“I think you should know,” Stiles says through the awkward silence, “about your uncle.”</p><p>“What about him?” Derek says.</p><p>Stiles twirls his fork in the air. “I’m not <em>inviting</em> trouble—”</p><p>Derek snorts.</p><p>“—but if the situation arises, you know, I have plans.”</p><p>“Plans,” Derek echoes flatly.</p><p>Stiles smiles like his heart isn’t threatening to beat out of his chest. He knows Derek knows he’s scared, obviously, but Derek should also know that Stiles doesn’t always let fear get in his fucking way.</p><p>Finally, Derek looks down at his plate, bobs his head, and says, “Just don’t let Scott do it. He’d make a terrible alpha.”</p><p>*</p><p>In full summer, Stiles’s backyard is magnificent. It smells like honeysuckle and daydreams, like warm dirt, like the small vegetable garden that’s basically the best idea Stiles has ever had ever. He gorges himself on green leaf, on kale, on the leafy tops of carrots until he can dig down to the sweet orangey goodness underneath. He flops on his side in the middle of the flagstone path, sunning his belly.</p><p>The day is so glorious he can almost forget about the unhinged alpha werewolf currently making his life a living hell. The dead wild bunnies on his doorstep aren’t exactly subtle.</p><p>In the two weeks since he’s learned the truth about the Hales, Stiles has: a) made himself an arsenal of firebombs, b) gotten mostly used to Scott’s new smell, and c) had strange, x-rated furry cartoon dreams about Derek as a wolf. He’s not proud of it, but Stiles has been through two different kinds of puberty, and rabbits in general are horny and weird.</p><p>So he gets a little over-heated whenever he sees Derek now, so what? It’s not like he wasn’t attractive to Stiles <em>before</em>. Now it’s just more…intense.</p><p>And if Derek senses anything different, the only tell is maybe a little more nostril flare than usual that Stiles graciously lets slide.</p><p>In the late afternoon, Stiles smells Scott at the gate and finally drags himself up out of an extended nap-slash-food coma and starts making his way back to the house.</p><p>He’s full-belly drowsy, relaxed, and that’s his only excuse for making it almost to the porch steps before smelling <em>Peter</em>, too.</p><p>Shit.</p><p>He thumps the ground once, hard, like his mother used to do at danger, but he’s the only one around to hear.</p><p>He has to make a split-second decision—throw himself up the stairs and into the house, roll into a change and grab the Molotov cocktails, or dive down into his burrow and hide under the porch. He tells himself that the only reason he chooses the latter is because he doesn’t want to hurt Scott.</p><p>There’s blood, though, so much Stiles can taste it in the back of his throat, and Peter says, “Come now, Stiles, I thought you <em>loved</em> Scott more than this.”</p><p>There are ragged, pained breaths and Stiles wriggles up closer to the entrance, nose twitching.</p><p>There’s Scott saying, voice high and cracked, “Stiles, <em>don’t</em>,” and, honestly, Stiles has never been any good at taking orders.</p><p>*</p><p>Stiles transforms the moment he hops out of his burrow, preferring to be vulnerable in his human skin this time, where at least he has a height advantage.</p><p>Scott’s hunched over on the ground, his chest a bloody, shredded mess. Stiles ignores Peter, his sharp teeth and terrible mutton chops, and rushes to Scott’s side to wrap his arms around him. “Scott, buddy,” he says. There’s so much blood. “Fuck.”</p><p>Peter buffs his claws on the front of his shirt and shrugs. “<em>Someone</em> had to make sure you behaved,” he says, unconcerned.</p><p>“What do you want, Peter?” Stiles says, glaring at him. Scott has his face pressed into Stiles’s chest, chanting, small and quiet, “I’m okay, I’m okay.”</p><p>Peter’s grin is all teeth. “What do you think?”</p><p>Stiles still has no idea if Peter wants to eat him or <em>eat him</em>, and the truly terrifying thing is that he’s not sure Peter knows either.</p><p>Stiles tightens his arms around Scott. He hisses in pain, shifting against Stiles with a choked back whimper, and Stiles wants to stab Peter through his tiny, shriveled heart.</p><p>Peter says, “Oh, he’ll heal. Eventually. There’s nothing like a little discipline from your alpha, isn’t that right, Scott?”</p><p>Stiles’s beautiful garden is soaking up puddles of Scott’s blood and he’s not sure if he’ll ever be able to enjoy it again.</p><p>“What do you <em>want</em>?” Stiles repeats, and Peter pouts and says, “Really now, Stiles. All the fun is in finding that out.”</p><p>*</p><p>Stiles goes boneless with relief when a big black wolf leaps over his fence with an echoing roar. It’s short-lived, of course, because Derek is Peter’s beta, no matter how unwilling, and also Peter can apparently transform into a gigantic misshapen rage-beast and Derek is, for all intents and purposes, just an extra-large dog.</p><p>Still, Stiles takes the distraction for what it is and scrambles out of the way, hustling Scott up the porch steps and into the house. He’s got his weapons where weapons should be kept—under the kitchen sink.</p><p>His only hesitation now, standing in the open doorway, is that Derek and Peter are two rolling masses of dark fur, and Stiles doesn’t particularly want to set Derek on fire.</p><p>And then Peter digs his claws into Derek’s shoulders, head thrown back with an enraged howl, and Derek melts into a beta form, skin bubbling grossly, like Peter is forcing the change. He’s got a bare, human neck, biceps bulging from fending off Peter’s massive bulk. He shouts, “Stiles, <em>do it</em>,” just before Peter’s large, animalistic head swings Stiles’s way and snarls.</p><p>“Oh, fuck,” Stiles says, and winds up and throws.</p><p>Predictably, he misses.</p><p>Peter pushes off of Derek’s arms, slicing him open from collar to elbow, and Stiles focuses on Derek’s agonizing screams just long enough for Peter to rush him. Stiles’s stupid fucking fright instincts freeze his feet to the ground, and then Scott is barreling out from behind him, knocking Peter off course just enough so he slams into the porch railing and takes out Stiles’s hot pink knock-out roses, shredding them down to tall thorny stems.</p><p>“Motherfucker,” Stiles yells, and then throws another bomb.</p><p>He’s really lucky he misses the house and hits Peter square in the small of his back.</p><p>Scott’s a quiet, unmoving lump beyond him, and Derek manages to drag himself up on his feet as Peter arches his back and roars.</p><p>*</p><p>Stiles has blood splatter all over his chest from the gaping wound in Peter’s throat. Breathing hard, he watches dispassionately as Peter’s limp, charred body continues to smolder all over his bluebeard.</p><p>Derek’s hunched over him, hands clenching and unclenching as his wounds fold up and disappear. So. Alpha powers. Neato.</p><p>And then Scott groans and Stiles moves to him, dropping down onto his knees and grabbing his hand.</p><p>“Scotty, are you okay?” Stiles says. He’s no longer bleeding, but his wounds are taking their sweet old time knitting up. Stiles obsessively watches the steady rise and fall of Scott’s chest, watches his eyes flutter as he grimaces in pain.</p><p>Finally, Scott squeezes his fingers and says, “I think I’ll live.”</p><p>Stiles sniffs wetly and wipes a grimy hand over his eyes. He says, “You’re helping me rebuild my garden, asshole.”</p><p>With a weak chuckle, Scott says, “Sure.”</p><p>Stiles doesn’t remember he’s still naked until he feels a blanket drape over his shoulders. He clutches at the ends of it as Derek pushes him aside, gentle hands belying his gruff, “Move over.”</p><p>“Careful with my Scott, dude,” Stiles says, scrambling to his feet as Derek lifts Scott up into his arms.</p><p>There’s absolutely no heat in Derek’s glare when he says, “Don’t call me dude,” so Stiles takes that as a win.</p><p>*</p><p>Mrs. Crawford calls the police about a gang war in his backyard, and Stiles is just super lucky that his dad and Parrish are the ones that show up. Or not <em>lucky</em>, really, but Stiles is well past grounding age and Parrish is really good at covering up supernatural murders.</p><p>And then, miraculously, things go back to some semblance of normal.</p><p>Scott plants him a new rose bush, and manages not to eat him on the full moon.</p><p>Stiles connects his two burrows together with a tunnel under the vegetable garden, and the summer days grow shorter, but no less warm.</p><p>He stays away from Derek’s yard for approximately five days, and then he extends his now-intricate warren of tunnels all the way under Derek’s blueberry bush, so he can take advantage of all the tasty snacks without getting shooed away. It’s not like Derek doesn’t <em>know</em> about it—that’s impossible—but he doesn’t say anything, either, whenever Scott drags Stiles along to the Hale house for pack dinners.</p><p>On two occasions, Cora is in the yard when Stiles noses out from under the blueberry bush. She lazily snaps her teeth in his direction, but for the most part leaves him alone.</p><p>Derek as an alpha wolf, though, is surprisingly cuddly, and the first time Stiles finds him sprawled out on the patio, he sniffs up each paw, bumps his head under Derek’s chin, and then squishes up in between his legs for a nap.</p><p>He wakes up when the sun is low in the sky to rough, wet strokes over his ears, caged between two paws, and he flops over onto his side so Derek can get his belly, too.</p><p>*</p><p>Things are going so well, he really doesn’t understand it at all when he finds the burrow entrances on Derek’s side of the fence suddenly filled in with loose dirt. Out of nowhere. He’s insulted. He’s fucking <em>annoyed</em>—they’ve come so far, they’re snuggle-buddies now and everything, how could Derek do this to him? To his pathway to delicious, sweet berries and the tasty roughage that surrounds them?</p><p>Angry, he tugs on a pair of loose sweatpants, stomps through his house, and makes his way across the lawn and over to Derek’s front door.</p><p>Cora answers his knocking with an arched eyebrow, a contemptable sweep of his, yes, bare torso and bare toes. He doesn’t usually mind being nude, but Cora somehow manages to make him blush all the way up his throat. He crosses his arms over his chest and says, “Where’s Derek?”</p><p>She angles her body so she’s blocking the doorway, not bothering to be subtle about it. “Busy.”</p><p>“Bullshit,” Stiles says. He eyes Cora’s immovable form up, but even though she’s a good foot shorter than him, he’s under no illusion that he can actually win any sort of physical fight. He sighs, loosens his stance and says, “Can you just let him know I came by?”</p><p>Cora shrugs. She says, “Sure,” but Stiles doesn’t actually believe her.</p><p>*</p><p>It’s like time has reversed itself, and Stiles doesn’t even know why. Scott stops dragging him over to the Hale’s for dinner. He gets growled at through the fence, more vicious than before—it’s almost a relief, when winter finally comes and his garden gets depressingly dormant.</p><p>Sunny days become gray and rainy, and he entertains himself with work and eating a hole in the rug under the couch. Spending the occasional chilly day picking off the remains of his veggie garden and fluffing up his burgeoning winter coat.</p><p>It’s embarrassing, really, that he doesn’t even notice the new wolves until they’re streaking across his backyard. Lean and rangy, all three of them, the part of the fence they’d scrambled over split ragged from their play fighting. They tackle each other into his late blooming mums, teeth snapping, and holy fuck, <em>holy fuck</em>, Derek hasn’t groomed him in weeks, he smells like rabbit and Stiles, and none of these three stranger-wolves know that neither of those smells belongs to <em>food</em>.</p><p>He quietly panics about the distance to the porch, the fact that one of the wolves has rolled right into the quickest escape route across the yard, and thinks, actually, the worst thing he can do right now is run.</p><p>So, of course, that’s exactly what he does.</p><p>*</p><p>It’s not terrible. It’s <em>bad</em>, he thinks, furiously licking at his sluggishly bleeding leg, but he’s in no immediate danger of dying. The determined wolf digging at the entrance of his burrow is an annoyance, the rapid, flighty beating of his heart isn’t helping, but he’s not stupid. He knows, as far back as he is, the wolf can’t actually dig down deep enough to get to him.</p><p>And then there’s a howl so loud Stiles’s ears start ringing. There’s vicious snarling followed by pained cries and a roar of, “What the fuck do you think you’re doing?” that instantly soothes all of Stiles’s insides.</p><p><em>Derek</em>, he thinks, and starts squirming up where he can see sky.</p><p>Derek, who will let him lay in his arms and maybe use some of that infamous werewolf mojo Scott’s always talking about, because Stiles’s damned bunny skin is thin and delicate and always takes too long to heal.</p><p>Derek says, “I’m sorry, I’m sorry, you’re okay,” as Stiles flops into his hands, lets Derek lift him up to cuddle into his throat. He smells like anger, burnt copper, blood and love. <em>Love</em>, Stiles thinks, <em>that fucking asshole</em>, and stretches out of his rabbit form to wrap his arms around Derek’s neck and whisper, “What the <em>fuck</em>?” into Derek’s mouth.</p><p>And then he passes out from the pain, because he basically ripped his leg wound wide open in the change.</p><p>*</p><p>Stiles groans awake in his bed. He bends his leg, tests the tight pull of newly grown skin, and says to Scott, “Remind me to never do that again.”</p><p>To be fair, he’s never had a big enough wound for it to matter much, so he didn’t actually know what would happen.</p><p>Scott leans forward and cups his hands around one of Stiles and says, “Derek thinks we’re together. Like, <em>together</em>.”</p><p>Stiles wrinkles his nose and says, “Gross.”</p><p>“I know,” Scott says, nodding earnestly.</p><p>“I hope you told him that he’s wrong.” The most wrong person in the entire history of people being wrong. And then he throws an arm over his face and says, “Oh. <em>That’s</em> why.” That’s why he filled in Stiles’s burrows and won’t let him come to dinner and has basically ignored his existence for almost a whole month. Why he smells like lilacs and tragedy and <em>doing the right thing</em>. Ugh. Why did Stiles have to fall for such a self-sacrificing idiot?</p><p>“I told him,” Scott says, “but I think he needs to hear it from you.”</p><p>*</p><p>Scott tells him that the new wolves are Erica, the one who <em>bit</em> him, Isaac, the one who tried to dig him out of his hole, and Boyd. Stiles isn’t impressed with any of them; he crosses his arms over his chest and sniffs imperiously when all three of them open Derek’s front door.</p><p>Erica’s eyes say she’s sorry, but her mouth says, “So you’re the bunny.”</p><p>Stiles is a <em>warrior rabbit</em>, a sentinel of ancient warrens, protector of—ah hell. His family isn’t a protector of anything, anymore. He can barely even stop a pack of werewolves from invading his yard and eating him. His <em>mom</em> was the late great last warrior of his family rabbit clan, the only thing Stiles has dominion over nowadays is a patch of grass.</p><p>He says, “I want to see Derek.”</p><p>Erica rolls her eyes and says, “Well, since you asked so nice,” but she lets him in the door.</p><p>*</p><p>Stiles stands in front of wolf-Derek in Derek’s kitchen and says, “I’m not leaving until you act like an adult, get your big boy human pants on, and talk to me like I’m the love of your life.”</p><p>Derek growls, springs up on his feet, and suddenly Stiles has an armful of heavy, naked Hale.</p><p>“I said <em>pants</em>, dude,” Stiles says, stumbling backwards under Derek’s weight.</p><p>Derek uses his momentum to push him up against the wall, caging him in with his arms on either side of his head. He growls, “You are not the love of my life.”</p><p>Stiles scoffs, even though he feels a little like he’s going to pass out from nerves. “Maybe not yet,” he says.</p><p>Derek is all muscle and heat, sweat and earth, with marrow on his breath, like he’s been chewing at his damn bone. He says, “You’re not seeing Scott.”</p><p>“Well, <em>technically</em>—” Stiles starts, and then Derek shuts him up with his mouth.</p><p>One of Derek’s hands slips down to cover Stiles’s stuttering heart, fingers spread, and his teeth are all sharp against his lips, his tongue—Stiles thinks <em>not</em> <em>cornered</em> and <em>don’t run</em> and also <em>holy god</em> as he moves along Derek’s entire naked body, uses the arch of his back to loosen Derek’s hold, and then he tackles him down.</p><p>Hard floor hits his knees. A chair skitters out of their way. Derek <em>laughs</em>.</p><p>Stunned, Stiles smoothes a thumb over the curve of Derek’s lower lip, fascinated with the way his eyes crinkle up at the edges. He presses their grins together, there and gone again, and then changes form.</p><p>Lost in a sea of flannel, he kicks his way out of denim and cotton, digs his back claws into the flat plane of Derek’s stomach, and then takes off down the hall.</p><p>He hears a howl, short and playful, and then the scrabble of claws on tile.</p><p>Maybe dominion over a patch of grass, he thinks, <em>and this</em>.</p></div>
+        <!-- end cache -->
+    </div>
+<!--/chapter-->
+
+    <!--afterword-->
+    <div class="afterword preface group" role="complementary">
+        <!--work endnotes-->
+<div id="work_endnotes" class="end notes module">
+  <h3 class="heading">Notes:</h3>
+  <blockquote class="userstuff"><p>sometimes I write stuff on <a href="http://pantstomatch.tumblr.com">tumblr</a></p></blockquote>
+</div>
+<!--/work endnotes-->
+    </div>
+    <!--/afterword-->
+
+  </div>
+  <!-- END work skin -->
+<!-- END work -->
+
+<!-- BEGIN comment section -->
+<!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="r8jgyWZ319sM1wZAOz2VwjO2yDKkieWa2byfL33WmhA53CLeTKtT8lhtb233ygguPFV31vC29EXdMNjJsXo7pQ"/>
+          <input value="8308063" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?work_id=8308063">Comments (181)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/Animefiend176">Animefiend176</a>, <a href="/users/Serendipitousboffoon">Serendipitousboffoon</a>, <a href="/users/RoaringAnt">RoaringAnt</a>, <a href="/users/GreatGreatBumblebee">GreatGreatBumblebee</a>, <a href="/users/vibrovance">vibrovance</a>, <a href="/users/Ester_Ginn">Ester_Ginn</a>, <a href="/users/One_step_is_all_it_takes">One_step_is_all_it_takes</a>, <a href="/users/Axyel_gnida">Axyel_gnida</a>, <a href="/users/BreneeK">BreneeK</a>, <a href="/users/bqrkxbqrk">bqrkxbqrk</a>, <a href="/users/annieleia">annieleia</a>, <a href="/users/mulletcore">mulletcore</a>, <a href="/users/wistfullywishing">wistfullywishing</a>, <a href="/users/Lyra_19">Lyra_19</a>, <a href="/users/tapiokahearts">tapiokahearts</a>, <a href="/users/Honor_student">Honor_student</a>, <a href="/users/Nekkuable">Nekkuable</a>, <a href="/users/Gimmieurkidneys">Gimmieurkidneys</a>, <a href="/users/Hotel_grandamour">Hotel_grandamour</a>, <a href="/users/Lunynekogirl">Lunynekogirl</a>, <a href="/users/ForgettableFace">ForgettableFace</a>, <a href="/users/Nyxuserium">Nyxuserium</a>, <a href="/users/Samazabini">Samazabini</a>, <a href="/users/Lucy_Lee_Dakota">Lucy_Lee_Dakota</a>, <a href="/users/rigger42">rigger42</a>, <a href="/users/flawlessholland">flawlessholland</a>, <a href="/users/Invictus88">Invictus88</a>, <a href="/users/svenja_smile">svenja_smile</a>, <a href="/users/tarialdarion">tarialdarion</a>, <a href="/users/Wolfera">Wolfera</a>, <a href="/users/LizLeaf">LizLeaf</a>, <a href="/users/newbie24">newbie24</a>, <a href="/users/LoadedEel">LoadedEel</a>, <a href="/users/CoastalMedusa">CoastalMedusa</a>, <a href="/users/Mishtique">Mishtique</a>, <a href="/users/lunar_fistfight">lunar_fistfight</a>, <a href="/users/Sydneybison">Sydneybison</a>, <a href="/users/face_of_bo">face_of_bo</a>, <a href="/users/PocketFullOfStarlight">PocketFullOfStarlight</a>, <a href="/users/kcmunguia">kcmunguia</a>, <a href="/users/bold_code">bold_code</a>, <a href="/users/bitter_zephyr">bitter_zephyr</a>, <a href="/users/jackielupin">jackielupin</a>, <a href="/users/Dexie12345">Dexie12345</a>, <a href="/users/corycaly">corycaly</a>, <a href="/users/ComplicatedHD">ComplicatedHD</a>, <a href="/users/Original_Epsilon">Original_Epsilon</a>, <a href="/users/ZoeMontrose">ZoeMontrose</a>, <a href="/users/Coffeeandotp">Coffeeandotp</a>, <a href="/users/mrgnbrg">mrgnbrg</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/8308063/kudos?before=3800660383">5107 more users</a>
+             as well as 
+          2195 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_8308063">
+  <form class="new_comment" id="comment_for_8308063" action="/works/8308063/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="kSXo_OHwM3ZxZCbiBoG7j4zaeS26Je72su_6eH1laIsHMSrryyy3XyXeT8_KdiZjgznGye4a_ym2Y72escnJPg"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_8308063">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_8308063" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_8308063=new LiveValidation('comment_name_for_8308063',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_8308063.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_8308063">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_8308063" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_8308063=new LiveValidation('comment_email_for_8308063',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_8308063.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_8308063" class="landmark">Comment</label>
+        <textarea id="comment_content_for_8308063" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_8308063" name="controller_name" value="works"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_8308063_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_8308063">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_8308063=new LiveValidation('comment_content_for_8308063',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_8308063.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_8308063.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_8308063" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+<!-- END comment section -->
+<!-- END revealed -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/8308063/hit_count.json")})</script>
+
+
+  </body>
+</html>

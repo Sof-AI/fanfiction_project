@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        symbiosis - Chapter 1 - Emmar - Naruto [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="ZzFgr8JKy5ruW5SJiMEJSrjC2YrD6L7_MXAshKV4JOHh5WxW_PGoD-YRh7u8gaO2ZAwg5PYABQci6Tdq2lizEw"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="JPO7Tdd7-OczWbjzN7EFtHNNqDIzhOYD7H7WTrZxqMSiJ7e06cCbcjsTq8ED8a9Ir4NRXAZsXfv_582gyVE_Ng"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: words:100</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="chapters-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+  <!-- BEGIN work -->
+  <div class="work"><p class="landmark"><a name="top">&nbsp;</a></p>
+      <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+    <li class="chapter entire"><a href="/works/9718403?view_full_work=true">Entire Work</a></li>
+
+
+      <li class="chapter next"><a href="/works/9718403/chapters/22095812#workskin">Next Chapter &#8594;</a></li>
+
+    <li class="chapter" aria-haspopup="true">
+      <noscript>
+        <a href="/works/9718403/navigate">Chapter Index</a>
+      </noscript>
+      <a class="hidden" href="#">Chapter Index</a>
+      <ul id="chapter_index" class="expandable secondary hidden">
+        <li>
+          <form action="/works/9718403/chapters/21919202" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+            <p>
+              <select name="selected_id" id="selected_id"><option selected="selected" value="21919202">1. Chapter 1</option>
+<option value="22095812">2. Chapter 2</option>
+<option value="22497848">3. Chapter 3</option>
+<option value="23260245">4. Chapter 4</option>
+<option value="27338037">5. Chapter 5</option>
+<option value="30779982">6. Chapter 6</option>
+<option value="30950910">7. Chapter 7</option>
+<option value="32926212">8. Chapter 8</option>
+<option value="32952648">9. Chapter 9</option>
+<option value="32952699">10. Chapter 10</option></select>
+              <span class="submit actions"><input type="submit" name="commit" value="Go"/></span>
+            </p>
+</form>        </li>
+        <li><a href="/works/9718403/navigate">Full-page index</a></li>
+      </ul>
+    </li>
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?chapter_id=21919202">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/9718403/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/9718403/symbiosis.azw3?updated_at=1647221479">AZW3</a></li>
+          <li><a href="/downloads/9718403/symbiosis.epub?updated_at=1647221479">EPUB</a></li>
+          <li><a href="/downloads/9718403/symbiosis.mobi?updated_at=1647221479">MOBI</a></li>
+          <li><a href="/downloads/9718403/symbiosis.pdf?updated_at=1647221479">PDF</a></li>
+          <li><a href="/downloads/9718403/symbiosis.html?updated_at=1647221479">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/General%20Audiences/works">General Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Gen/works">Gen</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandom:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Naruto/works">Naruto</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationship:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Haruno%20Sakura%20*a*%20Aburame%20Shino/works">Haruno Sakura &amp; Aburame Shino</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Haruno%20Sakura/works">Haruno Sakura</a></li><li><a class="tag" href="/tags/Aburame%20Shino/works">Aburame Shino</a></li><li><a class="tag" href="/tags/Uzumaki%20Naruto/works">Uzumaki Naruto</a></li><li><a class="tag" href="/tags/Uchiha%20Sasuke/works">Uchiha Sasuke</a></li><li><a class="tag" href="/tags/Hatake%20Kakashi/works">Hatake Kakashi</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Alternate%20Universe%20-%20Canon%20Divergence/works">Alternate Universe - Canon Divergence</a></li><li><a class="tag" href="/tags/Male-Female%20Friendship/works">Male-Female Friendship</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/Suggested_Good_Reads">Suggested Good Reads</a>, <a href="/collections/Excellent_Completed_Gen_Fics">Excellent Completed Gen &amp; Platonic Fiction</a>, <a href="/collections/Empowerment">What if Naruto Characters were Empowered?</a>, <a href="/collections/Konoha_Collection">✧ Konoha Collection ✧</a>, <a href="/collections/aburame_shino_fics">Aburame Shino fics</a>, <a href="/collections/the_peasants_guide">the peasant's guide to fine reading</a>, <a href="/collections/IJustThinkTheyreNeat">Nice fics tbh</a>, <a href="/collections/Real_Good_Shit">Real Good Shit</a>, <a href="/collections/Strongsakura_sakuracentric_sakura">Strong BAMF Sakura</a>, <a href="/collections/IFoundTheseMasterpiecesAndFellInLove">I Found These Masterpieces And Fell In Love</a>, <a href="/collections/narutofanfictiongems">Naruto Treasured Gems</a>, <a href="/collections/Stories_I_Always_Come_Back_To_ki">Repeatki</a>, <a href="/collections/TheBardsRoost">The Bard's Roost</a>, <a href="/collections/Fluffness">Fluffness</a>, <a href="/collections/There_are_no_words_for_this_beauty">There are no words for this beauty</a>, <a href="/collections/Ilovethisthankyouwaaa">This. (Affectionate)</a>, <a href="/collections/Kathryns_Favorite_Naruto_Fics">Naruto Fanfics I Keep Coming Back To</a>, <a href="/collections/Sakuraishere">Sakura🌸</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2017-02-14</dd><dt class="status">Completed:</dt><dd class="status">2018-04-11</dd><dt class="words">Words:</dt><dd class="words">14101</dd><dt class="chapters">Chapters:</dt><dd class="chapters">10/10</dd><dt class="comments">Comments:</dt><dd class="comments">355</dd><dt class="kudos">Kudos:</dt><dd class="kudos">5151</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/9718403/bookmarks">1808</a></dd><dt class="hits">Hits:</dt><dd class="hits">43177</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      symbiosis
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/Emmar/pseuds/Emmar">Emmar</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>Shinobi seem to harbour this bizarre impression that civilians are somehow... <i>soft</i>.</p>
+<p>Sakura aims to disabuse them of this notion.</p>
+<p>(The one where Sakura is a farmer's daughter, and knows better than most the value of hard work and, more importantly, the importance of co-existence within an ecosystem.)</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>This started because I had feelings about Shino and Sakura as friends, and I had to write the fic I wanted to see in the world. This originally existed in my head as three moments of dialogue, all of which appear in this chapter: The desensitisation training, Sakura telling Shino the kikaichu is beautiful, and 'dinner at seven'.</p>
+<p>Also, yes, look, another 'Emma posts the first chapter of a fic that may or may never be updated' day! I do have plans for more of this. But my brain also went 'okay but what if--' for ANOTHER sakura-centric fic, so. there's that.</p>
+<p>(i swear to god, i'm gonna get past the bell test on this one. I PROMISE.)</p>
+    </blockquote>
+
+</div>
+
+
+  </div>
+
+
+
+    <div id="chapters">
+      <!-- This partial requires local variable 'chapter' -->
+<div class="chapter" id="chapter-1">
+  <!-- chapter management -->
+
+
+  <div class="chapter preface group" role="complementary">
+    <h3 class="title">
+      <a href="/works/9718403/chapters/21919202">Chapter 1</a>
+    </h3>
+
+    <!-- only display byline if different from the main byline -->
+
+
+  </div>
+
+  <!--main content-->
+  <div class="userstuff module" role="article">
+    <h3 class="landmark heading" id="work">Chapter Text</h3>
+    <p>Sakura doesn't understand other kids.</p>
+<p>
+Especially the ones at the Academy.</p>
+<p>The thing is, hard work is nothing new to her, not really, and she might not be very strong or very fast, but she managed to make Inuzuka Kiba's nose bleed when she hit him in the face in their spar last week. Iruka-sensei had been quietly horrified in the way adults always are when she does something violent that they don't seem to have expected, and she has to apologise to Kiba formally in front of the whole class - they were just supposed to be doing kata, after all, not actually sparring, but Kiba had said something about her hair and they'd ended up fighting. She's not sorry.</p>
+<p>The thing is, she doesn't have a ninja family like all the other kids - even Uzumaki Naruto's parents were shinobi, apparently - and they seem to look down on her for it, for some reason. She doesn't really get why - she's spent every day of her life since she was old enough to walk helping her mother in the garden. She's the one who helps kaa-san move furniture, and she's the one who carries the groceries home every week. She might not know how to hit like the clan kids do, but her arms have more muscle on them. She can keep running for longer than any of them - except Naruto, but he doesn't really count when he's hardly there anyway, always skipping.</p>
+<p>She's pretty sure half the problem with their teacher, at least, is she remembers Iruka-sensei from when he was Umino-kun instead, and she's pretty sure <em>he</em> remembers <em>her</em> as Sacchan, the girl he used to babysit with his team, instead of as Sakura, the unafraid kunoichi-in-training she so wants to be.</p>
+<p>Still, she has Ino, and that's enough, until it isn't, and she and Ino are suddenly rivals instead of friends, and she plays the part but she <em>hates</em> it. Hates fighting with her friend like this, and some time after the massacre, she stops trying. Sasuke doesn't want them there anyway, that much is clear, and part of her mourns the cheerful boy he was as much as pities the churlish, spiteful young man he's growing into. The only time he really seems engaged with anything in the world around him is when he's mocking Naruto, and it makes her wrinkle her nose, but she firmly tells herself that Naruto's annoying, anyway, and that she doesn't care.</p>
+<p>There's no true, pinpoint moment where things really <em>change</em> for her until a year or two before graduation, when the class go on their survival field trip and get paired up and sent off to find their own dinners. Sakura's partner is a boy she knows by sight but has never exchanged a single word with, Aburame Shino, who even still remains silent when Iruka-sensei calls their names from the list only nods once and sets off into the forest.</p>
+<p>"I don't get why they wanted us to do this in pairs," she admits later, quiet beneath the shrieking and laughter of their classmates as they prepare their various catches for cooking over their campfires. She's been laying snares for small game since before she started the academy, as soon as her mother declared her hands dexterous enough for the work.<br/>"It is to give us someone to speak with," says Shino, pushing his sunglasses further up his nose as he strips bark from the branch they chose to use as a spit. "Why? Because the aim of this exercise is to begin desensitising us to causing death with our own hands."<br/>"Oh," Sakura says, and skins the rabbit in a single, efficient movement. Shino offers up the clean branch.</p>
+<p>It's the beginning of a beautiful friendship.</p>
+<p>She approaches him at lunch the next day, seeing him sitting alone, just as she has always done, and it's hard to tell with him if it's by choice or not.</p>
+<p>"Ne, Aburame-san," she says, bento in hand, "can I sit with you?"</p>
+<p>Shino blinks, visibly unprepared for the question.</p>
+<p>"Most would not wish to," he says, as he shuffles sideways to give her space beneath the shade of the tree. "Why? Because of the way my clan houses our kikaichu inside our bodies."</p>
+<p>Sakura wrinkles her nose as she sits, unwrapping her lunch carefully. "That's dumb," she says around a mouthful of rice. "They need you to live, right, and you need them for your jutsu and stuff?"<br/>
+"Correct."<br/>"That's just-- basic ecology!"</p>
+<p>Shino is silent for a long moment, and when she looks up from her lunch, he's <em>looking</em> at her, intent and intense, and she blinks.</p>
+<p>"What?"<br/>"Many do not see it that way," he says at length, and she shrugs a shoulder.<br/>"Then they're dumb, like I said. Can I see one?"<br/>"...Yes," he says, and out of his sleeve emerges a tiny beetle, barely bigger than her thumbnail, its shell shiny and iridescent. It wanders along his outstretched hand and, once perched on the end of his finger, opens and closes its wings once, and then waves its antennae in Sakura's direction.</p>
+<p>She laughs, delighted, and claps her hands together, leaning closer to get a better look. "Hello," she murmurs, and the beetle waves its antennae again. "It's beautiful!" she tells Shino, who this close is quite obviously startled by the exclamation, but he nods, and the kikaichu trundles its way back under his coat and, presumably, his skin. "How intelligent are they individually? How big's the queen?"<br/>"Ah," says Shino, turning his attention back to his lunch, but there's a blush just visible under the edge of his glasses. "Each individual kikaichu may be compared, I suppose, to a civilian puppy. Why? They do not need to be any more intelligent than that, individually, as their strength is in the hive. The queen is perhaps three or four times larger than the workers, though she will grow larger as I age."</p>
+<p>---</p>
+<p>Sakura heaves a quiet sigh as Iruka-sensei calls out the members of the soon-to-be Team Seven, thumps her head on her desk. Between her folded arms, a small beetle waves its antennae at her, and she manages a smile. Shino had been right, all those years ago, comparing his kikaichu to puppies. They're not very smart, per se, but they're good at sensing emotion. And, like puppies, they don't quite seem to know what to do about it, other than make their presence known. She wriggles her forefinger in response, and the kikaichu, satisfied, crawls off the edge of the table to return to its master.</p>
+<p>It's not that she isn't looking forward to being on a team, being a <em>real shinobi</em> at last, but-- well, it's pretty obvious that she's the weak link in the team. Naruto may be one of the most annoying people she's ever encountered, but his unconventional taijutsu has won him more than a few bouts over the years, and his traps are <em>good</em>. Sasuke is, well, <em>Sasuke</em>, and she's done enough research about the jounin in the village to know that there was never anyone else he'd be put with than Hatake Kakashi, the only other living bearer of a sharingan that isn't Sasuke's <em>murderous brother</em>. And her? She's just the best kunoichi in the class, but compared to the clan kids, she's nothing. Shino's team is going to be a tracking one, though honestly, an Inuzuka, a Hyuuga <em>and</em> an Aburame kind of seems like overkill to her. Team Ten isn't even one that needs thinking about; Inoichi-san once joked that he, Chouza and Shikaku planned their wives' pregnancies around another Ino-Shika-Cho, and it's not a stretch to think he wasn't much joking.</p>
+<p>Team Seven, though-- they're going to have to be an assault team, surely. With a tracker team and a capture team, the only other possible option left is sabotage, and that's-- honestly, they're not at war, so an entire genin team of saboteurs seems... unnecessary. An apprentice here or there, sure, but not a whole team. So she's left to come to the conclusion that she's the expendable one, the one they put in the empty slot to fill out the team. It's not what she wants for herself.</p>
+<p>The other teams are filing out, following their sensei, and Sakura settles in for a long, long wait. Hatake Kakashi is, after all, known for being late. Notoriously so.</p>
+<p>"Sensei," she hears Shino say, and looks up to see him paused, by the door, his teammates following Yuuhi Kurenai out of the door. "One moment, please."</p>
+<p>"Of course, Shino-kun," Kurenai says, with a gentle smile and not a hint of the bewilderment she must be feeling - Sakura has no doubt that Shino's file marks him very much the loner.
+<br/><br/>And then, the dramatic <em>bastard</em>, he draws the attention of the entire class, various jounin and chuunin sensei included, when he says only, "Sakura." She blinks as every eye swivels to her, tilts her head ever so slightly and waits for him to continue. "Okaa-san expects you for dinner at seven."</p>
+<p>Sakura grins, wide and a little awed, because he couldn't have more clearly declared her as under the Aburame's protection if he'd <em>kissed</em> her. There will be no subtle slights against her for her heritage now.</p>
+<p>"Of course, Shikkun!" she replies brightly, and he doesn't so much as twitch at the once much-maligned nickname, only nods, turns on his heel and leaves, leaving a stunned classroom behind him.</p>
+<p>As soon as Kurenai, not hiding her confusion at all now, gathers her other two genin and ushers them out, the room explodes into noise. Some of them are yelling at Sakura, some at each other - Naruto is staring at her slack-jawed, utterly struck dumb for once - and in the melee, Iruka-sensei sidles over until he's stood casually beside her desk.</p>
+<p>"Shikkun, huh?" he says, barely audible, and she smiles up at him.<br/>"It may have stuck partly because he complained about it so much. Well, as much as he ever complains about anything."<br/>"Hmm," says Iruka-sensei, and he pats her on the shoulder. "I think you'll do fine... <em>Sacchan</em>."<br/>"<em>Sensei</em>," she whines, and hopes like hell he doesn't think to drop that particular nickname into any conversation he happens to have with Shibi-sama any time soon.</p>
+<p>(It's a futile hope.)</p>
+<p>Their sensei does turn up, eventually, even later than she'd anticipated, and she narrows her eyes at him when he lets the board eraser thump onto his silver hair. She keeps on squinting as he goes through his utterly uninformative introduction, and only smooths her face out when it's her turn to introduce herself.</p>
+<p>"My name is Haruno Sakura," she says, "and I like Suna aubergine, salmon sashimi, and spending time with Shino. I dislike people who don't understand the impact insects have on an ecosystem, shinobi who look down on civilians, and plucking game birds. My hobbies include camping, gardening, and reading. My dream-- I want to prove that civilian-born shinobi are just as good as clan-born. On a more quantifiable level, I want an A-rank bingo book rating. At least. Flee on sight would be nice."</p>
+<p>Kakashi-sensei blinks, just once, slow and dramatic, as Naruto demands to know what a bingo book is, what does ecosystem mean, as Sasuke's gaze burns into the side of her face.</p>
+<p>"Well," says her new sensei, "that's... an ambition." Then his eye crinkles up into what passes for a smile, and he adds, "let's see what we can do about realising it, ne?"</p>
+<p>Yeah, she thinks, this'll do. Team Seven is something she can make work.</p>
+<p>"Was that all, Kakashi-sensei?" she says after he informs them of their survival training in the morning, <em>meet at six</em>, so she figures a hearty breakfast and turning up at eleven should be fine. "I have dinner plans, is all."<br/>"Oh?" he says. "Hot date, Sakura-chan?"<br/>"Shiori-ba-sama will be <em>so</em> disappointed if I'm late," she tells him, putting just the right amount of whine into her voice, and he can see straight through the manipulation, she <em>knows</em> he can, but he just smiles - a real one, this time, she can see it under the mask - and tips his head to one side.<br/>"Maa, I wouldn't want to disappoint Aburame Shiori. I guess you'd better get going."<br/>"Thanks, sensei! See you tomorrow!"</p>
+<p>Sakura takes the rooftops to the Aburame compound, much too entertained by Naruto's squawk as she throws herself over the railing of the academy roof.</p>
+  </div>
+  <!--/main-->
+
+
+</div>
+
+<!-- end of cache -->
+
+    </div>
+  
+  
+    </div>
+    <!-- END work skin -->
+  </div>
+  <!-- END work -->
+
+  <!-- BEGIN comment section -->
+  <!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+      <li><a href="/works/9718403/chapters/22095812#workskin">Next Chapter &#8594;</a></li>
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="p36M_TvvVQr8DnhsE2OwthJcTrupomn4bd3imxlAOG0hqoAEBVQ2n_REa14nIxpKzpK31ZxK0gB-RPl1ZmCvnw"/>
+          <input value="9718403" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?chapter_id=21919202">Comments (24)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/General_Cre">General_Cre</a>, <a href="/users/Ayana567">Ayana567</a>, <a href="/users/SomeoneElseMember">SomeoneElseMember</a>, <a href="/users/Catoncoffee">Catoncoffee</a>, <a href="/users/Kalissandra">Kalissandra</a>, <a href="/users/Animus_Melodiam">Animus_Melodiam</a>, <a href="/users/yasha1995">yasha1995</a>, <a href="/users/Lee_Queen">Lee_Queen</a>, <a href="/users/Zombieguy223">Zombieguy223</a>, <a href="/users/Nikkia">Nikkia</a>, <a href="/users/Anastasia_Romanov">Anastasia_Romanov</a>, <a href="/users/ApatheticAltruistic">ApatheticAltruistic</a>, <a href="/users/absurdistMaboroshi">absurdistMaboroshi</a>, <a href="/users/DabMaster27">DabMaster27</a>, <a href="/users/Caffae">Caffae</a>, <a href="/users/fogogo">fogogo</a>, <a href="/users/Trop_sucre">Trop_sucre</a>, <a href="/users/RyuuSiren7">RyuuSiren7</a>, <a href="/users/kaos_sparrow">kaos_sparrow</a>, <a href="/users/Janaoliver">Janaoliver</a>, <a href="/users/boyblue">boyblue</a>, <a href="/users/unknownreader93">unknownreader93</a>, <a href="/users/AnnurTsubaki">AnnurTsubaki</a>, <a href="/users/cocoyumu">cocoyumu</a>, <a href="/users/Megasour">Megasour</a>, <a href="/users/Ladyroyalkitty">Ladyroyalkitty</a>, <a href="/users/PolkadotBear">PolkadotBear</a>, <a href="/users/kyumcakes">kyumcakes</a>, <a href="/users/Kyrrh">Kyrrh</a>, <a href="/users/SirenWolf">SirenWolf</a>, <a href="/users/TinkaBELL13">TinkaBELL13</a>, <a href="/users/CinmnApple">CinmnApple</a>, <a href="/users/gemiinous">gemiinous</a>, <a href="/users/XiaoXiaJia">XiaoXiaJia</a>, <a href="/users/Chapter_Thanker">Chapter_Thanker</a>, <a href="/users/cupcake_eating_pigeon">cupcake_eating_pigeon</a>, <a href="/users/Rydner">Rydner</a>, <a href="/users/makaroshyna">makaroshyna</a>, <a href="/users/Cielo27">Cielo27</a>, <a href="/users/shisuiswifey">shisuiswifey</a>, <a href="/users/DarknessConsumesAll">DarknessConsumesAll</a>, <a href="/users/Orchido">Orchido</a>, <a href="/users/AvatarAchrel">AvatarAchrel</a>, <a href="/users/Emmilou1980">Emmilou1980</a>, <a href="/users/masson345">masson345</a>, <a href="/users/ThalassaOfManyWaters">ThalassaOfManyWaters</a>, <a href="/users/jameisname">jameisname</a>, <a href="/users/Veritasium">Veritasium</a>, <a href="/users/HoopsIDidItAgain">HoopsIDidItAgain</a>, <a href="/users/Yakuru">Yakuru</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/9718403/kudos?before=3822944230">3402 more users</a>
+             as well as 
+          1699 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <p class="notice">
+      Sorry, this work doesn&#39;t allow non-Archive users to comment.
+      You can however still leave Kudos!
+    </p>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+  <!-- END comment section -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/9718403/hit_count.json")})</script>
+
+
+  </body>
+</html>

@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        From the Mouths of Babes - CAPSING - Multifandom [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="u6KogF3y9vsJQAc1A8LCH9QaS2nr46oqEC6zw7Bp9RbUoGdrL7KUFt2gUYt3xgkGFPDV2PgG-Z4VWO_XbLEIXg"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="Aq1YOObtWf7gwahe9BgSqM3g0GOqoUt6SoZI5YWoGkxtr5fTlK07EzQh_uCAHNmxDQpO0rlEGM5P8BTxWXDnBA"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: buffy gen teen AND &quot;no archive warnings apply&quot;</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="works-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<ul class="landmark skip">
+  <li><a name="top">&nbsp;</a></li>
+  <li><a href="#work">Skip header</a></li>
+</ul>
+
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+<!-- BEGIN revealed -->
+<!-- BEGIN work -->
+<!--work description, metadata, notes and messages-->
+    <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?work_id=12292941">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/12292941/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/12292941/From%20the%20Mouths%20of%20Babes.azw3?updated_at=1631170016">AZW3</a></li>
+          <li><a href="/downloads/12292941/From%20the%20Mouths%20of%20Babes.epub?updated_at=1631170016">EPUB</a></li>
+          <li><a href="/downloads/12292941/From%20the%20Mouths%20of%20Babes.mobi?updated_at=1631170016">MOBI</a></li>
+          <li><a href="/downloads/12292941/From%20the%20Mouths%20of%20Babes.pdf?updated_at=1631170016">PDF</a></li>
+          <li><a href="/downloads/12292941/From%20the%20Mouths%20of%20Babes.html?updated_at=1631170016">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Teen%20And%20Up%20Audiences/works">Teen And Up Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Underage/works">Underage</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Spider-Man:%20Homecoming%20(2017)/works">Spider-Man: Homecoming (2017)</a></li><li><a class="tag" href="/tags/Spider-Man%20-%20All%20Media%20Types/works">Spider-Man - All Media Types</a></li><li><a class="tag" href="/tags/Deadpool%20(Comics)/works">Deadpool (Comics)</a></li><li><a class="tag" href="/tags/Marvel/works">Marvel</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationships:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Peter%20Parker*s*Wade%20Wilson/works">Peter Parker/Wade Wilson</a></li><li><a class="tag" href="/tags/Deadpool*s*Spider-man/works">Deadpool/Spider-man</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Peter%20Parker/works">Peter Parker</a></li><li><a class="tag" href="/tags/Spider-Man/works">Spider-Man</a></li><li><a class="tag" href="/tags/Ned%20Leeds/works">Ned Leeds</a></li><li><a class="tag" href="/tags/Wade%20Wilson/works">Wade Wilson</a></li><li><a class="tag" href="/tags/Deadpool/works">Deadpool</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Age%20Difference/works">Age Difference</a></li><li><a class="tag" href="/tags/(WHICH%20IS%20THE%20MAIN%20THEME%20OF%20THE%20STORY%20HEED%20THE%20WARNINGS)/works">(WHICH IS THE MAIN THEME OF THE STORY HEED THE WARNINGS)</a></li><li><a class="tag" href="/tags/Canon-Typical%20Violence/works">Canon-Typical Violence</a></li><li><a class="tag" href="/tags/Internalized%20Victim%20Blaming/works">Internalized Victim Blaming</a></li><li><a class="tag" href="/tags/(how%20is%20this%20not%20a%20tag)/works">(how is this not a tag)</a></li><li><a class="tag" href="/tags/Unreliable%20Narrator/works">Unreliable Narrator</a></li><li><a class="tag" href="/tags/(sorta)%20-%20Freeform/works">(sorta) - Freeform</a></li><li><a class="tag" href="/tags/Self-Harm/works">Self-Harm</a></li><li><a class="tag" href="/tags/Pre-Slash/works">Pre-Slash</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/RicoDC4M">DC&amp;Marvel</a>, <a href="/collections/MarvelUniverseFics">Marvel(ous)Universe</a>, <a href="/collections/Avidreaders_Spiderman_completed_faves">Avidreaders Spiderman completed faves</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2017-10-08</dd><dt class="words">Words:</dt><dd class="words">6771</dd><dt class="chapters">Chapters:</dt><dd class="chapters">1/1</dd><dt class="comments">Comments:</dt><dd class="comments">324</dd><dt class="kudos">Kudos:</dt><dd class="kudos">4478</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/12292941/bookmarks">670</a></dd><dt class="hits">Hits:</dt><dd class="hits">37399</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      From the Mouths of Babes
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/CAPSING/pseuds/CAPSING">CAPSING</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p>“There’s a guy who’s been flirting with me.”<br/>“Mhmm,” Ned turns to Peter, swallowing his bite. “Is he hot?”</p>
+<p>(Or: Deadpool starts hitting on Spider-Man, unaware he’s a minor; ignorance turns up not to bring any bliss to either of them.)</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>missed me? <a href="https://www.youtube.com/watch?v=z6DJmp21vcQ" rel="nofollow">( ͡° ͜ʖ ͡°)</a></p>
+<p><b>ATTENTION</b>. In case it wasn’t clear – this story deals with a teenager’s emotional turmoil after being approached by an older man. If this type of content triggers you, please avoid reading it. ♥</p>
+<p>*<br/><a href="https://twitter.com/spillingdown/status/969278385468841984" rel="nofollow">Now with wonderful artwork by spillingdown</a>, THANK YOU SO MUCH HUN! ♥<br/>*<br/>Now with EVEN MORE ART - <a href="https://chubi-des.tumblr.com/post/174445456716/you-should-read-from-the-mouths-of-babes-by" rel="nofollow">a comic from the story!</a> by Chubi-des - YOU'RE THE BEST! ♥</p>
+    </blockquote>
+
+    <p class="jump">(See the end of the work for <a href="#work_endnotes">more notes</a>.)</p>
+</div>
+
+
+  </div>
+
+
+<!--/descriptions-->
+
+<!--chapter content-->
+    <div id="chapters" role="article">
+        <h3 class="landmark heading" id="work">Work Text:</h3>
+          <div class="userstuff"><p> “There’s a guy who’s been flirting with me.”</p>
+<p>It takes Peter two weeks to finally say it out loud. Not that loud, though, since they’re in school and the cafeteria is the fertile ground from which gossip flourishes and spreads through the grapevine – but loud enough for Ned not to ask him to repeat it.</p>
+<p>Ned, he notes from the corner of his eyes, seems surprisingly unsurprised by the admission.</p>
+<p>“You’ve finally caught onto Flash?” Ned asks and half-snorts into his juice-box. “About time, slowpoke! He’s been after you since fifth grade, Peter– “</p>
+<p>“What?!” Peter squeaks, loudly, then hastily looks around to check; but no one turns to look at him.</p>
+<p>“Not Flash then,” Ned hums thoughtfully, taking another bite from his sandwich. He’s halfway into his bite before he startles, eyes growing wide, and the sandwich drops from his lax grip. It falls onto the tray, making the juice box rock around precariously – and Peter hastily grabs it to still his own racing heart and keep Ned’s shirt clean from any food-related accidents.</p>
+<p>“Is it– holy shit, Peter, is it <em>Stark</em>?”</p>
+<p>Peter recoils from the notion so suddenly he squeezes the box in his hand; fortunately, it was nearly empty, but not empty enough as to not splatter Peter’s shirt and his hand with just enough orange juice to sugarcoat Peter’s skin with its stickiness.</p>
+<p>“<em>Ew</em>– Ned, what the hell?!” Peter can’t spare a glare to Ned as he tries to find some napkins to clean his shirt with. He still has four more periods to go, then the Math Club activities, and the juice makes it look like someone peed on his shirt.</p>
+<p>“You’re the one who’s back on the <em>internship</em>,” Ned stresses the word, and Peter has a queasy feeling in his gut when Ned uses air-quotes.</p>
+<p>“Mr. Stark is <em>Aunt</em> <em>May’s</em> age,” Peter hisses as he crumples his used napkin to dry his hand, “And even if he wasn’t– he’s <em>Tony Stark</em>.“</p>
+<p>Ned shrugs. “I ain’t here to judge.” He picks the sandwich back, and Peter lets a long, frustrated huff of air from his nose, turning to glare at his food tray, apatite lost.</p>
+<p>“It’s in-costume we’re speaking of, yeah?” Ned asks, and Peter nods, the question making his stomach flip.</p>
+<p>“If Stark’s not your Sugar Daddy,” Ned says and Peter cringes, looking around to make sure they’re still as uninteresting as they always were, and thanks God Michelle is nowhere at sight, “Who is this guy?” </p>
+<p>“I don’t know,” he uses his fork to poke at the unappetizing mush on his dish tray, still uncomfortable with Ned’s teasing. “I’ve met him on patrol couple of days ago, and now he’s turning up everywhere I go.”</p>
+<p> “Mhmm,” Ned turns to Peter, swallowing his bite. “Is he hot?”</p>
+<p>‘<em>He’s a Superhero, what do you think?</em>’ He wants to snark back as his cheeks flush, but instead just shakes his head.</p>
+<p>“Never mind, dude.” Peter shoves the food into his mouth – because he paid for it – distracts Ned with news about the new Star Wars, and sulks throughout the school day.</p>
+<p> </p>
+<p>The foiled shirt, unfortunately, keeps sticking to his skin.</p><hr/>
+<p>“I’ve been thinking about that guy,” Ned says later that day, when they’re both playing Tekken at his place. Peter hums in acknowledgment, not really listening, concentrating on not losing the match (and also not accidently crushing the controller; he can’t afford to buy Ned a replacement). Ned is continuing his strike of victories, making a throne of his own bed, with Peter sitting on the carpet next to some textbooks and half-assed homework assignments. No matter how many times Peter picks a different character, Ned’s Panda crushes them like recyclable bamboo dishes.</p>
+<p>“You should tell Stark about it. Figure out the Superhero-Etiquette to flirting in costume.”</p>
+<p>Peter flinches slightly as Ned wipe the floor with him, then sighs and puts the controller down.</p>
+<p>“Stark’s busy, he doesn’t have time for such things.” He runs a hand through his hair, and lets his eyes stray towards the window, where the bricks of the neighbouring building are the colour of rust, faded by sunlight. “And that’s not like–“ Peter stops mid-sentence, chewing his bottom lip. “The thing is. The guy?”</p>
+<p>Ned hums quizzically.</p>
+<p>“He’s kinda… old.”</p>
+<p>“Old?” Ned frowns. “Like Stark-old, or <em>old-</em>old?”</p>
+<p>“I don’t know,” Peter shrugs with one shoulder, fidgeting in place. He feels strange; he wants to talk to Ned about it, but at the same time – doesn’t. He’d tried repressing the whirlwind of emotions the encounters flare-up in him, and it leaves him feeling hollow and worn-out. He doesn’t know how to explain himself to Ned, who keeps asking mundane questions instead of– of the things Peter wants him to ask.</p>
+<p>But he doesn’t know what those things <em>are.</em></p>
+<p>“He’s just– “ Peter starts plucking at the carpet lightly, not sure how to define the vibe of their conversations, the intonation the man uses when he’s talking to Peter, that makes Peter sure the guy’s in a whole different league. “<em>Older</em>, you know?”</p>
+<p>He glances up at Ned, who’s looking unsure, and feels stupid for even bringing it up.</p>
+<p>“Peter,” Ned says in that tone of his that a decade of friendship helps to translate as ‘worried’, “I think– “</p>
+<p>“Mr. Stark wouldn’t want to hear about such things, Ned.” He picks the controller up, and turns his eyes back onto the screen. “He’s got things to do.”</p>
+<p><em>‘And I’ve been enough of a nuisance’, </em>Peter doesn’t add, and picks Leopard-Man this time.</p>
+<p> </p>
+<p>Peter is Spider-Man.</p>
+<p>He can live with some guy flirting with him.</p>
+<p>It’s no big deal.</p>
+<p> </p>
+<p>(He loses, but at this point, Peter can’t quite bring himself to care.)</p>
+<p> </p><hr/>
+<p>Patrols are becoming an increasingly uncomfortable thing.</p>
+<p>Anxiety, rather than excitement, curls in Peter’s gut every time before he puts on the suit; stripping halfway in alleyways seems like a poor decision, but with the sweltering summer heat he can’t wear the costume under causal wear. Conversations with wandering tourists and distressed citizens are becoming curter, and Peter can’t help but looking over his shoulder at every turn. Even just chilling on a rooftop loses its appeal, with Peter feeling exposed, a nagging urge to retreat to his home poking at him insistently as he watches the sky blur with the warm hues of the sunset.</p>
+<p> </p>
+<p>The days pass.</p>
+<p>Ned doesn’t bring the subject up, and Deadpool doesn’t actually show up – and each day he doesn’t, Peter feels the unfounded apprehensiveness that’s been pressing down his shoulders growing more and more oppressive.</p>
+<p>Idleness is not his forte; Peter takes matters into his own hands, and starts researching.</p>
+<p>There’s not much about the guy on the internet; Google (and even Bing – yes, he went there) show nothing more than yearly news-articles on the dangers of pools and people who had drowned in them, or pool parties that ended up as another case of unnecessary police brutality. Peter takes extra care to assure Stark wouldn’t be able to tell what he’s doing; after the tracker installed in the suit, Peter took to assuming Stark is monitoring whatever he can of him.</p>
+<p>He could come and ask questions Peter doesn’t have the answers to; better avoid it.</p>
+<p>Maybe Deapool’s new to the business – like Peter – he thinks as he stares at the ceiling of his bedroom, clutching his worn teddy bear, Einstein, close.</p>
+<p>(It’s not like Peter needs him to fall asleep; he’s just used to it, and it’s not like he has anyone over other than Ned.)</p>
+<p>The name’s weird enough, but Peter doesn’t bother to question it – or him, the man who goes around under the alias of <em>Deadpool</em>; he doesn’t want to encourage him or unintentionally lead him on. If it wasn’t the media that coined his name, it might be some government agency – like <em>Iron Patriot</em>, which wasn’t a much better name, all in all.</p>
+<p>It’s not that he actually did something to Peter, physically – other than saving Peter’s life, that is, but otherwise it was no more than a light brush of knuckles against Peter’s upper arm or a friendly slap on the back. Yet his presence makes Peter incredibly uncomfortable, so much so that his skin gets goosebumps and his chest feels tight. He doesn’t know anything about the guy – and, disheartened, Peter feels a small amount of empathy for his own personal critics, calling after Spider-Man for accountability even after all his selfless heroic acts.</p>
+<p>If only he’d stop with those suggestive comments–</p>
+<p>Deadpool’s funny, quirky and unpredictable. He has sharp wits about him and an impressive presence, a cloak of confidence Peter hopes he, too, would develop at some point in his life. He would never admit it to Ned, but he <em>is </em>hot, has the toned thick body build Peter would never have with his own lean muscles and scrawny genetics.</p>
+<p>To think a man like that would even give Peter a second look–</p>
+<p>Peter feels the tips of his ears growing warm as he blushes, and buries his face against Einstein, embarrassed. Deadpool’s interest in Peter is flattering, at some level, but the blatant sexual suggestiveness just– just sits wrong with him.<br/>
+He doesn’t get what’s <em>wrong</em> with him, why can’t he just enjoy it, just accept it and move on with his life.</p>
+<p>It’s just <em>flirting</em>.</p>
+<p>The recent attention he’d been getting as Spider-Man hasn’t yet settled well with Peter. He always considered himself to be rather plain-looking – not unattractive, but far from being eye-catching, the kind that’d turn around heads and have phone numbers shoved at him. Being his aunt’s nephew, he’s had but a glimpse to how different life are for attractive people – getting nicer service at the government offices at the mere cost of a smile, having everyone give you stuff and say it’s “on the house” in the hopes of garnering your attention.</p>
+<p>He’d come to accept it – some people were born to be pretty, to carry their looks with grace and easy-going chuckles – and other people, like Peter, were not. It’s better this way; Peter has never been particularly good with anything more than small amounts of social interaction at a time. Being Spider-Man did attract a lot of looks – but the mask gave him security people didn’t have on a day-to-day basis.</p>
+<p>Peter’s feet feel cold despite the weather, but he doesn’t want to get out of bed. He rubs each against his calves, taking turns, turning the thoughts in his head.</p>
+<p>Was it because Deadpool’s a man?</p>
+<p>He tries to imagine the same things coming out of a woman, instead; a curvy version with a playful smile.</p>
+<p>He grimaces. If it hadn’t been so hot – or if he’d had air conditioning – he’d take cover under his blanket, to hide from that thought; instead, he curls tighter into himself, absently grabbing his ankles to ground himself.</p>
+<p>There’d been a few women who’d made a pass at him, and fewer who’ve left Peter feeling uneasy after he’d carried them to safety – like he’d just been groped. But he was quick to dismiss those occasions – people flailed when they panicked, and who could blame them for grabbing at certain inappropriate places when they were being manhandled through the air?</p>
+<p>The memory of a thick floral scent floods his nostrils, and he shudders, pushing it away from his mind.</p>
+<p>Not a gender thing, then.</p>
+<p>Was the queasiness coming from not being used to it, then? Just the oddness of something new, the feeling that fills one’s self after being complimented, which Peter had never been good at accepting. It feels different from being acknowledged by one of his teachers, though, or from the times when Mrs. Rossi thanks him for helping her with her groceries, or when Mr. Rouhani – a wrinkled cobbler with a shop down the street, old enough to be his grandfather – tells him he’s grown into a handsome young man, pinches his cheeks and offers him sweets.</p>
+<p> </p>
+<p>Peter stares at the clock and mourns the lost time he’d spent with his thoughts instead of sleeping. The grip on his ankles tightens.</p>
+<p>He’s overthinking it, like he always does when other people are involved. Reading too much into things that aren’t there, stressing over reasons that are just excuses for his anxiety to show through.</p>
+<p>He’s Spider-Man, and if he wants to live up to that name, he can’t freak out over such trivial things.</p>
+<p>Deadpool saved him a monstrous hospital bill, Peter chides himself, not to mention <em>saved his life and took a bullet for him</em>. He ought to respect that a much greater deal than his quips about Peter’s ass, and stop being such a- such a prissy <em>brat</em> about some jokes.</p>
+<p>Besides, he assures himself as he closes his eyes, Mr. Stark always flirts – it’s natural, when you’re an adult.</p>
+<p>(Peter thinks of the half-hug they shared in the car, how different Mr. Stark’s tactility, how natural and uninvasive it is, how he lets go a moment before it becomes too much.)</p>
+<p>(Peter doesn’t think about the fact that for all his playboy tendencies, Mr. Stark had never – even jokingly – flirted with him.)</p>
+<p> </p>
+<p>(After all, it wasn’t a big deal.)</p>
+<p>(It’s just flirting.)</p>
+<p> </p><hr/>
+<p>It happens when he least expects it too.</p>
+<p>Deadpool hadn’t been around for over a week, and Peter started to loosen up, telling himself it’s proof he was just overreacting. Deadpool wasn’t stalking him, and the anxiety Peter had about him not showing his face smoothed over with Peter rationalizing it night after night.</p>
+<p>He’d just finished rescuing a cat from a tree. He’s feeling pretty good about himself; the cat hadn’t scratched him and behaved better than some of the people Peter rescued in the past, and the man he’d given him back to promptly burst into tears when he got his cat back. Peter thinks how nice it is, to see people that care so much about their animals, and rounds up a corner to collide against a brick wall.</p>
+<p>A relatively soft brick wall.</p>
+<p>“Walked right into this one,” a familiar gravelly voice tells him cheerfully. “Lucky catch!”</p>
+<p>For a moment, Peter blanks out; there’s a strong arm wrapped around his waist, keeping him from falling, and far-too-much spandex pressing against his own.</p>
+<p>“Deadpool,” he greets, stilted, and tries to wiggle his way out tactfully.</p>
+<p>“Spidey,” Deadpool coos back, “I’ve missed you, love-bug.”</p>
+<p>The uncomfortable feeling Peter had returns with a vengeance; the grip around him feels constricting, worse than the clutches of the Vulture that dug into his skin. Suddenly, he’s not that sure that deactivating Karen to avoid Stark’s monitoring this very conversation had been a good call, on his part.</p>
+<p>“Can you let me go?” Peter asks, and after a moment adds “Please.”</p>
+<p>“Only temporarily, Spidey,” Deadpool sounds chipper under his mask, and squeezes Peter close for less than a second, before releasing him. “You know how much I’d love to get all close and personal with you.” Deadpool leans forwards, and Peter flinches back, before berating himself for being rude.</p>
+<p> </p>
+<p>‘<em>It’s just flirting</em>’, he tells himself firmly.</p>
+<p> </p>
+<p>“How have you been?” Peter tries to divert the conversation, subtly inching to clear his personal bubble from any invading bodies. “I haven’t been seeing you around, lately.”</p>
+<p>“Oh, here and there, you know how it is,” Deadpool replies glibly, which gives Peter literally nothing to work with further. “But no more of that! I’m now free to bug you, <em>sugar</em>.”</p>
+<p>Peter cringes at the pet-name, Ned’s previous teasing feeling far more potent than before, and realizes it’s not going to work. He must put his foot down and stop it before they walk any further down this road, wherever it may lead.</p>
+<p>“Listen, Deadpool.” The man is immediately attentive; Peter feels his lower back turning sweaty, despite Mr. Stark’s design which is meant to keep his body temperature cool, even when its covered from head to toe. Somehow, the man’s attentions make Peter feel like he’s standing at the center of a target practice, and from what he’d seen, Deadpool is pretty efficient with his guns.</p>
+<p>“Can we–“ Peter clears his throat. “Can we go someplace and talk?”</p>
+<p>“We can do more than talk, Spidey,” Deadpool wiggles his eyebrows through his overly-expressive mask, and Peter grimaces.</p>
+<p>“Just talk, Deadpool.”</p>
+<p>“<em>Fine</em>,” Deadpool heaves a heavy sigh, pouting, and crosses his arms over his chest, making his biceps bulge.</p>
+<p>Peter feels his mouth turn dry.</p>
+<p>“Lead the way, Spidey.” He gestures with a tip of his head. “I’m being a gentleman, by the way. Totally not doing it to stare at your ass, or anything.”</p>
+<p> </p>
+<p>The Talk, Peter thinks, suddenly seems long-overdue.</p><hr/>
+<p>They end up on a rather isolated roof, not so long after. Peter’s stomach is cramping with nerves after Deadpool blatantly ogled him, but there’s nothing to do but let the truth out. The dry gusts in the air offer no comfort, and Peter would much rather sink back into the hassle and buzz of the city, rather than be doing this.</p>
+<p>“Listen, Deadpool.” He starts, unsure, feeling wrong-footed. Bringing the guy all the way to some isolated place must’ve given him some <em>ideas</em>, and he’s going to think Peter is such a huge jerk–</p>
+<p>“Yes, sweetcheeks?” Deadpool says easily, stretching his limbs in various warm-up exercises for no particular reason.</p>
+<p>“You– You need to stop doing that.”</p>
+<p>“Exercising? Healthy mind in a healthy body, Spidey– not that either are particularly healthy, y’know, but a man’s gotta do what a man’s gotta do– speaking of which, are <em>you</em> doing anyone– “</p>
+<p>“This!” Peters cuts him off. “That–”  He waves his hand in front of him, as if shaking it would help the right words roll out of his mouth.</p>
+<p>“This and that?” Deadpool repeats, sounding confused.</p>
+<p>“<em>No,</em>” Peter gesticulates widely, frustrated at how badly he’s managing the situation. “That– that <em>flirting</em> thing you do.”</p>
+<p>There’s a small shift in Deadpool’s stance, and Peter’s Spider-Sense starts buzzing in his head, alert; but the danger would’ve been clear, even with Peter’s pre-existing human instincts.</p>
+<p>“Homophobia is very unbecoming on you, young man,” Deadpool says as if in jest, but there’s a hard edge to his words, like a jagged glass coat, one that Peter only vaguely heard over the adrenaline when they’ve first met, when Deadpool just stood up after being shot – one that Deadpool used when speaking to the person at the other side of the barrel of his gun.</p>
+<p>“I’m– I’m not– “<br/>
+<br/>
+“Not what?” Deadpool’s voice is losing its niceties, which leaves it gruff, scraping like sandpaper against Peter’s shaky confidence. “You sure ain’t Shia LeBeouf, even with all this stuttering you’re doing here, so you’d have to help me here, Spidey. A homophobe? Young? Man?”</p>
+<p>“T–that–!” Peter manages, distress tying his tongue up in knots, embarrassment clogging his brain from being able getting his point across clearly. He wants to look away, but can’t afford to – which adds considerable strain onto his cognition.</p>
+<p>The buzzing dies-down at once, having Peter blink in surprise. A conversation with Deadpool feels like a minefield without any markings or signs, and wherever you step has the same chances to blow your legs off as it has to carry you to safety.</p>
+<p>“I assumed pronouns! <em>Gasp</em>. I can’t believe it, how disgustingly heteronormative of me– “</p>
+<p>“Did you just say ‘gasp’ out loud– “</p>
+<p>“Spidey,” Deadpool kneels before him, and presses both hands together in front of him as if in plea, “I’m begging for your forgiveness– “</p>
+<p>“Deadpool –“ Peter tries, but Deadpool doesn’t appear to hear him.</p>
+<p>“– for colluding with the media in this, instead of coming to you– insert an innuendo of your choice here, you’re a smart guy, I’m sure you’ve thought of a few– “</p>
+<p>“Deadpool –“ He attempts once more, but words spill from Deadpool faster than Peter’s anxious mind can follow.</p>
+<p>“– and it was wrong of me to assume that, even though, in my defense, that ‘Man’ thing seemed pretty accurate by now, you know? Iron Man, Ant Man, Hawkeye Man, Wonder-Wo Man,” Deadpool counts off fingers, totally disregarding Peter, looking thoughtful. “I wonder what’s so wondrous about Wo… and there’s Superman, Batman, and you, of course– Spider-Man–“</p>
+<p>“<em>I’m not a man!</em>” Peter croaks out, but Deadpool is oblivious to any new information, too invested in his own rambling.</p>
+<p>“Oops! I did it again!” Deadpool waves him off in an off-tune sing-along. “You’ve played with my heart, got lost in– “</p>
+<p>“No,” Peter cuts in sharply. “Deadpool. Just– listen. I’m not a man. Because I’m not– I’m not old enough to be considered a man.”</p>
+<p> </p>
+<p>Deadpool stiffens.</p>
+<p> </p>
+<p>“Come again, Spidey?” He asks, voice a false cheer which has Peter legs twitching in an effort not to leap away as Peter locks his legs into place. “For a moment there, I thought I’ve heard you saying you’re not old enough.”</p>
+<p>“I’m– I’m not.” Peter admits, feeling disconnected from the words as they come out of his mouth. “That’s why– “ Peter clears his throat. “That’s why, that– that flirting-thing, it’s– it’s making me really uncomfortable. So. If you’d. Stop.” He trails off awkwardly, as Deadpool’s vividness melts off like wax, leaving Deadpool’s body wooden, so much it looks unnatural.</p>
+<p> </p>
+<p>Peter’s Spider-Sense doesn’t even get to tingle before two blades come to rest against his shoulders, hovering threateningly next to his throat. Peter freezes, almost afraid to draw breath; the blades of both of the katanas are steady, and he doesn’t dare to take even one step backward.</p>
+<p>Deadpool can decapitate him if either of them so much as sneezes.</p>
+<p> </p>
+<p>“Don’t pull that crap with me, Spidey.” Deadpool speaks, and his tone is completely and utterly terrifying – making Peter blanch with an effort not to shiver and literally lose his head.</p>
+<p>‘<em>I should’ve notified Mr. Stark</em>’, Peter thinks, helplessly, as Deadpool glares at him.</p>
+<p>“If you ain’t interested, you should just say so, Spidey. I don’t deal with rejection that well, ain’t gonna lie – but I deal with <em>liars</em> even worse, y’know? Especially when they say such nasty shit. And I’ve seen shit, and I’ve seen nasty. <em>But.”</em></p>
+<p>Deadpool adjusts the angle of the blades, redirecting the light onto himself and casting shadows, painting a truly grotesque picture of the Superhero Peter thought he knew.</p>
+<p>“I don’t appreciate what you’re implying, here.” The white eyes of the mask are going to give Peter nightmares at least he’s forty. “I ain’t no fucking predator, Spidey. It ain’t <em>funny</em>.” Deadpool growls out the last word, and Peter’s honestly grateful that he used the restroom before rescuing that cat, in what seems to be a lifetime ago.</p>
+<p>“I– I’m not joking– “ He manages weakly, too fearful to speak up.</p>
+<p>“Really?” Deadpool asks, tone dripping with sarcasm.</p>
+<p>“<em>Yes,” </em>Peter replies, and in an unprecedent moment of The Human History, puberty comes to his aid and karate-chops his voice-cords, so the word cracks down right in the middle.</p>
+<p> </p>
+<p>Deadpool becomes very, very still.</p>
+<p> </p>
+<p>Life happens like a stop-motion movie, and between one blink and the next, the katanas are once again sheathed on Deadpool’s back, like they’ve never been anywhere near Peter’s main arteries.</p>
+<p>“Holy fuck,” Deadpool bites out. “You’re serious.”</p>
+<p>“Yeah,” Peter confirms, this time without changing his pitch. He rubs at his arm, unsure as to the source of the animosity spilling from Deadpool like a toxic fountain, desperately wanting to fix it.</p>
+<p>His eyes are getting warm and his vision is becoming slightly blurred. Maybe he’s been coming on with a fever, because his nose is becoming runny, as well.</p>
+<p>“I’m sor– “</p>
+<p>“How much ‘not old enough’ are we talking, here?” Deadpool cuts him off, tone sharper than any of the blades on his person.</p>
+<p>Peter shuffles in place, avoiding Deadpool scrutiny; his throat feels swollen, like its attempting to keep words from getting out, but the man persistently presses on. Peter very much feels the difference between them, even in their suits; the compulsive urge to fold under the pressure from an authority figure pokes at him; the conditioning to be truthful and respectful towards someone older than him.</p>
+<p>“Are we talking a number that ends with a ‘-teen’?”</p>
+<p>Peter gives a small, jerky nod. The muscles in his calves tense-up in anticipation, this time ready to bolt if he somehow triggered another violent-bout.</p>
+<p>“I see.” Deadpool clears his own throat, demeanor changing sharply; he suddenly seems as uncomfortable as Peter felt before asking Liz to the Homecoming dance.</p>
+<p>“Fuck.” He says, simply. “Fuck, fuckity-bibbidi-bobbidi-fuck-de-boo.” He adds, for good measure, and Peter feels the apology on the tip of his tongue, afraid to make that final leap of faith out and cause another unexpected lash-out.</p>
+<p>“Fuck, Spidey– “ Deadpool avoids looking at Peter, and misses how the comment makes the other flinch. “I thought you were just a twink, in your mid-twenties, or something. I mean, how many teenagers do you see whopping around the city– “ he halts, as if a thought just occurred to him. “<em>Shit</em>. How many…” he trails off, before shaking his head.</p>
+<p>”That wasn’t cool of me. Wasn’t cool at all.” He pauses for a moment. “That is to say, it was creepy as fuck, so excuse me, Spidey– “</p>
+<p>He turns his back to Peter and starts walking to the edge of the roof.</p>
+<p>“Where are you going?” Peter asks before he can stop himself. “The fire exit’s that way.” He points behind him, thumb over shoulder.</p>
+<p>“To shoot my dick off.” Deadpool tells him, tone falsely cheerful once more. “And drink some bleach while I’m at it. But first thing’s first– real life lessons here, Spidey. I’m gonna set a personal example and jump off the roof – don’t do that, by the way, even if everyone else do, it’d wreak havoc on your kneecaps–”</p>
+<p>“Wait, Deadpool– <em>wait</em>!”</p>
+<p>Deadpool doesn’t wait, but neither does Peter – a quick flick of his wrist and he’s pulling the man back up, heart pounding in his chest so loudly he’s sure the entire world can hear it – while he himself hears the acussitory voice in his head telling him how incredibly idiotic he was, so much so he’s almost caused another Superhero to <em>kill himself.</em></p>
+<p> “Spidey, it’d really be the best to let things go at the moment. There’s self-loathing to be had, and I’m on a tight schedule.” Deadpool speaks from the ledge, tapping two fingers against a non-existent wrist-watch to emphasize his point and frowning at Peter like he’s not the only thing keeping him from dropping seventy-five feet down and splatter onto the pavement to make a new logo for Nickelodeon.</p>
+<p>“There’s no need for that,” Peter tries, unsure what made Deadpool suddenly try to hurl himself off the roof. “I just– can’t we just start over?” He pleads. “You did take a bullet for me and everything. That’s worth, like, at least– at least <em>two</em> hot-dogs.”</p>
+<p>“Pfft.” Deadpool snorts. “That’s at least a burrito and a half.” He says, then curses under his breath, like he couldn’t help the food-math from escaping.</p>
+<p>Deadpool grudgingly lets Peter to pull him away from the ledge, and sits down to start plucking the webs off his suit. They stick to Deadpool’s fingers like chewed-up gum, sticky and messy.</p>
+<p>Peter’s quite as Deadpool pulls out a knife and starts cutting the webs off, along with parts of his suit. His nose is stuffy, and he tries pulling it without drawing too much attention to himself.</p>
+<p>On a solitary roof, with just the two of them, it’s pretty difficult – but Deadpool seems to be zoned-out, oblivious to Peter’s struggles not to pull up him mask and blow his nose.</p>
+<p>“I wouldn’t have said anything. If I’d known,” Deadpool finally mutters, still avoiding eye-contact. “That’s just…” he trials off, voice uncharacteristically detached and somber. But Peter doesn’t know the man well-enough to say what’s characteristic and what’s not; not when the man attacked him for telling the truth, then tried to off himself when Peter managed to convince him of it.</p>
+<p>He’s being quiet, though, and Peter thinks he knows enough to gather that as untypical.</p>
+<p>The silence is thick like a swamp and Peter isn’t drowning in it, but in an inner turmoil. When Deadpool finally declares “I need to go”, Peter’s heart misses several heartbeats before he adds: “I’d take the stairs.”</p>
+<p>Peter wants to call him back, but the tightness in his throat doesn’t let him.</p>
+<p>He watched Deadpool as the man walks away, never once looking back, and bites his inner lip.</p>
+<p> </p>
+<p>He shouldn’t have said anything.</p>
+<p>He knows it now, as he rubs his wet cheeks through his mask.</p>
+<p>It was just flirting.</p>
+<p> </p><hr/>
+<p>A month passes – and Deadpool doesn’t reappear.</p>
+<p>Not when Peter rescues a dozen more cats; not around the three local Taco joints they’ve met around, nor thirteen others Taco joints or any of the hotdogs vendors Peter’s familiar with.</p>
+<p>All because Peter’s an idiot.</p>
+<p>He shouldn’t have been such a baby about it. Deadpool was just teasing him, and Peter has made it into something it’s not. There was finally a fellow Superhero that Peter needn’t chase around for scrapes of attention – but, ironically, it was Peter who chased him off. If he’d kept his mouth shut, he wouldn’t have estranged the only other Superhero who’d tried befriending him. He could’ve had back-up. Could’ve learnt useful things, that would’ve made him more efficient. Have someone show him the ropes.</p>
+<p>A suggestive innuendo pops at the thought, sounding very much like Deadpool, and Peter shudders on his bed and grabs at his ankles.</p>
+<p> </p>
+<p>If it had been the right thing to do, he wouldn’t have felt as shitty as he does, would he?</p><hr/>
+<p> </p>
+<p>“What about that guy?” Ned asks him, half-way through assembling a complicated puzzle on a lazy afternoon.</p>
+<p>Peter shrugs without replying and Ned lets it go, because he’s a good friend.</p>
+<p>He wishes life was as simple as puzzles; where every piece had only one place to fit into, and that with enough patience, the full picture would reveal itself, complete and without faults.</p>
+<p> </p>
+<p>“I think it's missing a piece,” Ned frowns at the puzzle after six and a half hours, and they turn the room trying to find it.</p>
+<p>They never do, and there’s a place in the sky that would forever be just a void.</p>
+<p> </p><hr/>
+<p> </p>
+<p>“We’ve got to stop meeting like this!” Deadpool’s cheery tone announces over gunshots. “Really though, this has got to stop – unless you’re aiming for a Swiss Cheese look this summer, it’d cut you a great figure – “</p>
+<p>Peter feels the bullet in his arm burning, and the coughs from the smoke in the air pull at the sore muscles in his chest and jostle the bullet further into his flesh.</p>
+<p>“Deadpool?” he asks, woozily; smoke inhalation and shock both teaming up against Peter’s brain functions; if it’s an illusion, it’s a rather strange one for his mind to have picked, though maybe it does make sense – it’s the first time Peter got hit, and maybe his mind is conjuring the only person who helped him avoid this nasty predicament. His back feels the thuds of the bullets hitting the makeshift shelter he’s leaning against, but the smoke makes it difficult to see.</p>
+<p>“Be kind, rewind, retrace, <em>erase– </em>you didn’t hear that last comment, the one we’ve <em>talked about not making anymore</em>– just your friendly Deadpool passing through the hood, shooting that dude– “</p>
+<p>There’s more shooting, and Peter coughs more, the blood clotting in the innards of his mask.</p>
+<p>It’s difficult to breath.</p>
+<p>“No killing,” he gasps out. His lungs don’t approve, and follow it with a violent coughing fit that make everything hurt even more and his eyes tear-up further.</p>
+<p>“You’re not the boss of me!” Deadpool sounds like he’s pouting, and through a blurred vision, Peter makes his distinctive silhouette, loading a sturdy gun. “Though if you wan– <em>shit!</em>” Another shot ring out, followed by more cussing. “Fuck, that <em>hurt</em>.”</p>
+<p>“Did you just shoot yourself?” Peter asks weakly, the situation feeling too surreal for him to acknowledge.</p>
+<p>“… <em>No</em>,” Deadpool answers, unconvincingly. “That’s just some positive reinforcement.”</p>
+<p> </p>
+<p>More shots.</p>
+<p>There’s sirens, and people screaming.</p>
+<p> </p>
+<p>“Doesn’t sound positive.” Peter heads starts swaying as he clings to his consciousness; blood-loss, smoke inhalation and a possible concussion are making it extremely challenging to stay awake.</p>
+<p>“Only through your ears!” Deadpool recharges another clip with a limber move, like a magician doing card tricks. Peter feels like he’s watching a Shadow Theater. “But it makes me positive I wouldn’t pull any more shit. A hundred more of those babies, and we’d hit twenty percent chances of success!”</p>
+<p>Peter snorts a laugh. The edges of his vision are graying out.</p>
+<p>“My head hurts.” He says, softly.</p>
+<p>“Spidey!” Someone curtly calls him, then runs towards him – he feels the way their body stomps on the rubble, finally crouching close enough to Peter feels their body heat skimming lightly against his skin. “Stay with me, baby-boy.”</p>
+<p>“Not goin’ anywhere.” He slurs, and passes out to the sound of gunshots.</p>
+<p> </p><hr/>
+<p> </p>
+<p>It’s dark when Peter wakes up, and for a panicked moment, he’s sure he’s dead.</p>
+<p>Only the air smells like pancake and burnt honey, and his mouth tastes like blood, and somehow it doesn’t feel like death.</p>
+<p>It feels more like a rundown couch with a few amiss coils poking into his back.</p>
+<p>Opening his eyes, the cracked ceiling is unfamiliar – too high to be anyplace he knows. He jerks into wakefulness, startled, and immediately winces, his shoulder aggressively protesting the act.</p>
+<p>“Good morning, sunshine!” Deadpool’s voice calls from somewhere behind his head, “the Earth says <em>hello</em>!”</p>
+<p>“It’s starshine,” Peter mutters tiredly, but the sound of a gun being loaded immediately has him turning. Deadpool, still in suit, wears a frilly pink apron over it and aims the gun down at his boot.</p>
+<p>“Wait– “</p>
+<p>The shot is loud in the tight space, and Peter’s headache makes a glorious comeback, ringing in his ears and making him clench his eyes shut.</p>
+<p>“<em>Fuck</em>. If Freud wasn’t dead you can bet I’d kill him. All those slips.” Deadpool presses a palm against eyes. “Out of everything I could’ve said, I <em>had</em> to channel Willy Wonka. I’d just put on some Michael Jackson, a pedobear fursuit and a countdown clock like they’ve made for Emma Watson and the Creep Cave is complete. UGH.”</p>
+<p>“Where am I?” Peter asks, hesitating to cut Deadpool in the middle of his self-monologue. He turns to look at the dusty window, where dusk brushes in through rundown building and flickering street lights. “How long was I out?”</p>
+<p>“My place. Couldn’t leave you to the cops. And not long, just couple of hours.” Deadpool snaps back into the present, waving a spatula as he speaks with the hand not holding the gun. The puddle of blood around his foot is steadily growing. “Took that bullet out when you were out, stitched you up. Made you some pancakes. Growing boys should eat properly!”</p>
+<p>Peter’s stomach growls in agreement, and he feels himself blushing under the mask. “Smells good.”</p>
+<p>“I’d give you vegetables but the closest I have to a salad is the dressing. Without the ‘-ing.’ So that’s carbs for you, young man! Pancakes galore, coming right up!”</p>
+<p>Peter lowers himself back onto the sofa, trying to avoid the sharp coils, while Deadpool heads back to the kitchen. Humming flows in the air as Peter surveys the place; it’s dusty, for one, but not dirty. The worn green sofa looks like it’s older than Peter, contrasting with the sparkling new TV set in front of it, complete with a wide curved screen and a bunch of consoles strewn across the floor. There’s a patterned carpet that have clearly never met a vacuum cleaner, with random stains on it that Peter’s eyes quickly skid over, and a low coffee table that’s been moved closer to the sofa, with a full glass of water on it and a bottle of aspirin.</p>
+<p> </p>
+<p>There’s guns. A lot of them, enough to open a spontaneous NRA rally.</p>
+<p>Knives, too.</p>
+<p> </p>
+<p>Peter should be wary. Should be scared.</p>
+<p> </p>
+<p>Deadpool sets a tray on the coffee table. The pancakes look and smell delicious, with maple syrup glazed over them and a sizeable chunk of butter piled in their midst. There’s a delicate china cup with what smells like hot chocolate, and a matching dish with sugar cubes.</p>
+<p>“Thanks.” Peter says, and pops a sugar cube into his mouth before anything else, letting its sweetness wash out the unpleasant taste of smoke, dust and blood away.</p>
+<p>“No problem, baby-boy.”</p>
+<p>There’s a sudden tense silence. Peter’s Spider-Sense blares to the sound of a turning mechanism.</p>
+<p>“Deadpool!” Peter jumps, immediately hissing and regretting it as his shoulder reminds him, yet again, it was not up to the task.</p>
+<p>“How do you keep forgetting you were shot?” Deadpool admonishes him. “Speaking of shots–“</p>
+<p>“<em>Deadpool.</em>” Peter repeats, aiming for stern. “Don’t. That’s– that’s fine. I don’t mind.”</p>
+<p>“Are you <em>sure</em>?” Deadpool squints at him. “Positive reinforcement takes consistency, you know. Gotta be strict. And consistent. Constantly consistent.”</p>
+<p>“I’m sure.”</p>
+<p>“You ripped open your stitches.” Deadpool mutters as he looks more closely at him, sounding unhappy, and places the gun on the furthest corner of the coffee table.</p>
+<p>“Sorry,” Peter says, looking at his bare shoulder. The stitches are crude but efficient; even with his accelerated healing, it was going to leave a scar. There wasn’t too much blood coming out, and the flow itself was sluggish.</p>
+<p>“Eat your pancakes. I’m getting the med-kit.”</p>
+<p> </p>
+<p>Peter eats the pancakes, and they’re delicious. He tells Deadpool as much when the man returns to stitch him back up.</p>
+<p> </p>
+<p>“Speaking of stitches,” Deadpool says, still wearing his apron and holding the med-kit at hand. “I think I’ve been stitched up. I don’t think you’ve meant to do that, though.” He rubs his chin, looking thoughtful. “It still ended up with me being quite the creeper, hadn’t it, though?”</p>
+<p>“You weren’t a creeper.” Peter says, voice soft. The pancakes and hot chocolate had left him feeling warm and content; the wooziness was probably the result of the multiple injuries and the untreated concussion, though.</p>
+<p>“You’re too trusting.” Deadpool accuses. “I could’ve roofied your drink!”</p>
+<p>“You carried me here unconscious,” Peter manages a half-shrug with the shoulder which still has all of its flesh. “And you’ve put marshmallow in the hot chocolate.” He adds, as if it makes perfect sense.</p>
+<p>“You’re too <em>young</em>,” Deadpool finally grits through his teeth, sounding as lost as Peter at the turns and twists of the conversation. “Way too young to get shot at.”</p>
+<p>“I don’t think any age is a good age to get shot at,” Peter replies, and fiercely avoids the resurfacing memory to the best of his abilities.</p>
+<p>“You should be at school,” Deadpool sounds resigned.</p>
+<p>“It’s Sunday.” Peter mulls over it for a few moments. “And I do go to school.”</p>
+<p>“Senior?” Deadpool asks, with a tinge of something close to hopefulness.</p>
+<p>“Freshmen.” Peter corrects, and somehow, even with the blood loss, his cheeks manage to gather surplus blood and colour themselves pink as Deadpool’s frilly apron.</p>
+<p>“Please stop shooting yourself.” Peter asks timidly, when Deadpool grabs at his gun and is clearly ready to go yet again. “I’m bleeding, here. Urgent medical attention needed?” he says, half-heartedly.</p>
+<p>“Fine.” Deadpool grunts, and goes on to drag a heavy wooden chair from the kitchen to Peter's side.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>“I’m sorry,” Deadpool says between one stitch and the next. The warmth Deadpool’s proximity pours onto Peter’s chilled body doesn’t help distract Peter from the pain of the needle piercing his flesh, and neither does the apology.</p>
+<p>They’re both appreciated, anyhow.</p>
+<p>“For the flirting?” Peter asks, to clarify, and hisses when the needle sinks back once more.</p>
+<p>“Yeah.”</p>
+<p>“It’s okay.” Peter tries to reassure him; it’s an opportunity to fix up the mess he had started, and he bemoans the fact he’s not sharp enough to properly seize it.</p>
+<p>“It really isn’t,” Deadpool says, and finishes stitching him up, re-wrapping the wound with new, clean bandages. “Shit happens.” He pauses, thoughtful, halfway through applying the bandages. “I’ve read it once, in a bathroom someplace. Anyway, I’m done, baby-boy.” The nickname feels affectionate, personal; rather than sleazy, it feels like an acknowledgement of their situation – on both of their parts; Peter meets Deadpool’s eyes, shivering, as the man keeps talking.</p>
+<p>“The rest is up to your inferior healing factor, you supposedly superior spider-man-kid.”</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>That night, Peter lays awake in his own bed, Einstein tucked under his uninjured armpit, shoulder mending itself slowly, with a new contact on his phone and the taste of honey and butter lingering on his tongue.</p>
+<p> </p>
+<p>(It was flirting, and that just wasn’t okay, after all.)</p></div>
+        <!-- end cache -->
+    </div>
+<!--/chapter-->
+
+    <!--afterword-->
+    <div class="afterword preface group" role="complementary">
+        <!--work endnotes-->
+<div id="work_endnotes" class="end notes module">
+  <h3 class="heading">Notes:</h3>
+  <blockquote class="userstuff"><p>really tired of the “BUT HE’S FIFTEEN” posts<br/><b>IMPORTANT! </b><br/>For them kiddies reading this: If you’re under 20 and someone older is flirting with you, it’s wrong. I know it doesn’t feel like it, and they tell you lots of compliments and make you feel good about yourself, but it’s going to be like the anglerfish scene from Finding Nemo; you're in the "I'm feeling happy" zone, but before you know it, it'd turn into-<br/><img src="https://media1.tenor.com/images/cd4cf9db98300acf22fbb7f07e2597af/tenor.gif?itemid=10190871" alt="tenor.com" width="244" height="164"/><br/>So turn around and run the other way!<br/>Tell an adult you trust. Learn from other people’s mistakes, from adults who had once been in your position.<br/>Don’t do as Peter did, and keep in contact with the other person – in his case it’s fine because I’ve said so, but alas, I’m not a deity of any sort, and this has no effect IRL.</p>
+<p>All feedback is welcome and appreciated! Aside from people who want to start debating why they're against this subject at length – don’t do it here. Anyway, It might take me a while to get to you due to intense RL, but I will. :)<br/>I've missed you all very much ♥</p></blockquote>
+</div>
+<!--/work endnotes-->
+    </div>
+    <!--/afterword-->
+
+  </div>
+  <!-- END work skin -->
+<!-- END work -->
+
+<!-- BEGIN comment section -->
+<!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="EpjHCaqdGDMJqIBLjh6ccUi9jiXGYYZvaLkw5ITRQTx9mgji2N163t1I1vX6GldoiFcQlNWE1dttz2zwWAm8dA"/>
+          <input value="12292941" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?work_id=12292941">Comments (324)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/Sunakura">Sunakura</a>, <a href="/users/Fairtailmemember">Fairtailmemember</a>, <a href="/users/xplodedkiwi">xplodedkiwi</a>, <a href="/users/Lionan">Lionan</a>, <a href="/users/TheBrightNoise">TheBrightNoise</a>, <a href="/users/Aesire">Aesire</a>, <a href="/users/queenfanfiction">queenfanfiction</a>, <a href="/users/Helinski_The_Yeti_404">Helinski_The_Yeti_404</a>, <a href="/users/CoconutChoc">CoconutChoc</a>, <a href="/users/the_star_catcher">the_star_catcher</a>, <a href="/users/Florrymonster">Florrymonster</a>, <a href="/users/moss_cave_sl">moss_cave_sl</a>, <a href="/users/2Tmaliit">2Tmaliit</a>, <a href="/users/sannysin">sannysin</a>, <a href="/users/snow_and_rose">snow_and_rose</a>, <a href="/users/bennyslegs">bennyslegs</a>, <a href="/users/french_gays">french_gays</a>, <a href="/users/ThatOtaku396">ThatOtaku396</a>, <a href="/users/avemhold">avemhold</a>, <a href="/users/buffalo_uwu">buffalo_uwu</a>, <a href="/users/Banqtopia">Banqtopia</a>, <a href="/users/Kyouka211">Kyouka211</a>, <a href="/users/angelicgrimreaper">angelicgrimreaper</a>, <a href="/users/Laurent_is_a_soft_bitch">Laurent_is_a_soft_bitch</a>, <a href="/users/TuiandLa4">TuiandLa4</a>, <a href="/users/deepbelowcreation">deepbelowcreation</a>, <a href="/users/Chiquitalk">Chiquitalk</a>, <a href="/users/Sassy3">Sassy3</a>, <a href="/users/merkkat">merkkat</a>, <a href="/users/lynxgoddess">lynxgoddess</a>, <a href="/users/LumpyCat280">LumpyCat280</a>, <a href="/users/StrawberryHibiscusTea">StrawberryHibiscusTea</a>, <a href="/users/CanIStartOver27">CanIStartOver27</a>, <a href="/users/Cthulu2106">Cthulu2106</a>, <a href="/users/JamieTayl">JamieTayl</a>, <a href="/users/xShroomy">xShroomy</a>, <a href="/users/fishesdying1_800">fishesdying1_800</a>, <a href="/users/strawberry_scented">strawberry_scented</a>, <a href="/users/TheDevilOnioah">TheDevilOnioah</a>, <a href="/users/treeself">treeself</a>, <a href="/users/Dinadinu">Dinadinu</a>, <a href="/users/mikazure">mikazure</a>, <a href="/users/HaveFreeCook1es">HaveFreeCook1es</a>, <a href="/users/CheshireCaine">CheshireCaine</a>, <a href="/users/hsen">hsen</a>, <a href="/users/Azure_K_Mello">Azure_K_Mello</a>, <a href="/users/mangohaz">mangohaz</a>, <a href="/users/kit_pinkmilk">kit_pinkmilk</a>, <a href="/users/Spifndif">Spifndif</a>, <a href="/users/lady_b235">lady_b235</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/12292941/kudos?before=3833906410">2864 more users</a>
+             as well as 
+          1564 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_12292941">
+  <form class="new_comment" id="comment_for_12292941" action="/works/12292941/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="FBFLAx0B2n7JnAKgYDkBGgTDtjjOPfRpoLm0tVc-uKV7E4Tob0G4kx18VB4UPcoDxCkoid3Yp92lz-ihi-ZF7Q"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_12292941">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_12292941" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_12292941=new LiveValidation('comment_name_for_12292941',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_12292941.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_12292941">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_12292941" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_12292941=new LiveValidation('comment_email_for_12292941',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_12292941.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_12292941" class="landmark">Comment</label>
+        <textarea id="comment_content_for_12292941" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_12292941" name="controller_name" value="works"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_12292941_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_12292941">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_12292941=new LiveValidation('comment_content_for_12292941',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_12292941.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_12292941.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_12292941" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+<!-- END comment section -->
+<!-- END revealed -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/12292941/hit_count.json")})</script>
+
+
+  </body>
+</html>

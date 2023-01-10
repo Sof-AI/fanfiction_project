@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="keywords" content="fanfiction, transformative works, otw, fair use, archive"/>
+    <meta name="language" content="en-US"/>
+    <meta name="subject" content="fandom"/>
+    <meta name="description" content="An Archive of Our Own, a project of the
+    Organization for Transformative Works"/>
+    <meta name="distribution" content="GLOBAL"/>
+    <meta name="classification" content="transformative works"/>
+    <meta name="author" content="Organization for Transformative Works"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        far longer than forever - jaws_3 - 魔道祖师 - 墨香铜臭 | Módào Zǔshī - Mòxiāng Tóngxiù [Archive of Our Own]
+    </title>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/A.1_site_screen_.css.pagespeed.cf.qFZhSbOkrh.css"/>
+<style media="only screen and (max-width: 62em), handheld">#dashboard{clear:both;float:none;margin:1% 3.5%;max-width:100%;padding:0;width:auto}#dashboard,#dashboard.own{border-bottom:10px solid #900;border-top:10px solid #900;padding:.5em 0;border-radius:.25em}#dashboard ul{border:none;display:inline;padding:0;text-align:left}#dashboard li{display:inline}#dashboard a,#dashboard span{display:inline-block;margin:.25em 0}#dashboard .secondary{background:#eee;padding:.375em 0 .625em;box-shadow:inset 2px 2px 5px #bbb}#dashboard .secondary a{margin:.125em 0}#dashboard .landmark{clear:none;float:left}#main,#main.dashboard{float:none;margin:auto;padding-left:3.5%;padding-right:3.5%;width:auto}.logged-in .splash>.module{width:48.5%}.logged-in .splash > div:nth-of-type(odd) {margin-left:0;margin-right:1.5%}.logged-in .splash > div:nth-of-type(even) {margin-left:1.5%;margin-right:0}form.filters{width:auto;min-width:23%;max-width:24%}.filters fieldset{margin-right:0}form.filters dl{margin-left:.25em;margin-right:.25em}#workskin{margin:auto 1.5%}</style>
+<link rel="stylesheet" type="text/css" media="only screen and (max-width: 42em), handheld" href="/stylesheets/skins/skin_873_archive_2_0/A.5_site_narrow.handheld_.css.pagespeed.cf.8L0d7x-op8.css"/>
+<link rel="stylesheet" type="text/css" media="speech" href="/stylesheets/skins/skin_873_archive_2_0/A.6_site_speech_.css.pagespeed.cf.Ybb8bLK5Um.css"/>
+<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/skins/skin_873_archive_2_0/A.7_site_print_.css.pagespeed.cf.ry3YZtf8Cz.css"/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/8_site_screen_IE8_or_lower.css" /><![endif]-->
+<!--[if IE 5]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/9_site_screen_IE5.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/10_site_screen_IE6.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/skins/skin_873_archive_2_0/11_site_screen_IE7.css" /><![endif]-->
+
+
+
+<!--sandbox for developers	-->
+<style media="screen">#new_work_search fieldset:first-of-type .submit{padding-top:0}.edit_external_author ul ul{margin-left:2.75em}a.resp-sharing-button__link,.resp-sharing-button__icon{display:inline-block}a.resp-sharing-button__link,a.resp-sharing-button__link:hover{text-decoration:none;color:#fff;border:none}.resp-sharing-button{border-radius:5px;transition:25ms ease-out;padding:.5em .75em}.resp-sharing-button__icon svg{width:1em;height:1em;margin-right:.4em;vertical-align:top}.resp-sharing-button__icon{stroke:#fff;fill:none}.resp-sharing-button__icon--solid{fill:#fff;stroke:none}.resp-sharing-button--twitter{background-color:#55acee}.resp-sharing-button--twitter:hover,a:focus .resp-sharing-button--twitter{background-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c}.resp-sharing-button--tumblr:hover,a:focus .resp-sharing-button--tumblr{background-color:#222d3c}.resp-sharing-button--twitter{background-color:#55acee;border-color:#55acee}.resp-sharing-button--twitter:hover,.resp-sharing-button--twitter:active{background-color:#2795e9;border-color:#2795e9}.resp-sharing-button--tumblr{background-color:#35465c;border-color:#35465c}.resp-sharing-button--tumblr:hover,.resp-sharing-button--tumblr:active{background-color:#222d3c;border-color:#222d3c}</style>
+<script src="/javascripts/livevalidation_standalone.js.pagespeed.jm.oB__Z5piTe.js"></script>
+
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="tnpOeaiwBOZaN63bhVIZ59FuCZe8o2Enxrg0P-uk6_froriSMwmntVztaU7sO-CmV3WtEkfmxuQI5YTIseUtIA"/>
+
+    
+  </head>
+
+  <body class="logged-out">
+    <div id="outer" class="wrapper">
+      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
+      <!-- BEGIN BETA CAVEATS! -->
+<noscript>
+  <p id="javascript-warning">
+    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  </p>
+</noscript>
+<!-- END BETA CAVEATS! --> 
+
+<!-- BEGIN header -->
+
+<div id="header" class="region">
+
+  <h1 class="heading">
+    <a href="/"><span>Archive of Our Own</span><sup> beta</sup><img alt="Archive of Our Own" class="logo" src="/images/ao3_logos/xlogo_42.png.pagespeed.ic.ax-awMa4j4.png"/></a> 
+  </h1>
+
+    <div id="login" class="dropdown">
+      <p class="user actions" role="menu">
+        <a id="login-dropdown" href="/users/login">Log In</a>
+      </p>
+      <div id="small_login" class="simple login">
+	<form class="new_user" id="new_user_session_small" action="/users/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="ZyBjT5MJRckaq6BCWcEb5bUP0BChlWZYEpEuo96Mf_w6-JWkCLDmmhxxZNcwqOKkMxR0lVrQwZvczJ5UhM25Kw"/>
+	<dl>
+    <dt>
+      <label for="user_session_login_small">User name or email:</label></dt>
+    <dd><input id="user_session_login_small" type="text" name="user[login]"/></dd>
+    <dt><label for="user_session_password_small">Password:</label></dt>
+    <dd><input id="user_session_password_small" type="password" name="user[password]"/></dd>
+  </dl>
+  <p class="submit actions">
+    <label for="user_remember_me_small" class="action"><input type="checkbox" name="user[remember_me]" id="user_remember_me_small" value="1"/>Remember Me</label>
+    <input type="submit" name="commit" value="Log In"/>
+  </p>
+</form>
+<ul class="footnote actions">
+  <li><a href="/users/password/new">Forgot password?</a></li>
+    <li>
+      <a href="/invite_requests">Get an Invitation</a>
+    </li>
+</ul>
+
+</div>
+
+    </div>
+
+  <h3 class="landmark heading">Site Navigation</h3>
+  <ul class="primary navigation actions" role="navigation">
+    <li class="dropdown">
+      <a href="/menu/fandoms">Fandoms</a>
+      <ul class="menu" role="menu">
+  <li><a href="/media">All Fandoms</a></li>
+        <li id="medium_5"><a href="/media/Anime%20*a*%20Manga/fandoms">Anime &amp; Manga</a></li>
+        <li id="medium_3"><a href="/media/Books%20*a*%20Literature/fandoms">Books &amp; Literature</a></li>
+        <li id="medium_4"><a href="/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms">Cartoons &amp; Comics &amp; Graphic Novels</a></li>
+        <li id="medium_7"><a href="/media/Celebrities%20*a*%20Real%20People/fandoms">Celebrities &amp; Real People</a></li>
+        <li id="medium_2"><a href="/media/Movies/fandoms">Movies</a></li>
+        <li id="medium_6"><a href="/media/Music%20*a*%20Bands/fandoms">Music &amp; Bands</a></li>
+        <li id="medium_8"><a href="/media/Other%20Media/fandoms">Other Media</a></li>
+        <li id="medium_30198"><a href="/media/Theater/fandoms">Theater</a></li>
+        <li id="medium_1"><a href="/media/TV%20Shows/fandoms">TV Shows</a></li>
+        <li id="medium_476"><a href="/media/Video%20Games/fandoms">Video Games</a></li>
+        <li id="medium_9971"><a href="/media/Uncategorized%20Fandoms/fandoms">Uncategorized Fandoms</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/browse">Browse</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works">Works</a></li>
+  <li><a href="/bookmarks">Bookmarks</a></li>
+  <li><a href="/tags">Tags</a></li>
+  <li><a href="/collections">Collections</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/search">Search</a>
+      <ul class="menu" role="menu">
+  <li><a href="/works/search">Works</a></li>
+  <li><a href="/bookmarks/search">Bookmarks</a></li>
+  <li><a href="/tags/search">Tags</a></li>
+  <li><a href="/people/search">People</a></li>
+</ul>
+
+    </li>
+    <li class="dropdown">
+      <a href="/menu/about">About</a>
+      <ul class="menu" role="menu">
+  <li><a href="/about">About Us</a></li>
+  <li><a href="/admin_posts">News</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li><a href="/wrangling_guidelines">Wrangling Guidelines</a></li>
+  <li><a href="/donate">Donate or Volunteer</a></li>
+</ul>
+
+    </li>
+	  <li class="search"><form class="search" id="search" action="/works/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;"/>
+  <fieldset>
+    <legend>Search Works</legend>
+    <p>
+      <label class="landmark" for="site_search">Work Search:</label>
+      <input class="text" id="site_search" aria-describedby="site_search_tooltip" type="text" name="work_search[query]"/>
+      <span class="tip" role="tooltip" id="site_search_tooltip">tip: words:100</span>
+      <span class="submit actions"><input type="submit" value="Search" class="button"/></span>
+    </p>
+  </fieldset>
+</form></li>
+  </ul>
+
+
+
+  <div class="clear"></div>
+
+</div>
+
+
+
+<!-- END header -->
+
+      <div id="inner" class="wrapper">
+        <!-- BEGIN sidebar -->
+        <!-- END sidebar -->
+
+        <!-- BEGIN main -->
+        <div id="main" class="works-show region" role="main">
+          
+          <div class="flash"></div>
+          <!--page description, messages-->
+<ul class="landmark skip">
+  <li><a name="top">&nbsp;</a></li>
+  <li><a href="#work">Skip header</a></li>
+</ul>
+
+<!--/descriptions-->
+
+<!--subnav-->
+<!--/subnav-->
+
+<!-- BEGIN revealed -->
+<!-- BEGIN work -->
+<!--work description, metadata, notes and messages-->
+    <!-- BEGIN navigation -->
+<h3 class="landmark heading">Actions</h3>
+<ul class="work navigation actions" role="menu">
+
+
+
+
+
+
+  <li class="comments" id="show_comments_link_top">
+      <a data-remote="true" href="/comments/show_comments?work_id=22960057">Comments </a>
+  </li>
+
+
+
+    <li class="share hidden">
+      <a class=" modal" title="Share Work" aria-controls="#modal" href="/works/22960057/share">Share</a>
+    </li>
+
+
+    <li class="download" aria-haspopup="true">
+      <a href="#">Download</a>
+      <ul class="expandable secondary">
+          <li><a href="/downloads/22960057/far%20longer%20than%20forever.azw3?updated_at=1642464871">AZW3</a></li>
+          <li><a href="/downloads/22960057/far%20longer%20than%20forever.epub?updated_at=1642464871">EPUB</a></li>
+          <li><a href="/downloads/22960057/far%20longer%20than%20forever.mobi?updated_at=1642464871">MOBI</a></li>
+          <li><a href="/downloads/22960057/far%20longer%20than%20forever.pdf?updated_at=1642464871">PDF</a></li>
+          <li><a href="/downloads/22960057/far%20longer%20than%20forever.html?updated_at=1642464871">HTML</a></li>
+      </ul>
+    </li>
+</ul>
+<!-- END navigation -->
+
+
+<h3 class="landmark heading">Work Header</h3>
+
+<div class="wrapper">
+
+  <dl class="work meta group" role="complementary">
+          <dt class="rating tags">
+
+              Rating:
+          </dt>
+
+          <dd class="rating tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/General%20Audiences/works">General Audiences</a></li>
+            </ul>
+          </dd>
+          <dt class="warning tags">
+
+              <a href="/tos_faq#tags">Archive Warning</a>:
+          </dt>
+
+          <dd class="warning tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/No%20Archive%20Warnings%20Apply/works">No Archive Warnings Apply</a></li>
+            </ul>
+          </dd>
+          <dt class="category tags">
+
+              Category:
+          </dt>
+
+          <dd class="category tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/M*s*M/works">M/M</a></li>
+            </ul>
+          </dd>
+          <dt class="fandom tags">
+
+              Fandoms:
+          </dt>
+
+          <dd class="fandom tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88%20-%20%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%20%7C%20M%C3%B3d%C3%A0o%20Z%C7%94sh%C4%AB%20-%20M%C3%B2xi%C4%81ng%20T%C3%B3ngxi%C3%B9/works">魔道祖师 - 墨香铜臭 | Módào Zǔshī - Mòxiāng Tóngxiù</a></li><li><a class="tag" href="/tags/%E9%99%88%E6%83%85%E4%BB%A4%20%7C%20The%20Untamed%20(TV)/works">陈情令 | The Untamed (TV)</a></li>
+            </ul>
+          </dd>
+          <dt class="relationship tags">
+
+              Relationship:
+          </dt>
+
+          <dd class="relationship tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/L%C3%A1n%20Zh%C3%A0n%20%7C%20L%C3%A1n%20W%C3%A0ngj%C4%AB*s*W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n/works">Lán Zhàn | Lán Wàngjī/Wèi Yīng | Wèi Wúxiàn</a></li>
+            </ul>
+          </dd>
+          <dt class="character tags">
+
+              Characters:
+          </dt>
+
+          <dd class="character tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/L%C3%A1n%20Zh%C3%A0n%20%7C%20L%C3%A1n%20W%C3%A0ngj%C4%AB/works">Lán Zhàn | Lán Wàngjī</a></li><li><a class="tag" href="/tags/W%C3%A8i%20Y%C4%ABng%20%7C%20W%C3%A8i%20W%C3%BAxi%C3%A0n/works">Wèi Yīng | Wèi Wúxiàn</a></li><li><a class="tag" href="/tags/M%C3%A8ng%20Y%C3%A1o%20%7C%20J%C4%ABn%20Gu%C4%81ngy%C3%A1o/works">Mèng Yáo | Jīn Guāngyáo</a></li><li><a class="tag" href="/tags/S%C5%AB%20Sh%C3%A8%20%7C%20S%C5%AB%20M%C7%90nsh%C3%A0n/works">Sū Shè | Sū Mǐnshàn</a></li><li><a class="tag" href="/tags/L%C3%A1n%20Hu%C3%A0n%20%7C%20L%C3%A1n%20X%C4%ABch%C3%A9n/works">Lán Huàn | Lán Xīchén</a></li>
+            </ul>
+          </dd>
+          <dt class="freeform tags">
+
+              Additional Tags:
+          </dt>
+
+          <dd class="freeform tags">
+            <ul class="commas">
+               <li><a class="tag" href="/tags/Alternate%20Universe%20-%20Canon%20Divergence/works">Alternate Universe - Canon Divergence</a></li><li><a class="tag" href="/tags/Animal%20Transformation/works">Animal Transformation</a></li><li><a class="tag" href="/tags/Curses/works">Curses</a></li><li><a class="tag" href="/tags/sort%20of%20not%20really%20swan%20princess%20au/works">sort of not really swan princess au</a></li><li><a class="tag" href="/tags/there&#39;s%20angry%20birds%20and%20love%20confessions/works">there&#39;s angry birds and love confessions</a></li>
+            </ul>
+          </dd>
+
+      <dt class="language">
+        Language:
+      </dt>
+      <dd class="language">
+        English
+      </dd>
+
+
+      <dt class="collections">
+        Collections:
+      </dt>
+      <dd class="collections">
+        <a href="/collections/WangxianFairyTaleFics">Wangxian Fairy Tale inspired fics</a>, <a href="/collections/Inbetween_rereads">Rereads for when you are “in between” fandoms</a>, <a href="/collections/Complete_Incomplete">Short MDZS Fics</a>
+      </dd>
+
+    <dt class="stats">Stats:</dt>
+    <dd class="stats">
+<!-- end of cache -->
+
+      <dl class="stats"><dt class="published">Published:</dt><dd class="published">2020-02-29</dd><dt class="words">Words:</dt><dd class="words">8896</dd><dt class="chapters">Chapters:</dt><dd class="chapters">1/1</dd><dt class="comments">Comments:</dt><dd class="comments">84</dd><dt class="kudos">Kudos:</dt><dd class="kudos">1764</dd><dt class="bookmarks">Bookmarks:</dt><dd class="bookmarks"><a href="/works/22960057/bookmarks">465</a></dd><dt class="hits">Hits:</dt><dd class="hits">11423</dd></dl>
+      </dd>
+  </dl>
+</div>
+
+
+
+<!-- BEGIN section where work skin applies -->
+<div id="workskin">
+  <div class="preface group">
+    <h2 class="title heading">
+      far longer than forever
+    </h2>
+    <h3 class="byline heading">
+      <a rel="author" href="/users/jaws_3/pseuds/jaws_3">jaws_3</a>
+    </h3>
+
+
+        <div class="summary module" role="complementary">
+          <h3 class="heading">Summary:</h3>
+            <blockquote class="userstuff">
+              <p></p><blockquote>
+  <p>
+    <em>“This, this is just one of the Yiling Patriarch’s tricks!” Su She bites out and Lan Wangji hears Wei Ying huff out another laugh from within his arms.</em>
+  </p>
+  <p>
+    <em>“Really? I’ve grown so powerful I can even create my own Lan Zhan’s? I really am rather impressive.” </em>
+  </p>
+</blockquote><p>Lan Wangji is turned into a swan. He doesn’t let that stop him from protecting Wei Ying.</p>
+            </blockquote>
+        </div>
+
+        <div class="notes module" role="complementary">
+  <h3 class="heading">Notes:</h3>
+
+
+
+
+
+    <blockquote class="userstuff">
+      <p>i really just wanted to write one scene from this but then was like "aw beans it needs context" so I had to write the rest of it. such is my life.</p><p>enjoy!</p>
+    </blockquote>
+
+    <p class="jump">(See the end of the work for <a href="#work_endnotes">more notes</a>.)</p>
+</div>
+
+
+  </div>
+
+
+<!--/descriptions-->
+
+<!--chapter content-->
+    <div id="chapters" role="article">
+        <h3 class="landmark heading" id="work">Work Text:</h3>
+          <div class="userstuff"><p>Lan Wangji had always been the type to move about silently. Now, as he snaps and pulls at an iron shackle held firm around his <em> webbed </em> foot, he both misses and mourns that ability. </p><p>Three days ago, he had been retiring to his room in Koi Tower when he caught a trace of Wei Wuxian’s name. Naturally, he had pressed in closer to the room it had come from, giving the occupants no opportunity to listen for his footsteps. (While eavesdropping isn’t exactly encouraged in the Cloud Recesses, it’s not <em> exactly </em> prohibited either, and Lan Wangji knows most people speaking Wei Ying’s name will have nothing positive added onto it.) So he had paused, and he had listened, and he had felt his hands curl into tight fists as he heard Jin Guangyao and Su She calmly discuss their plan to <em> murder </em> Wei Wuxian. By having him unwittingly bring about the death of both Jin Zixun and Jin Zixuan.</p><p>(They were going to use the man laid low by the entire cultivation world to do their dirty work for them. All while they watched happily from the sidelines.)</p><p>Lan Wangji had had to hold back a snarl when Su She had <em> laughed </em> and crowed about how fortunate they were; how smart Jin Guangyao was to have organized such a dangerous game where they would be the only winners. </p><p>“Their arrogance was bound to come to a head eventually,” Jin Guangyao had said in his agreeable voice. “No doubt Young Master Wei will have the Ghost General with him. I can’t imagine Jin Zixuan is going to arrive at a very pleasant scene.” </p><p>Now, Lan Wangji would have confronted them had they only been discussing the murder of the Jin Sect’s Heirs, but he might have gone at it with a little more care. While he’s always been direct, Wei Ying has also always been the way to knock Lan Wangji off his usual path. </p><p>So he had marched in and addressed them immediately, ignoring and discounting all their pleas and assurances of innocence. He had seen when they knew they were trapped and while his hand had gone to his sword in preparation for a fight, Jin Guangyao’s had slipped into his sleeve for a talisman. The duo knew they had no chance against him and so had fallen to the coward’s route, subduing him with a curse that, Lan Wangji noted with gritted teeth, came from <em> his </em> Sect. </p><p>“Rest assured, Hanguang-Jun,” Jin Guangyao had said once the transformation had completed—his bones no longer cracking and dislocating to stretch and reform, his white under robes now feathers, his face marred by a horrendous <em> beak </em>—with an expression one could almost call concerned. “This will just be for a few days. No harm will come to you.” </p><p>Lan Wangji had lunged at him with the swan’s beak, only for Su She to lunge forward and pin him down by the neck. </p><p>“Now, now, Minshan,” Jin Guangyao interrupted with the lightest hint of a scold. “Leave him be, I need to work the spell on you next.” </p><p>Lan Wangji still isn’t sure what had been more humiliating. Being transformed into a swan or watching <em> Su She </em> be then transformed into <em> him</em>, as Jin Guangyao calmly explained, “So we don’t worry Er Ge, you understand.” </p><p>The show of affection towards his brother had made Lan Wangji’s stomach curl. </p><p><em> You’ll never be allowed near him again </em> Lan Wangji thought, the swan verbalizing this as loud hissing. Su She threatened to kick him and Lan Wangji had gone for his robes. </p><p>That had been three days ago. </p><p>Now, Lan Wangji is stuck. With awkward appendages and firmly shackled feet and not a trace of any spiritual power as Su She watches him from the shore of the pond they had confined him to. </p><p>“Not so arrogant now, are you, <em> Hanguang-Jun</em>?” Su She spits at him. Smirking, cold, and still <em> wearing his face</em>. His forehead ribbon sways in the light breeze and Lan Wangji wants nothing more than to fly at the man and tear it free, to rip his fake face off and claw his eyes clean from his skull. Lan Wangji has never known such hatred before and it sits unpleasantly in his stomach and gnaws at his hollow bones. </p><p>He wonders if it’s the swan’s influence. </p><p>Instead of attacking, he can only hiss. He flaps his giant, flailing wings and puts all the venom he can muster into the few sounds allotted to swans. He’s given up on the rules of his sect that demand propriety and tranquility above all else, but, considering the gangly feet he’s been forced into and the fumbling limbs he’s still learning to utilize, and the fact they threatened the love of his <em> life, </em>Lan Wangji figures he’s allowed a little leeway. He’s sure his brother would agree, even if his uncle would not. </p><p>So he hisses, and he hisses, and while he can flap his big, ugly wings as angrily as he wants, he knows they’re both acutely aware of the fact Lan Wangji is stuck to his position on the other edge of the pond tucked into a quiet corner of Koi Tower. </p><p>(One he has already made his escape from.)</p><p>“This could have been over,” Su She sneers. “But you just <em> had </em> to go and warn your precious Yiling Patriarch.” </p><p>Less than twenty-four hours ago, Lan Wangji had finally managed to free himself from the shackles they had forced on him and learned to fly faster than he’s ever learned a skill before in his life. Hurtling himself through the air and towards the Burial Mounds where Wei Ying was cheerfully walking into an ambush orchestrated by Jin Guangyao and carried out by Jin Zixun—that stupid, <em> stupid </em> man. </p><p>It was more desperate than Lan Wangji thinks he’s ever acted before but, again, seeing as he was—<em>is</em>—a bird, one could argue that desperate times called for desperate measures. As he flew, soaring recklessly through the air, in sight of every cultivator and hunter in the kilometres that stretched between him and Wei Ying, all he could think was: <em> Wei Ying, please be safe. Wei Ying, please, just wait a few more minutes. Wei Ying, I’m coming.  </em></p><p>Miraculously, he managed to make it in time. As soon as he saw a flash of black and red strolling through the Qiongqi Path, Lan Wangji curled his wings in and dove for him, only giving the man enough time to go, “Is that a swan…?” before hurtling into his side with loud shrieks and even more aggressive wings. </p><p>Wei Ying, of course, had been incredibly baffled, as had Wen Qionglin, and neither of them seemed to have any idea how to best handle him. Lan Wangji had taken advantage of it and continued with his harassment, succeeding in forcing Wei Ying to take the few steps back he needed him too. </p><p>(<em>Wei Wuxian. The Grandmaster of Demonic Cultivation, the Yiling Patriarch! Bested by a bird.</em>) </p><p>Another time, Lan Wangji might have been embarrassed at losing his composure in such a way, but when the shouts and curses of the Jin and Lan disciples, that Lan Wangji made sure to memorize the faces of, echoed across the valley and a sharp look of understanding came across Wei Ying’s face, all he could feel was relief, for Wei Ying was already far enough back that he could safely flee. Safe from the fatal words and arrows of Jin Zixun. </p><p>Lan Wangji had wanted to follow him, but with Jin Guangyao still, essentially, in possession of his body and likely to organize another attack, he had returned to Koi Tower, looking for his brother. Only for Su She to sneak up behind him instead. </p><p>“Is he really worth it?” Su She asks, breaking Lan Wangji from his thoughts. Lan Wangji sends him as poisonous a look as he can muster. </p><p><em> His life is worth more than yours could ever be</em>, he thinks as the swan snorts its derision. Su She scowls and Lan Wangji hates what it does to his face. Hates how ugly it is plastered with Su She’s expressions. He hopes Wei Ying doesn’t have to see it. </p><p>“Whatever, it doesn’t matter. Jin Zixun is doomed by my One Hundred Hole Curse anyways,” Su She gloats, scratching absently at his chest, “And Jin Zixuan will get what’s coming to him eventually. As for the Yiling Patriarch…” Su She’s expression turns even colder and his lips curl in a smirk. Lan Wangji has to wonder, not for the first time, what exactly he has done to earn this man’s scorn. He isn’t sure why Su She takes such pleasure from his pain and he feels a sense of dread begin to crack at his heart. “This way might be even better. At least this way, you get to see him. One last time.” </p><p>Panic thrums even louder in Lan Wangji’s heart and he begins to work more cautiously. Careful not to disturb the water he floats on as he tries to free himself.</p><p>“You really should have left him to the mercy of someone like Jin Zixun,” he says, softer than before, and Lan Wangji understands why his voice drops so suddenly when—</p><p>“Lan Zhan?”</p><p><em> No</em>.</p><p>“Wei Ying.”</p><p><em> No, no, no! </em> </p><p>Horror numbs him as Lan Wangji watches Wei Ying tentatively more from the safe clutches of the forest that surrounds the lake and take a few steps towards Su She. He looks suspicious and Lan Wangji doesn’t even let his heart hurt at the idea, desperate and hopeful that the guarded nature of the Yiling Patriarch will be enough to chase him away. </p><p>(It’s not.)</p><p>“What’s going on? You said you had something to tell me.” Wei Ying’s voice is wary but he apparently carries a faith in Lan Wangji that Lan Wangji didn’t even <em> know </em> about, because he still continues to move forward, farther and farther into Su She’s hands. Lan Wangji almost wants to scream in order to drive him off, but he redirects his attention back onto the bolt of his shackle he’s been slowly loosening. </p><p>(He doesn’t have it in him to hold back another hiss when Su She steps swiftly and easily into Wei Ying’s personal space. Like he <em> belongs </em> there. Like he’s <em> allowed </em> there. Lan Wangji <em> hates </em> him.)</p><p>“Wei Ying, I heard about the ambush yesterday.” Lan Wangji wants to strangle him. “I’m sorry, I wasn’t there for you.” </p><p>This causes both he and Wei Ying to falter, neither quite sure of his angle. Wei Ying for understandable reasons and Lan Wangji because while he <em> knows </em> his end game, he’s still not sure of the route the man is about to take. </p><p>“Is that why you called me here, Lan Zhan? To apologize?” Wei Ying’s voice is cold and Lan Wangji forgot how much it hurts to hear his name spoken with such frost. “Some of the people involved were from the Lan Sect. Not very righteous of them to join in an ambush.” </p><p>“I know,” Su She agrees easily, pressing forward when Lan Wangji would have stumbled. “I’m sorry, Wei Ying. I heard about it too late, but…” </p><p>“But?” Wei Ying asks and Lan Wangji can just imagine the expression he’s wearing. He’s <em> so </em> close to undoing the bolt, just a few more… </p><p>“If you trust me, I can help you. I know who planned it and I know what they’re after. I can keep you safe.” </p><p>“And why would the great Hanguang-Jun help <em> me</em>?” Wei Ying laughs weakly. The sound echoes softly in the night air and Lan Wangji struggles under the weight of both his feelings of relief and heartbreak. All he’s ever wanted these past few years was to <em> help</em>, but he’s never been adequate at communication with anyone save for his brother and so every interaction with Wei Ying seemed to leave them with a deeper and deeper rift between them. He hates that it’s now something he has to be thankful for. Wei Ying has no reason to trust—</p><p>“Because I love you.” </p><p>They both squawk and, since his arrival, Wei Ying actually turns to him, the <em> real </em> Lan Wangji, with his beautiful, beautiful eyes wide with utter shock. They manage to keep each other’s gaze for a moment, Wei Ying distracted by a flicker of recognition that Lan Wangji can just make out, but then Su She is grabbing his arm and Lan Wangji is trying <em> so </em> hard not to hiss… </p><p>“I know this may be hard to believe, Wei Ying, but it’s true. Please. Let me help you.” </p><p>Then, like everything else wasn’t enough, Su She, the absolute <em> bastard</em>, leans in and <em> kisses </em> him. </p><p>Wei Ying makes a small, startled sound against his mouth. A sound Lan Wangji can only hear because the night is so still and his heart has stopped beating and even when Su She pulls away he’s still too close and Lan Wangji doesn’t think he’s been this close to murder in his entire life. </p><p>“Lan Zhan…?” Wei Ying asks softly, sounding so incredibly small and <em> hopeful </em> that Lan Wangji wants to simply scream but he needs to focus on getting his stupid foot <em> out</em>—!</p><p>“Wei Ying. Please.” Su She repeats and then, like shattering Lan Wangji’s heart once just wasn’t enough, he goes in to try and kiss him for a second time and Lan Wangji sees <em> red</em>. He tears his foot from the shackle, uncaring of the damage he risks; if and how it’ll carry over when he transforms back. All he knows is that Su She is going to kiss Wei Ying and Lan Wangji will not have it. </p><p>He’s at them before he’s even fully realized he’s free, hissing and screeching and throwing himself at Su She with all the rage a swan can muster. Which is, Lan Wangji has learned, quite a lot. He manages a few surface scratches down the front of Su She’s face and splatters the front of his robe with, what is unfortunately his own, blood. He tries his best to avoid hitting Wei Ying, but by the muffled and startled shouts he hears from both of them, he might not be doing so well on that front. </p><p>“What is with this <em> bird</em>?” He hears Wei Ying yelp as he tries to step back and away. Lan Wangji slows his wings for a couple beats, allowing Wei Ying some space to disengage before renewing his attack on Su She. A rather un-Lan like pride swells in him when he notices the man struggle to defend himself and he can only imagine the sorts of insults Su She wishes he could spit out. Insults that the <em> almighty Hanguang-Jun </em> would never say. </p><p>Admittedly, Lan Wangji has no real plan besides <em> Stay away from Wei Ying! </em> and he is succeeding with it when—“Lan Zhan! Just a second, here…”—two hands are suddenly pinning his wings and he’s rendered almost completely useless. He still manages a weak hiss when Su She tries to approach, a cold glare hidden in <em> his </em> golden eyes, but all his energy has drained away, being subdued like this. </p><p>“There ya go,” Wei Ying mutters as he practically tosses him back onto the pond. Lan Wangji isn’t sure which hurts more, his heart or his foot. Probably his heart. “What a weird bird.” </p><p>“Let’s just leave it.” Su She replies, pretending to have nearly half the calm Lan Wangji always exerts. “Swans can be rather territorial.” </p><p>Wei Ying gives a hum of agreement but he keeps Lan Wangji’s gaze and Lan Wangji’s hopeless heart sputters in his chest as he thinks: <em> Wei Ying? Wei Ying, can you recognize me? Wei Ying, I am here! </em>He even blindly wonders if perhaps Wei Ying remembers him from yesterday, from when he saved him. He knows Wei Ying is far cleverer than anyone gives him credit for and he leans on this knowledge desperately. </p><p>He almost thinks to give some sort of sign, to give some sort of message but when he manages to break out of Wei Ying’s gaze he spots Su She moving in close, his hand resting on Bichen and <em> smirking</em>. He can’t risk another attack when Wei Ying is so close to him; not when no one knows where they are; not when Lan Wangji is nothing but a useless swan. </p><p>“Why don’t you play for it?” Wei Ying asks suddenly and Lan Wangji perks up. It’s a test, and all three of them know it, but Wei Ying still gives Su She an easy grin when he turns back to him. “Maybe <em> Rest </em> will stop it from wanting to damage your handsome face.” </p><p>This is not the first time Wei Ying has said such a thing to him, but he still finds himself flustered and annoyed, especially because it’s not actually being said to him. </p><p>Instead of going, “Ridiculous,” like Lan Wangji might have—although, honestly, Lan Wangji might have also submitted to Wei Ying’s ridiculous request as well, he has always been weak for him—Su She calmly nods and sits down, pulling out Lan Wangji’s guqin. Lan Wangji can’t hold back the hiss he gives at this and Wei Ying crouches so they’re eye to eye. </p><p>“Don’t worry, Lan Zhan is very good.” He tells him with a smile. Lan Wangji isn’t sure how to reply to that. He never knew Wei Ying had any feelings one way or the other when it came to his playing and it almost hurts to find out this way. </p><p>Had it been any other, they would fail this test. As it is, Su She has evidently spent a large portion of his time learning to recreate Lan Wangji’s entire existence. He plays well enough that Lan Wangji is forced to watch some of the suspicion in Wei Ying’s eyes fade and, even more irritatingly, he plays well enough that it actually <em> works </em> and Lan Wangji is falling asleep before he realizes it. Before he can give Wei Ying anymore warning. Before he can protect him. Before he can even <em> try </em> to break the curse.</p><p><em> Wei Ying, I… </em> </p><p align="center">*</p><p>Lan Wangji wakes slowly the next day, around mid morning, just as the rest of Koi Tower begins to awaken in earnest as well. He takes it for the bad omen it is and quickly and quietly makes his way along the sprawling roofs, keeping out of sight best he can. By the time he’s made it to the front entrance of the meeting hall, his heart resembles more of the wild bird than he with how it thrashes within his chest. </p><p><em> The Yiling Patriarch killed the Sect Leader! Killed him right in his bed as he slept! I heard someone say they even heard a flute last night but didn’t dare go out and see!! How cruel! The Yiling Patriarch needs to be stopped!!! </em> </p><p>From his vantage point, tucked away along the crest of the roof, Lan Wangji searches desperately for a flash of black and red. </p><p>“Where is he?!” He hears someone snarl. Several other voices chime in as well and Lan Wangji doesn’t bother holding back a quiet hiss when he hears the sickly sweet voice of Jin Guangyao asking for their patience. </p><p>“Hanguang-Jun has gone to find him. Everyone will have the answers they seek soon enough.” He assures them but the crowd has already fallen into the beginning of chaos, many cultivators having the courage to boast that <em> they </em> knew this was coming, that that <em>scourge </em>should have been dealt with long before this!</p><p>Lan Wangji hates all of them. </p><p>“We don’t know anything for sure,” he hears someone else say, and he’s surprised when he recognizes it to be his brother. “We should listen to what he has to say first.” </p><p>This causes another small uprising that Jin Guangyao works to quell, thanking his brother for his kindness but softly hinting that there was simply <em> too much evidence </em> against Young Master Wei. Lan Wangji makes the mistake of stomping the foot he tore last night and the wound reopens but he ignores the blood the runs from it when he looks up and finally spots Wei Ying. </p><p>(Unfortunately, so does everyone else.)</p><p>“Wei Wuxian!” Jin Zixuan snaps before anyone else has the chance to move. “You go too far!” He’s halfway across the courtyard in a matter of seconds, his voice broken with anguish and while Lan Wangji <em> understands </em> he also needs the arrogant heir to stop and listen for <em> once. </em>The Sect Leader’s murder is too much of a coincidence and with how Su She smirked at him last night, Lan Wangji refuses to believe Wei Ying is truly behind this. </p><p>At the top of the stairs, Wei Ying stalls and looks absolutely baffled. “What do you mean?” he asks with an innocence Lan Wangji doesn’t think he’s heard since their school days. </p><p>“What do you think he means?!” Jin Zixun barks, falling to his cousin’s side. “The murder of our Sect Leader! Don’t try and deny it, you bastard! We all heard the flute! No one else here would commit such an atrocious crime!” </p><p>“A flute? I don’t—“ Wei Ying tries to object but he interrupts himself when Su She suddenly breaks from his side to murmur, “Lan Zhan…?” </p><p>“Wei Wuxian,” Su She says coldly, joining Jin Zixuan and the other cultivators now fanning around the group. All of the standing against Wei Ying. “I have brought you here today to be tried for the murder of Sect Leader Jin.” </p><p>A pause. Wei Ying continues to stare at Su She with a look so utterly lost that Lan Wangji’s heart <em> throbs</em>. </p><p><em> Wei Ying! </em> He wants to shout. Desperate to break the rules of his sect if he could wipe that expression from Wei Ying’s face. <em> Wei Ying, I’m here! I haven’t left you! </em> </p><p>Lan Wangji’s breathing is broken as he sits and waits for the Yiling Patriarch’s laugh. For Wei Wuxian to fall back with a mocking grin; for Wei Ying to turn to everyone with an annoyed smirk as he begins nailing out how every piece of evidence they might think they have is false or fabricated. </p><p>Lan Wangji waits. </p><p>Wei Ying lets out a soft, “Oh,” instead. </p><p>“Do you have anything to say for yourself?” Su She asks as the thrum of the crowd begins to grow, “Or do you admit your guilt?” </p><p>A weak laugh. Lan Wangji doesn’t remember a time he’s ever seen Wei Ying look so defeated and he doesn’t understand why it’s <em> now</em>. Doesn’t understand how anyone is stupid enough to believe this puzzle is lining up correctly. If Wei Ying has his flute, why isn’t he playing it in order to escape? What grudge does he even bear against Jin Guangshan and why would he elect to settle it now, during the celebration of his <em> nephew </em> ? And most importantly, <em> why isn’t Wei Ying running away</em>? </p><p>“Wei Wuxian!” Jin Zixun snaps, unsheathing his sword and lunching for Wei Ying who still isn’t moving, “I’ll see to your death my<em>self</em>!” </p><p>Lan Wangji dives from the roof.</p><p>He’s learned, in the past few days of being a large and persistent bird, how to cause a commotion—he wonders vaguely if Wei Ying will be proud of him for breaking so many Sect Rules over him—and he starts a large one when he throws all his weight into the side of Jin Zixun, hissing and thrashing for all he’s worth. There’s quite a bit of yelling, and a lot more flailing as Jin Zixun tries to comprehend what exactly is going on, but Lan Wangji doesn’t desist until the man has fallen back to where the other’s are. He then lands on his own feet, ignoring the dip he takes when his right foot is unable to fully support his weight, and spreads his white wings wide. </p><p>“What the <em> fuck</em>?” Jiang Wanyin, who appears to have only just arrived alongside his sister, manages after several seconds of silence. Jin Zixun collects himself quickly, expression ugly, and tries to launch forward again but Jin Guangyao moves to intercept him. </p><p>“Wait!”</p><p>“For what!?” Jin Zixun whirls on him and there’s a trace of genuine fear that seems to flicker across Jin Guangyao’s face. Behind him, the other cultivators seem to agree with Jin Zixun, although some are too busy staring at Lan Wangji with a perplexed look. (Swans weren’t exactly a common sight.) Meanwhile, Jiang Yanli has broken from her brother to pull gently at her husband’s robe, a open plea clear on her face. Lan Wangji is glad for Wei Ying to have at least one other on his side. </p><p>“Don’t, don’t harm the bird! It… It can be bad luck.” Jin Guangyao tries to reason and the swan lets out a small snort. He’s unhappily grateful the man still seems to carry some affection for Lan Xichen and that they both know Su She can only get away with running around as Lan Wangji for so long. </p><p>“What do I care!” Jin Zixun roars, breaking from his cousin and turning back to Lan Wangji who tosses his wings up high once again, hissing and spitting until he actually stumbles into Wei Ying’s legs. His right foot keeps wanting to falter and Wei Ying—<em>this beautiful, kind man</em>—actually kneels in order to catch him and help keep him steady. </p><p>“Wait.” Su She interrupts, catching both Lan Wangji and Wei Wuxian’s attention, “Let me grab the bird. I’ll leave the criminal for you.” </p><p>Lan Wangji can feel Wei Ying flinch so when Su She dares to step closer, Lan Wangji throws himself at him. </p><p>The man apparently never learns and Lan Wangji is glad for it. He uses his wings to keep himself up best he can as he uses the webbed atrocities he’s been forced to call feet to scramble against the man’s face. When he notices his forehead ribbon loosening, Lan Wangji snaps his neck forward and rips the cloth from Su She’s head. </p><p>It falls away easily and once he has it securely in his possession, Lan Wangji quickly falls back towards Wei Ying and thrusts it into his hands. Wei Ying seems to take it almost instinctively, clutching at it as his mouth struggles around words he can’t figure out. </p><p>It’s a very cute look on him, this confusion, and Lan Wangji wishes he could have an opportunity to throw the man off balance in a happier setting, but for now he only has this. For now he only has the few seconds gifted to them by the still fumbling cultivators behind them. Lan Wangji’s actions are too deliberate for them to be coming from a simple animal and it’s made them pause. </p><p>“You…?” Wei Ying tries to ask but Lan Wangji doesn’t wait to hear it. Instead, he pushes at the hand still holding his ribbon, pushes it until it’s pressed right against Wei Ying’s heart and breathes. </p><p>Lan Wangji is not stupid. He knows if he is to face off against even a single cultivator, it will mean his death. He is only a swan after all. But he has loved Wei Ying since Wei Ying smiled at him in the bright moonlight atop the roofs in Cloud Recesses and he will not allow him to be hurt. Not when he can stop it. </p><p>He will not let him die. </p><p>So he hands over the symbol of his heart and prays that Wei Ying’s will not break when Lan Wangji’s body forms around whatever sword pierces him first. He prays that Wei Ying will not blame himself. Lan Wangji may be a fool for him, but that is no one’s fault but his own. </p><p>He meets Wei Ying’s gaze and thinks <em> I’m sorry </em> and then, mourning the bravery he never found before this, <em> I love you </em>. </p><p>He flaps his wings a couple times then, throwing in a weak hiss just for show, urging Wei Ying to move back and away. Jin Zixun has finally decided bird or not, he is going to get to Wei Wuxian and the rest of the cultivators are thrown into confusion when Jin Guangyao and Jin Zixuan actually move to potentially stop him. Lan Wangji continues, more desperately now, with his effort to move Wei Ying back and away, panic crashing loudly in his ears. He can only cover Wei Ying for so long and he <em> needs </em> the man to move to safety. </p><p>Incredibly, Wei Ying decides to listen. Eyes still wide as he fumbles a few feet back, fingers still holding Lan Wangji’s ribbon tight. (<em>It’s always been his to begin with, really.</em>) Once Lan Wangji deems him to be a proper distance away, he turns to the group he could only hope to face with the body still glaring down at him and spreads his wings wide just as Jin Zixun finally shouts and lunges forward, sword drawn.</p><p>A bright white light interrupts all of them. </p><p>(Thankfully, turning back into a human is much easier than being compressed into a swan.) </p><p>Lan Wangji collapses to his knees immediately, gasping as he tries orientate himself and is briefly thankful for the white under robes that have carried over with him that give him some semblance of modesty. He’s human but drained, the curse having sapped more strength than he realized and his spiritual energy only beginning to weakly flicker back to life. </p><p>It doesn’t matter.</p><p>Pushing against the weight of fatigue, Lan Wangji forces himself to look up, ignoring all the stunned looks on the cultivators face, the way his brother almost seems like he wants to reach out to him, the murderous glower looming on Su She’s face. He ignores all of this to find Wei Ying’s beautiful, <em> beautiful </em> face staring at <em> him, </em> the real Lan Wangji and—</p><p>“Lan Zhan?” Wei Ying asks weakly, properly stunned and still just a <em> little </em> bit hopeful. Lan Wangji doesn’t even give himself time to think before he rushes for him, yanking Wei Ying into his arms and holding him tight against his body. There’s no room for air and he hears the gasp Wei Ying gives when their chests connect but Lan Wangji has no time for embarrassment as he clings tighter. </p><p>“Lan Zhan?” Wei Ying repeats, voice muffled from where it sounds, Wei Ying’s face now buried in Lan Wangji’s neck. “Is it really you this time?” </p><p>“<em>Yes</em>,” Lan Wangji rasps, voice shaky from both misuse and disuse. One of his hands threads through Wei Ying’s hair to cradle the back of his head. “Wei Ying, I’m here.” </p><p>“The swan…?” Wei Ying asks after a moment's hesitation, voice trembling almost as much as Lan Wangji’s. “Both times?” </p><p>“Yes,” Lan Wangji confirms, relief swelling in him. He knew Wei Ying would recognize him, this clever, clever man… </p><p>Wei Ying laughs. It’s small and feeble but it’s there and Lan Wangji basks in it. </p><p>“What is going <em> on</em>?” Someone eventually squawks, and Lan Wangji hazards a guess that it’s a disciple from a smaller sect, as he doesn’t recognize the voice. </p><p>“This, this is just one of the Yiling Patriarch’s tricks!” Su She bites out and Lan Wangji hears Wei Ying huff out another laugh from within his arms. </p><p>“Really? I’ve grown so powerful I can even create my own Lan Zhan’s? I really am rather impressive.” He says and while his voice is a bit strained and breathy, Lan Wangji worries he’s holding him too tightly but can’t bring himself to loosen his hold, Lan Wangji can <em> hear </em> the grin in his words. It almost makes him laugh. </p><p>They must make quite a sight, with Lan Wangji is nothing but his underthings, hair lank and unbound, kneeling on the ground and clinging to Wei Ying like a lifeline. But Lan Wangji can’t bother caring about such a thing right now. All that matters is that Wei Ying is safe in his arms—Wei Ying, whose gentle breath is still fanning across Lan Wangji’s neck, whose hands have come up to weakly tangle at the back of Lan Wangji’s robes, who is soft and warm and <em> real, </em> pressed flush against Lan Wangji’s chest like there's nowhere else he wants to be—that Wei Ying knows it wasn’t Lan Wangji who tried to trick him. That Wei Ying <em> knows </em> he loves him. </p><p>The other cultivators begin to chatter amongst themselves, none willing to risk hurting Hanguang-jun, fake or not, and eventually Lan Wangji hears his brother ask, “W-Wangji?” in a lost tone. He imagines his brother must be glancing between him and Su She with quite a bewildered look, but he doesn’t bother looking up to see it. His face is still pressed firmly into the curve of Wei Ying’s neck where he can hear the steady beat of his heart. “Who…?” </p><p>“Brother,” Su She tries, voice strained. He’s sure a great deal of people are already looking at him with no small amount of suspicion. “Please don’t believe this. He is not Lan Wangji, he’s just some delusion the Yiling Patriarch has created!” Lan Wangji lets out a small growl, too tired to restrain himself and evidently too accustomed to being a swan, and tightens his hold on Wei Ying again, whose breath hitches. </p><p>Lan Xichen still seems to hesitate—Lan Wangji had never been very good at hiding his affections from his brother—and Lan Wangji feels Wei Ying slowly loosen his hold on Lan Wangji’s robe. He then hears a soft murmur of his name as Wei Ying gently pulls away—not far, stopping when Lan Wangji’s fingers tighten or when he perhaps sees something flash across Lan Wangji’s face, and then he’s smiling, hand loosely grasping at Lan Wangji’s elbow. <em> It’s okay</em>, he seems to be saying, but Lan Wangji doesn’t want to let him go. There’s still a lack of room between them, their foreheads barely brushing, but after having Wei Ying in his arms, it no longer feels like it’s enough. </p><p>“Zewu-Jun,” Wei Ying starts, voice now even and clear as he makes eye contact with Lan Xichen. “The reason I’m here is because Lan… <em> A </em> Lan Wangji told me to come. He met me at the pond behind Koi Tower and told me he wanted to help me. He… He told me he loved me and he even <em> kissed </em> me… Well, that is, before a swan came flying at us.” Wei Ying actually manages a smirk here, looking rather pleased with himself as he lightly traces Lan Wangji’s jawline. “So <em> jealous</em>, my Lan Er Gege~” </p><p>There’s a strangled squawk from somewhere in the crowd and Lan Wangji suspects it’s Jiang Wanyin. He doesn’t bother to look for it, instead he hums noncommittally and tips his head so his forehead can lean against Wei Ying’s temple. He can’t deny the claim, lying is prohibited, so he decides to say nothing instead. Wei Ying giggles softly before returning his gaze to Lan Xichen. </p><p>“This Lan Wangji then took me to a hidden room in the Koi Tower, took Chenqing from me, and told me was going to go ask for a pardon for me, promising me he would be back for me in the morning.” It hurts, hearing how trusting Wei Ying had been with Su She and it renews the hatred that had faded slightly due to the deafening joy of being in Wei Ying’s arms. Wei Ying must understand as he leans more into him and grabs at his waist with one hand. “You can imagine my surprise, Zewu-Jun, when I was then brought here only to be accused of a murder I had no means of committing. By the very same person who promised me his help. Now, tell me, Zewu-Jun, does that sound like Lan Zhan to you?” </p><p>“No,” Lan Xichen says immediately and a tension locked in both his and Wei Ying’s bodies loosens. “My brother would never do such a thing. Especially not to you, Young Master Wei.” </p><p>Incredibly, Lan Wangji still manages to feel a sense of embarrassment heating his ears. He wonders if Wei Ying can see it. </p><p>“Then… Then who is <em> this</em>?” One of the Lan disciples asks, gesturing towards an uncomfortable, and now furious, looking Su She. Lan Wangji listens to the clatter and clamour as the other disciples unsheathe their swords and turn on him. Lan Wangji only glances up in order to catch Jin Guangyao’s eyes, to ensure the man is still <em> there</em>, and sends him a narrowed and pointed look. Jin Guangyao, for his part, only looks perfectly shocked, but Lan Wangji reads the thread of understanding that sets a hard edge to his mouth when they keep each other’s gazes. </p><p><em> I have not forgotten you</em>. Lan Wangji thinks and he knows that Jin Guangyao understands. </p><p>“I think you have played your game long enough,” Lan Xichen says coldly, unsheathing his sword and taking steps towards Su She. “Who are you?” </p><p>“Su She.” Lan Wangji explains immediately. Finally pulling away from Wei Ying, but only so he is able to be heard clearly. He then makes direct eye contact with his pathetic imposter who still has the gall to sneer back at him. Across from him, Wei Ying blinks. </p><p>“Su She?” he repeats, “Who’s that?” </p><p>Behind him, Su She lets out a strangled sound of contempt and Lan Wangji barely holds back a smile.</p><p>“He was a guest disciple at Cloud Recesses. He was in your class, Young Master Wei.” Lan Xichen says, sounding rather amused. </p><p>“Was he?” Wei Ying gives a small hum, lifting his arms to form a loose cage over Lan Wangji’s shoulders. “I don’t remember. I really only had eyes for Lan Zhan back then.” </p><p>From within the crowd, Jiang Wanyin chokes out, “<em>Are you serious!?</em>” sounding both distressed and infuriated with his estranged brother. On the other hand, Wei Ying looks positively delighted, wearing a bright grin that Lan Wangji yearns to kiss. Wondering if it tastes as sweet as it looks. He doesn’t, but only because Jin Zixuan interrupts them. </p><p>“Then, who… who killed my father?” He sounds lost and young but trying so hard to put on a proper front and Lan Wangji aches because he remembers how that sits in one’s heart. Jiang Yanli stands firmly at his side, a stronger pillar than anyone ever seems to give her credit for. </p><p>“If you search that fake Lan Zhan you’re likely going to find both my Chenqing and the Stygian Tiger Amulet that, from your earlier comments, were both used in the murder.” Wei Ying’s tone has gone serious and he keeps Lan Wangji’s gaze for most of this, but he does turn to face Jin Zixuan and while Lan Wangji recognizes the need for sincerity, he still misses his gaze as soon as it’s gone. “I know my word may mean little to you, Jin Zixuan, but I promise you. I did not kill your father.” A shaky smile. “I really did just want to come meet my nephew.” </p><p>The cultivators begin to slowly encroach on Su She whose hackles rise the closer they get. They’re nearly upon him when Jin Zixun suddenly snaps forward, perhaps panicking now that the tide is turning in favour of Wei Ying. </p><p>“Then what about me?!” He shouts and as quickly as his sword raising, Lan Wangji has Wei Ying pulled back into his chest, tucked away safely in his arms as he glares at the wild looking Jin Zixun. “What about my curse!?” </p><p>“<em>What </em> curse?” Wei Ying groans at the same time Lan Wangji evenly replies, “Su She.”</p><p>“What?!” Jin Zixun scowls, blade dropping. Lan Wangji levels a look at Jin Zixun that makes several of the cultivators standing behind him move back. </p><p>“Undo his transformation.” He explains as he’s always loathed to repeat himself. “You’ll find evidence of the curse’s blowback.” </p><p>Jin Zixun looks at he doesn’t wish to believe him, but he’s suddenly turning with a roar onto the fake Lan Wangji with all the rage he collected in having to wait this long. </p><p>Both Lan Wangji and Wei Wuxian’s items are taken first, Lan Xichen gathering them for the duo still seated on the ground. Once Su She has returned to his lack lustre form and is restrained, lip curling, Wei Ying cuddles into Lan Wangji’s hold—whose heart rate rises rapidly—and huffs a small laugh, “Did you really think you could get away with turning Lan Zhan into a swan?” </p><p>“No,” Lan Wangji corrects, gaze rising and pinning Jin Guangyao with a look he returns calmly. “Jin Guangyao.” </p><p>He finally manages to explain the entire story, of how he overheard their original plan to kill both Wei Ying and the Sect heirs, and when Su She tries to clear Jin Guangyao of blame by claiming to be the only one behind the mess, that Lan Wangji is <em> lying</em>, Lan Xichen interrupts him with a distracted, “Lying is prohibited.” </p><p>He’s quick and concise, giving only the information needed to free Wei Ying from suspicion—whose eyes go steely when Lan Wangji outlines the curse and Su She’s subsequent transformation—and to confirm all they’ve witnessed. There’s a moment when Jin Guangyao seems to try for an escape, but Nie Mingjue’s saber pressed at his back halts this almost as soon as it starts. </p><p>When Lan Wangji finishes, still clinging tight to Wei Ying, there’s no more doubt. Both Jin Guangyao and Su She are subdued and whisked away, Lan Xichen is kneeling next to them, Jiang Wanyin is groaning about the ridiculousness of the situation, and Jiang Yanli is gently calling, “A-Xian…!” Only then does Lan Wangji begin to loosen his hold. </p><p><em> You’ll be safe now</em>, he thinks quietly to himself. He blinks slowly as Wei Ying sits up, responding to his sister’s call, and his gaze flickers back to him. He’s smiling so wide. Looking so incredibly happy<em>. </em>Lan Wangji thinks he manages some semblance of a smile back, if the soft look of wonder that flowers on Wei Ying’s face is anything to go by, before his eyes shut and he’s succumbing to the sea of black lurking within his consciousness. </p><p>He’s out before he even finishes slumping against Wei Ying. </p><p align="center">*</p><p>Lan Wangji wakes to his brother smiling down at him. </p><p>“Good morning, Wangji,” he says softly. Then, with amusement lighting his eyes, he continues with, “Young Master Wei is going to be quite upset you woke up within the three minutes he was gone.” </p><p>“Wei Ying…?” Lan Wangji asks immediately, a familiar sense of worry pulling at his heart. “Is he…?” </p><p>“He’s fine,” his brother assures him. “He’s with Sect Leader Jin discussing the terms of his pardon, along with a pardon for the Wen remnants. He should be back soon, he hasn’t left your side once since you collapsed.” </p><p>“How long?” Lan Wangji asks, ignoring the light tease to his brother’s voice. </p><p>“Almost three days. Your spiritual energy is still low but rising steadily. Hopefully you’ll be up within the next couple days. Uncle will be arriving soon to check on you as well.”</p><p>Lan Wangji nods. “Su She?” </p><p>“Imprisoned and likely looking at an execution.” Lan Xichen replies tightly. “And A-Yao… Jin Guangyao’s sentence is still being determined.” </p><p>They both ignore Lan Xichen’s stumble and Lan Wangji holds his tongue when it comes to admitting that it was Jin Gunagyao’s affections for his brother that kept him safe these past few days. He does not know if this admission will be a kindness or a curse. </p><p>He wants to wait for Wei Ying to return, but his eyes are already feeling impossibly heavy and his brother’s smile turns fond. </p><p>“Rest, Wangji. I’ll send for some food and Young Master Wei will be here when you wake up next.”</p><p>A small seed of embarrassment still drops into his stomach at his brother’s words; at how transparent Lan Wangji is to him. But, there is little he can do to hide his feelings now. He did, after all, practically propose to Wei Ying in front of both their families <em> and </em> multiple sects. </p><p>He manages some semblance of nod that fades out halfway through. Wei Ying will be there when he wakes up next. <em> Wei Ying is alive.  </em></p><p align="center">*</p><p>The next time Lan Wangji wakes, his left side feels incredibly warm and oddly heavy, especially when compared to his right. He briefly worries it's due to some injury or a side effect of the curse, but when he tips his head over and blinks his eyes open to investigate, he’s greeted with a large mop of pitch black hair. </p><p>“Wei Ying?” He croaks out before wincing. (Of course he would have to sound terrible with Wei Ying and not his brother.) Wei Ying’s face immediately pops up from where it had been resting on his chest, his whole body curled into Lan Wangji’s side, and his, still incredibly beautiful, eyes go wide. </p><p>“Lan Zhan!” He says in a shouted whisper, pushing himself up to his elbows. Lan Wangji briefly catches sight of his forehead ribbon tightly wound around Wei Ying’s left hand. “Lan Zhan, you’re finally awake! How are you feeling? Are you okay?” </p><p>“Mn,” Lan Wangji replies. He’s more than okay now that Wei Ying is here. The relief that floods Wei Ying’s face is beautiful and immediate, his smile now softening to something more intimate. </p><p>“Good,” he says, retaining some of this new, muted air he’s found. But only for a moment. “You scared me half to death, Lan Zhan!” He wails, pitching forward to land back onto Lan Wangji’s chest and bury himself in it. “Collapsing like that! What was I supposed to think? I almost thought you died on me! Do you know how scared I was?! It took your brother three tries to calm me down! What do you have to say for yourself?” </p><p>He actually lifts his head here, mouth curled into a petulant pout and Lan Wangji finds himself at an utter loss for words. </p><p>“I’m… sorry.” He says eventually. It’s enough for Wei Ying who lands back on his chest with a dramatic sniff. </p><p>“Good. I forgive you. However, I am still mad you woke up in the <em> ten minutes </em> I was gone! Ten! I had to come back to your brother telling me I just missed you.” He turns his head up and his mouth is still pulled into some ridiculous frown that Lan Wangji wants so desperately to kiss. “But at least you didn’t do it again, so I supposed I can forgive you for that too.” </p><p>“Mn.” Lan Wangji replies, gently brushing some of the hair from Wei Ying’s face who leans into the action and hums softly. “How are you?” </p><p>“I’m good, Lan Zhan, you don’t need to worry about me. Did you hear? Both the Wens and I have been pardoned and I handed the Stygian Tiger Amulet over to your brother.” Lan Wangji must make sort of noise because Wei Ying opens his eyes to meet his gaze. “I’ve thought about destroying it before and figured it was something best left to the Lan Sect. Even if Jin Zixuan runs it now, I don’t think I would ever entrust it to the Jins. But I know your brother and uncle, they can handle it.” At the sign of faith Wei Ying still carries for his sect, despite many of its disciples wrongly turning on him, Lan Wangji finds himself struggling with a swell of rushing emotions. Wei Ying must notice, because he gently traces his jaw. “And you, Lan Zhan? You’re really okay?” </p><p>“Fine,” Lan Wangji soothes when he regains control of his tongue, “Just need rest.” </p><p>“That’s what your brother said but…” his thumb brushes across his cheek and Lan Wangji raises his own hand to catch it and stroke the ribbon that still decorates it. A light flush climbs up Wei Ying’s face. “O-Oh. Right. Your forehead ribbon. Do you want it back now? I could have returned it earlier but, uh, your brother… sort of explained what it means, so…” His face starts to turn an even brighter red. </p><p>“It’s fine,” Lan Wangji replies eventually, his heart thudding loudly in his chest. “Wei Ying can hold onto it for me.”</p><p>“Oh.” Wei Ying says, hiding a giddy smile in Lan Wangji’s robes. “Okay.” </p><p>Lan Wangji <em> did </em> give it to him, and he’s no need to be anywhere except in Wei Ying’s arms for the next couple days, so he’s quite alright with letting him keep it for just a little longer. </p><p>“How did you break the curse anyways, Lan Zhan?” Wei Ying asks when he’s recovered. “I know you’re amazing but it’s not often someone is able to break a curse all by themselves!” </p><p>Lan Wangji’s ears are red but he suspects his brother will tell Wei Ying the truth if Lan Wangji tries to avoid it and he’s kept this secret long enough and if Wei Ying <em> knows </em> about the ribbon and <em> wants </em> to keep it, then, maybe… </p><p>“A vow,” he begins softly, tangling their fingers together. “I had to make a vow of everlasting love and then prove it to the world. Only then would the curse break.” </p><p>“A vow…?” Wei Ying squeaks, face quickly regaining its previous vivid red. “Of…? For…?” It’s the first time Lan Wangji has ever seen him quite this stunned, mouth open and eyes searching as he pieces together the meaning of Lan Wangji’s actions from when he was a swan. “<em> Me </em>?” he asks eventually and Lan Wangji nods. </p><p>Wei Wuxian, who has always been a man of action, replies by slamming forward and pinning Lan Wangji with a kiss Lan Wangji is sure another would be quick to describe as messy and uncomfortable but, for Lan Wangji, can only be described as perfect. While it is a bit hard and Wei Ying’s nose is pressed awkwardly into his cheek, it’s <em> Wei Ying </em> kissing him, so he has absolutely no complaints. He breathes it in for a moment before raising his other hand to curl around the back of Wei Ying’s neck, turning his head enough that the kiss softens and their mouths can move together in an easier fashion. </p><p>They continue like this for some time, Wei Ying covering him in his desperate kisses until he makes a small whining sound from the back of his throat and suddenly the angle just isn’t enough for Lan Wangji, so he rolls them onto their side so he can properly gather Wei Ying into his arms and kiss him how he’s always wanted to. </p><p>“Lan Zhan!” Wei Ying pants between kisses. “You! Are! So!” He gives a small gasp when Lan Wangji’s grip tightens and he pulls him in flush to his chest. He then moans when Lan Wangji ducks his head to leave small nips along the length of Wei Ying’s neck. “Incredible! And good! And, and… great!” He seems to be struggling for words, many slurring from desire and Lan Wangji finds himself feeling rather proud, even if the few words Wei Ying does manage still turn his ears a bright red. </p><p>“Lan Zhan, I love you.” Wei Ying says finally. These words are solid and clear, even if he is still breathing heavily. He reaches out, with the hand still wound with Lan Wangji’s ribbon, and holds Lan Wangji’s face close. “<em>I love you</em>. I just didn’t realize it until…” He pauses and Lan Wangji knows what he means and quickly tightens his hold. Regret tasting sour on his tongue. “But that doesn’t matter. What matters is I love you, and I want to spend the rest of my life with you.” </p><p>Tears threaten to spill from the corner of Lan Wangji’s eyes and he blinks rapidly to try and clear them. The weight of this declaration is not heavy on his heart, but warm, one he’s earned for since they first met and Lan Wangji’s entire life had changed with a single smile. </p><p>“I want to night hunt with you,” Wei Ying continues, thumb brushing at the corner of his eye and Lan Wangji wonders if he’s doing a poorer job that he thought at keeping his emotions in check. “And sleep with you, and tease you, and feed you, and I… I love you. <em> Only </em> you. I always have.” </p><p>“I love you too, Wei Ying.” Lan Wangji struggles to reply, for no other reason than how desperate these words are to come out. “I’m sorry I didn’t say it sooner.” </p><p>Wei Ying just laughs and looks at him so fondly that Lan Wangji is sure he’s going to burst. </p><p>“Lan Zhan, you broke a <em> curse </em> for me.” Lan Wangji still shakes his head and leaves several gentle kisses on apologies on Wei Ying’s mouth that curses into a soft smile. “Fine. Don’t worry, you have your whole life to make it up to me.” </p><p>“Yes.” Lan Wangji agrees immediately with another kiss. “Both our lives.” </p><p>With another giddy grin Wei Ying surges forward to leave a new wake of peppering kisses across Lan Wangji’s face. </p><p>“And you’re going to love me forever, right?” He asks between them. “And hold me, and protect me? For as long as I live?”</p><p>Lan Wangji shakes his head and smiles.</p><p>“Far longer than that.” </p></div>
+        <!-- end cache -->
+    </div>
+<!--/chapter-->
+
+    <!--afterword-->
+    <div class="afterword preface group" role="complementary">
+        <!--work endnotes-->
+<div id="work_endnotes" class="end notes module">
+  <h3 class="heading">Notes:</h3>
+  <blockquote class="userstuff"><p>this was another fic I wrote as a break from a different fic I'm writing bc ya kno, how better to take a break from writing than by writing 8.9k makes perfect sense</p><p>to be frank, this isn't my favourite work and I'm not too happy with it but I think in order to fix it to how I want it it would need like 8 more k and ya kno what............. i just wanted one scene anyways. </p><p>(I thought of lwj breaking a curse and then immediately lunging and clinging to wwx and the image Would Not Leave Me so I had to write this) </p><p>it is unbeta'd so all mistakes are my own. alas</p><p>loosely inspired by the greatest movie of all time, which is on (canadian) netflix and that I watched 3 days in a row as I was writing this for. you know. inspiration. I picked up a few lines form it too. I love that movie so much....</p><p>also inspired by this <a href="https://archiveofourown.org/works/21942802" rel="nofollow">fic</a> bc the author was a genius who went YOU KNOW WHAT WANGXIAN NEEDS and I love them for it. if you haven't read it already, please check it out, it's perfect. </p><p>As for jgy, if you like him u can pretend they cleared him and he apologized or.. smth. if u don't u can pretend he dies. su she dies for sure tho. bastard man. </p><p>(my feelings for jgy are complicated so I leave the judgment up to you)</p><p>anyways!!!!!! thank you for reading and I hope you had at least a little fun!!!! there are a few lines in this I really like so.. ;v; I hope to see you again on my next fic!!!!! </p><p>(will it finally be the one I'm properly working on or will it be another "I needed a break" fic????? we just don't know)</p></blockquote>
+</div>
+<!--/work endnotes-->
+    </div>
+    <!--/afterword-->
+
+  </div>
+  <!-- END work skin -->
+<!-- END work -->
+
+<!-- BEGIN comment section -->
+<!-- Gets embedded anywhere we need to list comments on a top-level commentable. We need the local variable "commentable" here. -->
+<div id="feedback" class="feedback" role="complementary">
+
+  <h3 class="landmark heading">Actions</h3>
+
+  <ul class="actions" role="navigation">
+      <li><a href="#main">&#8593; Top</a></li>
+
+
+
+
+
+
+      <li>
+        <form id="new_kudo" action="/kudos" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="B2XawUVh3SwUGZlmEip8aSwrWS11owiAFzZOiYxmki1avSwq3th-fxLDXfN7Q4UoqjD9qI7mr0PZa_5-1idU-g"/>
+          <input value="22960057" type="hidden" name="kudo[commentable_id]" id="kudo_commentable_id"/>
+          <input value="Work" type="hidden" name="kudo[commentable_type]" id="kudo_commentable_type"/>
+          <input type="submit" name="commit" value="Kudos ♥" id="kudo_submit"/>
+</form>      </li>
+
+
+
+
+        <li id="show_comments_link"><a data-remote="true" href="/comments/show_comments?work_id=22960057">Comments (84)</a></li>
+  </ul>
+
+
+  <div id="kudos_message"></div>
+  
+
+    <h3 class="landmark heading">Kudos</h3>
+<div id="kudos">
+      <p class="kudos">
+          <a href="/users/holy_elephantoasters_on_mars">holy_elephantoasters_on_mars</a>, <a href="/users/noxtired">noxtired</a>, <a href="/users/GreyOmen">GreyOmen</a>, <a href="/users/AnsisiMe">AnsisiMe</a>, <a href="/users/ebstuff_507">ebstuff_507</a>, <a href="/users/SkyGlow">SkyGlow</a>, <a href="/users/ceria">ceria</a>, <a href="/users/Zephyrazrael">Zephyrazrael</a>, <a href="/users/agoatonthesea">agoatonthesea</a>, <a href="/users/Lazy_Demonlord">Lazy_Demonlord</a>, <a href="/users/Triplesoul">Triplesoul</a>, <a href="/users/still_gathering_roses">still_gathering_roses</a>, <a href="/users/Bubbafet">Bubbafet</a>, <a href="/users/blxckberrybabe">blxckberrybabe</a>, <a href="/users/Limate">Limate</a>, <a href="/users/SkattinKat">SkattinKat</a>, <a href="/users/Lauchi">Lauchi</a>, <a href="/users/linzy">linzy</a>, <a href="/users/minaviolet">minaviolet</a>, <a href="/users/Haely_Potter">Haely_Potter</a>, <a href="/users/wolfgilr">wolfgilr</a>, <a href="/users/johannahp">johannahp</a>, <a href="/users/LeonLion">LeonLion</a>, <a href="/users/Cixi">Cixi</a>, <a href="/users/Loreley9691">Loreley9691</a>, <a href="/users/foxandfriends">foxandfriends</a>, <a href="/users/Nai_Yomikuro">Nai_Yomikuro</a>, <a href="/users/subtle_strings">subtle_strings</a>, <a href="/users/alebn49">alebn49</a>, <a href="/users/Herselight21">Herselight21</a>, <a href="/users/justhereforthefic">justhereforthefic</a>, <a href="/users/Blueberryxn">Blueberryxn</a>, <a href="/users/FireObsidian">FireObsidian</a>, <a href="/users/AND_THEY_WERE_SOULMATES">AND_THEY_WERE_SOULMATES</a>, <a href="/users/SomnolentDragon">SomnolentDragon</a>, <a href="/users/nomnomx">nomnomx</a>, <a href="/users/arataki">arataki</a>, <a href="/users/nikidrink">nikidrink</a>, <a href="/users/DinoDina">DinoDina</a>, <a href="/users/E_bauser">E_bauser</a>, <a href="/users/MinMinh">MinMinh</a>, <a href="/users/James_Potterson">James_Potterson</a>, <a href="/users/deesaurus">deesaurus</a>, <a href="/users/Jadeth">Jadeth</a>, <a href="/users/Silvials">Silvials</a>, <a href="/users/ArtyRave27">ArtyRave27</a>, <a href="/users/Ctzair">Ctzair</a>, <a href="/users/xdseme">xdseme</a>, <a href="/users/Fabienne_gay_ro">Fabienne_gay_ro</a>, <a href="/users/Mysticore">Mysticore</a><span id="kudos_more_connector">, and </span><a id="kudos_more_link" data-remote="true" href="/works/22960057/kudos?before=3722823268">1331 more users</a>
+             as well as 
+          383 guests
+         left kudos on this work!
+      </p>
+</div>
+
+
+
+  <h3 class="landmark heading"><a id="comments">Comments</a></h3>
+  
+
+    <div id="add_comment_placeholder" title="top level comment">
+      <div id="add_comment">
+        <!-- expects the local variables comment, commentable, and button_name -->
+<div class="post comment" id="comment_form_for_22960057">
+  <form class="new_comment" id="comment_for_22960057" action="/works/22960057/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;"/><input type="hidden" name="authenticity_token" value="qC91BRQ4SyAhRj93i1QgvXe-tJk8bifRa11fgLoY_Gf194Puj4Hocyec--LiPdn88aUQHMcrgBKlAO934Fk6sA"/>
+    <fieldset>
+      <legend>Post Comment</legend>
+
+
+
+
+
+
+        <dl>
+          <dt class="landmark">Note:</dt>
+          <dd class="instructions comment_form">All fields are required. Your email address will not be published.</dd>
+          <dt><label for="comment_name_for_22960057">Guest name: </label></dt>
+          <dd>
+            <input id="comment_name_for_22960057" type="text" name="comment[name]"/>
+            <script>var validation_for_comment_name_for_22960057=new LiveValidation('comment_name_for_22960057',{wait:500,onlyOnBlur:false});validation_for_comment_name_for_22960057.add(Validate.Presence,{"failureMessage":"Please enter your name.","validMessage":""});</script>
+          </dd>
+          <dt><label for="comment_email_for_22960057">Guest email: </label></dt>
+          <dd>
+            <input id="comment_email_for_22960057" type="text" name="comment[email]"/>
+            <script>var validation_for_comment_email_for_22960057=new LiveValidation('comment_email_for_22960057',{wait:500,onlyOnBlur:false});validation_for_comment_email_for_22960057.add(Validate.Presence,{"failureMessage":"Please enter your email address.","validMessage":""});</script>
+          </dd>
+        </dl>
+        <p class="footnote">(Plain text with limited HTML <a class="help symbol question modal" title="Html help" aria-controls="#modal" href="/help/html-help.html"><span class="symbol question"><span>?</span></span></a>)</p>
+
+      <p>
+        <label for="comment_content_for_22960057" class="landmark">Comment</label>
+        <textarea id="comment_content_for_22960057" class="comment_form observe_textlength" title="Enter Comment" name="comment[comment_content]">
+</textarea>
+        <input type="hidden" id="controller_name_for_22960057" name="controller_name" value="works"/>
+      </p>
+      <p class="character_counter"><span id="comment_content_for_22960057_counter" class="value" data-maxlength="10000" aria-live="polite" aria-valuemax="10000" aria-valuenow="comment_content_for_22960057">10000</span> characters left</p>
+      <script>var validation_for_comment_content_for_22960057=new LiveValidation('comment_content_for_22960057',{wait:500,onlyOnBlur:false});validation_for_comment_content_for_22960057.add(Validate.Presence,{"failureMessage":"Brevity is the soul of wit, but we need your comment to have text in it.","validMessage":""});validation_for_comment_content_for_22960057.add(Validate.Length,{"maximum":"10000","tooLongMessage":"must be less than 10000 characters long."});</script>
+      <p class="submit actions">
+        <input type="submit" name="commit" value="Comment" id="comment_submit_for_22960057" data-disable-with="Please wait..."/>
+      </p>
+    </fieldset>
+</form></div>
+<div class="clear"></div>
+
+      </div>
+    </div>
+
+  <!-- If we have javascript, here is where the comments will be spiffily inserted -->
+  <!-- If not, and show_comments is true, here is where the comments will be rendered -->
+  <div id="comments_placeholder" style="display:none;">
+  </div>
+
+
+</div>
+<!-- END comments -->
+
+<!-- END comment section -->
+<!-- END revealed -->
+
+
+
+          <div class="clear"><!--presentational--></div>
+        </div>
+        <!-- END main -->
+      </div>
+      <!-- BEGIN footer -->
+<div id="footer" role="contentinfo" class="region">
+	<h3 class="landmark heading">Footer</h3>
+  <ul class="navigation actions" role="navigation">
+    <li class="module group">
+      <h4 class="heading">About the Archive</h4>
+      <ul class="menu">
+        <li><a href="/site_map">Site Map</a></li>
+        <li><a href="/diversity">Diversity Statement</a></li>
+        <li><a href="/tos">Terms of Service</a></li>
+        <li><a href="/dmca">DMCA Policy</a> </li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Contact Us</h4>
+      <ul class="menu">
+        <li><a href="/abuse_reports/new">Policy Questions &amp; Abuse Reports</a></li>
+        <li><a href="/support">Technical Support &amp; Feedback</a></li>
+      </ul>
+    </li>
+    <li class="module group">
+      <h4 class="heading">Development</h4>
+      <ul class="menu">
+          <li><a href="https://github.com/otwcode/otwarchive/commits/v0.9.315.2">otwarchive v0.9.315.2</a></li>
+        <li><a href="/known_issues">Known Issues</a></li>
+        <li><a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" title="View License">GPL</a> by the <a href="https://transformativeworks.org/" title="The Organization for Transformative Works">OTW</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+<!-- END footer -->
+
+    </div>
+    <!-- check to see if this controller/action allow tinymce before we load the gigantor js; see application_helper -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<!-- if user has googleapis blocked for some reason we need a fallback -->
+<script type="text/javascript">if(typeof jQuery=='undefined'){document.write(unescape("%3Cscript src='/javascripts/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));document.write(unescape("%3Cscript src='/javascripts/jquery-ui.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+
+<script type="text/javascript">$j=jQuery.noConflict();</script>
+<script src="/javascripts/jquery.scrollTo.min.js+jquery.livequery.min.js+rails.js+application.js+bootstrap,_bootstrap-dropdown.min.js+jquery-shuffle.js+jquery.tokeninput.min.js+jquery.trap.min.js+ao3modal.min.js+js.cookie.min.js+filters.min.js.pagespeed.jc.t2dSZNKMjN.js"></script><script>eval(mod_pagespeed_a8hDjzT3l_);</script>
+<script>eval(mod_pagespeed_1nA1vKz9z4);</script>
+<script>eval(mod_pagespeed_AKC4FLip6q);</script>
+<script>eval(mod_pagespeed_gX7XC77lvT);</script>
+<script>eval(mod_pagespeed_5zo0ZWMy4O);</script>
+<script>eval(mod_pagespeed_eCCgOhjhYQ);</script>
+<script>eval(mod_pagespeed_TU1Ln7LKSh);</script>
+<script>eval(mod_pagespeed_qTpbjsXQwh);</script>
+<script>eval(mod_pagespeed_R5FGw2ySDb);</script>
+<script>eval(mod_pagespeed_rqqFCT3xcT);</script>
+
+<script>eval(mod_pagespeed_Gf_4KFhTvB);</script>
+
+
+  <script>function isSupported(){var item="localStoragePolyfill";try{localStorage.setItem(item,item);localStorage.removeItem(item);return true;}catch(e){return false;}}function acceptTOS(){if(isSupported()){localStorage.setItem("accepted_tos","20180523");}else{Cookies.set("accepted_tos","20180523",{expires:365});}}$j(document).ready(function(){if(localStorage.getItem("accepted_tos")!=="20180523"&&Cookies.get("accepted_tos")!=="20180523"){$j("body").prepend("<div id=\"tos_prompt\" class=\"hidden\">\n  <h2 class=\"heading\">\n    <span>Archive of Our Own<\/span>\n  <\/h2>\n  <div class=\"agreement\">\n    <p class=\"summary\">\n      On Archive of Our Own (AO3), users can make profiles, create works and\n            other Content, post comments, give Kudos, create Collections and \n            Bookmarks, participate in Challenges, import works, and more. Any \n            information you publish in a comment, profile, work, or Content that you \n            post or import onto AO3 including in summaries, notes and tags, \n            will be accessible by the public (unless you limit access to a work only \n            to those with AO3 Accounts), and it will be available to \n            AO3 personnel. Be mindful when sharing personal information, \n            including  your religious or political views, health, racial background, \n            country of origin, sexual identity and/or personal relationships. To \n            learn more, check out our <a href=\"/tos\">Terms of Service<\/a> and <a href=\"/tos#privacy\">Privacy Policy<\/a>.\n    <\/p>\n\n    <p class=\"confirmation\">\n      <input type=\"checkbox\" id=\"tos_agree\" />\n      <label for=\"tos_agree\">I have read &amp; understood the new Terms of Service and Privacy Policy<\/label>\n    <\/p>\n\n      <p class=\"submit\">\n        <button name=\"button\" type=\"button\" disabled=\"disabled\" id=\"accept_tos\">I agree/consent to its terms<\/button>\n      <\/p>\n\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    var container = \$j(\"#tos_prompt\");\n    var outer = \$j(\"#outer\");\n    var button = \$j(\"#accept_tos\");\n\n    setTimeout(showTOSPrompt, 1500);\n\n    function showTOSPrompt() {\n      \$j.when(container.fadeIn(500)).done(function() {\n        outer.addClass(\"hidden\").attr(\"aria-hidden\", \"true\");\n      });\n\n      \$j(\"#tos_agree\").on(\"click\", function() {\n        button.attr(\"disabled\", !this.checked);\n        if (this.checked) {\n          button.on(\"click\", function() {\n            acceptTOS();\n            outer.removeClass(\"hidden\").removeAttr(\"aria-hidden\");\n            \$j.when(container.fadeOut(500)).done(function() {\n              container.remove();\n            });\n          });\n        };\n      }).change();\n    };\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+  <script>$j(document).ready(function(){var permitted_hosts=["104.153.64.122","208.85.241.152","208.85.241.157","archiveofourown.org","download.archiveofourown.org","insecure.archiveofourown.org","secure.archiveofourown.org","www.archiveofourown.com","www.archiveofourown.net","www.archiveofourown.org","insecure-test.archiveofourown.org","test.archiveofourown.org","testdownload.archiveofourown.org"];var current_host=window.location.hostname;if(!permitted_hosts.includes(current_host)&&Cookies.get("proxy_notice")!=="0"&&window.location.protocol!=="file:"){$j("#skiplinks").after("<div id=\"proxy-notice\">\n  <div class=\"userstuff\">\n    <p class=\"important\">Important message:<\/p>\n    <ol>\n      <li>You are using a proxy site that is not part of the Archive of Our Own.<\/li>\n      <li>The entity that set up the proxy site can see what you submit, including your IP address. If you log in through the proxy site, it can see your password.<\/li>\n    <\/ol>\n    <p class=\"important\">重要提示：<\/p>\n    <ol>\n      <li>您使用的是第三方开发的反向代理网站，此网站并非Archive of Our Own - AO3（AO3作品库）原站。<\/li>\n      <li>代理网站的开发者能够获取您上传至该站点的全部内容，包括您的ip地址。如您通过代理登录AO3，对方将获得您的密码。<\/li>\n    <\/ol>\n    <p class=\"submit\"><button class=\"action\" type=\"button\" id=\"proxy-notice-dismiss\">Dismiss Notice<\/button><\/p>\n  <\/div>\n<\/div>\n\n<script>\n//<![CDATA[\n\n  \$j(document).ready(function() {\n    \$j(\"#proxy-notice-dismiss\").on(\"click\", function() {\n      Cookies.set(\"proxy_notice\", \"0\");\n      \$j(\"#proxy-notice\").slideUp();\n    });\n  });\n\n//]]]]><![CDATA[>\n<\/script>");}});</script>
+    <script>$j(document).on("loadedCSRF",function(){$j.post("/works/22960057/hit_count.json")})</script>
+
+
+  </body>
+</html>
