@@ -1,0 +1,54 @@
+** ficDTB Columns **
+1. url - url
+2. date_added - closet guess to when it was added, either from safari reading list data or version guess
+    - v9 - 10-24-2022 00:00:01
+    - v8 - 06-04-2022 00:00:01
+    - v7 - 05-01-2021 00:00:01
+    - v6 - 04-09-2020 00:00:01
+    - v5 - 01-01-2019 00:00:01
+    - v4 - 08-25-2018 00:00:01
+    - v3 - 08-09-2018 00:00:01
+    - v2 - 05-30-2018 00:00:01
+    - v1_2 - 05-31-2017 00:00:01
+    - others
+    - NO nan
+3. date_last_viewed - date
+    - only from safari reading list data
+4. dtb_type - dtb type
+    - read
+    - toRead
+    - lookInto
+    - other
+    - authors
+    - NaN (unsorted)
+5. smk_source - where I found url/where v9.2 is pulling it from
+    - v8_local_url_files
+    - v7_sheets
+    - safari
+    - chrome
+    - txt_fic (not added yet)
+6. version - version num fic is from
+     - 7 - v7_sheets
+     - 8 - v8_old_local_f
+- id: num
+- url: url
+- col_work: list of col names
+- url_psueds: list of non-main urls
+   
+1. Rating - rating, fic info
+- Teen And Up Audiences    1048
+- Explicit                  482
+- Mature                    397
+- General Audiences         368
+- Not Rated      
+
+1. Location_found - site found at (not necessarily the only site it's on)
+- AO3
+- ffn.net
+- Tumblr
+ -livejounral
+- dream width
+- author_personal_site
+- wattpad
+
+
