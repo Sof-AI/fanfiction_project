@@ -1,4 +1,4 @@
 **/.DS_Store
 **/.env
 _data
-_data/
+*_data/
