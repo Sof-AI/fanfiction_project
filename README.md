@@ -16,5 +16,4 @@ A passion project focused mostly on analyzing my own reading habits & fanworks h
 - v9: CS major is found to be of use–python, pandas, and APIs are explored
   - Version 9.1: eventual website skeleton & structure, SQL database investigated & discarded 
   - Version 9.2: first attempt at data collection & processing
-  - Version 9.3: focus on data collection, prep, and cleaning; cleaning all old data & creating intake system for new data stream
-    - Eventual goal of 
+  - [CURRENT] Version 9.3: focus on data collection, prep, and cleaning; cleaning all old data & creating intake system for new data stream
