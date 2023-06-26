@@ -2,3 +2,4 @@
 **/.env
 _data
 *_data*/
+.ipynb_checkpoints/
