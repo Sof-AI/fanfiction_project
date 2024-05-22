@@ -4,3 +4,8 @@ _data
 *_data*/
 .ipynb_checkpoints/
 gold.html
+*.csv
+*.json
+selenium
+explore/
+*v8_data/
