@@ -1,6 +1,16 @@
 **/.DS_Store
 **/.env
 _data
-*_data*/
+*clean_data*/
 .ipynb_checkpoints/
 gold.html
+*.csv
+*.json
+selenium
+explore/
+v8_pythonScripts/v8_data/*
+v8_pythonScripts/reference/*
+v8_pythonScripts/update/*
+v9.2_jupyter-ffnv9/*_data/*
+v9.3_data_prep/chrome_profile/*
+*geckodriver.log*

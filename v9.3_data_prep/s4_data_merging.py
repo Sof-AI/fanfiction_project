@@ -1,12 +1,14 @@
 """
 Author: Sofia Kobayashi
 Date: 06/18/2023
-Description: Merging & cleaning data for stage 4 (merging data)!
+Description: Merging & cleaning data for stage 4 (merging data) -> s5!
 """
 import pandas as pd
 import json
 import numpy as np
 import re
+import statistics
+
 
 with open('reference_info/author_aliases.json', 'r') as infile:
     AUTHOR_ALIASES = json.load(infile)
@@ -46,7 +48,7 @@ def wrap_df(df, columns) -> pd.DataFrame:
     for ind in new_df.index:
         for col in columns:
             if not np.any(pd.isnull(df[col])):
-                new_df.at[ind, col] = json.dumps(df.at[ind, col])
+                new_df.at[ind, col] = json.dumps(df.at[ind, col], ensure_ascii=False)
 
     return new_df
 
@@ -355,12 +357,11 @@ def series_row_merge(df) -> dict:
     primary_version = min(version_nums)
 
     sources = list(set(df['smk_source'][df['smk_source'].notnull()]))
-    print(sources)
     primary_source = sorted(sources, key = lambda source: int(source[1]))
     primary_source = primary_source[0] if len(primary_source) != 0 else np.nan
 
     types = list(set(df['dtb_type'][df['dtb_type'].notnull()]))
-    primary_type = sorted(sources, key = lambda source: int(source[1]))
+    primary_type = sorted(types, key = lambda type: LOCATION_ORDERING.get(type, {}).get('rank', 5))
     primary_type = primary_type[0] if len(primary_type) != 0 else np.nan
 
     all_ratings = list(set(df['series_rating'][df['series_rating'].notnull()]))
@@ -485,13 +486,13 @@ def fic_equal(row1, row2) -> bool:
     Returns a boolean of whether or not they're equal (bool).
     """
     # Get titles boolean
-    title1 = row1.iloc[0]['title'].lower().strip()
-    title2 = row2.iloc[0]['title'].lower().strip()
+    title1 = str(row1['title']).lower().strip()
+    title2 = str(row2['title']).lower().strip()
     same_title = title1 == title2
     
     # Get authors boolean (strip, lower, not empty)
-    authlist1 = [] if pd.isnull(row1.iloc[0]['author']) else row1.iloc[0]['author'].split(',')
-    authlist2 = [] if pd.isnull(row2.iloc[0]['author']) else row2.iloc[0]['author'].split(',')
+    authlist1 = [] if pd.isnull(row1['author']) else row1['author'].split(',')
+    authlist2 = [] if pd.isnull(row2['author']) else row2['author'].split(',')
     author1 = set([auth.lower().strip() for auth in authlist1 if auth != ''])
     author2 = set([auth.lower().strip() for auth in authlist2 if auth != ''])
     
@@ -499,31 +500,31 @@ def fic_equal(row1, row2) -> bool:
     absent_author = not author1 or not author2
 
     # Get locations boolean
-    same_location = (row1.iloc[0]['location'] == row2.iloc[0]['location']) or \
-        pd.isnull(row1.iloc[0]['location']) or pd.isnull(row2.iloc[0]['location'])
+    same_location = (row1['location'] == row2['location']) or \
+        pd.isnull(row1['location']) or pd.isnull(row2['location'])
     
     # Get fandoms boolean
     same_fandoms = False
-    if not pd.isnull(row1.iloc[0]['fandom']) and not pd.isnull(row2.iloc[0]['fandom']):
-        fandom1 = [fan.strip() for fan in row1.iloc[0]['fandom'].split(',')]
-        fandom2 = [fan.strip() for fan in row2.iloc[0]['fandom'].split(',')]
-        same_fandoms = len(set(fandom1) ^ set(fandom2)) == 0
+    if not pd.isnull(row1['fandom']) and not pd.isnull(row2['fandom']):
+        fandom1 = [fan.strip() for fan in row1['fandom'].split(',')]
+        fandom2 = [fan.strip() for fan in row2['fandom'].split(',')]
+        diff = set(fandom1) ^ set(fandom2)
+        same_fandoms = (len(diff) == 0) or (diff == {'dcu', 'batman'}) or \
+            (diff == {'spiderman', 'avengers'})
+        
     
     # print(f'same_title: {same_title}, same_fandoms: {same_fandoms}, same_author: {same_author}, absent_author: {absent_author}')
     # print()
     return same_title and same_fandoms and (same_author or (absent_author and same_location))
         
 
-def id_equal(row1, row2) -> bool:
+def id_equal(row1, row2, id_name='series_id') -> bool:
     """
     Takes two fic or series rows from a database (df).
     Compares them to determine if they're the same fic by id.
     Returns a boolean of whether or not they're equal (bool).
     """
-    id_name = 'series_id'
-    id1 = row1.iloc[0][id_name]
-    id2 = row2.iloc[0][id_name]
-    return id1 == id2
+    return row1[id_name] == row2[id_name]
 
 
 def section_fics(df, equal_func) -> list:
@@ -532,36 +533,46 @@ def section_fics(df, equal_func) -> list:
     Sections all fics in given df into a list dfs.
     Returns lists of dfs (list of dfs).
     """
+    # Convert df to a dict (to faster lookup)
+    df_dicts = df.to_dict(orient='records')
+
     # Initialize first section
-    df_list = [df.iloc[[0]].copy()]
+    df_list = [[df_dicts[0]]]
 
     # Check if row matches existing section
     for ind in range(1, len(df)):
+    # for ind in range(1800, 1900):
         # Progress check
-        if ind % 10 == 0:
+        if ind % 25 == 0:
             print(f'- {ind} of {len(df)}')
        
         # If row matches existing section, add on; else, add new section
+        fic1 = df_dicts[ind]
         for i in range(len(df_list)):
             attached = False
-            fic1 = df.iloc[[ind]]
-            fic2 = df_list[i].iloc[[0]]
+            fic2 = df_list[i][0]
             if equal_func(fic1, fic2):
-                df_list[i].loc[len(df_list[i])] = fic1.to_dict(orient='records')[0]
+                # df_list[i].loc[len(df_list[i])] = fic1.to_dict(orient='records')[0]
+                df_list[i].append(fic1)
                 attached = True
                 break
         if not attached:
-            df_list.append(fic1.copy())
+            df_list.append([fic1])
+
     
+    df_list = [pd.DataFrame(sec) for sec in df_list]
     return df_list
 
 
+def clean_series(series_df, outfile_name, series_type='url') -> None:
+    """
+    Takes a series df (df), outfile name (str), series type: 'url' or 'text' (str)
+    Cleans series, write it to new CSV. Does not modify given series.
+    Returns nothing.
+    """
+    assert series_type in {'text', 'url'}, f'series_type parameter must be either "text" or "url"!'
 
-if __name__ == "__main__":
-    # Read in stage 4 file
-    series_df = pd.read_csv('clean_data_4/all_versions_series_url.csv', \
-                            encoding='utf-8-sig', index_col=0) \
-    
+    # Initialize container
     container_df = pd.DataFrame(columns=['num_appeared',
                                         'primary_version', 'version_nums',
                                         'primary_source', 'smk_sources',  
@@ -575,18 +586,19 @@ if __name__ == "__main__":
                                         'rating', 'all_ratings', 
                                         ])
 
-    # res = series_df[series_df['title'] == 'bait and switch']
-    # res = res[['title', 'author', 'fandom', 'location']]
-    # res1 = section_fics(res, fic_equal)
-    # print(res1)
-    
-
     # Section & sort fics
-    print('- sectioning')
-    sections = section_fics(series_df, id_equal)
-    
-    print('- sorting')
-    sorted_sections = sorted(sections, key=lambda sec: sec.iloc[0]['series_id']) 
+    if series_type == 'text':
+        print('- sectioning')
+        sections = section_fics(series_df, fic_equal)
+        print('- sorting')
+        sorted_sections = sorted(sections, key=lambda sec: sec[0]['title']) 
+
+    elif series_type == 'url':
+        print('- sectioning')
+        sections = section_fics(series_df, id_equal)
+
+        print('- sorting')
+        sorted_sections = sorted(sections, key=lambda sec: sec.iloc[0]['series_id']) 
 
     
     # Add cleaned rows to container
@@ -594,15 +606,218 @@ if __name__ == "__main__":
         fic_row = series_row_merge(sec)
         fic_row['num_appeared'] = len(sec)
         container_df.loc[len(container_df.index)] = fic_row
-        print(f'  - processed {i+1} of {len(sorted_sections)}')
+        if i % 25 == 0:
+            print(f'  - processed {i} of {len(sorted_sections)}')
 
     # Write to CSV
-    outfile_name = 'series_url_test.csv'
-
     write_df = wrap_df(container_df, SERIES_WRAPS)
     write_df.to_csv(outfile_name, encoding='utf-8-sig')
     print(f'- Wrote to {outfile_name}')
+
+
+def fic_row_merge(df) -> dict:
+    """
+    Takes a fic df (df), either text or url, ideally of multiple rows.
+    Merges data, as specificed below, into a single row.
+    Returns single fic dict of merged info (dict).
+    """
+    # Get lists & primary versions
+    version_nums = list(set([int(num) for num in df['version_num'][df['version_num'].notnull()]]))
+    primary_version = min(version_nums)
+
+    sources = list(set(df['smk_source'][df['smk_source'].notnull()]))
+    primary_source = sorted(sources, key = lambda source: int(source[1]))
+    primary_source = primary_source[0] if primary_source else np.nan
+
+    types = list(set(df['dtb_type'][df['dtb_type'].notnull()]))
+    primary_type = sorted(types, key = lambda type: LOCATION_ORDERING.get(type, {}).get('rank', 5))
+    primary_type = primary_type[0] if primary_type else np.nan
+
+    all_ratings = list(set(df['fic_rating'][df['fic_rating'].notnull()]))
+    rating = sum(all_ratings)/len(all_ratings) if all_ratings else np.nan
+
+    early_ratings = list(set(df['fic_status'][df['fic_status'].notnull()]))
+    early_rating = statistics.mode(early_ratings) if early_ratings else np.nan
+
+    tr_descriptions = list(set(df['to_read_description'][df['to_read_description'].notnull()]))
+
+    cur_chaps = list(set(df['current_chapter'][df['current_chapter'].notnull()]))
+    cur_chap = 're' if 're' in cur_chaps else (max(cur_chaps) if len(cur_chaps) != 0 else np.nan)
+
+    fic_series = list(set(df['fic_series'][df['fic_series'].notnull()]))
     
+
+
+    # Get primary str
+    title = df.iloc[0]['title']
+    title = title.strip().lower() if not pd.isnull(title) else np.nan
+    
+
+    lens = list(set(df['length'][df['length'].notnull()]))
+    length = np.nan if len(lens) == 0 else lens[0]
+    if isinstance(length, str):
+        length = length.lower()
+
+
+    # Get boolean cols
+    bold_list = list(set(df['is_bold'][df['is_bold'].notnull()]))
+    is_bold = np.any(bold_list) if bold_list else np.nan
+
+    sub_list = list(set(df['is_subbed'][df['is_subbed'].notnull()]))
+    is_sub = np.any(sub_list) if sub_list else np.nan
+
+    cof_list = list(set(df['is_coffee'][df['is_coffee'].notnull()]))
+    is_cof = np.any(cof_list) if cof_list else np.nan
+
+    comp_list = list(set(df['is_complete'][df['is_complete'].notnull()]))
+    is_comp = np.any(comp_list) if comp_list else np.nan
+
+    bookm_list = list(set(df['is_bookmarked'][df['is_bookmarked'].notnull()]))
+    is_bookm = np.any(bookm_list) if bookm_list else np.nan
+
+    fin_list = list(set(df['is_finished_inputting_info'][df['is_finished_inputting_info'].notnull()]))
+    is_finished = np.any(fin_list) if fin_list else np.nan
+
+    backedup = list(set(df['is_backedup'][df['is_backedup'].notnull()]))
+    is_backedup = np.any(backedup) if backedup else np.nan
+
+
+    # Breakup vals -> clean lists
+    fandoms = list(set([fan.strip().lower() for fan_list in df['fandom'][df['fandom'].notnull()] 
+                        for fan in fan_list.split(',')]))
+    authors = list(set([author.strip().lower() for author_list in df['author'][df['author'].notnull()] 
+                        for author in author_list.split(',')]))
+    authors = [auth for auth in authors if auth != '']
+    tags = list(set([author.strip().lower() for author_list in df['all_tags'][df['all_tags'].notnull()] 
+                        for author in author_list.split(',')]))
+    categories = list(set([cat.strip().lower() for cats in df['categories'][df['categories'].notnull()] 
+                        for cat in cats.split(',')]))
+
+
+    # Get sources & locations
+    sources = list(set(df['smk_source'][df['smk_source'].notnull()]))
+    primary_source = sorted(sources, key = lambda source: int(source[1]))[0]
+    
+    sorted_links = []
+    primary_link = np.nan
+    all_links = []
+    if 'url' in df.columns:
+        # Get list of links sorted by LOCATION_ORDERING
+        links_list = [links.split(',') for links in df['url'] 
+                              if not pd.isnull(links)]
+        all_links = list(set([link.strip() for links in links_list 
+                              for link in links if link != '']))
+        sorted_links = sorted(all_links, 
+                              key = lambda link: LOCATION_ORDERING.get(url_domain(link), {}).get('rank', 7))
+        
+        primary_link = sorted_links[0]
+
+
+    # Get locations attrs
+    link_locations = [LOCATION_ORDERING.get(url_domain(link), {}).get('abbr', 'oth') 
+                      for link in sorted_links]
+    df_locations = [loc.strip() for loc in df['location'] if not pd.isnull(loc)]
+    locations = list(set(link_locations + df_locations))
+    
+    if not pd.isnull(primary_link):
+        primary_location = LOCATION_ORDERING[url_domain(primary_link)].get('abbr', 'oth')
+    elif locations:
+        locs = [LOCATION_ORDERING[key]['abbr'] for key in LOCATION_ORDERING]
+        primary_location = 'oth'
+        for loc in locs:
+            if loc in locations:
+                primary_location = loc
+                break
+    else:
+        primary_location = np.nan
+
+    return {'primary_version': primary_version, 'version_nums': version_nums,
+            'primary_source': primary_source, 'smk_sources': sources,  
+            'primary_location': primary_location, 'locations': locations,
+            'primary_link': primary_link, 'all_links': all_links,
+            'primary_dtbtype': primary_type, 'dtb_types': types,
+            'title': title, 'fandom': fandoms, 'author': authors, 'length': length,
+            'fic_series': fic_series, 
+            'is_bold': is_bold, 'is_coffee': is_cof, 'is_complete': is_comp,
+            'is_subbed': is_sub, 'is_bookmarked': is_bookm, 'is_full': is_finished,
+            'is_backedup': is_backedup,
+            'categories': categories, 'current_chapter': cur_chap, 'all_tags': tags,
+            'rating': rating, 'all_ratings': all_ratings,
+            'early_rating': early_rating, 'early_ratings': early_ratings,
+            'tr_descriptions': tr_descriptions
+            }
+
+
+
+
+if __name__ == "__main__":
+    # # Read in stage 4 file
+    # fic_df = pd.read_csv('clean_data_4/all_versions_fic_text.csv', \
+    #                         encoding='utf-8-sig', index_col=0) 
+    
+    series_df = pd.read_csv('clean_data_4/all_versions_series_text.csv', \
+                            encoding='utf-8-sig', index_col=0) 
+    
+    clean_series(series_df, 'test1.csv', 'url')
+
+
+    # some = fic_df[fic_df['title'] == 'Magnificent'][['title', 'fandom', 'author', 'location']]          
+    # row1 = some.iloc[[0]]
+    # row2 = some.iloc[[1]]
+    # # res = fic_equal(row1, row2)
+    # res = some.to_dict(orient='records')
+    # res = pd.DataFrame(res)
+    # print(res)
+    
+
+
+
+    # # Initialize container
+    # container_df = pd.DataFrame(columns=['num_appeared',
+    #                                     'primary_version', 'version_nums',
+    #                                     'primary_source', 'smk_sources',  
+    #                                     'primary_location', 'locations',
+    #                                     'primary_link', 'all_links',
+    #                                     'primary_dtbtype', 'dtb_types',
+    #                                     'title', 'fandom', 'author', 'length',
+    #                                     'fic_series', 
+    #                                     'is_bold', 'is_coffee', 'is_complete',
+    #                                     'is_subbed', 'is_bookmarked', 'is_full',
+    #                                     'is_backedup',
+    #                                     'categories', 'current_chapter', 'all_tags',
+    #                                     'rating', 'all_ratings', 
+    #                                     'early_rating', 'early_ratings',
+    #                                     'tr_descriptions'
+    #                                     ])
+    
+   
+    # print('- sectioning')
+    # sections = section_fics(fic_df, fic_equal)
+
+    # print('- sorting')
+    # sorted_sections = sorted(sections, key=lambda sec: sec.iloc[0]['title']) 
+
+    # # Add cleaned rows to container
+    # for i, sec in enumerate(sorted_sections):
+    #     fic_row = fic_row_merge(sec)
+    #     fic_row['num_appeared'] = len(sec)
+    #     container_df.loc[len(container_df.index)] = fic_row
+    #     if i % 25 == 0:
+    #         print(f'  - processed {i+1} of {len(sorted_sections)}')
+
+    # # Write to CSV
+    # outfile_name = 'fic_test1.csv'
+    # FIC_WRAPS = ['version_nums', 'smk_sources', 'locations', 'all_links',
+    #             'dtb_types', 'fandom', 'author', 'categories', 'all_tags',
+    #             'all_ratings', 'early_ratings', 'tr_descriptions','fic_series']
+
+    # print('- writing to CSV')
+    # write_df = wrap_df(container_df, SERIES_WRAPS)
+    # write_df.to_csv(outfile_name, encoding='utf-8-sig')
+    # print(f'- Wrote to {outfile_name}')
+
+
+        
 
 
 
