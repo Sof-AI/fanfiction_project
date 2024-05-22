@@ -1,7 +1,7 @@
 **/.DS_Store
 **/.env
 _data
-*_data*/
+*clean_data*/
 .ipynb_checkpoints/
 gold.html
 *.csv

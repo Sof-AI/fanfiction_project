@@ -19,7 +19,7 @@ env_path = Path(".") / ".env"
 load_dotenv(dotenv_path=env_path)
 
 ### CONSTANTS & ERRORS ###
-with open('reference_data/fandom_aliases.json', 'r') as infile:
+with open('reference_info/fandom_aliases.json', 'r') as infile:
     FANDOM_NAMES = json.load(infile)
 
 class UnknownFandomException(Exception):
@@ -44,8 +44,6 @@ def get_clean_fandom_name(unclean_fandom_name) -> str:
         if unclean_fandom_name in FANDOM_NAMES[fandom]:
             return fandom
     
-    raise UnknownFandomException('{unclean_fandom_name} for a recognized fandom or fandom alias!')
-
 
 def add_category(fic_dict, df, ser_fic_type='fic') -> str:
     """
@@ -143,7 +141,7 @@ def make_cat_fic_dicts(cat_df, ser_fic_type='fic'):
 
 
 ### MAIN FUNCTIONS ###
-def clean_fandom_names(dtb, fandom_col_name, verbose=False, blank_okay=False) -> str:
+def clean_fandom_names(dtb, fandom_col_name, verbose=False, blank_okay=False, old=False) -> str:
     """
     * Main function * 
     Takes a database (DF) and name of the fandom column (str)
@@ -161,7 +159,10 @@ def clean_fandom_names(dtb, fandom_col_name, verbose=False, blank_okay=False) ->
             all_clean[ind] = ""
             continue        
 
-        fandom_list = fandom_str.replace("*", "").replace(" x ", ",").split(",")
+        if old:
+            fandom_list = fandom_str.replace("*", "").replace(" x ", ",").split(",")
+        else:
+            fandom_list = json.loads(fandom_str)
 
         # Get the clean fandom for each fandom in fic
         clean_fandoms = []
@@ -169,15 +170,23 @@ def clean_fandom_names(dtb, fandom_col_name, verbose=False, blank_okay=False) ->
             if old_fandom == "":
                 continue
             clean_fandom = get_clean_fandom_name(old_fandom)
-            clean_fandoms.append(clean_fandom)
+            if not clean_fandom:
+                raise UnknownFandomException(f'{old_fandom} for a recognized fandom or fandom alias!')
+            else:
+                clean_fandoms.append(clean_fandom)
     
         # Insert clean fandoms
-        dtb.at[ind, fandom_col_name] = ",".join(clean_fandoms)
+        print(clean_fandom)
+        clean_fandoms = list(set(clean_fandoms))
+        if old:
+            dtb.at[ind, fandom_col_name] = ",".join(clean_fandoms)
+        else:
+            dtb.at[ind, fandom_col_name] = json.dumps(clean_fandoms)
 
     return f"Fandoms all clean, {changed_count} changed!"
 
 
-def fandom_report(dtb, fic_col, verbose=False) -> int:
+def fandom_report(dtb, fic_col, verbose=False, old=False) -> int:
     """
     * Main function * 
     Takes a database (DF), name of the fandom column (str), and verbose 
@@ -202,9 +211,13 @@ def fandom_report(dtb, fic_col, verbose=False) -> int:
             continue
         
         # clean fandom string
-        fandom_list = fandom_str.replace('*','') \
+        if old:
+            fandom_list = fandom_str.replace('*','') \
                             .replace(' x ',',') \
                             .split(',')
+        else:
+            fandom_list = json.loads(fandom_str)
+
         
         # for each fandom in fic
         for old_fandom in fandom_list:
@@ -342,6 +355,13 @@ def get_my_bookmarks():
 
 
 if __name__ == '__main__':
-    bookmarks_list = get_my_bookmarks()
-    bookmarks_df = pd.DataFrame(bookmarks_list, columns=['series', 'works', 'users'])\
-        .to_csv('my_bookmarks.csv')
+    pass
+    # series_df = pd.read_csv('series_url_test.csv')
+    # fandom_report(series_df, 'fandom',True)
+    # res = clean_fandom_names(series_df, "fandom", verbose=True, blank_okay=False, old=False)
+    # print(res)
+    # series_df.to_csv('test1.csv')
+
+    # bookmarks_list = get_my_bookmarks()
+    # bookmarks_df = pd.DataFrame(bookmarks_list, columns=['series', 'works', 'users'])\
+    #     .to_csv('my_bookmarks.csv')
