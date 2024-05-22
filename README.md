@@ -19,4 +19,4 @@ A passion project focused mostly on analyzing my own reading habits & fanworks h
   - [deprecated] Version 9.2: Unorganized first attempt at data collection & processing
   - [CURRENT] Version 9.3: Organized data standaridization, formatting, merging, and collection; cleaning all old data
   - Version 9.4: Creating data intake system for new data streams
-- v10: Creating user interface, a website with a mongodb backend
+- v10: Creating user interface, a website with a mongodb backend 
